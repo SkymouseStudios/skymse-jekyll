@@ -1,0 +1,78 @@
+/* ............................................ */
+/* ...............PAGE: CONTACT ...............*/
+/* ............................................ */
+
+#page.contact {
+
+	section.parallax  {
+
+		position: relative;
+	    height: 500px;
+	    height: 90vh;
+	    -webkit-transform-style: preserve-3d;
+	    transform-style: preserve-3d;
+	    -webkit-transition: -webkit-transform 0.5s;
+    	transition: transform 0.5s;
+    	width: 100%;
+    	background-repeat: no-repeat;
+    	background-size: cover;
+    	background-position: left top;
+    	border-top: 20px solid $lblue;
+    	background-image: url(../images/map-01.svg);
+
+
+		aside {
+			z-index: 10;
+			width: 100%;
+			position: absolute;
+			top: 0;
+			left: 0;
+
+			
+			.content {
+	    		width: 35%;
+				z-index: 10;
+				margin-top: 5%;
+				margin-left: 7%;
+				background-color: $orange;
+				padding: 25px;
+
+				@media (max-width: 968px) {
+					width: 50%;
+				}
+
+				@media (max-width: 768px) {
+					width: 100%;
+				}
+	
+				h3 {
+					font-size: 3em;
+				}
+
+				p {
+					font-size:1.2em;
+				}
+
+				img.left-open-arrow {
+					width: 15px;
+					display: inline-block;
+					margin-right: 10px;
+				}
+
+				&.right {
+					text-align: right;
+					margin-right: 7%;
+					float: right;
+
+					img {
+						width: 15px;
+						display: inline-block;
+						margin-left: 10px;
+					}
+				}
+    		}
+    	}
+
+	}
+
+}
