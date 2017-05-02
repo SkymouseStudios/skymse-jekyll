@@ -39,102 +39,6 @@ Stylesheet: Typography
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-calendar:before {
-  content: "\e602";
-}
-
-.icon-phone:before {
-  content: "\e603";
-}
-
-.icon-monitor:before {
-  content: "\e604";
-}
-
-.icon-camera:before {
-  content: "\e605";
-}
-
-.icon-film:before {
-  content: "\e606";
-}
-
-.icon-microphone:before {
-  content: "\e607";
-}
-
-.icon-checkmark3:before {
-  content: "\e608";
-}
-
-.icon-cog:before {
-  content: "\e609";
-}
-
-.icon-pictures:before {
-  content: "\e60a";
-}
-
-.icon-time:before {
-  content: "\e60b";
-}
-
-.icon-checkmark2:before {
-  content: "\e615";
-}
-
-.icon-chart:before {
-  content: "\e60c";
-}
-
-.icon-location:before {
-  content: "\e60d";
-}
-
-.icon-lab:before {
-  content: "\e600";
-}
-
-.icon-mouse:before {
-  content: "\e60e";
-}
-
-.icon-medal:before {
-  content: "\e60f";
-}
-
-.icon-locked:before {
-  content: "\e610";
-}
-
-.icon-lamp2:before {
-  content: "\e613";
-}
-
-.icon-lamp:before {
-  content: "\e601";
-}
-
-.icon-diamond:before {
-  content: "\e611";
-}
-
-.icon-equalizer:before {
-  content: "\e614";
-}
-
-.icon-clipboard:before {
-  content: "\e612";
-}
-
-.icon-cart:before {
-  content: "\e93a";
-}
-
-.icon-bubble:before {
-  content: "\e96e";
-}
-
 .icon-search:before {
   content: "\e986";
 }
@@ -179,10 +83,6 @@ Stylesheet: Typography
   content: "\eaa1";
 }
 
-.icon-picassa:before {
-  content: "\eaa4";
-}
-
 .icon-dribbble:before {
   content: "\eaa6";
 }
@@ -207,18 +107,13 @@ Stylesheet: Typography
   content: "\ead0";
 }
 
+/* --- FONT STACK ---  */
 
-/*
-The following is based of Typebase:
-https://github.com/devinhunt/typebase.css
-I've edited it a bit, but it's a nice starting point.
-*/
-
-// font stacks
 $sans-serif:        "Rubik", Helvetica, Arial, sans-serif;
 $serif:             "Arvo", Cambria, Times New Roman, Times, serif;
 
 /* some nice typographical defaults */
+
 p {
   -ms-word-wrap: break-word;
   word-break: break-word; //non-standard css for webkit
@@ -235,13 +130,15 @@ p {
   -webkit-font-feature-settings: "liga", "dlig";
    -moz-font-feature-settings: "liga=1, dlig=1";
       -ms-font-feature-settings: "liga", "dlig";
-       -o-font-feature-settings: "liga", "dlig";
+       -o-font-fe--- ature-settings: "liga", "dlig";
           font-feature-settings: "liga", "dlig";
   color: white;
 }
 
+/* --- HEADER STYLING --- */
 
 h1 {
+  font-size: 3.53em;
   color: white;
   font-family: $sans-serif;
   font-weight: 800;
@@ -252,16 +149,11 @@ h1 {
 h2 {
   padding-bottom: 10px;
   border-bottom: 13px solid white;
-}
-
-h4 {
-  color: white;
-  font-family: $serif;
-  font-weight: 200;
-  font-size: 20px;
+  font-size: 1.8em;
 }
 
 h3 {
+  font-size: 2em;
   font-family: $sans-serif;
   color: white;
   font-weight: 800;
@@ -270,9 +162,12 @@ h3 {
   text-shadow: 4px 3px 0 $lblue, 9px 8px 0 rgba(0,0,0,0.15);
 }
 
-
-
-
+h4 {
+  color: white;
+  font-family: $serif;
+  font-weight: 200;
+  font-size: 20px;
+}
 
 
 

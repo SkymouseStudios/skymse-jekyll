@@ -1,13 +1,101 @@
-<?php 
-/*
- Template Name: Our Work
-*/
- ?>
+<!-- default.html -->
 
-<!-- Add parallax back in -->
-<!-- Add Javascript to allow for slide-over of each section (to show the portfolios) -->
+<!doctype html>
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 
-<?php get_header(); ?>
+	<head>
+		<meta charset="utf-8">	
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<title>Our Work</title>
+
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+		<meta name="description" content="Skymouse Studios helps you tell stories, design better, and develop a brand people love. From beautiful and speedy websites to slick motion graphics, we've gotcha covered.">
+		<meta property="og:title" content="Skymouse Studios" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://skymse.com" />
+		<meta property="og:image" content="/screenshot.png" />
+
+
+		<link rel="apple-touch-icon" href="/library/images/apple-touch-icon.png">
+		<link rel="icon" href="/favicon.png">
+		<!--[if IE]>
+			<link rel="shortcut icon" href="/favicon.ico">
+		<![endif]-->
+		<meta name="msapplication-TileColor" content="#f01d4f">
+		<meta name="msapplication-TileImage" content="/library/images/win8-tile-icon.png">
+            <meta name="theme-color" content="#121212">
+		
+		<script type="application/ld+json">
+			{
+			  "@context": "http://schema.org",
+			  "@type": "Organization",
+			  "name": "Skymouse Studios",
+			  "url": "http://SkymouseStudios.com",
+			  "email": "info@skymse.com"
+			  "founders": [ "John Welch", "Patrick Hanus" ],
+			  "foundingDate": "2016-05-20",
+			  "logo": "/library/images/skymse-logo-words-100.jpg",
+			  "sameAs": [
+			    "https://www.instagram.com/SkymouseStudios/",
+				"https://twitter.com/SkymouseStudios",
+				"https://soundcloud.com/skymousestudios",
+				"https://google.com/+SkymouseStudiosIndianapolis",
+				"https://www.linkedin.com/company/skymouse-studios-and-entertainment",
+				"https://www.facebook.com/Skymouse-Studios-1667422846889253",				
+				"https://www.youtube.com/channel/UCNaO9FKEx5GiagyapRpuehQ"
+			  ]
+			}
+		</script>
+
+		<link rel="stylesheet" href="/library/css/style.css">
+		<link rel="stylesheet" href="/library/css/ie.css">
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	</head>
+
+	<body itemscope itemtype="http://schema.org/WebPage">
+
+		<div id="container">
+  
+            <header class="header orange" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+                 
+                <div class="bg-image"></div>
+			
+				<div id="inner-header" class="wrap cf">
+
+					<a href="index.html" rel="nofollow">
+					<img alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg"></a>
+
+					<div id="menu-burger"><i class="icon-menu"></i></div>
+					<div id="searchicon">		
+					</div>
+
+					<nav id="menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<ul id="menu-main-menu" class="nav menu top-nav cf">
+							<li><a href="our-work.html">Our Work</a></li>
+							<li><a href="pricing.html">Pricing</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							<li><a href="blog.html">Blog</a></li>
+						</ul>
+					</nav>
+				</div> 
+
+				<div class="hero">
+     				<h1>Our Work</h1>
+                    <p></p>
+				</div>
+
+				<a title="Please Scroll Down" href="#promise" rel="nofollow"><img alt="Down Arrow" src="/library/images/down-arrow.svg"></a>
+
+			</header>
+
 
 	<div id="page" class="our-work">
 		
@@ -176,3 +264,59 @@
 	</div>
 
 <?php get_footer(); ?>
+
+			<!-- Convert the Nav to a wordpress nav-->
+			
+			<footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+
+				<div id="inner-footer" class="wrap cf">
+					
+					<a href="index.html" rel="nofollow">
+					<img class="footer-logo" alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg"></a>
+				
+					<nav class="footer">
+						<div class="social-media">
+							<ul>
+								<li><a href="https://bit.ly/skyBook" class="social-icon"> <i class="fa fa-facebook"></i>
+								</a></li>
+								<li><a href="https://bit.ly/skyGram" class="social-icon"> <i class="fa fa-instagram"></i>
+								</a></li>
+								<li><a href="https://bit.ly/skyTweets" class="social-icon"> <i class="fa fa-twitter"></i>
+								</a></li>
+								<li><a href="https://bit.ly/skyLinkedIn" class="social-icon"> <i class="fa fa-linkedin"></i>
+								</a></li>
+								<li><a href="https://bit.ly/skyGoogle" class="social-icon"> <i class="fa fa-google-plus"></i>
+								</a></li>
+							</ul>
+						</div>
+					</nav>
+
+					<div class="info">
+						<p class="source-org copyright">&copy; 2017&nbsp;Skymouse Studios, LLC</p>
+
+						<ul>
+							<li>
+								<a title="Privacy" href="/index.html/privacy">Privacy</a>
+							</li>
+							<li>
+								<a title="Help" href="/index.html/help">Help</a>
+							</li>
+						</ul>	
+					</div>
+
+				</div><!-- END Inner Footer -->
+ 
+			</footer><!-- END The footer -->
+
+		</div> <!-- END The container -->			
+		
+		<link rel="stylesheet" href="/library/js/libs/modernizr.custom.min.js">
+
+		<link rel="stylesheet" href="/library/js/scripts.js">
+		<link rel="stylesheet" href="/library/js/sliderScript.js">
+
+		<link rel="stylesheet" href="https://s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo:400,700">
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Rubik:500">
+	</body>
+</html> <!-- end of site. -->

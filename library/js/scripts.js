@@ -1,6 +1,6 @@
 /*
- * Bones Scripts File
- * Author: Eddie Machado
+ * Skymouse Scripts File
+ * Author: Patrick Hanus
  */
 
 function updateViewportDimensions() {
@@ -26,6 +26,6 @@ jQuery(document).ready(function() {
 }); 
 
 // Mobile Menu Animation
-jQuery('header div#inner-header #menu-burger').on('click', function() {
-    jQuery('header div#inner-header nav#menu').toggleClass('menu-shown');
+jQuery('#menu-burger').on('click', function() {
+    jQuery('#menu').toggleClass('menu-shown');
 });
