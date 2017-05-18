@@ -1,6 +1,6 @@
 /*
- * Bones Scripts File
- * Author: Eddie Machado
+ * Skymouse Scripts File
+ * Author: Patrick Hanus
  */
 
 function updateViewportDimensions() {
@@ -10,22 +10,13 @@ function updateViewportDimensions() {
 // setting the viewport width
 var viewport = updateViewportDimensions();
 
-function loadGravatars() {
-  // set the viewport using the function above
-  viewport = updateViewportDimensions();
-  // if the viewport is tablet or larger, we load in the gravatars
-  if (viewport.width >= 768) {
-  jQuery('.comment img[data-gravatar]').each(function(){
-    jQuery(this).attr('src',jQuery(this).attr('data-gravatar'));
-  });
-	}
-} // end function
-
-jQuery(document).ready(function() {
-  loadGravatars();
-}); 
-
-// Mobile Menu Animation
-jQuery('header div#inner-header #menu-burger').on('click', function() {
-    jQuery('header div#inner-header nav#menu').toggleClass('menu-shown');
+// Mobile Menu Slider Function
+function mobileMenu() {
+  jQuery('#menu-burger').on('click', function() {
+    jQuery('#menu').toggleClass('menu-shown');
 });
+
+}
+jQuery(document).ready(function() {
+  mobileMenu();
+}); 

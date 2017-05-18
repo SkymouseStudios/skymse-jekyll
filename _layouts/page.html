@@ -1,0 +1,44 @@
+<!-- default.html -->
+
+{% include header.html %}
+
+<header class="header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+             
+    <div class="bg-image"></div>
+
+	<div id="inner-header" class="wrap cf">
+
+		<a href="index.html" rel="nofollow">
+		<img alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg"></a>
+
+		<div id="menu-burger">
+			<i class="icon-menu"></i>
+		</div>
+		
+		<div id="searchicon">		
+		</div>
+
+		<nav id="menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+			<ul id="menu-main-menu" class="nav menu top-nav cf">
+          		{% for link in site.links %}
+		            <li>
+		              <a class="nav-button" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+		            </li>
+          		{% endfor %}
+        	</ul>
+		</nav>
+
+	</div> 
+	
+	<div class="pad">
+		<div class="hero d-1of2 t-all m-all">
+			<h1>{{ page.title }}</h1>
+            <p class="h2">{{ page.subtitle }}</p>
+		</div>
+	</div>
+
+</header>
+
+{{ content }}
+
+{% include footer.html %}

@@ -1,0 +1,77 @@
+# Site settings
+title: Skymouse Studios - Transparent. Responsive. Webdesign
+description: A web design studio that helps you build a website you love. No nonsense.
+baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
+url:
+cover: "/assets/cover.png"
+logo: "/assets/logo.png"
+
+# User settings
+username: Patrick Hanus
+user_title: Patrick Hanus | Creative Director
+email: patrick@skymse.com
+twitter_username: "@thehsedition"
+github_username:  "@thehsedition"
+gplus_username:  "@thehsedition"
+disqus_username: "@thehsedition"
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# sass/css minify
+sass:
+  style: compressed
+
+# Links to include in menu navigation
+links:
+  - title: About
+    url: /about
+  - title: Blog
+    url: /blog
+  - title: Pricing
+    url: /pricing
+  - title: Contact
+    url: /contact
+  - title: Social
+    url: /social
+
+# projects in header index
+projects:
+  - name: Skymouse Studios
+    url: https://github.com/victorvoid/asciilang
+  - name: RESOURCE Commercial Real Estate
+    url: https://github.com/victorvoid/vim-frontend
+  - name: 
+    url: https://github.com/victorvoid/generator-capybara 
+
+# Links to Social Media
+social: 
+  - name: Spotify
+    url: http://bit.ly/ph-spotify
+  - name: Instagram
+    url: http://bit.ly/ph-insta
+  - name: Vimeo
+    url: http://bit.ly/ph-vimeo
+  - name: LinkedIn
+    url: http://bit.ly/ph-LinkedIn
+  - name: Dribbble
+    url: http://bit.ly/ph-dribbble
+  - name: YouTube
+    url: http://bit.ly/ph-youtube
+  - name: GitHub
+    url: http://bit.ly/ph-github
+  - name: Twitter
+    url: http://bit.ly/ph-twitter
+
+# Descriptions for Blog Categories
+descriptions:
+  - cat: Website
+    desc: "Things that make life better."
+
+  - cat: Brand
+    desc: "Developing a better me"
+

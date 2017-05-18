@@ -1,27 +1,5 @@
-/******************************************************************
-Site Name:
-Author:
-
+/************************
 Stylesheet: Button Styles
-
-Buttons are a pretty important part of your site's style, so it's
-important to have a consistent baseline for them. Use this stylesheet
-to create all kinds of buttons.
-
-Helpful Links:
-http://galp.in/blog/2011/08/02/the-ui-guide-part-1-buttons/
-
-******************************************************************/
-
-/*********************
-BUTTON DEFAULTS
-We're gonna use a placeholder selector here
-so we can use common styles. We then use this
-to load up the defaults in all our buttons.
-
-Here's a quick video to show how it works:
-http://www.youtube.com/watch?v=hwdVpKiJzac
-
 *********************/
 
 %btn {
@@ -37,7 +15,6 @@ http://www.youtube.com/watch?v=hwdVpKiJzac
   border-radius: 10px;
   cursor: pointer;
   background-color: transparent;
-  @include transition(background-color 0.14s ease-in-out);
 
   // hovering on the btn
   &:hover, &:focus {
@@ -53,12 +30,6 @@ http://www.youtube.com/watch?v=hwdVpKiJzac
   } // end active
 
 } // end .button
-
-/*
-An example button.
-You can use this example if you want. Just replace all the variables
-and it will create a button dependant on those variables.
-*/
 
 .blue-btn {
   @extend %btn; // here we load the btn defaults
@@ -81,11 +52,6 @@ and it will create a button dependant on those variables.
 %opacity {
 
   transition: .8s ease;
-  
-  &:hover {
-    background-size: 115%;
-    transition: .8s ease;
-  }
 
   div.overlay {    
     background:rgba(0,0,0,.10);
@@ -125,8 +91,6 @@ and it will create a button dependant on those variables.
 
 }
 
-
-
 .blue-btn-2 {
   @extend %btn; // here we load the btn defaults
   padding: 5px 0;
@@ -153,6 +117,7 @@ and it will create a button dependant on those variables.
   font-family: $sans-serif;
   font-weight: 600;
   text-decoration: underline;
+  box-shadow: 1px 5px 10px rgba(5,5,5,.2);
 
   &:hover {
     color: white;
@@ -183,5 +148,23 @@ and it will create a button dependant on those variables.
 }
 
 
+.action-btn {
+  padding: 10px;
+  color: darken(white, 5%);
+  background-color: #cfcfcf;
+  box-shadow: 1px 5px 10px rgba(5,5,5,.2);
+  transition: 0.25s;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 5px;
+  border: 3px solid white;
+
+  &:hover {
+    box-shadow: 1px 10px 10px rgba(5,5,5,.2);
+    transition: 0.25s;
+    color: white;
+  }
+}
 
 

@@ -15,9 +15,9 @@ and will be used across all viewports.
 GENERAL STYLES
 *********************/
 html {
-	    overflow-x: hidden;
-	    
+	overflow-x: hidden;    
 }
+
 body {
 	font-family: $serif;
 	font-size: 100%;
@@ -72,44 +72,11 @@ H1, H2, H3, H4, H5 STYLES
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	text-rendering: optimizelegibility;
 	font-weight: 500;
-	/*
-	if you're going to use webfonts, be sure to check your weights
-	http://css-tricks.com/watch-your-font-weight/
-	*/
 
 	/* removing text decoration from all headline links */
 	a {
 		text-decoration: none;
 	}
-}
-
-h1, .h1 {
-	font-size: 2.2em;
-	line-height: 1em;
-}
-
-h2, .h2 {
-	font-size: 1.5em;
-	line-height: 1.2em;
-	margin-bottom: 0.375em;
-}
-
-h3, .h3 {
-	font-size: 1.2em;
-	text-transform: uppercase;
-	font-weight: 800;
-}
-
-h4, .h4 {
-	font-size: 1.5em;
-	font-weight: 700;
-}
-
-h5, .h5 {
-	font-size: 0.846em;
-	line-height: 2.09em;
-	text-transform: uppercase;
-	letter-spacing: 2px;
 }
 
 /*********************
@@ -120,25 +87,17 @@ HEADER STYLES
 	background-color: $black;
 }
 
-	#logo {
-		margin: 0.75em 0;
+#logo {
+	margin: 0.75em 0;
 
-		a {
-			color: $white;
-		}
+	a {
+		color: $white;
 	}
+}
 
 /*********************
 NAVIGATION STYLES
 *********************/
-
-/*
-all navs have a .nav class applied via
-the wp_menu function; this is so we can
-easily write one group of styles for
-the navs on the site so our css is cleaner
-and more scalable.
-*/
 
 .nav {
 	border-bottom: 0;
@@ -152,12 +111,6 @@ and more scalable.
 			text-decoration: none;
 			padding: 0.75em;
 
-			/*
-			remember this is for mobile ONLY, so there's no need
-			to even declare hover styles here, you can do it in
-			the style.scss file where it's relevant. We want to
-			keep this file as small as possible!
-			*/
 			&:hover, &:focus {
 
 			}
@@ -167,13 +120,6 @@ and more scalable.
 
 		&:last-child {}
 
-		/*
-		so you really have to rethink your dropdowns for mobile.
-		you don't want to have it expand too much because the
-		screen is so small. How you manage your menu should
-		depend on the project. Here's some great info on it:
-		http://www.alistapart.com/articles/organizing-mobile/
-		*/
 		ul.sub-menu,
 		ul.children {
 
@@ -213,7 +159,7 @@ and more scalable.
 
 // THE MOBILE/JAVASCRIPT MENU... IT NEEDS LOVE, BEFORE IT CAN BE USED.
 
-header.header div#inner-header {
+#inner-header {
 
  	nav {
 
@@ -256,57 +202,23 @@ header.header div#inner-header {
 	        -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
 	        transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
 	    }
-
-	}
-
-	#menu-burger {
-		display: block;
-	    float: right;
-	    position: relative;
-	    z-index: 202;
-	    color: #FFF;
-	    vertical-align: middle;
-	    cursor: pointer;
-	    margin: 5px 10px;
-
-	    i {
-        	font-size: 1.5em;
-    	}
-	}
-
-	#searchicon {
-	    float: right;
-	    position: relative;
-	    z-index: 202;
-	    text-align: center;
-	    margin: 5px 10px;
-    	
-    	i {
-		    display: inline-block;
-		    font-size: 1em;
-		    color: #FFF;
-		    position: relative;
-		    cursor: pointer;
-		    z-index: 9;
-		    vertical-align: middle;
-		    text-align: center;
-		    font-weight: 800;
-		}
-
-		form#searchbar {
-		    position: absolute;
-		    width: 0;
-		    right: 0;
-		    bottom: -1em;
-		    opacity: 0;
-
-		    #searchbar-submit {
-    			visibility: hidden;
-			}
-		}
 	}
 }
 
+#menu-burger {
+	display: block;
+    float: right;
+    position: relative;
+    z-index: 202;
+    color: #FFF;
+    vertical-align: middle;
+    cursor: pointer;
+    margin: 5px 10px;
+
+    i {
+    	font-size: 1.5em;
+	}
+}
     
 /*********************
 POSTS & CONTENT STYLES
@@ -321,30 +233,32 @@ POSTS & CONTENT STYLES
     width: 100%;
     background-color: white;
 }
-		main {
-			margin: 0 auto;
-			float: none;
-			width: 75%;
+		
+main {
+	margin: 0 auto;
+	float: none;
+	width: 75%;
+}
+
+.hentry {
+	background-color: $white;
+	border-radius: 3px;
+	margin-bottom: 1.5em;
+
+	header {
+		border-bottom: 1px solid $light-gray;
+		padding: 1.5em;
+	}
+
+	footer {
+		padding: 1.5em;
+		border-top: 1px solid $light-gray;
+
+		p {
+			margin: 0;
 		}
-
-		.hentry {
-			background-color: $white;
-			border-radius: 3px;
-			margin-bottom: 1.5em;
-
-			header {
-				border-bottom: 1px solid $light-gray;
-				padding: 1.5em;
-			}
-
-			footer {
-				padding: 1.5em;
-				border-top: 1px solid $light-gray;
-
-				p {
-					margin: 0;
-				}
-			}
+	}
+}
 
 /*********************
 FOOTER STYLES
@@ -353,13 +267,3 @@ FOOTER STYLES
 footer {
 	display: none;
 }
-
-.footer-links {
-
-	ul {
-
-		li {}
-
-	}
-	
-.copyright {}

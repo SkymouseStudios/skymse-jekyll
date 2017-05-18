@@ -29,59 +29,18 @@
 		    color: white;
 		}
 
-		aside {
-			width: 50%;
-			@media (max-width: 768px) {
-    				width: 100%;
-    			}
-		}
-
-    	&.profile {
-
-    		// height: 500px;
-
-		 	aside {
-		 		height: 100%;
-		 		
-
-		 		@media (max-width: 768px) {
-    				width: 100%;
-    				float: none;
-    			}
-		 	
-			 	.content {
-			 		padding: 40px 30px;
-			 		color: $gray;
-			 		width: 100%;
-			 		height: 100%;
-
-
-			 	}
-
-				.profile-pic {
-					width: 100%;
-					height: 500px;
-			 		background-position: top center;
-			 		background-repeat: no-repeat;
-			 		background-size: cover;
-				}
-			}
-    	}
-
 		.content {
 			margin-top: 50px;
-			padding: 5%;
 
 			@media (max-width: 768px) {
     				margin: 10px;
     				font-size: 1em;
-    				padding: 2%;
     			}
 		}
 
 		&.past {
 			background-color: $orange;
-			background-image: url(../images/past-picture.png);
+			background-image: url(/library/images/past-picture.png);
 		 	background-position: center right;
 		 	background-repeat: no-repeat;
 		 	background-size: contain;
@@ -92,8 +51,7 @@
 		}
 
 		&.present {
-			@include css-gradient(#70C1DB,#5c9ead);
-			background-image: url(../images/skymse-logo.svg);
+			background-image: url(/library/images/skymse-logo.svg);
 		 	background-position: center left;
 		 	background-repeat: no-repeat;
 		 	background-size: 40%;
@@ -105,7 +63,7 @@
 
 		&.future {
 			background-color: $gray;
-			background-image: url(../images/future-bg.png);
+			background-image: url(/library/images/future-bg.png);
 		 	background-position: center right;
 		 	background-repeat: no-repeat;
 		 	background-size: contain;

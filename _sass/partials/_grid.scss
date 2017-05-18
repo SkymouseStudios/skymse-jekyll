@@ -6,7 +6,6 @@ Stylesheet: Grid Stylesheet
 @mixin grid-col {
   float: left;
   padding-right: 0.75em;
-
 }
 
 // the last column
@@ -15,12 +14,11 @@ Stylesheet: Grid Stylesheet
   padding-right: 0 !important;
 }
 
-/*
-Mobile Grid Styles
-These are the widths for the mobile grid.
-There are four types, but you can add or customize
-them however you see fit.
-*/
+.pad {
+  margin-left: 8.33%;
+  margin-right: 8.33%;
+}
+
 @media (max-width: 767px) {
 
   .m-all {
