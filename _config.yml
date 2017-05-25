@@ -30,6 +30,8 @@ sass:
 links:
   - title: About
     url: /about
+  - title: Our Work
+    url: /work
   - title: Blog
     url: /blog
   - title: Pricing
