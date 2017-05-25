@@ -20,7 +20,8 @@
 		<meta property="og:url" content="http://skymse.com" />
 		<meta property="og:image" content="/screenshot.png" />
 
-
+		<link rel="stylesheet" href="/library/js/libs/min/modernizr.custom.min.js">
+		<link rel="stylesheet" href="https://s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js">
 		<link rel="apple-touch-icon" href="/library/images/apple-touch-icon.png">
 		<link rel="icon" href="/favicon.png">
 		<!--[if IE]>
@@ -88,6 +89,10 @@
 			            </li>
 	          		
 			            <li>
+			              <a class="nav-button" href="http://localhost:4000/work">Our Work</a>
+			            </li>
+	          		
+			            <li>
 			              <a class="nav-button" href="http://localhost:4000/blog">Blog</a>
 			            </li>
 	          		
@@ -112,6 +117,9 @@
  				<h1>Skymouse Studios</h1>
                 <p class="h2">A web design studio that helps you build a website you love. No nonsense.</p>
                 <a href="#" class="action-btn">Build it Better.</a>
+			</div>
+			<div id="website-graphic" class="d-1of2 t-all m-all">
+				<img src="library/images/webpage-graphics.svg" alt="">
 			</div>
 		</div>
 
@@ -232,21 +240,27 @@
 
 				<aside class="d-1of2 t-4of5 m-all">
 					
-<div>
-  <form action="" method="post">
-    <label for="name">What's Your Name?<br>
-      <input type="text" name="message_name" value="">
-    </label>
+<div id="respond">
+  <?php echo $response; ?>
+  <form action="library/contact.php" method="post">
 
-    <label for="message_email">Email:<br>
-      <input type="text" name="message_email" value="">
-    </label>
+  <label for="name">What's Your Name? <span>*</span> <br>
+    <input type="text" name="message_name" value="<?php echo esc_attr($_POST['message_name']); ?>">
+  </label>
+   
+  <label for="message_email">Email: <span>*</span> <br>
+    <input type="text" name="message_email" value="<?php echo esc_attr($_POST['message_email']); ?>">
+  </label>
 
-    <label for="message_text">What do you want to do?<br>
-      <textarea type="text" name="message_text">
-    </textarea></label>
+  <label for="name">Link to your current website: <span>*</span> <br>
+    <input type="text" name="website_url" value="<?php echo esc_attr($_POST['website_url']); ?>">
+  </label>
+
+  <label for="message_text">What do you want to do? <span>*</span> <br>
+    <textarea type="text" name="message_text"><?php echo esc_textarea($_POST['message_text']); ?>
+  </textarea></label>
     
-    <label for="message_human">Human Verification:<br>
+    <label for="message_human">Human Verification: <span>*</span> <br>
     <input type="text" style="width: 60px;" name="message_human"> + 3 = 5</label>
 
     <input type="hidden" name="submitted" value="1">
@@ -259,7 +273,6 @@
 
 
 
-
 				</aside>
 			</section>
 		</div>
@@ -268,10 +281,11 @@
 			
 			<footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
 
-				<div id="inner-footer" class="wrap cf">
+				<div id="inner-footer" class="pad cf">
 					
 					<a href="index.html" rel="nofollow">
-					<img class="footer-logo" alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg"></a>
+						<img class="footer-logo" alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg">
+					</a>
 				
 					<nav class="footer">
 						<div class="social-media">
@@ -295,10 +309,10 @@
 
 						<ul>
 							<li>
-								<a title="Privacy" href="/index.html/privacy">Privacy</a>
+								<a title="Privacy" href="/privacy">Privacy</a>
 							</li>
 							<li>
-								<a title="Help" href="/index.html/help">Help</a>
+								<a title="Help" href="/help">Help</a>
 							</li>
 						</ul>	
 					</div>
@@ -309,9 +323,8 @@
 
 		</div> <!-- END The container -->			
 		
-		<link rel="stylesheet" href="/library/js/libs/min/modernizr.custom.min.js">
+		
 		<script src="/library/js/min/scripts-min.js"></script>
-		<link rel="stylesheet" href="https://s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js">
 		
 	</body>
 </html> <!-- end of site. -->
