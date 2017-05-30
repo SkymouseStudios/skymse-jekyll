@@ -8,7 +8,7 @@
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>About</title>
+		<title>Contact</title>
 
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
@@ -114,8 +114,8 @@
 	</div> 
 	
 	<div class="pad">
-		<div class="hero d-1of2 t-all m-all">
-			<h1>About</h1>
+		<div class="hero d-2of3 t-all m-all">
+			<h1>Contact</h1>
             <p class="h2">Let's build a website you love</p>
 		</div>
 	</div>
@@ -133,51 +133,59 @@
 		</aside>
 	</section>
 
-	<section id="proposal" class="cf">
-		<aside>
-			<p>If you have a project you’d like to talk about or want to get some ideas about how we can help you, 
-			fill out this fun little form and we will get back to you as soon as we can!</p>
-			<img alt="Ready For lift-off!" src="/library/images/blastoff-rocket.png">
-		</aside>
+	<section class="cf dblue">
+  <div class="cf pad">
 
-        <aside>
-        	
-<div id="respond">
-  <?php echo $response; ?>
-  <form action="library/contact.php" method="post">
+    <aside class="d-1of2 t-all m-all">
+      <h3>Got a project?</h3>
+      <p>We can help. Fill out this quick form. It’s like ad-libs but it actually gets you places.</p>
+      <img alt="Ready For lift-off!" src="/library/images/blastoff-rocket.png">
+    </aside>
 
-  <label for="name">What's Your Name? <span>*</span> <br>
-    <input type="text" name="message_name" value="<?php echo esc_attr($_POST['message_name']); ?>">
-  </label>
-   
-  <label for="message_email">Email: <span>*</span> <br>
-    <input type="text" name="message_email" value="<?php echo esc_attr($_POST['message_email']); ?>">
-  </label>
+    <aside class="d-1of2 t-4of5 m-all">
+      <div id="respond">
+        <?php echo $response; ?>
+        <form action="library/contact.php" method="post">
 
-  <label for="name">Link to your current website: <span>*</span> <br>
-    <input type="text" name="website_url" value="<?php echo esc_attr($_POST['website_url']); ?>">
-  </label>
+          <label for="name">What's Your Name? <span>*</span> <br>
+            <input type="text" name="message_name" value="<?php echo esc_attr($_POST['message_name']); ?>">
+          </label>
+           
+          <label for="message_email">Email: <span>*</span> <br>
+            <input type="text" name="message_email" value="<?php echo esc_attr($_POST['message_email']); ?>">
+          </label>
 
-  <label for="message_text">What do you want to do? <span>*</span> <br>
-    <textarea type="text" name="message_text"><?php echo esc_textarea($_POST['message_text']); ?>
-  </textarea></label>
-    
-    <label for="message_human">Human Verification: <span>*</span> <br>
-    <input type="text" style="width: 60px;" name="message_human"> + 3 = 5</label>
+          <label for="name">Link to your current website: <span>*</span> <br>
+            <input type="text" name="website_url" value="<?php echo esc_attr($_POST['website_url']); ?>">
+          </label>
 
-    <input type="hidden" name="submitted" value="1">
+          <label for="message_text">What do you want to do? <span>*</span> <br>
+            <textarea type="text" name="message_text"><?php echo esc_textarea($_POST['message_text']); ?>
+          </textarea></label>
+            
+            <label for="message_human">Human Verification: <span>*</span> <br>
+            <input type="text" style="width: 60px;" name="message_human"> + 3 = 5</label>
 
-   <input class="action-btn d-all" type="submit" value="Send!">
+            <input type="hidden" name="submitted" value="1">
 
-  </form>
+          <input class="action-btn d-all" type="submit" value="Send!">
+        </form>
+      </div><!-- end respond -->
+    </aside><!-- end aside with form -->
+
+  </div><!-- end section padding -->
+</section>
+
+
+
+
+
+
+
+
 </div>
 
 
-
-
-        </aside>
-	</section>
-</div>
 
 			<!-- Convert the Nav to a wordpress nav-->
 			
@@ -185,38 +193,31 @@
 
 				<div id="inner-footer" class="pad cf">
 					
+					<div class="footer-links left">
+						<p class="copyright">&copy; 2017&nbsp;Skymouse Studios, LLC</p>
+						<ul>
+							<li><a class="footer-btn" title="Privacy" href="/privacy">Privacy</a></li>
+							<li><a class="footer-btn" title="Help" href="/help">Help</a></li>
+						</ul>	
+					</div>
+
 					<a href="index.html" rel="nofollow">
 						<img class="footer-logo" alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg">
 					</a>
 				
-					<nav class="footer">
-						<div class="social-media">
-							<ul>
-								<li><a href="https://bit.ly/skyBook" class="social-icon"> <i class="fa fa-facebook"></i>
-								</a></li>
-								<li><a href="https://bit.ly/skyGram" class="social-icon"> <i class="fa fa-instagram"></i>
-								</a></li>
-								<li><a href="https://bit.ly/skyTweets" class="social-icon"> <i class="fa fa-twitter"></i>
-								</a></li>
-								<li><a href="https://bit.ly/skyLinkedIn" class="social-icon"> <i class="fa fa-linkedin"></i>
-								</a></li>
-								<li><a href="https://bit.ly/skyGoogle" class="social-icon"> <i class="fa fa-google-plus"></i>
-								</a></li>
-							</ul>
-						</div>
-					</nav>
-
-					<div class="info">
-						<p class="source-org copyright">&copy; 2017&nbsp;Skymouse Studios, LLC</p>
-
+					<div class="footer-links right">
 						<ul>
-							<li>
-								<a title="Privacy" href="/privacy">Privacy</a>
-							</li>
-							<li>
-								<a title="Help" href="/help">Help</a>
-							</li>
-						</ul>	
+							<li><a href="https://bit.ly/skyBook" class="social-btn"> <i class="fa fa-facebook"></i>
+							</a></li>
+							<li><a href="https://bit.ly/skyGram" class="social-btn"> <i class="fa fa-instagram"></i>
+							</a></li>
+							<li><a href="https://bit.ly/skyTweets" class="social-btn"> <i class="fa fa-twitter"></i>
+							</a></li>
+							<li><a href="https://bit.ly/skyLinkedIn" class="social-btn"> <i class="fa fa-linkedin"></i>
+							</a></li>
+							<li><a href="https://bit.ly/skyGoogle" class="social-btn"> <i class="fa fa-google-plus"></i>
+							</a></li>
+						</ul>
 					</div>
 
 				</div><!-- END Inner Footer -->
