@@ -150,7 +150,7 @@ section {
 		z-index: 0;
 	}
 
-// ............... Universal Header ..................
+// ............... Helper Classes ..................
 
 .lblue {
 	background-color: $lblue;
@@ -171,6 +171,20 @@ section {
 .cheese {
 	background-color: $cheese;
 }
+
+.right {
+			float: right;
+		}
+
+.left {
+	float: left;
+}
+
+.kill-margin {
+	margin: 0;
+}
+
+// ............... Universal Header ..................
 
 .header {
 	-webkit-transform-style: preserve-3d;
@@ -605,9 +619,6 @@ PAGE SPECIFIC STYLING
 
 //Styling for a single blog post
 @import "partials/pages/about";
-
-//Styling for a the "our-work" page
-@import "partials/pages/our-work";
 
 //Styling for a the "contact" page
 @import "partials/pages/contact";

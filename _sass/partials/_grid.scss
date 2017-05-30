@@ -19,6 +19,17 @@ Stylesheet: Grid Stylesheet
   margin-right: 8.33%;
 }
 
+.pad-top {
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+.d-1of3-pad {
+  @include grid-col;
+  width: 30%;
+  margin-right: 3.33%;
+}
+
 @media (max-width: 767px) {
 
   .m-all {
@@ -226,3 +237,9 @@ Stylesheet: Grid Stylesheet
   }
 
 } // end desktop styles
+
+.center-margin {
+  margin: 0 auto;
+  clear: both;
+  float: none;
+}
