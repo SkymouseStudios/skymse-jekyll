@@ -34,12 +34,12 @@ subtitle: A web design studio that helps you build a website you love. No nonsen
 		</div> 
 		
 		<div class="pad">
-			<div class="hero d-1of2 t-all m-all">
+			<div class="hero d-2of3 t-all m-all">
  				<h1>{{ page.title }}</h1>
                 <p class="h2">{{ page.subtitle }}</p>
                 <a href="#" class="action-btn">Build it Better.</a>
 			</div>
-			<div id="website-graphic" class="d-1of2 t-all m-all">
+			<div id="website-graphic" class="d-1of3 t-all m-all">
 				<img src="library/images/webpage-graphics.svg" alt="">
 			</div>
 		</div>
@@ -151,16 +151,6 @@ subtitle: A web design studio that helps you build a website you love. No nonsen
 				</div>
 			</section>
 
-			<section id="proposal" class="cf">
-				
-				<aside class="d-1of2 t-all m-all">
-					<h3>Got a project?</h3>
-					<p>We can help. Fill out this quick form. It’s like ad-libs but it actually gets you places.</p>
-					<img alt="Ready For lift-off!" src="/library/images/blastoff-rocket.png">
-				</aside>
+			{% include contact.html %}
 
-				<aside class="d-1of2 t-4of5 m-all">
-					{% include contact.html %}
-				</aside>
-			</section>
 		</div>
