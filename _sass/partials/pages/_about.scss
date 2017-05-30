@@ -3,7 +3,7 @@
 /* ............................................ */
 
 
-#page.about {
+#page {
 
 	section {
 		position: relative;
@@ -20,65 +20,43 @@
     		height: auto;
     	}
 
-
-		ul {
-		    color: white;
+		aside.img {
+			padding-left: 20px;
 		}
-
-		.content {
-			margin-top: 50px;
-
-			@media (max-width: 768px) {
-    				margin: 10px;
-    				font-size: 1em;
-    			}
-		}
-
-		&.past {
-			background-color: $orange;
-			background-image: url(/library/images/past-picture.png);
-		 	background-position: center right;
-		 	background-repeat: no-repeat;
-		 	background-size: contain;
-
-		 	@media (max-width: 768px) {
-    				background-image: url();
-    			}
-		}
-
-		&.present {
-			background-image: url(/library/images/skymse-logo.svg);
-		 	background-position: center left;
-		 	background-repeat: no-repeat;
-		 	background-size: 40%;
-
-		 	@media (max-width: 768px) {
-    				background-image: url();
-    			}
-		}
-
-		&.future {
-			background-color: $gray;
-			background-image: url(/library/images/future-bg.png);
-		 	background-position: center right;
-		 	background-repeat: no-repeat;
-		 	background-size: contain;
-
-		 	@media (max-width: 768px) {
-    				background-image: url();
-    			}
-		}
-
-		.right {
-			float: right;
-		}
-
-		.left {
-			float: left;
-		}
-	}
-
-	.bio {
-		padding: 20px;
 	}
 }
+
+// Image that show's the client's site
+.client-site {
+	margin-top: 100px;
+}
+
+.info-box {
+	padding: 20px;
+	border-radius: 5px;
+	margin-top: 10px;
+	background-color: rgba(190,190,190,.5);
+	box-shadow: 6px 6px 10px 2px rgba(3,3,3,.1);
+
+	::hover {
+		box-shadow: 7px 7px 20px 5px rgba(3,3,3,.1);
+	}
+}
+
+aside {
+	position: relative;
+}
+
+.service-img {
+		position: absolute;
+	    top: 150px;
+
+	    &._left {
+	    	left: 0px;
+	    }
+
+	    &._right {
+	    	right: 0px;
+	    }
+	}
+
