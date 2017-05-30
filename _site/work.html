@@ -8,7 +8,7 @@
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>About the Team</title>
+		<title>The Work We've Done</title>
 
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
@@ -114,64 +114,124 @@
 	</div> 
 	
 	<div class="pad">
-		<div class="hero d-1of2 t-all m-all">
-			<h1>About the Team</h1>
-            <p class="h2">We love you.</p>
+		<div class="hero d-2of3 t-all m-all">
+			<h1>The Work We've Done</h1>
+            <p class="h2">Nothing is more exciting than a challenge.</p>
 		</div>
 	</div>
 
 </header>
 
-	<div id="page" class="about">
+	<div id="page">
 
 		<section class="cf lblue">
 			<div class="pad">
-				<div class="content">
+				<div class="content d-2of3">
 					<h3>What Does Skymouse Do?</h3>
-					<p>We are a web design copmany based out of Indianapolis, but working around the entire United States of America. We love to travel and explore the unknown, so we never limit ourselves to one location.</p>
-					<p>We were born on the principals of keeping in tounch
-					</p>
+					<p>Skymouse Studios a web design company based out of Indianapolis, working to bring life back into websites. We love to travel and explore the unknown, so we never limit ourselves to one location.</p>
+					<p>We were born on the principals of keeping in touch with our clients, providing exceptional service and getting down to the nitty-gritty when a site needs to be made.</p>
+					<p>Here's a look at some of ou</p>
 				</div>
 			</div>
 		</section>
 		
 		<!-- THE PAST -->
-		<section class="past cf">
+		<section class="cf orange">
 			<div class="pad">
 				<aside class="d-1of2 left">
 					<div class="content">
 						<h3>Welch Title and Abstract</h3>
-						<p>Everyone and their mother can use photoshop. Anyone can slap a Wordpress template up in the internet. There are too many “companies” that make money off mediocrity.  It’s our goal to change all that.
+						<p>Welch title wanted a fresh new look that captured the experience and dedication that has led them to be providing superioir title services to the Indiana region and beyond for the past 30 years. We met with Nick Welch, the President and Founder to develop a site that he could be proud of.
 						</p>
 					</div>
+				</aside>
+				<aside class="d-1of2 right">
+					<img class="client-site d-2of3 right" src="library/images/our-work/client-site-wat.png" alt="The New Barbarian">
 				</aside>
 			</div>
 		</section>
 
 		<!-- THE PRESENT -->
-		<section class="present dblue cf">
+		<section class="dblue cf">
 			<div class="pad">
 			<aside class="d-1of2 right">
 				<div class="content">
 					<h3>The New Barbarian</h3>
-					<p>Every project is different and has new, exciting challenges. We love what we do and we try to share it with anyone who will listen. Check out some of our past projects here. You can also follow the action (almost) live on one of our social media accounts.</p>
-					
+					<p>Robert Storey needed a platform to launch his new lifestyle brand for men. We worked on creating marketing materials and a site that captured the raw flavor of his brand while driving site visitors to download his new workout product.</p>
 				</div>
+			</aside>
+			<aside class="d-1of2">
+				<img class="client-site d-2of3" src="library/images/our-work/client-site-tnb.png" alt="The New Barbarian">
 			</aside>
 			</div>
 		</section>
 			
 		<!-- THE FUTURE -->
-		<section class="parallax future cf">
-		<div class="pad">
-			<aside class="left d-1of2">
-				<div class="content">
-					<h3>St. Martin's Catholic Church</h3>
-					<p>We want to do great things. We have so many ideas and dreams, some crazy, others not to far off into the future. For us, Skymouse isn’t just where we work–it’s a lifestyle. We are craftsman and as long as we are crafting something, we are happy. We love entertainment and are always trying to find new ways to keep people entertained, including ourselves. No matter what, family comes first and we are just trying to make our way through the universe to provide the best we have to offer. We want to be proud of what we do. Our wives demand it.</p>
-				</div>
-			</aside>
+		<section class="parallax cf lblue">
+			<div class="pad">
+				<aside class="left d-1of2">
+					<div class="content">
+						<h3>St. Martin's Catholic Church</h3>
+						<p>St. Martin's had been suffering with a confusing website that failed to capture the essence of the parish and the events that were often taking place. We met with the pastor and put together a site that was easy to navigate and featured professional photos from around the church campus.</p>
+					</div>
+				</aside>
+				<aside class="d-1of2">
+					<img class="client-site d-2of3 right" src="library/images/our-work/client-site-tnb.png" alt="The New Barbarian">
+				</aside>
 			</div>
 		</section>
+
+		<section class="cf dblue">
+  <div class="cf pad">
+
+    <aside class="d-1of2 t-all m-all">
+      <h3>Got a project?</h3>
+      <p>We can help. Fill out this quick form. It’s like ad-libs but it actually gets you places.</p>
+      <img alt="Ready For lift-off!" src="/library/images/blastoff-rocket.png">
+    </aside>
+
+    <aside class="d-1of2 t-4of5 m-all">
+      <div id="respond">
+        <?php echo $response; ?>
+        <form action="library/contact.php" method="post">
+
+          <label for="name">What's Your Name? <span>*</span> <br>
+            <input type="text" name="message_name" value="<?php echo esc_attr($_POST['message_name']); ?>">
+          </label>
+           
+          <label for="message_email">Email: <span>*</span> <br>
+            <input type="text" name="message_email" value="<?php echo esc_attr($_POST['message_email']); ?>">
+          </label>
+
+          <label for="name">Link to your current website: <span>*</span> <br>
+            <input type="text" name="website_url" value="<?php echo esc_attr($_POST['website_url']); ?>">
+          </label>
+
+          <label for="message_text">What do you want to do? <span>*</span> <br>
+            <textarea type="text" name="message_text"><?php echo esc_textarea($_POST['message_text']); ?>
+          </textarea></label>
+            
+            <label for="message_human">Human Verification: <span>*</span> <br>
+            <input type="text" style="width: 60px;" name="message_human"> + 3 = 5</label>
+
+            <input type="hidden" name="submitted" value="1">
+
+          <input class="action-btn d-all" type="submit" value="Send!">
+        </form>
+      </div><!-- end respond -->
+    </aside><!-- end aside with form -->
+
+  </div><!-- end section padding -->
+</section>
+
+
+
+
+
+
+
+
+
 	</div>
 
 			<!-- Convert the Nav to a wordpress nav-->
@@ -180,38 +240,31 @@
 
 				<div id="inner-footer" class="pad cf">
 					
+					<div class="footer-links left">
+						<p class="copyright">&copy; 2017&nbsp;Skymouse Studios, LLC</p>
+						<ul>
+							<li><a class="footer-btn" title="Privacy" href="/privacy">Privacy</a></li>
+							<li><a class="footer-btn" title="Help" href="/help">Help</a></li>
+						</ul>	
+					</div>
+
 					<a href="index.html" rel="nofollow">
 						<img class="footer-logo" alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg">
 					</a>
 				
-					<nav class="footer">
-						<div class="social-media">
-							<ul>
-								<li><a href="https://bit.ly/skyBook" class="social-icon"> <i class="fa fa-facebook"></i>
-								</a></li>
-								<li><a href="https://bit.ly/skyGram" class="social-icon"> <i class="fa fa-instagram"></i>
-								</a></li>
-								<li><a href="https://bit.ly/skyTweets" class="social-icon"> <i class="fa fa-twitter"></i>
-								</a></li>
-								<li><a href="https://bit.ly/skyLinkedIn" class="social-icon"> <i class="fa fa-linkedin"></i>
-								</a></li>
-								<li><a href="https://bit.ly/skyGoogle" class="social-icon"> <i class="fa fa-google-plus"></i>
-								</a></li>
-							</ul>
-						</div>
-					</nav>
-
-					<div class="info">
-						<p class="source-org copyright">&copy; 2017&nbsp;Skymouse Studios, LLC</p>
-
+					<div class="footer-links right">
 						<ul>
-							<li>
-								<a title="Privacy" href="/privacy">Privacy</a>
-							</li>
-							<li>
-								<a title="Help" href="/help">Help</a>
-							</li>
-						</ul>	
+							<li><a href="https://bit.ly/skyBook" class="social-btn"> <i class="fa fa-facebook"></i>
+							</a></li>
+							<li><a href="https://bit.ly/skyGram" class="social-btn"> <i class="fa fa-instagram"></i>
+							</a></li>
+							<li><a href="https://bit.ly/skyTweets" class="social-btn"> <i class="fa fa-twitter"></i>
+							</a></li>
+							<li><a href="https://bit.ly/skyLinkedIn" class="social-btn"> <i class="fa fa-linkedin"></i>
+							</a></li>
+							<li><a href="https://bit.ly/skyGoogle" class="social-btn"> <i class="fa fa-google-plus"></i>
+							</a></li>
+						</ul>
 					</div>
 
 				</div><!-- END Inner Footer -->

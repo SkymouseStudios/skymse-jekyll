@@ -8,7 +8,7 @@
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>Help</title>
+		<title>Blog</title>
 
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
@@ -112,95 +112,35 @@
 		</nav>
 
 	</div> 
-
 	
 	<div class="pad">
-		<div class="hero d-1of2 t-all m-all">
-			<h1>Help</h1>
-            <p class="h2">Hello, how can we help?</p>
+		<div class="hero d-2of3 t-all m-all">
+			<h1>Blog</h1>
+            <p class="h2">Learn something new.</p>
 		</div>
 	</div>
 
 </header>
 
-<div id="page" class="about cf">
-	<section class="cf d-1of2 lblue">
-		<div class="cf pad">
-			<div class="t-1of2 d-1of2 center-margin">
-			<h3 id="your-lifeline-is-here">Your lifeline is here.</h3>
-<p>Sometimes things can be tricky to understand, so we have a simple breakdown of some problems people often are trying to solve.</p>
+<div id="page">
 
-<h4 id="what-does-skymouse-actually-do">What does Skymouse actually do?</h4>
-<p>We solve your design problems. So that means everything and anything you need help with, we can find a solution for, even if that means we need to farm the job out to someone else.</p>
+		<section class="cf lblue">
+			<div class="pad">
 
-<h4 id="what-services-do-i-need-first">What services do I need first?</h4>
-<p>It depends. A website is super important, but doesn’t mean to much of you don’t have a logo or any strong visual representation of your company. But no worries! That’s why Skymouse works with aspiring brands, like yourself, to find out exactly what you need to maximize your time, and your budget. And then we get it done.</p>
+				<div class="d-2of3">
+					<h3>We actually put our pricing on the website.</h3>
+					<p>We believe in straight-forward answers you can count on. No hidden costs. No vague contracts. Know what you’re paying for and know where your hard-earned money is going. Transparent as a window.</p>
 
-<h4 id="what-if-i-have-a-limited-budget">What if I have a limited budget?</h4>
-<p>Hey, we understand! It happens. We’ll do our absolute best to create a package that fits you and your budget. If you don’t like it, you don’t have to take it!</p>
+					<h4>Project Services</h4>
+					<p>Here is a breakdown of costs, and how our hourly rate works. Note that every project is different, but this gives you an idea of what things cost.</p>
+				</div>
 
-<h4 id="so-what-is-this-subscription-model-thing">So What is this Subscription Model thing?</h4>
-<p>It’s a beautiful way you can have a personal design team, but only when you need it! We can jump into action as soon as you have something you need! Pay as you grow.</p>
-
-<h4 id="couldnt-i-just-get-this-done-for-5-bucks-on-odesk">Couldn’t I just get this done for 5 bucks on Odesk?</h4>
-<p>Odesk absolutely has it’s time and place, it’s a great resource, but it doesn’t provide the same quality you can get from a team that is looking at the big picture—focusing on your brand. You could very easily dump some ideas into a Wordpress template, but your customers can tell the difference.</p>
-
-<h4 id="does-skymouse-use-wordpress-templates">Does Skymouse use WordPress templates?</h4>
-<p>We would rather not. Wordpress templates are becoming the bane of the web as they all look pretty much the same. Templets also don’t allow for the customization you really need to show you are different and special. There’s a blog post for that.</p>
-
+			<!-- Loop throough blog posts on file -->
+				<aside class="d-all">
+					
+				</aside>
 			</div>
-		</div>
-	</section>
-
-	<section class="cf dblue">
-  <div class="cf pad">
-
-    <aside class="d-1of2 t-all m-all">
-      <h3>Got a project?</h3>
-      <p>We can help. Fill out this quick form. It’s like ad-libs but it actually gets you places.</p>
-      <img alt="Ready For lift-off!" src="/library/images/blastoff-rocket.png">
-    </aside>
-
-    <aside class="d-1of2 t-4of5 m-all">
-      <div id="respond">
-        <?php echo $response; ?>
-        <form action="library/contact.php" method="post">
-
-          <label for="name">What's Your Name? <span>*</span> <br>
-            <input type="text" name="message_name" value="<?php echo esc_attr($_POST['message_name']); ?>">
-          </label>
-           
-          <label for="message_email">Email: <span>*</span> <br>
-            <input type="text" name="message_email" value="<?php echo esc_attr($_POST['message_email']); ?>">
-          </label>
-
-          <label for="name">Link to your current website: <span>*</span> <br>
-            <input type="text" name="website_url" value="<?php echo esc_attr($_POST['website_url']); ?>">
-          </label>
-
-          <label for="message_text">What do you want to do? <span>*</span> <br>
-            <textarea type="text" name="message_text"><?php echo esc_textarea($_POST['message_text']); ?>
-          </textarea></label>
-            
-            <label for="message_human">Human Verification: <span>*</span> <br>
-            <input type="text" style="width: 60px;" name="message_human"> + 3 = 5</label>
-
-            <input type="hidden" name="submitted" value="1">
-
-          <input class="action-btn d-all" type="submit" value="Send!">
-        </form>
-      </div><!-- end respond -->
-    </aside><!-- end aside with form -->
-
-  </div><!-- end section padding -->
-</section>
-
-
-
-
-
-
-
+		</section>
 
 </div>
 
