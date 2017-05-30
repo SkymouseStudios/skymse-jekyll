@@ -535,77 +535,24 @@ footer {
 	        -o-transform: translate(-50%, -50%);
 	        -moz-transform: translate(-50%, -50%);
 	    }
+	}
+}
 
-		nav.footer {
-			background-color: $dblue;
-			float: right;
+.footer-links, .social-links {
 
-			@media (max-width: 768px) {
-				//float: none;
-			}
+	ul {
+		display: inline-block;
 
-			ul {
-				margin: 0;
-				text-align: right;
-				display: inline-block;
-
-				li {
-					display: inline-block;
-					text-align: right;
-				
-					a {
-						@extend %btn;
-						position: relative;
-						display: inline-block;
-						font-family: $serif;
-						font-weight: 300;
-						font-size: .7em;
-					}
-
-					a.btn {
-						text-transform: uppercase;
-						color: white;
-					}
-				}
-			}	
+		li {
+			display: inline-block;
 		}
+	}
 
-		div.info {
-			float: left;
-
-			ul {
-				margin: 0;
-				text-align: center;
-				display: inline-block;
-
-				li {
-					display: inline-block;
-					text-align: center;
-				
-					a {
-						@extend %btn;
-						position: relative;
-						display: inline-block;
-						font-family: $serif;
-						color: $cheese;
-						font-weight: 300;
-						font-size: .7em;
-					}
-
-					a.btn {
-						text-transform: uppercase;
-						color: white;
-					}
-				}
-			}
-
-			p {
-				display: inline-block;
-				margin: 5px;
-				padding: 5px 10px;
-				font-size: .8em;
-			}
-		}
+	p {
+		display: inline-block;
+		margin: 5px;
+		padding: 5px 10px;
+		font-size: .8em;
 	}
 }
 
