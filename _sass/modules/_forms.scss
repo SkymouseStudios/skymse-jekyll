@@ -264,11 +264,15 @@ form {
   }
 
   label {
+    font-family: $sans-serif;
     font-size: 1em;
+    color: lighten($dblue, 30%);
+    text-transform: uppercase;
   }
 
-  input[type="submit"] {
-    margin-top: 20px;
+  input[type="submit"],
+  input[type="text"] {
+    margin-bottom: 20px;
     -webkit-appearance: none;
     display: block;
   }
