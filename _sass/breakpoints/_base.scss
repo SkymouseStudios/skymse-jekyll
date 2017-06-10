@@ -85,6 +85,7 @@ HEADER STYLES
 
 .header {
 	background-color: $black;
+	height: 40vh;
 }
 
 #logo {
@@ -95,71 +96,24 @@ HEADER STYLES
 	}
 }
 
+.hero {
+	margin-top: 50px;
+	text-align: left;
+}
+
 /*********************
 NAVIGATION STYLES
 *********************/
 
-.nav {
-	border-bottom: 0;
-	margin: 0;
-
-	li {
-
-		a {
-			display: block;
-			color: $white;
-			text-decoration: none;
-			padding: 0.75em;
-
-			&:hover, &:focus {
-
-			}
-		}
-
-		&:first-child {}
-
-		&:last-child {}
-
-		ul.sub-menu,
-		ul.children {
-
-			li {
-
-				a {
-					padding-left: 30px;
-
-					&:hover,
-					&:focus {}
-
-					&:link {}
-
-				}
-
-				&:first-child {}
-
-				&:last-child {}
-
-			}
-
-		}
-
-	} /* end .menu li */
-
-	/* highlight current page */
-	li.current-menu-item,
-	li.current_page_item,
-	li.current_page_ancestor {
-
-		a {}
-
-	}  /* end current highlighters */
-
-} /* end .nav */
-
-
-// THE MOBILE/JAVASCRIPT MENU... IT NEEDS LOVE, BEFORE IT CAN BE USED.
-
 #inner-header {
+	z-index: 999;
+
+	img {
+		width: 15%;
+		position: absolute;
+		top: 20px;
+		left: 40px;
+	}
 
  	nav {
 
@@ -171,8 +125,8 @@ NAVIGATION STYLES
 				font-size: 2em;
 
 				a {
+					@extend %btn;
 					padding: 1em;
-					width: 90%;
 				}
 			}
 		}
@@ -206,6 +160,7 @@ NAVIGATION STYLES
 }
 
 #menu-burger {
+	@extend %btn;
 	display: block;
     float: right;
     position: relative;
@@ -213,10 +168,10 @@ NAVIGATION STYLES
     color: #FFF;
     vertical-align: middle;
     cursor: pointer;
-    margin: 5px 10px;
+    margin: 10px 5px;
 
     i {
-    	font-size: 1.5em;
+    	font-size: 2.5em;
 	}
 }
     
@@ -260,10 +215,38 @@ main {
 	}
 }
 
-/*********************
-FOOTER STYLES
-*********************/
+// Contact Section
 
-footer {
-	display: none;
+#proposal {
+	z-index: 2;
+	border-top: 30px solid $lblue;
+	background-color: $dblue;
+	height: auto;
+
+	aside {
+		height: auto;
+
+		p {
+			text-align: left;
+			color: white;
+		}
+
+		form {
+          text-align: left;
+      	}
+	}
+}
+
+.footer-links {
+	ul {
+		display: flex;
+	}
+
+	li {
+		flex-item: column;
+	}
+
+	a {
+		font-size: 2em;
+	}
 }

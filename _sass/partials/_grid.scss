@@ -12,6 +12,7 @@ Stylesheet: Grid Stylesheet
 .last-col {
   float: right;
   padding-right: 0 !important;
+  margin-right: 0 !important;
 }
 
 .pad {
@@ -27,7 +28,7 @@ Stylesheet: Grid Stylesheet
 .d-1of3-pad {
   @include grid-col;
   width: 30%;
-  margin-right: 3.33%;
+  margin-right: 5%;
 }
 
 @media (max-width: 767px) {

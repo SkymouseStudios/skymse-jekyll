@@ -7,30 +7,43 @@
 
 	section {
 		position: relative;
+		border-top: 20px solid $lblue;
+		height: auto;
+		color: $gray;
+
+		h3 {
+			margin: 0; // remove margin when it's in a section
+		}
+	}
+
+	.parallax-section {
+		position: relative;
 	    height: 500px;
-	    height: auto;
-	    -webkit-transform-style: preserve-3d;
-	    transform-style: preserve-3d;
-	    -webkit-transition: -webkit-transform 0.5s;
-    	transition: transform 0.5s;
+	    height: 100vh;
+	    	// these are for the parallaxing effect
+		    -webkit-transform-style: preserve-3d;
+		    transform-style: preserve-3d;
+		    -webkit-transition: -webkit-transform 0.5s;
+	    	transition: transform 0.5s;
     	width: 100%;
     	border-top: 20px solid $lblue;
-
-    	@media (max-width: 768px) {
-    		height: auto;
-    	}
 
 		aside.img {
 			padding-left: 20px;
 		}
+
+		h3 {
+			margin: 0; // remove margin when it's in a section
+		}
 	}
 }
 
-// Image that show's the client's site
+// Image that show's the client's website
 .client-site {
 	margin-top: 100px;
 }
 
+// box for explaining details about a service
 .info-box {
 	padding: 20px;
 	border-radius: 5px;
@@ -41,22 +54,16 @@
 	::hover {
 		box-shadow: 7px 7px 20px 5px rgba(3,3,3,.1);
 	}
-}
 
-aside {
-	position: relative;
+	h4 {
+		margin: 0;
+		vertical-align: top;
+	}
 }
 
 .service-img {
-		position: absolute;
-	    top: 150px;
-
-	    &._left {
-	    	left: 0px;
-	    }
-
-	    &._right {
-	    	right: 0px;
-	    }
-	}
-
+	overflow: hidden;
+	height: 300px;
+	margin-right: 8%;
+	margin-top: 20px;
+}
