@@ -1,98 +1,143 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="500px" height="506px" viewBox="0 0 500 506" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>Webpage Graphic</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="500" height="419" rx="9"></rect>
-        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="500" height="419" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <rect id="path-3" x="0" y="21" width="500" height="485"></rect>
-        <rect id="path-4" x="113" y="124" width="276" height="80"></rect>
-        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="276" height="80" fill="white">
-            <use xlink:href="#path-4"></use>
-        </mask>
-        <rect id="path-6" x="17" y="320" width="136.557377" height="140"></rect>
-        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="136.557377" height="140" fill="white">
-            <use xlink:href="#path-6"></use>
-        </mask>
-        <rect id="path-8" x="68" y="305" width="34" height="34.8571429"></rect>
-        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="34.8571429" fill="white">
-            <use xlink:href="#path-8"></use>
-        </mask>
-        <rect id="path-10" x="180" y="320" width="136.557377" height="140"></rect>
-        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="136.557377" height="140" fill="white">
-            <use xlink:href="#path-10"></use>
-        </mask>
-        <rect id="path-12" x="335" y="320" width="136.557377" height="140"></rect>
-        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="136.557377" height="140" fill="white">
-            <use xlink:href="#path-12"></use>
-        </mask>
-        <rect id="path-14" x="232" y="305" width="34" height="34.8571429"></rect>
-        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="34.8571429" fill="white">
-            <use xlink:href="#path-14"></use>
-        </mask>
-        <rect id="path-16" x="386" y="305" width="34" height="34.8571429"></rect>
-        <mask id="mask-17" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="34.8571429" fill="white">
-            <use xlink:href="#path-16"></use>
-        </mask>
-        <rect id="path-18" x="135" y="99" width="227" height="59"></rect>
-        <mask id="mask-19" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="227" height="59" fill="white">
-            <use xlink:href="#path-18"></use>
-        </mask>
-        <rect id="path-20" x="201" y="218" width="96" height="28" rx="10"></rect>
-        <mask id="mask-21" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="96" height="28" fill="white">
-            <use xlink:href="#path-20"></use>
-        </mask>
-        <rect id="path-22" x="151" y="166" width="195" height="28"></rect>
-        <mask id="mask-23" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="195" height="28" fill="white">
-            <use xlink:href="#path-22"></use>
-        </mask>
-        <rect id="path-24" x="8" y="280" width="482" height="8"></rect>
-        <mask id="mask-25" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="482" height="8" fill="white">
-            <use xlink:href="#path-24"></use>
-        </mask>
-        <rect id="path-26" x="108" y="41" width="364" height="20"></rect>
-        <mask id="mask-27" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="364" height="20" fill="white">
-            <use xlink:href="#path-26"></use>
-        </mask>
-        <rect id="path-28" x="17" y="41" width="34" height="20"></rect>
-        <mask id="mask-29" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="20" fill="white">
-            <use xlink:href="#path-28"></use>
-        </mask>
-    </defs>
-    <g id="Frontpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD" transform="translate(-791.000000, -244.000000)">
-            <g id="Webpage-Graphic" transform="translate(791.000000, 244.000000)">
-                <use id="Rectangle-Copy-2" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#D7D7D7" xlink:href="#path-1"></use>
-                <use id="Rectangle-Copy-5" fill="#9C9C9C" xlink:href="#path-3"></use>
-                <use id="Rectangle-4" stroke="#979797" mask="url(#mask-5)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-4"></use>
-                <use id="Rectangle-4-Copy" stroke="#979797" mask="url(#mask-7)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-6"></use>
-                <use id="Rectangle-4-Copy-4" stroke="#979797" mask="url(#mask-9)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-8"></use>
-                <use id="Rectangle-4-Copy-2" stroke="#979797" mask="url(#mask-11)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-10"></use>
-                <use id="Rectangle-4-Copy-3" stroke="#979797" mask="url(#mask-13)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-12"></use>
-                <use id="Rectangle-4-Copy-5" stroke="#979797" mask="url(#mask-15)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-14"></use>
-                <use id="Rectangle-4-Copy-6" stroke="#979797" mask="url(#mask-17)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-16"></use>
-                <use id="Rectangle-5" stroke="#979797" mask="url(#mask-19)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-18"></use>
-                <use id="Rectangle-5-Copy" stroke="#979797" mask="url(#mask-21)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-20"></use>
-                <use id="Rectangle-5-Copy-2" stroke="#979797" mask="url(#mask-23)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-22"></use>
-                <use id="Rectangle-5-Copy-3" stroke="#979797" mask="url(#mask-25)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-24"></use>
-                <use id="Rectangle-3" stroke="#979797" mask="url(#mask-27)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-26"></use>
-                <use id="Rectangle-2" stroke="#979797" mask="url(#mask-29)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-28"></use>
-                <g id="Dummy-Text" transform="translate(23.000000, 353.000000)" fill="#9B9B9B">
-                    <rect id="Rectangle-4-Copy-7" x="32" y="0" width="62" height="12"></rect>
-                    <rect id="Rectangle-4-Copy-8" x="0" y="20" width="125" height="8"></rect>
-                    <rect id="Rectangle-4-Copy-9" x="0" y="34" width="125" height="8"></rect>
-                    <rect id="Rectangle-4-Copy-10" x="0" y="48" width="125" height="8"></rect>
-                    <rect id="Rectangle-4-Copy-11" x="0" y="62" width="125" height="8"></rect>
-                    <rect id="Rectangle-4-Copy-12" x="0" y="76" width="125" height="8"></rect>
-                    <rect id="Rectangle-4-Copy-13" x="1" y="90" width="105" height="8"></rect>
-                </g>
-                <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="17" cy="11" r="6"></circle>
-                <circle id="Oval-Copy" stroke="#979797" fill="#B6B6B6" cx="39" cy="11" r="6"></circle>
-                <circle id="Oval-Copy-2" stroke="#979797" fill="#999999" cx="61" cy="11" r="6"></circle>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 506" style="enable-background:new 0 0 500 506;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill:#FFFFFF;}
+	.st2{mask:url(#mask-2);}
+	.st3{fill:#D7D7D7;stroke:#979797;stroke-width:2;}
+	.st4{fill:#9C9C9C;}
+	.st5{fill:#D8D8D8;stroke:#979797;stroke-width:2;}
+	.st6{fill:#9B9B9B;}
+	.st7{fill:#FF64B2;}
+	.st8{fill:#FF64B2;stroke:#979797;stroke-width:2;}
+	.st9{fill:#D8D8D8;stroke:#979797;}
+	.st10{fill:#B6B6B6;stroke:#979797;}
+	.st11{fill:#999999;stroke:#979797;}
+</style>
+<title>Webpage Graphic</title>
+<desc>Created with Sketch.</desc>
+<g id="Frontpage">
+	<g id="Desktop-HD" transform="translate(-791.000000, -244.000000)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="790" y="243" width="502" height="507">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="790" y="243" width="502" height="507" id="mask-2">
+			<g class="st0">
+				<path id="path-1" class="st1" d="M800,244h482c5,0,9,4,9,9v401c0,5-4,9-9,9H800c-5,0-9-4-9-9V253C791,248,795,244,800,244z"/>
+			</g>
+			<g>
+				<rect id="path-4" x="904" y="368" class="st1" width="276" height="80"/>
+			</g>
+			<g>
+				<rect id="path-6" x="808" y="564" class="st1" width="136.6" height="140"/>
+			</g>
+			<g>
+				<rect id="path-8" x="859" y="549" class="st1" width="34" height="34.9"/>
+			</g>
+			<g>
+				<rect id="path-10" x="971" y="564" class="st1" width="136.6" height="140"/>
+			</g>
+			<g>
+				<rect id="path-12" x="1126" y="564" class="st1" width="136.6" height="140"/>
+			</g>
+			<g>
+				<rect id="path-14" x="1023" y="549" class="st1" width="34" height="34.9"/>
+			</g>
+			<g>
+				<rect id="path-16" x="1177" y="549" class="st1" width="34" height="34.9"/>
+			</g>
+			<g>
+				<rect id="path-18" x="926" y="343" class="st1" width="227" height="59"/>
+			</g>
+			<g>
+				<path id="path-20" class="st1" d="M1002,462h76c5.5,0,10,4.5,10,10v8c0,5.5-4.5,10-10,10h-76c-5.5,0-10-4.5-10-10v-8
+					C992,466.5,996.5,462,1002,462z"/>
+			</g>
+			<g>
+				<rect id="path-22" x="942" y="410" class="st1" width="195" height="28"/>
+			</g>
+			<g>
+				<rect id="path-24" x="799" y="524" class="st1" width="482" height="8"/>
+			</g>
+			<g>
+				<rect id="path-26" x="899" y="285" class="st1" width="364" height="20"/>
+			</g>
+			<g>
+				<rect id="path-28" x="808" y="285" class="st1" width="34" height="20"/>
+			</g>
+		</mask>
+		<g id="Webpage-Graphic" transform="translate(791.000000, 244.000000)" class="st2">
+			<g id="Rectangle-Copy-2">
+				<path id="path-1_1_" class="st3" d="M9,0h482c5,0,9,4,9,9v401c0,5-4,9-9,9H9c-5,0-9-4-9-9V9C0,4,4,0,9,0z"/>
+			</g>
+			<g id="Rectangle-Copy-5">
+				<rect id="path-3" y="21" class="st4" width="500" height="485"/>
+			</g>
+			<g id="Rectangle-4">
+				<rect id="path-4_1_" x="113" y="124" class="st5" width="276" height="80"/>
+			</g>
+			<g id="Rectangle-4-Copy">
+				<rect id="path-6_1_" x="17" y="320" class="st5" width="136.6" height="140"/>
+			</g>
+			<g id="Rectangle-4-Copy-4">
+				<rect id="path-8_1_" x="68" y="305" class="st5" width="34" height="34.9"/>
+			</g>
+			<g id="Rectangle-4-Copy-2">
+				<rect id="path-10_1_" x="180" y="320" class="st5" width="136.6" height="140"/>
+			</g>
+			<g id="Rectangle-4-Copy-3">
+				<rect id="path-12_1_" x="335" y="320" class="st5" width="136.6" height="140"/>
+			</g>
+			<g id="Rectangle-4-Copy-5">
+				<rect id="path-14_1_" x="232" y="305" class="st5" width="34" height="34.9"/>
+			</g>
+			<g id="Rectangle-4-Copy-6">
+				<rect id="path-16_1_" x="386" y="305" class="st5" width="34" height="34.9"/>
+			</g>
+			<g id="Rectangle-5">
+				<rect id="path-18_1_" x="135" y="99" class="st5" width="227" height="59"/>
+			</g>
+			<g id="Rectangle-5-Copy">
+				<path id="path-20_1_" class="st5" d="M211,218h76c5.5,0,10,4.5,10,10v8c0,5.5-4.5,10-10,10h-76c-5.5,0-10-4.5-10-10v-8
+					C201,222.5,205.5,218,211,218z"/>
+			</g>
+			<g id="Rectangle-5-Copy-2">
+				<rect id="path-22_1_" x="151" y="166" class="st5" width="195" height="28"/>
+			</g>
+			<g id="Rectangle-5-Copy-3">
+				<rect id="path-24_1_" x="8" y="280" class="st5" width="482" height="8"/>
+			</g>
+			<g id="Rectangle-3">
+				<rect id="path-26_1_" x="108" y="41" class="st5" width="364" height="20"/>
+			</g>
+			<g id="Rectangle-2">
+				<rect id="path-28_1_" x="17" y="41" class="st5" width="34" height="20"/>
+			</g>
+			<g id="Dummy-Text" transform="translate(23.000000, 353.000000)">
+				<rect id="Rectangle-4-Copy-7" x="32" class="st6" width="62" height="12"/>
+				<rect id="Rectangle-4-Copy-8" y="20" class="st6" width="125" height="8"/>
+				<rect id="Rectangle-4-Copy-9" y="34" class="st6" width="125" height="8"/>
+				<rect id="Rectangle-4-Copy-10" y="48" class="st6" width="125" height="8"/>
+				<rect id="Rectangle-4-Copy-11" y="62" class="st6" width="125" height="8"/>
+				<rect id="Rectangle-4-Copy-12" y="76" class="st6" width="125" height="8"/>
+				<rect id="Rectangle-4-Copy-13" x="1" y="90" class="st6" width="105" height="8"/>
+			</g>
+			<g>
+				<path class="st7" d="M248.9,148.1c6.6-7.1,13.2-13.8,19.4-20.9c4.2-4.8,3.2-12.3-1.5-16.3c-4.8-4.1-11.9-3.8-16.4,0.7
+					c-0.5,0.5-0.7,1.2-1.3,2.1c-0.9-1.1-1.2-1.6-1.6-2c-4.6-4.6-12.1-5-16.7-0.8c-4.8,4.4-5.4,11.9-1,16.8
+					C236,134.6,242.4,141.2,248.9,148.1z"/>
+				<path class="st8" d="M248.9,148.1c-6.5-6.9-12.9-13.5-19.1-20.3c-4.4-4.9-3.8-12.5,1-16.8c4.7-4.2,12.1-3.9,16.7,0.8
+					c0.4,0.4,0.7,0.9,1.6,2c0.6-0.9,0.8-1.6,1.3-2.1c4.5-4.5,11.7-4.8,16.4-0.7c4.7,4,5.7,11.5,1.5,16.3
+					C262.1,134.3,255.5,141,248.9,148.1z"/>
+			</g>
+			<circle id="Oval" class="st9" cx="17" cy="11" r="6"/>
+			<circle id="Oval-Copy" class="st10" cx="39" cy="11" r="6"/>
+			<circle id="Oval-Copy-2" class="st11" cx="61" cy="11" r="6"/>
+		</g>
+	</g>
+</g>
 </svg>

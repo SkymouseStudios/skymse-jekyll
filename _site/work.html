@@ -8,7 +8,7 @@
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>The Work We've Done</title>
+		<title>Skymouse Studios | The Work We've Done</title>
 
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
@@ -20,8 +20,6 @@
 		<meta property="og:url" content="http://skymse.com" />
 		<meta property="og:image" content="/screenshot.png" />
 
-		<link rel="stylesheet" href="/library/js/libs/min/modernizr.custom.min.js">
-		<link rel="stylesheet" href="https://s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js">
 		<link rel="apple-touch-icon" href="/library/images/apple-touch-icon.png">
 		<link rel="icon" href="/favicon.png">
 		<!--[if IE]>
@@ -54,7 +52,7 @@
 		</script>
 
 		<link rel="stylesheet" href="/style.css">
-		<link rel="stylesheet" href="/library/css/ie.css">
+		<!-- <link rel="stylesheet" href="/library/css/ie.css"> -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo:400,700">
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Rubik:500">
@@ -181,42 +179,36 @@
 			</div>
 		</section>
 
-		<section class="cf dblue">
-  <div class="cf pad">
+		<section id="proposal" class="cf dblue">
+  <div class="cf pad pad-top">
 
     <aside class="d-1of2 t-all m-all">
       <h3>Got a project?</h3>
       <p>We can help. Fill out this quick form. It’s like ad-libs but it actually gets you places.</p>
-      <img alt="Ready For lift-off!" src="/library/images/blastoff-rocket.png">
+      <img class="m-all" alt="Ready For lift-off!" src="/library/images/blastoff-rocket.png">
     </aside>
 
     <aside class="d-1of2 t-4of5 m-all">
       <div id="respond">
-        <?php echo $response; ?>
-        <form action="library/contact.php" method="post">
+        <form action="https://formspree.io/sos@skymse.com" method="post">
 
           <label for="name">What's Your Name? <span>*</span> <br>
-            <input type="text" name="message_name" value="<?php echo esc_attr($_POST['message_name']); ?>">
+            <input type="text" name="person_name">
           </label>
            
           <label for="message_email">Email: <span>*</span> <br>
-            <input type="text" name="message_email" value="<?php echo esc_attr($_POST['message_email']); ?>">
+            <input type="text" name="_replyto">
           </label>
 
           <label for="name">Link to your current website: <span>*</span> <br>
-            <input type="text" name="website_url" value="<?php echo esc_attr($_POST['website_url']); ?>">
+            <input type="text" name="website_url">
           </label>
 
           <label for="message_text">What do you want to do? <span>*</span> <br>
-            <textarea type="text" name="message_text"><?php echo esc_textarea($_POST['message_text']); ?>
+            <textarea type="text" name="message_text">
           </textarea></label>
-            
-            <label for="message_human">Human Verification: <span>*</span> <br>
-            <input type="text" style="width: 60px;" name="message_human"> + 3 = 5</label>
 
-            <input type="hidden" name="submitted" value="1">
-
-          <input class="action-btn d-all" type="submit" value="Send!">
+          <input class="action-btn d-all" type="submit" value="Send">
         </form>
       </div><!-- end respond -->
     </aside><!-- end aside with form -->
@@ -275,6 +267,8 @@
 		
 		
 		<script src="/library/js/min/scripts-min.js"></script>
-		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<script src="https://s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js"></script>
 	</body>
 </html> <!-- end of site. -->

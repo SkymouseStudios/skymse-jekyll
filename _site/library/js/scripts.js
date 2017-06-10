@@ -54,11 +54,11 @@ var viewport = updateViewportDimensions();
 
 // Mobile Menu Slider Function
 function mobileMenu() {
-  jQuery('#menu-burger').on('click', function() {
-    jQuery('#menu').toggleClass('menu-shown');
+  jQuery('div#menu-burger').on('click', function() {
+    jQuery('nav#menu').toggleClass('menu-shown');
 });
-
 }
+
 jQuery(document).ready(function() {
   mobileMenu();
 }); 
