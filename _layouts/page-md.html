@@ -9,7 +9,7 @@
 	<div id="inner-header" class="wrap cf">
 
 		<a href="index.html" rel="nofollow">
-		<img alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg"></a>
+		<img alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/skymse-logo.svg"></a>
 
 		<div id="menu-burger">
 			<i class="icon-menu"></i>
@@ -22,7 +22,7 @@
 			<ul id="menu-main-menu" class="nav menu top-nav cf">
           		{% for link in site.links %}
 		            <li>
-		              <a class="nav-button" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+		              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
 		            </li>
           		{% endfor %}
         	</ul>
@@ -40,7 +40,9 @@
 
 </header>
 
-<div id="page" class="about cf">
+<div class="one"></div>
+
+<div id="page" class="two about cf">
 	<section class="cf d-1of2 lblue">
 		<div class="cf pad">
 			<div class="t-1of2 d-1of2 center-margin">
@@ -51,5 +53,7 @@
 
 	{% include contact.html %}
 </div>
+
+<div class="three"></div>
 
 {% include footer.html %}

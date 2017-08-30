@@ -182,6 +182,7 @@ h4, .h4 {
   color: $gray;
 }
 
-
-
+section h3 {
+  margin: 0; // remove margin when it's in a section
+}
 

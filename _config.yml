@@ -1,8 +1,8 @@
 # Site settings
-title: Skymouse Studios - Transparent. Responsive. Webdesign
-description: A web design studio that helps you build a website you love. No nonsense.
-baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url:
+title: "Skymouse Studios - Transparent. Responsive. Webdesign"
+description: "A web design studio that helps you build a website you love. No nonsense."
+baseurl: #"http://dev.skymse.com"
+url: "SkymouseStudios.com"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -29,17 +29,17 @@ sass:
 # Links to include in menu navigation
 links:
   - title: About
-    url: /about
+    url: /about.html
   - title: Our Work
-    url: /work
-  - title: Blog
-    url: /blog
+    url: /work.html
   - title: Pricing
-    url: /pricing
+    url: /pricing.html
   - title: Contact
-    url: /contact
+    url: /contact.html
   - title: Social
-    url: /social
+    url: /social.html
+  - title: Blog
+    url: /blog.html
 
 # projects in header index
 projects:

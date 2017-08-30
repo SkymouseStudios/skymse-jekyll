@@ -21,7 +21,7 @@ textarea,
   line-height: 1em;
   padding: 8px;
   margin: 0px 0px 2% 0px;
-  width: 96%;
+  width: 100%;
   font-size: 1em;
   color: white;
   border-radius: 10px;
@@ -267,7 +267,6 @@ form {
     font-family: $sans-serif;
     font-size: 1em;
     color: lighten($dblue, 30%);
-    text-transform: uppercase;
   }
 
   input[type="submit"],

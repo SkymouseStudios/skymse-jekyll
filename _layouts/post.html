@@ -1,0 +1,21 @@
+---
+layout: page
+---
+
+
+
+<div id="page" class="two">
+  <!-- Wrapper Start -->
+  <section class="cf" style="border: 1px dotted #ddd;">
+  <div class="pad pad-top">
+      <div class="post-info-wrapper">
+        <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
+      </div>
+      <hr />
+      <p>{{ content }}</p>
+      <p class="center-text" style="padding: 30px;">
+        <a class="blue-btn" href="{{ site.baseurl }}/blog.html">Back to blog</a>
+      </p>
+    </div>
+  </section>
+</div>

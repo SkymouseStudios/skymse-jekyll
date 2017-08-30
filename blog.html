@@ -8,32 +8,30 @@ img:
 ---
 
 
-<div id="page">
+<div id="page" class="cf">
 
 		<section class="cf lblue">
-			<div class="pad">
-
+			<div class="pad pad-top cf">
 				<div class="d-2of3">
-					<h3>We actually put our pricing on the website.</h3>
+					<h3>The internet has answers.</h3>
 					<p>We believe in straight-forward answers you can count on. No hidden costs. No vague contracts. Know what you’re paying for and know where your hard-earned money is going. Transparent as a window.</p>
-
-					<h4>Project Services</h4>
-					<p>Here is a breakdown of costs, and how our hourly rate works. Note that every project is different, but this gives you an idea of what things cost.</p>
+					<p>Don't see something? We'd be happy to answer any questions or write a blog post that gives you insight into a mystery you've come across.</p>
 				</div>
-
-			<!-- Loop throough blog posts on file -->
-				<aside class="d-all">
-					{% for post in site.posts limit:9 %}
-
-						<aside class="d-1of3 t-1of2 m-all info-box">
-							<h4>{{ post.title }}</h4>
-							<p>{{ post.excerpt }}</p>
-							<a href="{{ post.url }}">Read more...</a>
-						</aside>
-
-					{% endfor %}
-				</aside>
 			</div>
 		</section>
 
+		<aside class="d-all">
+			<!-- Loop throough blog posts on file -->
+			{% for post in site.posts limit:9 %}
+
+				<aside class="d-1of3 t-1of2 m-all">
+					<div class="_sub-box">
+						<h4>{{ post.title }}</h4>
+						<p>{{ post.content | strip_html | truncatewords: 20 }}</p>
+						<a class="blue-btn" href="{{ post.url }}">Read more...</a>
+					</div>
+				</aside>
+
+			{% endfor %}
+		</aside>
 </div>

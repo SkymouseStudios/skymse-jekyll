@@ -1,11 +1,21 @@
 /******************************************************************
-Site Name: 
-Author: 
-
-Stylesheet: Super Large Monitor Stylesheet
-
-You can add some advanced styles here if you like. This kicks in
-on larger screens.
-
+1240px NS UP - Super Large Monitor Stylesheet
 ******************************************************************/
 
+#page, .header {
+	width: 1100px;
+}
+
+.one, .three {
+	background-size: 150%;
+}
+
+.one {
+	-webkit-transform: translate3d(95px, -40px, 50px);
+	transform: translate3d(95px, -40px, 50px);
+}
+
+.three {
+	-webkit-transform: translate3d(-95px, -40px, 50px);
+	transform: translate3d(-95px, -40px, 50px);
+}
