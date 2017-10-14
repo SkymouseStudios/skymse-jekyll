@@ -14,12 +14,6 @@ LAYOUT & GRID STYLES
 *********************/
 
 .wrapper {
-	// trying out the new css-grid features
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	grid-gap: 10px;
-	grid-auto-rows: minmax(100px, auto);
-	
 	// Enable Parallaxing effect
 	-webkit-transform-style: preserve-3d;
     transform-style: preserve-3d;

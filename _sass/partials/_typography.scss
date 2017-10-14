@@ -110,11 +110,12 @@ Stylesheet: Typography
 /* --- FONT STACK ---  */
 
 $sans-serif:        "Rubik", Helvetica, Arial, sans-serif;
-$serif:             "Arvo", Cambria, Times New Roman, Times, serif;
+$serif:             "Rubik", Cambria, Times New Roman, Times, serif;
 
 /* some nice typographical defaults */
 
 p {
+  font-size: 1.5em;
   -ms-word-wrap: break-word;
   word-break: break-word; //non-standard css for webkit
   word-wrap: break-word;
@@ -161,9 +162,19 @@ h3, .h3 {
   font-family: $sans-serif;
   color: white;
   font-weight: 800;
-  border-bottom: 13px solid white;
+  // border-bottom: 13px solid white;
   display: inline-block;
   text-shadow: 3px 3px 0 rgba(0,0,0,0.15);
+
+  // The bar underneath the text
+  &:after {
+    content: "";
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+    display: block;
+    border-radius: 5px;
+    box-shadow: 3px 3px 0 rgba(0,0,0,0.15);
+  }
 }
 
 h4, .h4 {

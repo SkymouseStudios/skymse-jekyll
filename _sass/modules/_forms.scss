@@ -276,6 +276,13 @@ form {
     display: block;
   }
 
+   input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    background: transparent;
+
+   }
+
   .error {
     padding: 5px 9px;
     border: 1px solid red;

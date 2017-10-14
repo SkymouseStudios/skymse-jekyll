@@ -62,24 +62,18 @@
 
 	<div id="container">
 
+	<header class="header header-home" role="banner" itemscope itemtype="http://schema.org/WPHeader">
 
-<header class="header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
-             
-    <div class="bg-image"></div>
+		<div id="inner-header" class="cf">
 
-	<div id="inner-header" class="wrap cf">
+			<a href="index.html" rel="nofollow">
+			<img alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg"></a>
 
-		<a href="index.html" rel="nofollow">
-		<img alt="Skymouse Studios Logo" src="/library/images/skymse-logo.svg"></a>
+			<div id="menu-burger">
+				<i class="icon-menu"></i>
+			</div>
 
-		<div id="menu-burger">
-			<i class="icon-menu"></i>
-		</div>
-		
-		<div id="searchicon">		
-		</div>
-
-		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+			<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 				<ul class="cf">
 	          		
 			            <li>
@@ -109,50 +103,48 @@
 	        	</ul>
 			</nav>
 
-		<nav id="desktop-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-			<ul class="cf">
-          		
-		            <li>
-		              <a class="nav-button" href="/about.html">About</a>
-		            </li>
-          		
-		            <li>
-		              <a class="nav-button" href="/work.html">Our Work</a>
-		            </li>
-          		
-		            <li>
-		              <a class="nav-button" href="/pricing.html">Pricing</a>
-		            </li>
-          		
-		            <li>
-		              <a class="nav-button" href="/contact.html">Contact</a>
-		            </li>
-          		
-		            <li>
-		              <a class="nav-button" href="/social.html">Social</a>
-		            </li>
-          		
-		            <li>
-		              <a class="nav-button" href="/blog.html">Blog</a>
-		            </li>
-          		
-        	</ul>
-		</nav>
+			<nav id="desktop-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="cf">
+	          		
+			            <li>
+			              <a class="nav-button" href="/about.html">About</a>
+			            </li>
+	          		
+			            <li>
+			              <a class="nav-button" href="/work.html">Our Work</a>
+			            </li>
+	          		
+			            <li>
+			              <a class="nav-button" href="/pricing.html">Pricing</a>
+			            </li>
+	          		
+			            <li>
+			              <a class="nav-button" href="/contact.html">Contact</a>
+			            </li>
+	          		
+			            <li>
+			              <a class="nav-button" href="/social.html">Social</a>
+			            </li>
+	          		
+			            <li>
+			              <a class="nav-button" href="/blog.html">Blog</a>
+			            </li>
+	          		
+	        	</ul>
+			</nav>
+		</div> 
 
-	</div> 
-	
-	<div class="pad cf">
-		<div class="hero d-all t-all m-all">
+		<div class="pad">
+		<div class="hero d-1of2 t-all m-all">
 			<h1>The Work We've Done</h1>
-            <p class="kill-margin h2">Nothing is more exciting than a challenge.</p>
+            <p class="h2">Nothing is more exciting than a challenge.</p>
 		</div>
 	</div>
 
 </header>
 
-<div class="wrapper">
-	<div class="one"></div>
-		<div id="page">
+
+	<div id="page">
 
 		<section class="cf lblue">
 			<div class="pad pad-top cf">
@@ -219,9 +211,6 @@
    
     <p>We can help. Fill out this quick form. It’s like ad-libs but it actually gets you places. This form shoots an email directly to one of our team members. We’ll then look over your site and your problem, do a little bit of research and get back to you with-in 24 hours.</p>
 
-    <p>You also have the option of getting email updates about website, what’s popular and new features that help you reach your customers better. Once-a-month. Every month. It’s like getting a period for designers and non-designers alike, without the cramps!</p>
-
-
     <img class="m-all t-all d-all" alt="Ready For lift-off!" src="/library/images/blastoff-rocket.png">
     </aside>
 
@@ -237,8 +226,14 @@
             <input type="text" name="_replyto">
           </label>
 
-          <label for="name">Link to your current website: <span>*</span> <br>
+          <label for="name">Link to your current website: <span>(optional)</span> <br>
             <input type="text" name="website_url">
+          </label>
+
+           <label for="name">Budget Range: <span>*</span> <br>
+            <input type="checkbox" value="$8k-$10k">$8k-$10k<br>
+            <input type="checkbox" value="$20k-$300k">$20k-$300k<br>
+            <input type="checkbox" value="$50k-up">$50k-up<br>
           </label>
 
           <label for="message_text">What do you want to do? <span>*</span> <br>
@@ -262,8 +257,6 @@
 
 
 	</div>
-	<div class="three"></div>
-</div>
 
 			<!-- Convert the Nav to a wordpress nav-->
 			
