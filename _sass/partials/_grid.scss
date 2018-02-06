@@ -37,6 +37,39 @@ Stylesheet: Grid Stylesheet
   grid-template-columns: repeat(3, 1fr);
 }
 
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: repeat(4, 1fr);
+}
+
+.blog-grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
+  grid-gap: 40px;
+  grid-auto-rows: minmax(50px, auto);
+  -ms-flex-line-pack: justify;
+  align-content: space-between;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+}
+
+.one {
+  grid-column: 1;
+  grid-row: 1 / 5;
+}
+
+.two { 
+  grid-column: 2;
+}
+
+.three {
+  grid-column: 3;
+  grid-row: 1 / 5;
+}
+
 @media (max-width: 767px) {
 
   .m-all {

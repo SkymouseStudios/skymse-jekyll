@@ -4,35 +4,24 @@ title: Stories
 layout: default
 subtitle: Learn something new.
 permalink: blog.html
-img:
+img: /library/images/headers/header-blog.svg
 
 ---
 
 
-<div id="page" class="cf">
-
-		<section class="cf lblue">
-			<div class="pad pad-top cf">
-				<div class="d-2of3">
-					<h3>The internet has answers.</h3>
-					<p>We believe in straight-forward answers you can count on. No hidden costs. No vague contracts. Know what you’re paying for and know where your hard-earned money is going. Transparent as a window.</p>
-					<p>Don't see something? We'd be happy to answer any questions or write a blog post that gives you insight into a mystery you've come across.</p>
+<div id="page">
+	<div class="blog-grid">
+	{% for post in site.posts limit:9 %}
+		<a class="blank" href="{{ post.url }}">
+			<div class="blog-post">
+				<h2>{{ post.title }}</h2>
+				<div class="picture">
+					<div class="time-to-read">4 Minutes of Quality Reading 👌</div>
+					<img src="{{ post.img }}" alt="{{ post.title }}">
 				</div>
+				<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
 			</div>
-		</section>
-
-		<aside class="d-all">
-			<!-- Loop throough blog posts on file -->
-			{% for post in site.posts limit:9 %}
-
-				<aside class="d-1of3 t-1of2 m-all">
-					<div class="_sub-box">
-						<h4>{{ post.title }}</h4>
-						<p>{{ post.content | strip_html | truncatewords: 20 }}</p>
-						<a class="blue-btn" href="{{ post.url }}">Read more...</a>
-					</div>
-				</aside>
-
-			{% endfor %}
-		</aside>
+		</a>
+	{% endfor %}
+	</div>
 </div>

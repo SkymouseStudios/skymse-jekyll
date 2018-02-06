@@ -2,20 +2,29 @@
 layout: page
 ---
 
+{% include header.html %}
 
+<div id="post">
+  
+  <section class="blank">
+    <h2>{{ post.title }}</h2>
+  
+    <div class="post-info-wrapper">
+        
+    <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
 
-<div id="page" class="two">
-  <!-- Wrapper Start -->
-  <section class="cf" style="border: 1px dotted #ddd;">
-  <div class="pad pad-top">
-      <div class="post-info-wrapper">
-        <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
-      </div>
-      <hr />
-      <p>{{ content }}</p>
-      <p class="center-text" style="padding: 30px;">
-        <a class="blue-btn" href="{{ site.baseurl }}/blog.html">Back to blog</a>
-      </p>
-    </div>
+    <div class="time-to-read">4 Minutes of Quality Reading 👌</div>
+    <img src="{{ post.img }}" alt="{{ post.title }}">
+  </div>
   </section>
+
+    <img class="blog-image" src="{{ page.img }}" alt="">
+
+  <section class="blank">
+    {{ content }}
+  </section>
+    
+    
 </div>
+
+{% include footer.html %}

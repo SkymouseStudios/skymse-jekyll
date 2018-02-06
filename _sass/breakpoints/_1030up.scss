@@ -9,24 +9,8 @@
 .wrap {
 }
 
-#page, .header {
+#page, #inner-header {
 	width: 900px;
-}
-
-.one, .three {
-	background-size: 130%;
-}
-
-// pattern columns
-.one {
-	-webkit-transform: translate3d(75px, -40px, 50px);
-	transform: translate3d(75px, -40px, 50px);
-	
-}
-
-.three {
-	-webkit-transform: translate3d(-75px, -40px, 50px);
-	transform: translate3d(-75px, -40px, 50px);
 }
 
 /*****************/

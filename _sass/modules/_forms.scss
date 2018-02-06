@@ -13,6 +13,7 @@ input[type="url"],
 input[type="search"],
 input[type="tel"],
 input[type="color"],
+input[type="checkbox"],
 select,
 textarea,
 .field {
@@ -24,17 +25,17 @@ textarea,
   width: 100%;
   font-size: 1em;
   color: white;
-  border-radius: 10px;
+  border-radius: 5px;
   vertical-align: middle;
   box-shadow: none;
-  border: 2px solid lighten($dblue, 4%);
+  border: 2px solid $lgray;
   font-family: $serif;
-  background-color: $lblue;
+  background-color: $white;
   
   // a focused input (or hovered on)
   &:focus,
   &:active {
-    background-color: lighten($lblue, 4%);
+    background-color: lighten($lgray, 4%);
     outline: none; 
   } // end hover or focus
 
@@ -264,14 +265,14 @@ form {
   }
 
   label {
+    margin-top: 30px;
     font-family: $sans-serif;
     font-size: 1em;
-    color: lighten($dblue, 30%);
+    color: $black;
   }
 
   input[type="submit"],
   input[type="text"] {
-    margin-bottom: 20px;
     -webkit-appearance: none;
     display: block;
   }

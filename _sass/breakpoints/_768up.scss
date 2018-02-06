@@ -3,26 +3,18 @@
 ******************************************************************/
 
 /*********************
-GENERAL STYLES
-*********************/
-
-body {
-}
-
-/*********************
 LAYOUT & GRID STYLES
 *********************/
 
-.wrapper {
-	// Enable Parallaxing effect
-	-webkit-transform-style: preserve-3d;
-    transform-style: preserve-3d;
-}
-
-#page, .header {
+#page, #inner-header {
 	width: 700px; // set content width
 	margin: 0 auto; // center content in page
 	overflow: hidden; // hide anything that wants to overflow
+}
+
+#post {
+	width: 700px;
+	margin: 0 auto;
 }
 
 // Landing page
@@ -48,7 +40,7 @@ HEADER STYLES
 
 .hero {
 	// Adjust the hero callout for a bigger screen
-	margin-top: 100px;
+	margin-top: 200px;
 }
 
 /*********************

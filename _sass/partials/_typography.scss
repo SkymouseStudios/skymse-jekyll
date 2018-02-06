@@ -114,8 +114,8 @@ $serif:             "Rubik", Cambria, Times New Roman, Times, serif;
 
 /* some nice typographical defaults */
 
-p {
-  font-size: 1.2em;
+p, ul, li {
+  font-size: 1em;
   line-height: 2em;
   font-weight: 300;
   -ms-word-wrap: break-word;
@@ -166,23 +166,14 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  color: white;
+  color: $black;
+  text-transform: uppercase;
   font-family: $sans-serif;
   font-weight: 200;
   font-size: 20px;
-  border: 2px solid $white;
   border-radius: 5px;
   padding: 10px;
-  display: inline-block;
-
-  &:after {
-    content: "";
-    border-top: 3px solid white;
-    border-bottom: 3px solid white;
-    display: block;
-    border-radius: 5px;
-    box-shadow: 3px 3px 0 rgba(0,0,0,0.15);
-  }
+  text-align: center;
 }
 
 .subtitle {
