@@ -59,3 +59,44 @@
 	<body itemscope itemtype="http://schema.org/WebPage">
 
 	<div id="container">
+
+	<header class="header header-home" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+		<div id="inner-header" class="cf">
+
+			<a href="index.html" rel="nofollow">
+			<img alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/skymse-logo.svg"></a>
+
+			<div id="menu-burger">
+				<i class="icon-menu"></i>
+			</div>
+
+			<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="cf">
+	          		{% for link in site.links %}
+			            <li>
+			              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+			            </li>
+	          		{% endfor %}
+	        	</ul>
+			</nav>
+
+			<nav id="desktop-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="cf">
+	          		{% for link in site.links %}
+			            <li>
+			              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+			            </li>
+	          		{% endfor %}
+	        	</ul>
+			</nav>
+		</div> 
+
+		<div class="pad">
+		<div class="hero d-1of2 t-all m-all">
+			<h1>{{ page.title }}</h1>
+            <p class="h2">{{ page.subtitle }}</p>
+		</div>
+	</div>
+
+</header>

@@ -26,6 +26,8 @@ compress_html:
 sass:
   style: compressed
 
+include: ["_pages"]
+permalink: /:title/
 # Links to include in menu navigation
 links:
   - title: About

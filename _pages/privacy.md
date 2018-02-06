@@ -1,8 +1,9 @@
 ---
 
 title: Privacy
-layout: page
+layout: page-md
 subtitle: Mum's the word.
+permalink: privacy.html
 img:
 
 ---
