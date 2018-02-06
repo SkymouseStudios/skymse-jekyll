@@ -9,10 +9,10 @@ Stylesheet: Button Styles
   text-decoration: none;
   color: $white(.9);
   font-size: 0.9em;
-  font-weight: bold;
+  font-weight: 300;
   padding: 5px 10px;
   margin: 5px;
-  border-radius: 10px;
+  border-radius: 5px;
   cursor: pointer;
   background-color: transparent;
 
@@ -156,4 +156,9 @@ Stylesheet: Button Styles
   }
 }
 
+a.nav-button {
+  @extend %btn;
+  color: $black;
+  background-color: $lgray;
+}
 

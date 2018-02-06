@@ -19,7 +19,6 @@ body {
 	color: $text-color;
   	-webkit-font-smoothing: antialiased;
   	-moz-osx-font-smoothing: grayscale;
-  	background: $black;
 }
 
 .wrapper {
@@ -28,56 +27,66 @@ body {
 
 section {
 	position: relative;
-    border-radius: 10px;
+    border-radius: 5px;
     margin: 20px 0 0;
-    border-top: 20px solid $lblue;
     height: auto;
+	border: 4px solid $lgray;
+	padding: 3em;
 }
 
-.parallax-section {
+section.home {
 	position: relative;
-    height: 500px;
-    height: 100vh;
-    	// these are for the parallaxing effect
-	    -webkit-transform-style: preserve-3d;
-	    transform-style: preserve-3d;
-	    -webkit-transition: -webkit-transform 0.5s;
-    	transition: transform 0.5s;
-	border-radius: none;
-	margin: 0;
+    border-radius: 0px;
+    margin: 3em 0;
+    height: auto;
+	border: none;
+	padding: 0;
 }
 
-/*********************
-LAYOUT & GRID STYLES
-*********************/
+.content {
+	max-width: 400px;
+}
+
+.title {
+	background-color: $black;
+	padding: 3em;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	text-align: center;
+
+	h3 {
+		color: $white;
+	}
+}
+
+.description {
+	background-color: #D8D8D8;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	padding: 2em;
+
+	p {
+		margin: 0;
+		font-size: 1.3em;
+		font-weight: 400;
+	}
+}
+
+.quote {
+	font-size: 2em;
+	font-style: italic;
+	margin-top: 1em;
+	text-align: right;
+}
+
+.client {
+	text-align: right;
+}
 
 /*********************
 LINK STYLES
 *********************/
 
-a, a:visited {
-	color: $link-color;
-
-	/* on hover */
-	&:hover, &:focus {
-		color: $link-hover;
-	}
-
-	/* on click */
-	&:active {
-
-	}
-
-	/* mobile tap color */
-	&:link {
-		/*
-		this highlights links on iPhones/iPads.
-		so it basically works like the :hover selector
-		for mobile devices.
-		*/
-		-webkit-tap-highlight-color : rgba( 0, 0, 0, 0.3 );
-	}
-}
 
 /******************************************************************
 H1, H2, H3, H4, H5 STYLES
@@ -85,7 +94,6 @@ H1, H2, H3, H4, H5 STYLES
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	text-rendering: optimizelegibility;
-	font-weight: 500;
 
 	/* removing text decoration from all headline links */
 	a {
@@ -98,43 +106,19 @@ HEADER STYLES
 *********************/
 
 .header {
-	//header settings for the average mobile page
-	background-color: $black;
-	height: 40vh;
 	display: block;
 	position: relative;
 	overflow: hidden;
-	border-radius: 0 0 10px 10px;
-}
-
-.header-home {
-	height: 80vh; // special height for home header
-	margin: 20px;
-}
-
-.header-buttons {
-	z-index: 999;
 }
 
 #logo {
 	margin: 0.75em 0;
-
-	a {
-		color: $white;
-	}
 }
 
 
 .hero {
-	//callout settings for mobile
 	margin-top: 50px;
 	text-align: left;
-
-	p {
-		font-size: 1.5em;
-		font-family: $sans-serif;
-		font-weight: 200;
-	}
 }
 
 /*********************
@@ -157,28 +141,6 @@ NAVIGATION STYLES
 		ul {
 			display: block;
 			text-align: left;
-			
-			li {
-				font-size: 2em;
-				border-radius: 5px;
-
-				&:hover, &:focus {
-					background-color: $lblue;
-				}
-
-				a {
-					@extend %btn;
-					width: 100%;
-
-					&:hover, &:focus { 
-						background-color: transparent;
-						}
-				}
-
-				&:last-child {
-					background-color: $orange;
-				}
-			}
 		}
 	}
 }
@@ -235,22 +197,13 @@ TEMPLATE OBJECTS
 *********************/
 
 // This is for a main point or the main feature idea on a page
-._idea-box {
-	padding: 20px;
-	border-radius: 10px;
-	border: 3px solid $orange;
+._big-idea-box {
+	border: none;
+	padding: 40px;
+	background-color: $ygray;
 
-	font-family: $sans-serif;
-	font-size: 1.2em;
-
-	&--orange {
-		@extend ._idea-box;
-		border: 3px solid $orange;
-	}
-
-	&--lblue {
-		@extend ._idea-box;
-		border: 3px solid $lblue;
+	.content {
+		margin: 0 10%;
 	}
 }
 
@@ -393,32 +346,47 @@ main {
 	}
 }
 
+
+.profile {
+	img {
+		width: 50px;
+		border-radius: 5px;
+		margin-right: 10px;
+	}
+
+	p {
+		margin: 0;
+	}
+
+	.bio {
+		display: inline-block;
+	}
+}
+
+
 /*********************
 FOOTER STYLES
 *********************/
 
 footer {
-	margin-top: 20px;
-	background-color: $dblue;
+	margin: 20px 10%;
 	z-index: 999;
 	position: relative;
 	display: block;
 
 	#inner-footer {
-		padding: 20px 0;
+		background-color: $lgray;
+		border-radius: 5px;
 	}
 }
 
-img.footer-logo {
-			display: none;
-	    }
 
 .footer-links, .social-links {
 	float: none;
 	text-align: center;
 
 	a {
-		font-size: 1.5em;
+		font-size: 1em;
 	}
 	
 	ul, li {
