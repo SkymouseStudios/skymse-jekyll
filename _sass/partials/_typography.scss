@@ -176,6 +176,11 @@ h4, .h4 {
   text-align: center;
 }
 
+code {
+  background-color: $lgray;
+  border-radius: 5px;
+}
+
 .subtitle {
   font-size: 1.5em;
   color: $black;

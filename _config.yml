@@ -40,8 +40,8 @@ links:
     url: /contact.html
   - title: Social
     url: /social.html
-  - title: Blog
-    url: /blog.html
+  - title: Stories
+    url: /stories.html
 
 # projects in header index
 projects:

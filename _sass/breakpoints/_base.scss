@@ -21,14 +21,6 @@ body {
   	-moz-osx-font-smoothing: grayscale;
 }
 
-body#post {
-	background-color: $ygray;
-}
-
-.wrapper {
-	margin: 0 20px;
-}
-
 section {
 	position: relative;
     border-radius: 5px;
@@ -452,6 +444,13 @@ main {
 		padding: 2px;
 	}
 
+#post {
+	.time-to-read {
+		position: relative;
+		display: inline-block;
+		float: right;
+	}
+}
 /*********************
 FOOTER STYLES
 *********************/
@@ -465,20 +464,22 @@ footer {
 	#inner-footer {
 		background-color: $lgray;
 		border-radius: 5px;
+		padding: 0 40px;
 	}
 }
 
 
 .footer-links, .social-links {
-	float: none;
-	text-align: center;
+	display: inline-block;
+	margin-right: 10px;
+
+	p {
+		margin-right: 40px;
+	}
 
 	a {
 		font-size: 1em;
-	}
-
-	ul {
-		margin-left: 20px;
+		margin-right: 10px;
 	}
 	
 	ul, li {
