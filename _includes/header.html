@@ -66,7 +66,7 @@
 		<div id="inner-header" class="cf">
 
 			<a href="index.html" rel="nofollow">
-			<img alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/skymse-logo.svg"></a>
+			<img id="logo" alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymse-logo.svg"></a>
 
 			<div id="menu-burger">
 				<i class="icon-menu"></i>
@@ -92,14 +92,19 @@
 	        	</ul>
 			</nav>
 
-			<div class="hero d-3of4 t-all m-all">
+		{% if page.layout == "default" %}
+			<div class="hero d-3of4 t-all m-all m-margin">
 				<h1>{{ page.title }}</h1>
             	<p class="subtitle">{{ page.subtitle }}</p>
 			</div>
-		</div> 
 		
+
 			<div class="header-image">
 				<img src="{{ page.img }}" alt="">
 			</div>
-	
+		
+		{% elsif page.layout == "post" %}
+			
+		{% endif %}
+	</div> 
 </header>

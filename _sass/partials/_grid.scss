@@ -39,8 +39,8 @@ Stylesheet: Grid Stylesheet
 
 .pricing-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
+  grid-gap: 20px;
   grid-auto-rows: repeat(4, 1fr);
 }
 
@@ -103,6 +103,24 @@ Stylesheet: Grid Stylesheet
     width: 75%;
   }
 
+  .m-margin {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+
+  .one {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .two { 
+    grid-column: 1;
+  }
+
+  .three {
+    grid-column: 1;
+    grid-row: auto;
+  }
 } // end mobile styles
 
 

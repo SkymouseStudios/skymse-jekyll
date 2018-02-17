@@ -16,98 +16,11 @@ body {
 	font-family: $serif;
 	font-size: 100%;
 	line-height: 1.5;
-	color: $text-color;
+	color: $black;
   	-webkit-font-smoothing: antialiased;
   	-moz-osx-font-smoothing: grayscale;
 }
 
-section {
-	position: relative;
-    border-radius: 5px;
-    margin: 20px 0 0;
-    height: auto;
-	border: 4px solid $lgray;
-	padding: 3em;
-}
-
-section.home {
-	position: relative;
-    border-radius: 0px;
-    margin: 3em 0;
-    height: auto;
-	border: none;
-	padding: 0;
-
-	.content {
-		max-width: 400px;
-	}
-}
-
-section.card {
-	padding: 0;
-
-	h3 {
-		background-color: $lgray;
-		width: 100%;
-		text-align: center;
-		padding: 20px 0;
-	}
-
-	p {
-		margin: 1em;
-	} 
-}
-
-section.blank {
-	padding: 0;
-	border: none;
-
-}
-
-.title {
-	background-color: $black;
-	padding: 3em;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	text-align: center;
-
-	h3 {
-		color: $white;
-	}
-}
-
-.description {
-	background-color: #D8D8D8;
-	border-bottom-left-radius: 5px;
-	border-bottom-right-radius: 5px;
-	padding: 2em;
-
-	p {
-		margin: 0;
-		font-size: 1.3em;
-		font-weight: 400;
-	}
-}
-
-.quote {
-	font-size: 2em;
-	font-style: italic;
-	margin-top: 1em;
-	text-align: right;
-}
-
-.client {
-	text-align: right;
-}
-
-.blog-image {
-	background-color: $orange;
-	width: 140%;
-	margin: 0 -20%;
-	height: 300px;
-	overflow: hidden;
-	border-radius: 5px;
-}
 
 /*********************
 LINK STYLES
@@ -132,6 +45,15 @@ a {
 	color: $black;
 }
 
+.pricing-grid {
+	h5 {
+		text-align: center;
+	}
+}
+
+h2 {
+	font-size: 2em;
+}
 /*********************
 HEADER STYLES
 *********************/
@@ -141,21 +63,20 @@ header {
 	display: block;
 	overflow: hidden;
 	width: 100%;
+}
+
+.header-image {
+	z-index: -10;
+	position: absolute;
+	top: 0px;
+	left: 0;
+	right: 0;
+	width: 100%;
 
 	img {
-		z-index: -10;
-		position: absolute;
-		top: -150px;
-		left: 0;
-		right: 0;
-		width: 100%;
+		width: 150%;
 	}
 }
-
-#logo {
-	margin: 0.75em 0;
-}
-
 
 .hero {
 	margin-top: 100px;
@@ -168,13 +89,6 @@ NAVIGATION STYLES
 
 #inner-header {
 	z-index: 999;
-
-	img {
-		width: 15%;
-		position: absolute;
-		top: 20px;
-		left: 40px;
-	}
 	
 	// Mobile Menu Settings
  	nav {
@@ -184,6 +98,12 @@ NAVIGATION STYLES
 			text-align: left;
 		}
 	}
+}
+
+#logo {
+	top: 30px;
+	width: 100px;
+	z-index: 999;
 }
 
 #desktop-menu {
@@ -233,6 +153,111 @@ NAVIGATION STYLES
 	}
 }
 
+
+/*********************
+SECTIONS
+*********************/
+
+section {
+	position: relative;
+    border-radius: 5px;
+    margin: 20px 1em 0 1em;
+    height: auto;
+	border: 4px solid $lgray;
+	overflow: hidden;
+
+	&.home {
+	    border-radius: 0px;
+	    margin: 3em 0;
+	    height: auto;
+		border: none;
+		padding: 0;
+		text-align: center;
+
+		img {
+			z-index: -1;
+			width: 300px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: -100px;
+		}
+
+		.content {
+			z-index: 1;
+			max-width: 420px;
+			margin: 0 1em;
+		}
+	}
+
+	&.card {
+		padding: 0;
+		margin: 0 2em;
+
+		h3 {
+			background-color: $lgray;
+			width: 100%;
+			text-align: center;
+			padding: 20px 0;
+		}
+
+		p {
+			margin: 1em;
+		} 
+	}
+
+	&.blank {
+		padding: 0;
+		border: none;
+	}
+}
+
+	
+
+.title {
+	background-color: $black;
+	padding: 3em;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	text-align: center;
+
+	h3 {
+		color: $white;
+	}
+}
+
+.description {
+	background-color: #D8D8D8;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	padding: 2em;
+
+	p {
+		margin: 0;
+		font-size: 1.3em;
+		font-weight: 400;
+	}
+}
+
+.quote {
+	font-size: 2em;
+	font-style: italic;
+	margin-top: 1em;
+	text-align: right;
+}
+
+.client {
+	text-align: right;
+}
+
+.blog-header {
+	background-color: $orange;
+	height: 300px;
+	overflow: hidden;
+	border-radius: 5px;
+	width: 140%;
+	margin: 20px -20%;
+}
+
 /*********************
 TEMPLATE OBJECTS
 *********************/
@@ -240,12 +265,8 @@ TEMPLATE OBJECTS
 // This is for a main point or the main feature idea on a page
 ._big-idea-box {
 	border: none;
-	padding: 40px;
+	padding: 20px;
 	background-color: $ygray;
-
-	.content {
-		margin: 0 10%;
-	}
 }
 
 // box for explaining details about a service
@@ -429,7 +450,8 @@ main {
 	}
 
 	img {
-		width: 100%;	
+		width: 100%;
+		margin: 0;
 	}
 }
 
@@ -451,6 +473,14 @@ main {
 		float: right;
 	}
 }
+
+img.client-site {
+	position: absolute;
+	width: 300px;
+	bottom: -170px;
+	right: -170px;
+}
+
 /*********************
 FOOTER STYLES
 *********************/
@@ -471,7 +501,7 @@ footer {
 
 .footer-links, .social-links {
 	display: inline-block;
-	margin-right: 10px;
+	margin-right: 40px;
 
 	p {
 		margin-right: 40px;

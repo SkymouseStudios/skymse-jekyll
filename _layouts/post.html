@@ -1,7 +1,3 @@
----
-layout: page
----
-
 {% include header.html %}
 
 <div id="post">
@@ -9,21 +5,20 @@ layout: page
   <section class="blank">
     <h2>{{ page.title }}</h2>
   
-    <div class="post-info-wrapper">
+    <div class="post-info-wrapper cf">
       
       
       {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}
 
       <div class="time-to-read">4 Minutes of Quality Reading 👌</div>
-      
-      <div class="blog-image">
-            <img src="{{ post.img }}" alt="{{ post.title }}">
-      </div>
+
     </div>
   </section>
 
-    <img class="blog-image" src="{{ page.img }}" alt="">
-
+  <div class="blog-header">
+     <img class="blog-image" src="{{ page.img }}" alt="">
+  </div>
+  
   <section class="blank">
     {{ content }}
   </section>

@@ -3,15 +3,16 @@
 title: Stories
 layout: default
 subtitle: Learn something new.
-permalink: blog.html
+permalink: stories.html
 img: /library/images/headers/header-blog.svg
 
 ---
 
 
 <div id="page">
+	
 	<div class="blog-grid">
-	{% for post in site.posts limit:9 %}
+	{% for post in site.posts limit:12 %}
 		<a class="blank" href="{{ post.url }}">
 			<div class="blog-post">
 				<h2>{{ post.title }}</h2>

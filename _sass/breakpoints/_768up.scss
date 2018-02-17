@@ -12,6 +12,10 @@ LAYOUT & GRID STYLES
 	overflow: hidden; // hide anything that wants to overflow
 }
 
+#page {
+	margin-top: -100px;
+}
+
 #post {
 	width: 700px;
 	margin: 0 auto;
@@ -38,9 +42,18 @@ LAYOUT & GRID STYLES
 HEADER STYLES
 *********************/
 
+.header-image {
+	top: -175px;
+
+	img {
+		width: 120%;
+	}
+}
+
 .hero {
 	// Adjust the hero callout for a bigger screen
 	margin-top: 200px;
+	margin-bottom: 200px;
 }
 
 /*********************
@@ -75,6 +88,25 @@ TEMPLATE OBJECTS
 	}
 }
 
+section {
+	padding: 3em;
+	margin: 2em 0;
+}
+
+section.card {
+	margin: 0;
+}
+
+img.client-site {
+	width: 350px;
+	bottom: -200px;
+	right: 0px;
+	transition: 0.5s;
+
+	&:hover {
+		bottom: -50px;
+	}
+}
 
 /*********************
 POSTS & CONTENT STYLES

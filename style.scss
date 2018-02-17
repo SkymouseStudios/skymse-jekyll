@@ -3,36 +3,23 @@
 
 // normalize: http://necolas.github.io/normalize.css/
 @import "partials/normalize";
-
-// Sass variables
 @import "partials/variables";
-
-// typography
 @import "partials/typography";
-
-// Sass functions
 @import "partials/functions";
-
-// the grid
 @import "partials/grid";
 
 /*********************
 IMPORTING MODULES
 *********************/
 
-// alert boxes
 @import "modules/alerts";
-
-// buttons
 @import "modules/buttons";
-
-// forms (inputs & labels)
 @import "modules/forms";
-
 
 /*********************
 BASE (MOBILE) SIZE
 *********************/
+
 @import "breakpoints/base";
 
 /*********************
