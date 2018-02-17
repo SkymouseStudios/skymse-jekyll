@@ -1,9 +1,10 @@
 ---
 
 title: Help
-layout: page-md
+layout: post
 subtitle: Hello, how can we help?
-img:
+permalink: help.html
+img: /library/images/headers/header-contact+0.svg
 
 ---
 

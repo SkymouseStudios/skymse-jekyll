@@ -22,14 +22,14 @@
   $message_sent    = "Thanks! Your message has been sent.";
 
   //user posted variables
-  $name = $_POST['message_name'];
+  $name = $_POST['name'];
   $email = $_POST['message_email'];
   $message = $_POST['message_text'];
   $human = $_POST['message_human'];
-  $website = $_POST['website_url'];
+  $website = $_POST['website'];
 
   //php mailer variables
-  $to = "sos@skymse.com";
+  $to = "patrick@skymse.com";
   $subject = "Someone sent a message from the SkymouseStudios.com"
   $headers = 'From: '. $email . "\r\n" .
     'Reply-To: ' . $email . "\r\n" .

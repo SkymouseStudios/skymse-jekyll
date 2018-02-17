@@ -93,6 +93,25 @@ section {
 	margin: 2em 0;
 }
 
+section.home {
+	&.border-left {
+		border-left: 5px solid #efefef;
+
+		img {
+			width: 500px;
+			margin-left: -300px;
+		}
+	}
+
+	&.border-right {
+		border-right: 5px solid #efefef;
+		img {
+			width: 500px;
+			margin-right: -300px;
+		}
+	}
+}
+
 section.card {
 	margin: 0;
 }

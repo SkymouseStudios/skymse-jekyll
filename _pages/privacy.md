@@ -1,10 +1,10 @@
 ---
 
 title: Privacy
-layout: page-md
+layout: post
 subtitle: Mum's the word.
 permalink: privacy.html
-img:
+img: /library/images/headers/header-contact+0.svg
 
 ---
 

@@ -24,7 +24,7 @@ textarea,
   margin: 0px 0px 2% 0px;
   width: 100%;
   font-size: 1em;
-  color: white;
+  color: $black;
   border-radius: 5px;
   vertical-align: middle;
   box-shadow: none;
@@ -265,10 +265,15 @@ form {
   }
 
   label {
-    margin-top: 30px;
+    display: block;
+    margin-top: 20px;
     font-family: $sans-serif;
     font-size: 1em;
     color: $black;
+
+    span {
+      color: $orange;
+    }
   }
 
   input[type="submit"],
@@ -298,8 +303,8 @@ form {
     border-radius: 3px;
   }
 
-  form span{
-    color: $cheese;
+  input[type="radio"] {
+    margin-right: 10px;
   }
 }
 
