@@ -15,7 +15,7 @@
 		<meta name="description" content="Skymouse Studios helps you tell stories, design better, and develop a brand people love. From beautiful and speedy websites to slick motion graphics, we've gotcha covered.">
 		<meta property="og:title" content="Skymouse Studios" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://skymse.com" />
+		<meta property="og:url" content="{{ site.baseurl }}" />
 		<meta property="og:image" content="{{ site.baseurl }}/screenshot.png" />
 
 		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
@@ -32,7 +32,7 @@
 			  "@context": "http://schema.org",
 			  "@type": "Organization",
 			  "name": "Skymouse Studios",
-			  "url": "http://SkymouseStudios.com",
+			  "url": "{{ site.baseurl }}",
 			  "email": "info@skymse.com"
 			  "founders": [ "John Welch", "Patrick Hanus" ],
 			  "foundingDate": "2016-05-20",
@@ -52,8 +52,7 @@
 		<link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 		<!-- <link rel="stylesheet" href="/library/css/ie.css"> -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo:400,700">
-		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Rubik:500">
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Rubik:300,500">
 	</head>
 
 	<body itemscope itemtype="http://schema.org/WebPage">
@@ -62,7 +61,16 @@
 
 	<header role="banner" itemscope itemtype="http://schema.org/WPHeader">
 
-
+		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+			<ul class="cf">
+          		{% for link in site.links %}
+		            <li>
+		              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+		            </li>
+          		{% endfor %}
+        	</ul>
+		</nav>
+			
 		<div id="inner-header" class="cf">
 
 			<a href="index.html" rel="nofollow">
@@ -73,16 +81,6 @@
 			<div id="menu-burger">
 				<i class="icon-menu"></i>
 			</div>
-
-			<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-				<ul class="cf">
-	          		{% for link in site.links %}
-			            <li>
-			              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
-			            </li>
-	          		{% endfor %}
-	        	</ul>
-			</nav>
 
 			<nav id="desktop-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 				<ul class="cf">

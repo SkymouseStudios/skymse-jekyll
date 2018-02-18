@@ -9,7 +9,7 @@ img: /library/images/headers/header-blog.svg
 ---
 
 
-<div id="page">
+<main id="page">
 	
 	<div class="blog-grid">
 	{% for post in site.posts limit:12 %}
@@ -17,7 +17,7 @@ img: /library/images/headers/header-blog.svg
 			<div class="blog-post">
 				<h2>{{ post.title }}</h2>
 				<div class="picture">
-					<div class="time-to-read">4 Minutes of Quality Reading 👌</div>
+					<div class="time-to-read"> {{ post.ttr }} Minutes of Quality Reading 👌</div>
 					<img src="{{ post.img }}" alt="{{ post.title }}">
 				</div>
 				<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
@@ -25,4 +25,4 @@ img: /library/images/headers/header-blog.svg
 		</a>
 	{% endfor %}
 	</div>
-</div>
+</main>

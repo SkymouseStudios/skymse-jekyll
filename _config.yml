@@ -28,6 +28,7 @@ sass:
 
 include: ["_pages"]
 permalink: /:title/
+
 # Links to include in menu navigation
 links:
   - title: About
@@ -38,8 +39,6 @@ links:
     url: /pricing.html
   - title: Contact
     url: /contact.html
-  - title: Help
-    url: /help.html
   # - title: Social
   #   url: /social.html
   # - title: Stories
@@ -47,8 +46,6 @@ links:
 
 # projects in header index
 projects:
-  - name: Skymouse Studios
-    url: 
   - name: RESOURCE Commercial Real Estate
     url: 
   - name: St. Martin's Catholic Church
@@ -77,7 +74,9 @@ social:
 descriptions:
   - cat: Website
     desc: "Things that make life better."
-
   - cat: Brand
     desc: "Developing a better me"
-
+  - cat: Hosting
+    desc: "Developing a better me"
+  - cat: SEO
+    desc: "Developing a better me"

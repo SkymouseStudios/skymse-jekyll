@@ -7,11 +7,14 @@
   
     <div class="post-info-wrapper cf">
       
-      
+    {% if page.author != "" %}
       {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}
+    {% endif %}
 
-      <div class="time-to-read">4 Minutes of Quality Reading 👌</div>
-
+    {% if page.ttr != "" %}
+      <div class="time-to-read">{{ page.ttr }} Minutes of Quality Reading 👌</div>
+    {% endif %}
+    
     </div>
   </section>
 

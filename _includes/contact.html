@@ -5,43 +5,41 @@
       <img src="{{ site.baseurl }}/library/images/icons/icon-social.svg" alt="">
       <h3>Got a project?</h3>
       <div class="content">
-        <p>This form shoots an email directly to one of our team. We’ll take a quick look at your site and get back to you at the speed of light.</p>
+        <p>This form shoots an email directly to one of our team. We’ll take a quick look at your site and get back to you at the <strong>speed of light.</strong></p>
       </div>
 
     </aside>
 
     <aside class="d-1of2 t-4of5 m-all right">
-      <div id="respond">
-        <form action="https://formspree.io/sos@skymse.com" method="post">
+    
+      <form action="https://formspree.io/sos@skymse.com" method="post">
 
-          <label for="name">What's Your Name? <span>*</span> <br>
-            <input type="text" name="person_name">
-          </label>
-           
-          <label for="message_email">Email: <span>*</span> <br>
-            <input type="text" name="_replyto">
-          </label>
+        <label for="name">What's Your Name? <span>*</span> <br>
+          <input type="text" name="person_name" required="required">
+        </label>
+         
+        <label for="message_email">Email: <span>*</span> <br>
+          <input type="text" name="_replyto" required="required">
+        </label>
 
-          <label for="name">Link to your current website: <span>(optional)</span> <br>
-            <input type="text" name="website_url">
-          </label>
+        <label for="name">Link to your current website: <span>(optional)</span> <br>
+          <input type="text" name="website_url" required="required">
+        </label>
 
-           <label for="name">Budget Range: <span>*</span> <br>
-            <input type="checkbox" value="$8k-$10k">$8k-$10k<br>
-            <input type="checkbox" value="$20k-$300k">$20k-$300k<br>
-            <input type="checkbox" value="$50k-up">$50k-up<br>
-          </label>
+         <label for="name">Budget Range: <span>*</span> <br>
+          <input type="checkbox" value="$8k-$10k">$8k-$10k<br>
+          <input type="checkbox" value="$20k-$300k">$20k-$300k<br>
+          <input type="checkbox" value="$50k-up">$50k-up<br>
+        </label>
 
-          <label for="message_text">What do you want to do? <span>*</span> <br>
-            <textarea type="text" name="message_text">
-          </textarea></label>
+        <label for="message_text">What do you want to do? <span>*</span> <br>
+          <textarea type="text" name="message_text">
+        </textarea></label>
 
-          <input class="action-btn d-all" type="submit" value="Send">
-        </form>
-      </div><!-- end respond -->
-    </aside><!-- end aside with form -->
-
-  </div><!-- end section padding -->
+        <input class="action-btn d-all" type="submit" value="Send">
+      </form>
+    </aside>
+  </div>
 </section>
 
 

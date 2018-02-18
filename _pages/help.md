@@ -4,7 +4,6 @@ title: Help
 layout: post
 subtitle: Hello, how can we help?
 permalink: help.html
-img: /library/images/headers/header-contact+0.svg
 
 ---
 

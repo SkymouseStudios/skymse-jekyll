@@ -21,6 +21,12 @@ body {
   	-moz-osx-font-smoothing: grayscale;
 }
 
+// Landing page
+#Landing {
+	background-image: url('library/images/icons/icon-subtle-pattern.svg');
+	background-size: 300px;
+	background-repeat: repeat;
+}
 
 /*********************
 LINK STYLES
@@ -54,6 +60,7 @@ a {
 h2 {
 	font-size: 2em;
 }
+
 /*********************
 HEADER STYLES
 *********************/
@@ -70,14 +77,23 @@ header {
 	z-index: -10;
 	position: absolute;
 	top: 0px;
-	left: 0;
+	left: -250px;
 	right: 0;
 	width: 100%;
-	opacity: .3;
+	opacity: .4;
 
 	img {
-		width: 150%;
+		width: 1000px;
 	}
+}
+
+.blog-header {
+	background-color: $orange;
+	height: 300px;
+	overflow: hidden;
+	border-radius: 5px;
+	width: 140%;
+	margin: 20px -20%;
 }
 
 .hero {
@@ -92,9 +108,7 @@ NAVIGATION STYLES
 #inner-header {
 	z-index: 999;
 	
-	// Mobile Menu Settings
  	nav {
-
 		ul {
 			display: block;
 			text-align: left;
@@ -103,10 +117,8 @@ NAVIGATION STYLES
 }
 
 #logo {
-	position: absolute;
-	top: 30px;
+	margin-top: 20px;
 	width: 100px;
-	z-index: 999;
 }
 
 #desktop-menu {
@@ -119,7 +131,7 @@ NAVIGATION STYLES
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(0, 0, 0, .9);
+    background: rgba(150, 150, 150, 0.9);
     border-left: 5px solid $orange;
     padding: 5% 1em;
     z-index: 999;
@@ -129,6 +141,13 @@ NAVIGATION STYLES
     transition: transform 0.4s;
     -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
     transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+
+    a {
+    	width: 120%;
+    	font-size: 1.5em;
+    	padding: 0.8em;
+    	border-bottom: 3px solid #cfcfcf;
+    }
 } 
 
 #mobile-menu.menu-shown {
@@ -178,6 +197,7 @@ section {
 		margin: 1em;
 	}
 
+	// Home page
 	&.home {
 	    border-radius: 0px;
 	    margin: 5em 0;
@@ -201,6 +221,7 @@ section {
 		}
 	}
 
+	// pricing cards
 	&.card {
 		padding: 0;
 		margin: 0 2em;
@@ -217,57 +238,12 @@ section {
 		} 
 	}
 
+	// no border and stuff
 	&.blank {
 		padding: 0;
 		border: none;
+		text-align: left;
 	}
-}
-
-	
-
-.title {
-	background-color: $black;
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	text-align: center;
-	padding: 1.5em;
-
-	h3 {
-		color: $white;
-	}
-}
-
-.description {
-	background-color: #D8D8D8;
-	border-bottom-left-radius: 5px;
-	border-bottom-right-radius: 5px;
-	padding: 1.5em;
-
-	p {
-		margin: 0;
-		font-size: 1.3em;
-		font-weight: 400;
-	}
-}
-
-.quote {
-	font-size: 1.5em;
-	font-style: italic;
-	margin-top: 1em;
-	text-align: right;
-}
-
-.client {
-	text-align: right;
-}
-
-.blog-header {
-	background-color: $orange;
-	height: 300px;
-	overflow: hidden;
-	border-radius: 5px;
-	width: 140%;
-	margin: 20px -20%;
 }
 
 /*********************
@@ -279,29 +255,8 @@ TEMPLATE OBJECTS
 	border: none;
 	padding: 20px;
 	background-color: $ygray;
-}
-
-// box for explaining details about a service
-._sub-box {
-	padding: 20px;
-	border-radius: 5px;
-	margin-top: 10px;
-	background-color: rgba(190,190,190,.5);
-	box-shadow: 6px 6px 10px 2px rgba(3,3,3,.1);
-
-	::hover {
-		box-shadow: 7px 7px 20px 5px rgba(3,3,3,.1);
-	}
-
-	h4 {
-		margin: 0;
-		vertical-align: top;
-	}
-
-	img {
-		width: 50px;
-		vertical-align: bottom;
-	}
+	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
+    background-size: 300px;
 }
 
 #tweet {
@@ -365,40 +320,46 @@ TEMPLATE OBJECTS
     -o-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
 }
-/*********************
-POSTS & CONTENT STYLES
-*********************/
 
-#proof {
-	z-index: 3;
-	height: 500px;
-	border: none;
-	padding-top: 0px;
-	margin-top: 0px;
-	margin-top: 20px;
+// Home page selling points
+.title {
+	background-color: $black;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	text-align: center;
+	padding: 1.5em;
 
-	> div {
-		margin-top: 20px;
-		height: 50%;
-		text-align: center;
+	h3 {
+		color: $white;
 	}
 }
 
-#content {
-	-webkit-transform-style: preserve-3d;
-	transform-style: preserve-3d;
-	-webkit-transition: -webkit-transform 0.5s;
-    transition: transform 0.5s;
-    z-index: 10;
-    width: 100%;
-    background-color: white;
+.description {
+	background-color: #D8D8D8;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	padding: 1.5em;
+
+	p {
+		margin: 0;
+		font-size: 1.3em;
+		font-weight: 400;
+	}
 }
-		
-main {
-	margin: 0 auto;
-	float: none;
-	width: 75%;
+
+.quote {
+	font-size: 1.5em;
+	font-style: italic;
+	margin-top: 1em;
+	text-align: right;
 }
+
+.client {
+	text-align: right;
+}
+/*********************
+POSTS & CONTENT STYLES
+*********************/
 
 .hentry {
 	background-color: $white;
@@ -483,6 +444,7 @@ main {
 		position: relative;
 		display: inline-block;
 		float: right;
+		bottom: 0px;
 	}
 }
 

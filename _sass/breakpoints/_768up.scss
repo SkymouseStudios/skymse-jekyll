@@ -21,17 +21,6 @@ LAYOUT & GRID STYLES
 	margin: 0 auto;
 }
 
-// Landing page
-.landing {
-	background-image: url(library/images/patterns/grid-2.svg);
-	background-position: top right;
-	background-size: 10%;
-	background-repeat: repeat;
-	background-blend-mode: multiply;
-	background-color: $black;
-	padding-top: 100px;
-}
-
 .top-logo {
 	margin: 0 auto;
 	text-align: center;
@@ -43,10 +32,11 @@ HEADER STYLES
 *********************/
 
 .header-image {
-	top: -175px;
+	top: 0px;
+	left: 0px;
 
 	img {
-		width: 120%;
+		width: 100%;
 	}
 }
 

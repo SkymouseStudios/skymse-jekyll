@@ -3,41 +3,7 @@ Stylesheet: Typography
 ******************************************************************/
 
 // Icon Font (Menu Icons, Social Icons, Etc.)
-@import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
-
-@font-face {
-  font-family: 'icomoon';
-  src:url('/library/fonts/icomoon.eot?-cr6w4i');
-  src:url('/library/fonts/icomoon.eot?#iefix-cr6w4i') format('embedded-opentype'),
-    url('/library/fonts/icomoon.woff?-cr6w4i') format('woff'),
-    url('/library/fonts/icomoon.ttf?-cr6w4i') format('truetype'),
-    url('/library/fonts/icomoon.svg?-cr6w4i#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-[class^="icon-"], [class*=" icon-"] {
-  font-family: 'icomoon';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  
-  // Enable Ligatures
-  -webkit-font-feature-settings: "liga";
-  -moz-font-feature-settings: "liga=1";
-  -moz-font-feature-settings: "liga";
-  -ms-font-feature-settings: "liga" 1;
-  -o-font-feature-settings: "liga";
-  font-feature-settings: "liga";
-
-// Better Font Rendering
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
 .icon-search:before {
   content: "\e986";
@@ -171,9 +137,9 @@ h4, .h4 {
   font-family: $sans-serif;
   font-weight: 200;
   font-size: 20px;
-  border-radius: 5px;
-  padding: 10px;
-  text-align: center;
+  // border-radius: 5px;
+  // padding: 10px;
+  // text-align: center;
 }
 
 code {
@@ -190,4 +156,8 @@ code {
 
 .dark {
   color: $gray;
+}
+
+.text-center {
+  text-align: center;
 }
