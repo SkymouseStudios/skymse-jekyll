@@ -54,21 +54,21 @@ projects:
 # Links to Social Media
 social: 
   - name: Spotify
-    url: http://bit.ly/ph-spotify
+    url: https://bit.ly/ph-spotify
   - name: Instagram
-    url: http://bit.ly/ph-insta
+    url: https://bit.ly/ph-insta
   - name: Vimeo
-    url: http://bit.ly/ph-vimeo
+    url: https://bit.ly/ph-vimeo
   - name: LinkedIn
-    url: http://bit.ly/ph-LinkedIn
+    url: https://bit.ly/ph-LinkedIn
   - name: Dribbble
-    url: http://bit.ly/ph-dribbble
+    url: https://bit.ly/ph-dribbble
   - name: YouTube
-    url: http://bit.ly/ph-youtube
+    url: https://bit.ly/ph-youtube
   - name: GitHub
-    url: http://bit.ly/ph-github
+    url: https://bit.ly/ph-github
   - name: Twitter
-    url: http://bit.ly/ph-twitter
+    url: https://bit.ly/ph-twitter
 
 # Descriptions for Blog Categories
 descriptions:
