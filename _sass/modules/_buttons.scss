@@ -9,19 +9,20 @@ Stylesheet: Button Styles
   text-decoration: none;
   color: $white(.9);
   font-size: 0.9em;
-  font-weight: bold;
-  padding: 5px 10px;
-  margin: 5px;
-  border-radius: 10px;
+  font-weight: 300;
+  padding: 0 0.5em;
+  margin: 0.5em;
+  border-radius: 5px;
   cursor: pointer;
   background-color: transparent;
+  transition: .5s;
 
   // hovering on the btn
   &:hover, &:focus {
     text-decoration: none;
     outline: none;
-    transition: .8s;
-    background-color: black(.2);
+    transition: .5s;
+    box-shadow: 0px 6px 15px -5px #00000080;
   } // end hover
 
   // clicking on the button
@@ -33,8 +34,6 @@ Stylesheet: Button Styles
 
 .blue-btn {
   @extend %btn; // here we load the btn defaults
-  padding: 0px 0px;
-  margin: 0px;
   background-color: $dblue;
 
   &:hover,
@@ -50,15 +49,17 @@ Stylesheet: Button Styles
 
  
 %opacity {
-
+  
   transition: .8s ease;
 
-  div.overlay {    
+  div.overlay { 
+    height: 100%;   
     background:rgba(0,0,0,.10);
     text-align: center;
     opacity:50;
     -webkit-transition: opacity .8s ease;
-    transition: .8s ease;       
+    transition: .8s ease;
+    border-radius: 10px;
   } 
 
   &:hover div.overlay {
@@ -132,10 +133,6 @@ Stylesheet: Button Styles
   font-size: .7em;
 }
 
-.social-btn {
-  @extend %btn;
-}
-
 .action-btn {
   padding: 10px;
   color: darken(white, 5%);
@@ -146,13 +143,21 @@ Stylesheet: Button Styles
   font-weight: bold;
   text-align: center;
   border-radius: 5px;
-  border: 3px solid white;
+  border: none;
+  text-transform: capitalize;
 
   &:hover {
     box-shadow: 1px 10px 10px rgba(5,5,5,.2);
     transition: 0.25s;
     color: white;
+    background-color: lighten($orange, 7%);
   }
 }
 
+a.nav-button {
+  @extend %btn;
+  color: $black;
+  background-color: $lgray;
+  border-bottom: 3px solid #cfcfcf;
+}
 

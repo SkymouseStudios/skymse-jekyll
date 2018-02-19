@@ -1,0 +1,32 @@
+{% include header.html %}
+
+<div id="post">
+  
+  <section class="blank">
+    <h2>{{ page.title }}</h2>
+  
+    <div class="post-info-wrapper cf">
+      
+    {% if page.author != "" %}
+      {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}
+    {% endif %}
+
+    {% if page.ttr != "" %}
+      <div class="time-to-read">{{ page.ttr }} Minutes of Quality Reading 👌</div>
+    {% endif %}
+    
+    </div>
+  </section>
+
+  <div class="blog-header">
+     <img class="blog-image" src="{{ page.img }}" alt="">
+  </div>
+  
+  <section class="blank">
+    {{ content }}
+  </section>
+    
+    
+</div>
+
+{% include footer.html %}

@@ -3,36 +3,22 @@
 
 // normalize: http://necolas.github.io/normalize.css/
 @import "partials/normalize";
-
-// Sass variables
 @import "partials/variables";
-
-// typography
 @import "partials/typography";
-
-// Sass functions
 @import "partials/functions";
-
-// the grid
 @import "partials/grid";
 
 /*********************
 IMPORTING MODULES
 *********************/
 
-// alert boxes
-@import "modules/alerts";
-
-// buttons
 @import "modules/buttons";
-
-// forms (inputs & labels)
 @import "modules/forms";
-
 
 /*********************
 BASE (MOBILE) SIZE
 *********************/
+
 @import "breakpoints/base";
 
 /*********************
@@ -89,14 +75,3 @@ PRINT STYLESHEET
 PAGE SPECIFIC STYLING
 *********************/
 
-// These are styles I need to clean up and make better
-@import "shame";
-
-//Styling for a single blog post
-@import "partials/pages/blog-post";
-
-//Styling for a single blog post
-@import "partials/pages/about";
-
-//Styling for a the "contact" page
-@import "partials/pages/contact";

@@ -15,16 +15,16 @@
 		<meta name="description" content="Skymouse Studios helps you tell stories, design better, and develop a brand people love. From beautiful and speedy websites to slick motion graphics, we've gotcha covered.">
 		<meta property="og:title" content="Skymouse Studios" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://skymse.com" />
-		<meta property="og:image" content="/screenshot.png" />
+		<meta property="og:url" content="{{ site.baseurl }}" />
+		<meta property="og:image" content="{{ site.baseurl }}/screenshot.png" />
 
-		<link rel="apple-touch-icon" href="/library/images/apple-touch-icon.png">
-		<link rel="icon" href="/favicon.png">
+		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+		<link rel="icon" href="{{ site.baseurl }}/favicon.png">
 		<!--[if IE]>
 			<link rel="shortcut icon" href="/favicon.ico">
 		<![endif]-->
 		<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="/library/images/win8-tile-icon.png">
+		<meta name="msapplication-TileImage" content="{{ site.baseurl }}/library/images/win8-tile-icon.png">
             <meta name="theme-color" content="#121212">
 		
 		<script type="application/ld+json">
@@ -32,11 +32,11 @@
 			  "@context": "http://schema.org",
 			  "@type": "Organization",
 			  "name": "Skymouse Studios",
-			  "url": "http://SkymouseStudios.com",
+			  "url": "{{ site.baseurl }}",
 			  "email": "info@skymse.com"
 			  "founders": [ "John Welch", "Patrick Hanus" ],
 			  "foundingDate": "2016-05-20",
-			  "logo": "/library/images/skymse-logo-words-100.jpg",
+			  "logo": "{{ site.baseurl }}/library/images/skymse-logo-words-100.jpg",
 			  "sameAs": [
 			    "https://www.instagram.com/SkymouseStudios/",
 				"https://twitter.com/SkymouseStudios",
@@ -49,13 +49,67 @@
 			}
 		</script>
 
-		<link rel="stylesheet" href="/style.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 		<!-- <link rel="stylesheet" href="/library/css/ie.css"> -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo:400,700">
-		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Rubik:500">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,500">
+
+		{% include analyticstracking.html %}
 	</head>
 
 	<body itemscope itemtype="http://schema.org/WebPage">
+		<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJJ59XW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 
 	<div id="container">
+
+	<header role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+			<ul class="cf">
+          		{% for link in site.links %}
+		            <li>
+		              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+		            </li>
+          		{% endfor %}
+        	</ul>
+		</nav>
+			
+		<div id="inner-header" class="cf">
+
+			<a href="index.html" rel="nofollow">
+			<img id="logo" alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymse-logo.svg">
+		</a>
+
+		
+			<div id="menu-burger">
+				<i class="fas fa-bars"></i>
+			</div>
+
+			<nav id="desktop-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="cf">
+	          		{% for link in site.links %}
+			            <li>
+			              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+			            </li>
+	          		{% endfor %}
+	        	</ul>
+			</nav>
+
+		{% if page.layout == "default" %}
+			<div class="hero d-3of4 t-all m-all m-margin">
+				<h1>{{ page.title }}</h1>
+            	<p class="subtitle">{{ page.subtitle }}</p>
+			</div>
+		
+
+			<div class="header-image">
+				<img src="{{ page.img }}" alt="">
+			</div>
+		
+		{% elsif page.layout == "post" %}
+			
+		{% endif %}
+	</div> 
+</header>

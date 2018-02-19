@@ -1,53 +1,57 @@
 /******************************************************************
-Stylesheet: 768px and up
+768px and up
 ******************************************************************/
-
-/*********************
-GENERAL STYLES
-*********************/
-
-body {}
 
 /*********************
 LAYOUT & GRID STYLES
 *********************/
 
-.wrap {
+#page, #inner-header {
+	width: 700px; // set content width
+	margin: 0 auto; // center content in page
+	overflow: hidden; // hide anything that wants to overflow
+}
+
+#page {
+	margin-top: -100px;
+}
+
+#post {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.top-logo {
+	margin: 0 auto;
+	text-align: center;
+	width: 100px;
 }
 
 /*********************
 HEADER STYLES
 *********************/
 
-.header {}
+.header-image {
+	top: 0px;
+	left: 0px;
 
-	#logo {}
+	img {
+		width: 100%;
+	}
+}
 
 .hero {
-	margin-top: 100px;
-	text-align: left;
+	// Adjust the hero callout for a bigger screen
+	margin-top: 200px;
+	margin-bottom: 200px;
 }
 
 /*********************
 NAVIGATION STYLES
 *********************/
 
-#menu-burger {
-	display: none;
-}
-
 #inner-header nav {
 	border: 0;
-	
-	&#menu {
-		position: relative;
-		background: transparent;
-		padding: 0;
-		float: right;
-		width: auto;
-		-webkit-transform: translate3d(0px, 0, 0);
-	    transform: translate3d(0px, 0, 0);
-	}
 
 	ul {
 		
@@ -65,19 +69,77 @@ NAVIGATION STYLES
 } /* end .nav */
 
 /*********************
+TEMPLATE OBJECTS
+*********************/
+
+._big-idea-box {
+	.content {
+		margin: 0 20%;
+	}
+}
+
+section {
+	padding: 3em;
+	margin: 2em 0;
+}
+
+section.home {
+	&.border-left {
+		border-left: 5px solid #efefef;
+
+		img {
+			width: 500px;
+			margin-left: -300px;
+		}
+	}
+
+	&.border-right {
+		border-right: 5px solid #efefef;
+		img {
+			width: 500px;
+			margin-right: -300px;
+		}
+	}
+}
+
+section.card {
+	margin: 0;
+}
+
+img.client-site {
+	width: 350px;
+	bottom: -200px;
+	right: 0px;
+	transition: 0.5s;
+
+	&:hover {
+		bottom: -50px;
+	}
+}
+
+/*********************
+POSTS & CONTENT STYLES
+*********************/
+
+#proof {
+	
+	> div {
+		margin-top: 0;
+		height: 100%;
+	}
+}
+
+/*********************
 FOOTER STYLES
 *********************/
 
-.footer-links {
-	ul {
-		li {
-			a {
-				font-size: 1em;
-				&:hover {}
-			}
-			
-			ul {}
-		}
+footer {
+
+	p {
+		display: inline-block;
+		//margin: 0;
+		//float: right;
 	}
-} /* end .footer-links */
+}
+
 

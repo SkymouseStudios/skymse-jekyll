@@ -1,38 +1,49 @@
-<section id="proposal" class="cf dblue">
+<section id="proposal" class="cf">
   <div class="cf pad pad-top">
 
-    <aside class="d-1of2 t-all m-all">
+    <aside class="d-2of5 t-all m-all">
+      <img src="{{ site.baseurl }}/library/images/icons/icon-social.svg" alt="">
       <h3>Got a project?</h3>
-      <p>We can help. Fill out this quick form. It’s like ad-libs but it actually gets you places.</p>
-      <img class="m-all" alt="Ready For lift-off!" src="/library/images/blastoff-rocket.png">
+      <div class="content">
+        <p>This form shoots an email directly to one of our team. We’ll take a quick look at your site and get back to you at the <strong>speed of light.</strong></p>
+      </div>
+
     </aside>
 
-    <aside class="d-1of2 t-4of5 m-all">
-      <div id="respond">
-        <form action="https://formspree.io/sos@skymse.com" method="post">
+    <aside class="d-1of2 t-4of5 m-all right">
+    
+     <script type="text/javascript">var submitted=false;</script>
+     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='{{ site.baseurl }}/thank-you.html';}"></iframe>
+     
+    <form action="https://docs.google.com/forms/d/e/1FAIpQLSe9f_D8WgMOgPhPs0cOLI9a9_ZkvfsHQ2ORlOPlTPMKqOVwqQ/formResponse" method="post" target="hidden_iframe" 
+    onsubmit="submitted=true;">
 
-          <label for="name">What's Your Name? <span>*</span> <br>
-            <input type="text" name="person_name">
-          </label>
-           
-          <label for="message_email">Email: <span>*</span> <br>
-            <input type="text" name="_replyto">
-          </label>
+        <label for="entry.208253124">What&#39;s Your Name? <span>*</span> <br>
+          <input aria-label="What&#39;s Your Name" type="text" name="entry.208253124" required>
+        </label>
+         
+        <label for="entry.548708536">Email: <span>*</span> <br>
+          <input aria-label="email address" type="email" name="entry.548708536" required>
+        </label>
 
-          <label for="name">Link to your current website: <span>*</span> <br>
-            <input type="text" name="website_url">
-          </label>
+        <label for="entry.2050636712">Link to your current website: <span>(optional)</span> <br>
+          <input aria-label="Link to your current website" type="text" name="entry.2050636712">
+        </label>
 
-          <label for="message_text">What do you want to do? <span>*</span> <br>
-            <textarea type="text" name="message_text">
-          </textarea></label>
+         <label for="entry.1261637024">Budget Range: <span>*</span> <br>
+          <input role="radio" name="entry.1261637024" aria-label="$8-$15k" type="radio" value="$8k-$15k">$8k-$10k<br>
+          <input role="radio" name="entry.1261637024" aria-label="$20-30k" type="radio" value="$20k-$30k">$20k-$30k<br>
+          <input role="radio" name="entry.1261637024" aria-label="$50k-up" type="radio" value="$50k-up">$50k-up<br>
+        </label>
 
-          <input class="action-btn d-all" type="submit" value="Send">
-        </form>
-      </div><!-- end respond -->
-    </aside><!-- end aside with form -->
+        <label for="entry.1326074025">What do you want to do? <span>*</span> <br>
+          <textarea  aria-label="What do you want to do?" type="text" name="entry.1326074025">
+        </textarea></label>
 
-  </div><!-- end section padding -->
+        <input class="action-btn d-all" type="submit" value="send">
+      </form>
+    </aside>
+  </div>
 </section>
 
 

@@ -1,13 +1,39 @@
 /******************************************************************
-Site Name:
-Author:
-
-Stylesheet: Desktop Stylsheet
-
-This is the desktop size. It's larger than an iPad so it will only
-be seen on the Desktop.
-
+1030px and up - Desktop Stylsheet
 ******************************************************************/
 
+/*****************/
+/* LAYOUT Styles */
+/******************/
+
 .wrap {
+}
+
+#page, #inner-header {
+	width: 900px;
+}
+
+/*****************/
+/* HEADER */
+/******************/
+
+#menu-burger, {
+	display: none;
+}
+
+#inner-header nav {
+	
+	&#desktop-menu {
+		display: block;
+		float: right;
+		
+	}
+
+	&#mobile-menu {
+		display: none;
+	}
+}
+
+img.client-site {
+	right: 110px;
 }

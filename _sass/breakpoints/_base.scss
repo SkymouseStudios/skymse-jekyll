@@ -1,14 +1,5 @@
 /******************************************************************
-Site Name:
-Author:
-
-Stylesheet: Base Mobile Stylesheet
-
-Be light and don't over style since everything here will be
-loaded by mobile devices. You want to keep it as minimal as
-possible. This is called at the top of the main stylsheet
-and will be used across all viewports.
-
+BASE Mobile Stylesheet
 ******************************************************************/
 
 /*********************
@@ -18,52 +9,29 @@ html {
 	overflow-x: hidden;    
 }
 
+
 body {
+	position: relative;
+    scroll-behavior: smooth;
 	font-family: $serif;
 	font-size: 100%;
 	line-height: 1.5;
-	color: $text-color;
-	background-color: $gray;
+	color: $black;
   	-webkit-font-smoothing: antialiased;
   	-moz-osx-font-smoothing: grayscale;
 }
 
-/*********************
-LAYOUT & GRID STYLES
-*********************/
-
-.wrap {
-	width: 96%;
-	margin: 0 auto;
+// Landing page
+#Landing {
+	background-image: url('library/images/icons/icon-subtle-pattern.svg');
+	background-size: 300px;
+	background-repeat: repeat;
 }
 
 /*********************
 LINK STYLES
 *********************/
 
-a, a:visited {
-	color: $link-color;
-
-	/* on hover */
-	&:hover, &:focus {
-		color: $link-hover;
-	}
-
-	/* on click */
-	&:active {
-
-	}
-
-	/* mobile tap color */
-	&:link {
-		/*
-		this highlights links on iPhones/iPads.
-		so it basically works like the :hover selector
-		for mobile devices.
-		*/
-		-webkit-tap-highlight-color : rgba( 0, 0, 0, 0.3 );
-	}
-}
 
 /******************************************************************
 H1, H2, H3, H4, H5 STYLES
@@ -71,7 +39,6 @@ H1, H2, H3, H4, H5 STYLES
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	text-rendering: optimizelegibility;
-	font-weight: 500;
 
 	/* removing text decoration from all headline links */
 	a {
@@ -79,25 +46,58 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	}
 }
 
+a {
+	text-decoration: none;
+	color: $black;
+}
+
+.pricing-grid {
+	h5 {
+		text-align: center;
+	}
+}
+
+h2 {
+	font-size: 2em;
+}
+
 /*********************
 HEADER STYLES
 *********************/
 
-.header {
-	background-color: $black;
-	height: 40vh;
+header {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	width: 100%;
+	border-top: 10px solid $orange;
 }
 
-#logo {
-	margin: 0.75em 0;
+.header-image {
+	z-index: -10;
+	position: absolute;
+	top: 0px;
+	left: -250px;
+	right: 0;
+	width: 100%;
+	opacity: .4;
 
-	a {
-		color: $white;
+	img {
+		width: 1000px;
 	}
 }
 
+.blog-header {
+	background-color: $orange;
+	height: 300px;
+	overflow: hidden;
+	border-radius: 5px;
+	width: 140%;
+	margin: 20px -20%;
+}
+
 .hero {
-	margin-top: 50px;
+	margin-top: 100px;
 	text-align: left;
 }
 
@@ -107,56 +107,56 @@ NAVIGATION STYLES
 
 #inner-header {
 	z-index: 999;
-
-	img {
-		width: 15%;
-		position: absolute;
-		top: 20px;
-		left: 40px;
-	}
-
+	
  	nav {
-
 		ul {
 			display: block;
 			text-align: left;
-			
-			li {
-				font-size: 2em;
-
-				a {
-					@extend %btn;
-					padding: 1em;
-				}
-			}
 		}
-
-		&#menu {
-	        position: fixed;
-	        width: 250px;
-	        height: 100%;
-	        top: 0;
-	        left: 0;
-	        background: rgba(0, 0, 0, .7);
-	        padding: 5% 1em;
-	        z-index: 999;
-	        -webkit-transform: translate3d(-320px, 0, 0);
-	        transform: translate3d(-320px, 0, 0);
-	        -webkit-transition: -webkit-transform 0.4s;
-	        transition: transform 0.4s;
-	        -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
-	        transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
-	    }
-
-	    &#menu.menu-shown {
-	        -webkit-transform: translate3d(0, 0, 0);
-	        transform: translate3d(0, 0, 0);
-	        -webkit-transition: -webkit-transform 0.8s;
-	        transition: transform 0.8s;
-	        -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
-	        transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
-	    }
 	}
+}
+
+#logo {
+	margin-top: 20px;
+	width: 100px;
+}
+
+#desktop-menu {
+	display: none;
+}
+
+#mobile-menu {
+    position: fixed;
+    width: 250px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(150, 150, 150, 0.9);
+    border-left: 5px solid $orange;
+    padding: 5% 1em;
+    z-index: 999;
+    -webkit-transform: translate3d(-320px, 0, 0);
+    transform: translate3d(-320px, 0, 0);
+    -webkit-transition: -webkit-transform 0.4s;
+    transition: transform 0.4s;
+    -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+    transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+
+    a {
+    	width: 120%;
+    	font-size: 1.5em;
+    	padding: 0.8em;
+    	border-bottom: 3px solid #cfcfcf;
+    }
+} 
+
+#mobile-menu.menu-shown {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-transition: -webkit-transform 0.8s;
+    transition: transform 0.8s;
+    -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+    transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
 }
 
 #menu-burger {
@@ -164,8 +164,8 @@ NAVIGATION STYLES
 	display: block;
     float: right;
     position: relative;
-    z-index: 202;
-    color: #FFF;
+    z-index: 999;
+    color: $black;
     vertical-align: middle;
     cursor: pointer;
     margin: 10px 5px;
@@ -174,26 +174,192 @@ NAVIGATION STYLES
     	font-size: 2.5em;
 	}
 }
-    
+
+
+/*********************
+SECTIONS
+*********************/
+
+section {
+	position: relative;
+    border-radius: 5px;
+    margin: 20px 1em 0 1em;
+    height: auto;
+	border: 4px solid $lgray;
+	overflow: hidden;
+	text-align: center;
+
+	.content {
+		text-align: left;
+	}
+
+	ul {
+		margin: 1em;
+	}
+
+	// Home page
+	&.home {
+	    border-radius: 0px;
+	    margin: 5em 0;
+	    height: auto;
+		border: none;
+		text-align: center;
+
+		img {
+			z-index: -1;
+			width: 300px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: -100px;
+		}
+
+		.content {
+			text-align: left;
+			z-index: 1;
+			max-width: 420px;
+			margin: 0 1em;
+		}
+	}
+
+	// pricing cards
+	&.card {
+		padding: 0;
+		margin: 0 2em;
+
+		h3 {
+			background-color: $lgray;
+			width: 100%;
+			text-align: center;
+			padding: 20px 0;
+		}
+
+		p {
+			margin: 1em;
+		} 
+	}
+
+	// no border and stuff
+	&.blank {
+		padding: 0;
+		border: none;
+		text-align: left;
+	}
+}
+
+/*********************
+TEMPLATE OBJECTS
+*********************/
+
+// This is for a main point or the main feature idea on a page
+._big-idea-box {
+	border: none;
+	padding: 20px;
+	background-color: $ygray;
+	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
+    background-size: 300px;
+}
+
+#tweet {
+	left: 20%;
+	right: 20%;
+    top: 25%;
+
+    .twitter-box {
+    	border-radius: 10px;
+		border: 3px solid $white;
+		padding: 20px;
+		font-family: $sans-serif;
+    	padding: 40px;
+    	color: $white;
+    	position: relative;
+    }
+
+    .twitter-name {
+    	font-weight: 600;
+    	font-size: 0.8em;
+    	position: absolute;
+    	top: 20px;
+    	left: 40px;
+    }
+
+    .twitter-handle {
+    	font-weight: 200;
+    	font-size: 0.8em;
+    	position: absolute;
+    	top: 40px;
+    	left: 40px;
+    }
+
+    .twitter-content {
+    	font-size: 2em;
+    	margin: 30px 0;
+    }
+
+    .twitter-date {
+    	position: absolute;
+    	bottom: 20px;
+    	right: 20px;
+    	font-size: 0.8em;
+    }
+
+    .twitter-icon {
+    	position: absolute;
+    	top: 20px;
+    	right: 20px;
+    	font-size: 2em;
+    }
+}
+
+#socialLogo {
+	text-align: center;
+	font-size: 3em;
+	left: 50%;
+    top: 40%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+}
+
+// Home page selling points
+.title {
+	background-color: $black;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	text-align: center;
+	padding: 1.5em;
+
+	h3 {
+		color: $white;
+	}
+}
+
+.description {
+	background-color: #D8D8D8;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	padding: 1.5em;
+
+	p {
+		margin: 0;
+		font-size: 1.3em;
+		font-weight: 400;
+	}
+}
+
+.quote {
+	font-size: 1.5em;
+	font-style: italic;
+	margin-top: 1em;
+	text-align: right;
+}
+
+.client {
+	text-align: right;
+}
 /*********************
 POSTS & CONTENT STYLES
 *********************/
-
-#content {
-	-webkit-transform-style: preserve-3d;
-	transform-style: preserve-3d;
-	-webkit-transition: -webkit-transform 0.5s;
-    transition: transform 0.5s;
-    z-index: 10;
-    width: 100%;
-    background-color: white;
-}
-		
-main {
-	margin: 0 auto;
-	float: none;
-	width: 75%;
-}
 
 .hentry {
 	background-color: $white;
@@ -215,38 +381,113 @@ main {
 	}
 }
 
-// Contact Section
 
-#proposal {
-	z-index: 2;
-	border-top: 30px solid $lblue;
-	background-color: $dblue;
-	height: auto;
+.profile {
+	img {
+		width: 50px;
+		border-radius: 5px;
+		margin-right: 10px;
+	}
 
-	aside {
-		height: auto;
+	p {
+		display: inline-block;
+		margin: 0;
+	}
 
-		p {
-			text-align: left;
-			color: white;
-		}
-
-		form {
-          text-align: left;
-      	}
+	.bio {
+		display: inline-block;
 	}
 }
 
-.footer-links {
-	ul {
-		display: flex;
+.blog-post {
+	background-color: $lgray;
+	border-radius: 5px;
+
+	h2 {
+		font-size: 1em;
+		padding: 1em;
+		height: 100px;
 	}
 
-	li {
-		flex-item: column;
+	p {
+		font-size: 0.8em;
+		padding: 1em;
+		height: 150px;
+	}
+	
+	.picture {
+		position: relative;
+		height: 250px;
+		overflow: hidden;
+		border-radius: 5px;
+		background-color: $orange;
+	}
+
+	img {
+		width: 100%;
+		margin: 0;
+	}
+}
+
+.time-to-read {
+		position: absolute;
+		bottom: 10px;
+		right: 10px;
+		background-color: $lgray;
+		border-radius: 5px;
+		font-size: 0.8em;
+		font-weight: 200;
+		padding: 2px;
+	}
+
+#post {
+	.time-to-read {
+		position: relative;
+		display: inline-block;
+		float: right;
+		bottom: 0px;
+	}
+}
+
+img.client-site {
+	position: absolute;
+	width: 300px;
+	bottom: -170px;
+	right: -170px;
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+footer {
+	margin: 20px 10%;
+	z-index: 999;
+	position: relative;
+	display: block;
+
+	#inner-footer {
+		background-color: $lgray;
+		border-radius: 5px;
+		padding: 0 40px;
+	}
+}
+
+
+.footer-links, .social-links {
+	display: inline-block;
+	margin-right: 40px;
+
+	p {
+		margin-right: 40px;
 	}
 
 	a {
-		font-size: 2em;
+		font-size: 1em;
+		margin-right: 10px;
+	}
+	
+	ul, li {
+		display: inline-block;
 	}
 }

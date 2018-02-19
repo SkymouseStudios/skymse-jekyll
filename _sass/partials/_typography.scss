@@ -3,41 +3,7 @@ Stylesheet: Typography
 ******************************************************************/
 
 // Icon Font (Menu Icons, Social Icons, Etc.)
-@import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
-
-@font-face {
-  font-family: 'icomoon';
-  src:url('/library/fonts/icomoon.eot?-cr6w4i');
-  src:url('/library/fonts/icomoon.eot?#iefix-cr6w4i') format('embedded-opentype'),
-    url('/library/fonts/icomoon.woff?-cr6w4i') format('woff'),
-    url('/library/fonts/icomoon.ttf?-cr6w4i') format('truetype'),
-    url('/library/fonts/icomoon.svg?-cr6w4i#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-[class^="icon-"], [class*=" icon-"] {
-  font-family: 'icomoon';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  
-  // Enable Ligatures
-  -webkit-font-feature-settings: "liga";
-  -moz-font-feature-settings: "liga=1";
-  -moz-font-feature-settings: "liga";
-  -ms-font-feature-settings: "liga" 1;
-  -o-font-feature-settings: "liga";
-  font-feature-settings: "liga";
-
-// Better Font Rendering
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
 .icon-search:before {
   content: "\e986";
@@ -110,11 +76,14 @@ Stylesheet: Typography
 /* --- FONT STACK ---  */
 
 $sans-serif:        "Rubik", Helvetica, Arial, sans-serif;
-$serif:             "Arvo", Cambria, Times New Roman, Times, serif;
+$serif:             "Rubik", Cambria, Times New Roman, Times, serif;
 
 /* some nice typographical defaults */
 
-p {
+p, ul, li {
+  font-size: 1em;
+  line-height: 2em;
+  font-weight: 300;
   -ms-word-wrap: break-word;
   word-break: break-word; //non-standard css for webkit
   word-wrap: break-word;
@@ -132,56 +101,63 @@ p {
       -ms-font-feature-settings: "liga", "dlig";
        -o-font-feature-settings: "liga", "dlig";
           font-feature-settings: "liga", "dlig";
-  color: white;
+  color: $black;
 }
 
 /* --- HEADER STYLING --- */
 
 h1, .h1 {
-  font-size: 3.53em;
-  color: white;
+  font-size: 3.2em;
+  color: $black;
   font-family: $sans-serif;
   font-weight: 800;
   text-transform: uppercase;
-  text-shadow: 4px 3px 0 $gray, 9px 8px 0 rgba(0,0,0,0.15);
   margin: 0;
 }
 
 h2, .h2 {
-  padding-bottom: 10px;
+  font-weight: 500;
   font-size: 2.5em;
-
-  &--border {
-    border-bottom: 13px solid white;
-  }
+  margin: 0;
+  color: $black;
 }
 
 h3, .h3 {
-  font-size: 2em;
+  font-size: 1.8em;
   font-family: $sans-serif;
-  color: white;
-  font-weight: 800;
-  border-bottom: 13px solid white;
+  color: $black;
+  font-weight: 200;
   display: inline-block;
-  text-shadow: 3px 3px 0 rgba(0,0,0,0.15);
+  margin: 0;
 }
 
 h4, .h4 {
-  color: white;
+  color: $black;
+  text-transform: uppercase;
   font-family: $sans-serif;
   font-weight: 200;
   font-size: 20px;
-  border: 2px solid $white;
-  border-radius: 5px;
-  padding: 10px;
-  display: inline-block;
+  // border-radius: 5px;
+  // padding: 10px;
+  // text-align: center;
 }
 
+code {
+  background-color: $lgray;
+  border-radius: 5px;
+}
+
+.subtitle {
+  font-size: 1.5em;
+  color: $black;
+  margin: 0;
+
+}
 
 .dark {
   color: $gray;
 }
 
-
-
-
+.text-center {
+  text-align: center;
+}

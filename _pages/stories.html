@@ -1,0 +1,28 @@
+---
+
+title: Stories
+layout: default
+subtitle: Learn something new.
+permalink: stories.html
+img: /library/images/headers/header-blog.svg
+
+---
+
+
+<main id="page">
+	
+	<div class="blog-grid">
+	{% for post in site.posts limit:12 %}
+		<a class="blank" href="{{ post.url }}">
+			<div class="blog-post">
+				<h2>{{ post.title }}</h2>
+				<div class="picture">
+					<div class="time-to-read"> {{ post.ttr }} Minutes of Quality Reading 👌</div>
+					<img src="{{ post.img }}" alt="{{ post.title }}">
+				</div>
+				<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+			</div>
+		</a>
+	{% endfor %}
+	</div>
+</main>
