@@ -88,7 +88,7 @@ header {
 }
 
 .blog-header {
-	background-color: $orange;
+	background: linear-gradient(135deg, $orange, #ffc576);
 	height: 300px;
 	overflow: hidden;
 	border-radius: 5px;
@@ -158,20 +158,43 @@ NAVIGATION STYLES
     -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
     transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
 }
-
 #menu-burger {
-	@extend %btn;
+	float: right;
+	margin-right: 30px;
+	margin-top: 30px;
+}
+
+#line {
+	height: 8px;
+	width: 40px;
 	display: block;
-    float: right;
     position: relative;
     z-index: 999;
-    color: $black;
     vertical-align: middle;
     cursor: pointer;
-    margin: 10px 5px;
+    background-color: $black;
+    border-radius: 2px;
 
-    i {
-    	font-size: 2.5em;
+    &:before {
+    	position: absolute;
+    	top: 15px;
+    	display: block;
+    	content: " ";
+		height: 8px;
+		width: 40px;
+		background-color: $black;
+		border-radius: 2px;
+	}
+
+	&:after {
+		position: absolute;
+		bottom: -30px;
+		display: block;
+		content: " ";
+		height: 8px;
+		width: 40px;
+		background-color: $black;
+		border-radius: 2px;
 	}
 }
 
@@ -323,7 +346,7 @@ TEMPLATE OBJECTS
 
 // Home page selling points
 .title {
-	background-color: $black;
+	background: linear-gradient(135deg, $black, #656565);
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 	text-align: center;
@@ -420,7 +443,7 @@ POSTS & CONTENT STYLES
 		height: 250px;
 		overflow: hidden;
 		border-radius: 5px;
-		background-color: $orange;
+		background: linear-gradient(135deg, $orange, #ffc576);
 	}
 
 	img {

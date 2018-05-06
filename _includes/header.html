@@ -6,7 +6,11 @@
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>Skymouse Studios | {{ page.title }}</title>
+		<title>Skymouse Studios | {% if page.title == "Skymouse Studios" %}
+										Craft a website you love.
+									{% else %}
+										{{ page.title }}
+									{% endif %}</title>
 
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
@@ -84,7 +88,7 @@
 
 		
 			<div id="menu-burger">
-				<i class="fas fa-bars"></i>
+				<div id="line"></div>
 			</div>
 
 			<nav id="desktop-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">

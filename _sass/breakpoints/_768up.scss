@@ -86,6 +86,7 @@ section {
 section.home {
 	&.border-left {
 		border-left: 5px solid #efefef;
+		background: radial-gradient(circle at -35%, #e8e8e8, #333 15%, #c5c5c5 25%, #f1f1f100 30%);
 
 		img {
 			width: 500px;
@@ -95,6 +96,8 @@ section.home {
 
 	&.border-right {
 		border-right: 5px solid #efefef;
+		background: radial-gradient(circle at 135%, #e8e8e8, #333 15%, #c5c5c5 25%, #f1f1f100 30%);
+
 		img {
 			width: 500px;
 			margin-right: -300px;

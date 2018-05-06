@@ -2,7 +2,6 @@
 layout: post
 title: "This post demonstrates post content styles"
 author: Patrick Hanus
-meta: "Springfield"
 ttr: 5
 ---
 
