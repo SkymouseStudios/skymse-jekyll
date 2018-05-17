@@ -157,7 +157,7 @@ Stylesheet: Button Styles
 a.nav-button {
   @extend %btn;
   color: $black;
-  background-color: $lgray;
+  background-color: #fff;
   border-bottom: 3px solid #cfcfcf;
 }
 
