@@ -39,11 +39,17 @@ links:
     url: /pricing.html
   - title: Contact
     url: /contact.html
-  # - title: Social
-  #   url: /social.html
-  # - title: Stories
-  #   url: /stories.html
-
+  - title: Social
+    url: /social.html
+  - title: Stories
+    url: /stories.html
+  - title: Why
+    url: /why.html
+  - title: Process
+    url: /process.html
+  - title: Privacy
+    url: /privacy.html
+    
 # projects in header index
 projects:
   - name: RESOURCE Commercial Real Estate

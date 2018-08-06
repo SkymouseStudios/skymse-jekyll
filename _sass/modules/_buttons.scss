@@ -22,7 +22,7 @@ Stylesheet: Button Styles
     text-decoration: none;
     outline: none;
     transition: .5s;
-    box-shadow: 0px 6px 15px -5px #00000080;
+    box-shadow: 0px 6px 15px -5px rgba(0,0,0,0.5);
   } // end hover
 
   // clicking on the button

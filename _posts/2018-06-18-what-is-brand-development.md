@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: "What is Brand Development?"
 author: Patrick Hanus
+img: /library/images/our-work/website-resource.jpg
+permalink: /posts/what-is-brand-development.html
 ttr: 5
 ---
 

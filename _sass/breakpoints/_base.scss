@@ -73,6 +73,20 @@ header {
 	border-top: 10px solid $orange;
 }
 
+.header-fade {
+	background: rgb(0,0,0);
+	background: -webkit-linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
+	background: -o-linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
+	background: linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
+	position: absolute;
+	display: block;
+	content: "";
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	bottom: 0px;
+}
+
 .header-image {
 	z-index: -10;
 	position: absolute;
@@ -80,7 +94,7 @@ header {
 	left: -250px;
 	right: 0;
 	width: 100%;
-	opacity: .4;
+	opacity: .7;
 
 	img {
 		width: 1000px;
@@ -94,6 +108,11 @@ header {
 	border-radius: 5px;
 	width: 140%;
 	margin: 20px -20%;
+}
+
+.blog-header {
+	width: 90%;
+	margin: 20px 5%;
 }
 
 .hero {
@@ -245,9 +264,20 @@ section {
 	}
 
 	// pricing cards
+
 	&.card {
 		padding: 0;
 		margin: 0 2em;
+		transition: 0.5s;
+
+		&:hover {
+			box-shadow: 2px 2px 20px -10px #a2a2a2;
+			transition: 0.5s;
+			border: double 4px transparent;
+			background-image: linear-gradient(white, white), radial-gradient(circle at top left, #ef6500,#feb13e);
+			background-origin: border-box;
+			background-clip: content-box, border-box;
+		}
 
 		h3 {
 			background-color: $lgray;
@@ -269,6 +299,9 @@ section {
 	}
 }
 
+section.card-dark {
+	border-color: gray;
+}
 /*********************
 TEMPLATE OBJECTS
 *********************/
