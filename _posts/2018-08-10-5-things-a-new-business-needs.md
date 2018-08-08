@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Taking to the Skies."
+title: "5 Things a new business needs"
 author: Patrick Hanus
-img: /library/images/our-work/website-ams.jpg
-permalink: /posts/taking-to-the-skies.html
+img: /library/images/headers/header-why.svg
+permalink: /posts/5-things-a-new-business-needs.html
 ttr: 5
 ---
 
@@ -11,18 +11,16 @@ ttr: 5
 
 We did it. This is the next big step. Me and John started this company just over 2 years ago and now we are ready to embrace the next steps. I will be going full time with Skymouse starting today.
 
-## Patrick is going full time.
-
 ## What can you do?
 We love all the support from our family, freinds and a few of our life-long enemies have shown that they are just a little bit excited for us.
 
-### Keep you ears peeled for people who could use our help
+### 1. Keep you ears peeled for people who could use our help
 Not everyone is a perfect fit for working with us, but we'd like to help as many people as we can tackle their marketing and make their brand the wonderful message that it was meant to be.
 
-### Share with us what you're doing and things you've learned along the way.
+### 2. Share with us what you're doing and things you've learned along the way.
 We would love to hear any stories you have about your own businesses and what change you are trying to affect on the world. It's not easy and we can all learn from each other and we will be the first to admit that we have alot to learn about business.
 
-### Buy one of our t-shirts on this Kick-Starter
+### 3. Buy one of our t-shirts on this Kick-Starter
 If you're as excited as we are you must have already thought about wasting your money on a poorly designed t-shirt. Well have we got a deal for you! You can be the exclusive owner of said t-shirt by joining our Kickstarter!
 
 ## Lessons along the way.

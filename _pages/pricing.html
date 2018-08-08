@@ -15,54 +15,39 @@ img: /library/images/headers/header-pricing.svg
 			<p>We believe in straight-forward answers you can count on. No hidden costs. No vague contracts. Know what you’re paying for and know where your hard-earned money is going. Transparent as a window.</p>
 		</div>
 	</section>
-	
-	<div class="pricing-grid">
 
-		<section class="card card-dark one">
-			<img src="{{ site.baseurl }}/library/images/icons/icon-website.svg" alt="">
-			<div class="content">
-				<h3>Corporate Plans</h3>
-				<p>For serious businesses looking to change the way they interact with their customers and dominate the market.</p>
-			</div>
-		</section>
+	{% for product in site.products limit:12 %}
+		<div class="pricing-grid">
+			<section class="card one">
+				<div class="content">
+					<img src="{{ site.baseurl }}{{ product.img }}" alt="">
 
-		<section class="card two">
-			<div class="content">
-				<h4 class="text-center">Basic</h4>
-				<h5>$2,000k/month for a 5+ month engagement</h5>
-				<p class="text-center">For start-ups and small teams that need help honing in on their customers.</p>
-			</div>
-		</section>
+					<h2>{{ product.title }}</h2>
+					
+					<p>{{ product.description }}</p>
+					
+					<ul>
+						<li>+ 1 month engagement</li>
+						<li>+ Full access to the Skymouse Team</li>
+						<li>+ 10 hours</li>
+						<li>+ Website review</li>
+						{{ product.price }}
+					</ul>
+				</div>
+			</section>
 
-		<section class="card two">
-			<div class="content">
-				<h4 class="text-center">Professional</h4>
-				<h5>$1,500k/month for a 12+ month engagement</h5>
-				<p class="text-center">A wholistic, longterm approach designed to establish a deep knowledge of market value and future strategies. This would hopefully be a long term relationship over a couple years. Our sweet-spot for businesses that want to truly take their marketing to the next level.</p>
-			</div>
-		</section>
+			<section class="card three">
+				<div class="pad-top"></div>
+				<a class="drift-open-chat action-btn">{{ product.call-to-action }}</a>
+			</section>
 
-		<section class="card three">
-			<div class="content">
-				<h4 class="text-center">Enterprise</h4>
-				<h5>$3,000k/month as needed</h5>
-				<p class="text-center"></p>
-			</div>
-		</section>
-		
-	</div>
-
-	<section class="card one">
-		<img src="{{ site.baseurl }}/library/images/icons/icon-plan.svg" alt="">
-		<div class="content">
-			<h3>Small Business Plan</h3>
-			<h5>$1,000k/month for a 5 month engagement</h5>
-			<p>We Understand what it's like to get on your feet. So we've created a package to help you do just that. Pay for you services as you go. Don’t worry about keeping your website up to date or trying to make a flyer in Microsoft word—Skymouse handles your marketing while you focus on what you love.</p>
-			<p>Process</p>
-			<p>Deliverables</p>
+			<section class="card two">
+				<div class="timeline">
+					<h3>Timeline</h3>
+					{{ product.content }}
+				</div>
+			</section>
 		</div>
-	</section>
-			
-	{% include contact.html %}
+	{% endfor %}
 
 </main>

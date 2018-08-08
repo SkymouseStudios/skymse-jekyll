@@ -161,3 +161,16 @@ a.nav-button {
   border-bottom: 3px solid #cfcfcf;
 }
 
+.orange-button {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 20px -10px #a2a2a2;
+  transition: 0.5s;
+  border: double 4px transparent;
+  background-image: linear-gradient(white, white), radial-gradient(circle at top left, #ef6500,#feb13e);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+}
+

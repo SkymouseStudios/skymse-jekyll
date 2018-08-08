@@ -9,7 +9,7 @@
 		<title>Skymouse Studios | {% if page.title == "Skymouse Studios" %}
 										Craft a business you love.
 									{% else %}
-										{{ page.title }}
+										{{ page.subtitle }}
 									{% endif %}</title>
 
 		<meta name="HandheldFriendly" content="True">
@@ -67,9 +67,10 @@
 		<!-- End Google Tag Manager (noscript) -->
 
 	<div id="container">
-
+	
+	
 	<header role="banner" itemscope itemtype="http://schema.org/WPHeader">
-		<div class="header-fade"></div>
+		
 
 		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 			<ul class="cf">
@@ -103,9 +104,8 @@
 			</nav>
 
 		{% if page.layout == "default" %}
-			<div class="hero d-3of4 t-all m-all m-margin">
+			<div class="hero m-margin">
 				<h1>{{ page.title }}</h1>
-            	<p class="subtitle">{{ page.subtitle }}</p>
 			</div>
 		
 
@@ -113,8 +113,14 @@
 				<img src="{{ page.img }}" alt="">
 			</div>
 		
-		{% elsif page.layout == "post" %}
-			
+		{% else if page.layout == "post" %}
+
+		{% else if page.title == "Skymouse Studios" %}
+			<div class="home-hero m-margin">
+				<h1>{{ page.title }}</h1>
+				<p>{{ page.subtitle }}</p>
+			</div>
 		{% endif %}
 	</div> 
+	<div class="header-fade"></div>
 </header>

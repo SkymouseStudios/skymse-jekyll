@@ -29,6 +29,14 @@ sass:
 include: ["_pages"]
 permalink: /:title/
 
+collections:
+  products:
+    output: true
+    permalink: /:collection/:name
+  case_studies:
+    output: true
+    permalink: /:collection/:name
+
 # Links to include in menu navigation
 links:
   - title: About
@@ -37,38 +45,19 @@ links:
     url: /work.html
   - title: Pricing
     url: /pricing.html
+  - title: Stories
+    url: /stories.html 
   - title: Contact
     url: /contact.html
-  - title: Social
-    url: /social.html
-  - title: Stories
-    url: /stories.html
-  - title: Why
-    url: /why.html
-  - title: Process
-    url: /process.html
-  - title: Privacy
-    url: /privacy.html
-    
-# projects in header index
-projects:
-  - name: RESOURCE Commercial Real Estate
-    url: 
-  - name: St. Martin's Catholic Church
-    url: 
 
 # Links to Social Media
-social: 
-  - name: Spotify
-    url: https://bit.ly/ph-spotify
+social:
   - name: Instagram
     url: https://bit.ly/ph-insta
   - name: Vimeo
     url: https://bit.ly/ph-vimeo
   - name: LinkedIn
     url: https://bit.ly/ph-LinkedIn
-  - name: Dribbble
-    url: https://bit.ly/ph-dribbble
   - name: YouTube
     url: https://bit.ly/ph-youtube
   - name: GitHub
