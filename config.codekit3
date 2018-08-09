@@ -674,6 +674,103 @@
 		"oAP": "\/.sass-cache\/Icon\r",
 		"oF": 0
 		},
+	"\/_case-studies\/american-medical-services.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_case-studies\/american-medical-services.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_case-studies\/Icon\r": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_case-studies\/Icon\r",
+		"oF": 0
+		},
+	"\/_case-studies\/resource-commercial-real-estate.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_case-studies\/resource-commercial-real-estate.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_case-studies\/those-catholic-men.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_case-studies\/those-catholic-men.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_case-studies\/visitdfw.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_case-studies\/visitdfw.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_case-studies\/welch-title.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_case-studies\/welch-title.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_config.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -735,6 +832,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/post.html",
+		"oF": 0
+		},
+	"\/_layouts\/product.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/product.html",
 		"oF": 0
 		},
 	"\/_pages\/404.html": {
@@ -850,7 +954,7 @@
 		"oAP": "\/_pages\/work.html",
 		"oF": 0
 		},
-	"\/_posts\/2018-03-03-how-the-heck-to-do-social-media.md": {
+	"\/_posts\/2018-08-10-5-things-a-new-business-needs.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -859,7 +963,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_posts\/2018-03-03-how-the-heck-to-do-social-media.html",
+		"oAP": "\/_posts\/2018-08-10-5-things-a-new-business-needs.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -868,7 +972,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_posts\/2018-06-17-taking-to-the-skies.md": {
+	"\/_posts\/2018-08-18-stop-with-all-the-branding.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -877,7 +981,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_posts\/2018-06-17-taking-to-the-skies.html",
+		"oAP": "\/_posts\/2018-08-18-stop-with-all-the-branding.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -886,7 +990,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_posts\/2018-06-18-what-is-brand-development.md": {
+	"\/_posts\/2018-08-28-how-the-heck-to-do-social-media.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -895,7 +999,50 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_posts\/2018-06-18-what-is-brand-development.html",
+		"oAP": "\/_posts\/2018-08-28-how-the-heck-to-do-social-media.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_posts\/2018-09-18-websites-are-not-what-they-seem.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_posts\/2018-09-18-websites-are-not-what-they-seem.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_products\/Icon\r": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_products\/Icon\r",
+		"oF": 0
+		},
+	"\/_products\/marketing-launchpad.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_products\/marketing-launchpad.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1697,27 +1844,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/posts\/how-to-actually-strategize-your-social-media.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/posts\/how-to-actually-strategize-your-social-media.html",
-		"oF": 0
-		},
-	"\/_site\/posts\/taking-to-the-skies.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/posts\/taking-to-the-skies.html",
-		"oF": 0
-		},
-	"\/_site\/posts\/what-is-brand-development.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/posts\/what-is-brand-development.html",
-		"oF": 0
-		},
 	"\/_site\/pricing.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1737,6 +1863,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/process.html",
+		"oF": 0
+		},
+	"\/_site\/products\/marketing-launchpad.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/products\/marketing-launchpad.html",
 		"oF": 0
 		},
 	"\/_site\/readme.md": {
@@ -1794,6 +1927,16 @@
 		"oA": 0,
 		"oAP": "\/_site\/thank-you.html",
 		"oF": 0
+		},
+	"\/_site\/topography.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/topography.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_site\/why.html": {
 		"cB": 0,
@@ -2401,6 +2544,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/topography.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/topography.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		}
 	},
 "hooks": [

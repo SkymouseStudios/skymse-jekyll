@@ -1,6 +1,6 @@
 ---
 
-title: LaunchPad
+title: Free Call
 layout: product
 description: We understand what its like trying to wrangle your marketing when youre just starting. Here's a plan that helps you start taking control of your marketing now.
 price: Priced at a simple $950

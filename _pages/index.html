@@ -4,10 +4,18 @@ title: Skymouse Studios
 layout: default
 subtitle: Build a business you love. No nonsense.
 permalink: index.html
-img: /library/images/headers/header-why.svg
+img-front: /library/images/headers/header-home-front.svg
+img-mid: /library/images/headers/header-home-mid.svg
+img-back: /library/images/headers/header-home-back.svg
 
 ---
 
+<div id="scene" data-relative-input="true" data-pointer-events="true">
+	<img style="z-index: 2; margin-top: 40px; filter: blur(2px);" data-depth="0.50" src="{{ page.img-front }}" alt="">
+	<img style="z-index: 1; margin-top: 400px;" data-depth="0.30" src="{{ page.img-mid }}" alt="">
+	<img style="z-index: 0" data-depth="0.10" src="{{ page.img-back }}" alt="">
+</div>
+		
 <main class="wrapper">
 	<div class="pad-top"></div>
 </main>

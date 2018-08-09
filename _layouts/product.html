@@ -5,7 +5,8 @@
 	
 	
 		<div class="pricing-grid">
-			<section class="card one">
+			<section class="card" style="grid-row: 1 / 4;"></section>
+			<section class="card grid-top">
 				<div class="content">
 					<img src="{{ site.baseurl }}{{ page.img }}" alt="">
 
@@ -22,13 +23,15 @@
 					</ul>
 				</div>
 			</section>
+			<section class="card" style="grid-row: 1 / 4;"></section>
 
-			<section class="card three">
+			<section class="card grid-top">
 				<div class="pad-top"></div>
+				<h3>Schedule a free 15-minute call</h3>
 				<a class="drift-open-chat action-btn">{{ page.call-to-action }}</a>
 			</section>
 
-			<section class="card two">
+			<section class="card grid-bottom">
 			<div class="timeline">
 				<h3>Timeline</h3>
 				{{ content }}

@@ -52,6 +52,11 @@
 			  ]
 			}
 		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+		<script src="https://s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js"></script>
+
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 		<!-- <link rel="stylesheet" href="/library/css/ie.css"> -->
@@ -66,12 +71,11 @@
 			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJJ59XW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
 
-	<div id="container">
+	<div id="container" class="Parallax">
 	
 	
 	<header role="banner" itemscope itemtype="http://schema.org/WPHeader">
 		
-
 		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 			<ul class="cf">
           		{% for link in site.links %}
@@ -85,8 +89,8 @@
 		<div id="inner-header" class="cf">
 
 			<a href="index.html" rel="nofollow">
-			<img id="logo" alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymse-logo.svg">
-		</a>
+				<img id="logo" alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymse-logo.svg">
+			</a>
 
 		
 			<div id="menu-burger">
@@ -105,22 +109,17 @@
 
 		{% if page.layout == "default" %}
 			<div class="hero m-margin">
-				<h1>{{ page.title }}</h1>
+				
 			</div>
-		
-
-			<div class="header-image">
-				<img src="{{ page.img }}" alt="">
-			</div>
+			
 		
 		{% else if page.layout == "post" %}
 
-		{% else if page.title == "Skymouse Studios" %}
-			<div class="home-hero m-margin">
-				<h1>{{ page.title }}</h1>
-				<p>{{ page.subtitle }}</p>
-			</div>
 		{% endif %}
-	</div> 
-	<div class="header-fade"></div>
-</header>
+		</div> 
+
+		<div class="header-fade"></div>
+		
+	</header>
+	
+	

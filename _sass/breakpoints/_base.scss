@@ -80,6 +80,21 @@ h2 {
 HEADER STYLES
 *********************/
 
+#scene {
+	overflow: hidden;
+	position: absolute;
+	width: 105%;
+	top: -10px;
+	bottom: 0px;
+	left: -5%;
+	z-index: -5;
+
+	img {
+		width: 100%;
+		margin-right: 10%;
+	}
+}
+
 header {
 	position: relative;
 	display: block;
@@ -129,11 +144,6 @@ header {
 		width: 100%;
 		margin-top: -100px;
 	}
-}
-
-.blog-header {
-	// width: 90%;
-	// margin: 20px 5%;
 }
 
 .hero {

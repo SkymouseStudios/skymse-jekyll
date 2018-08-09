@@ -16,9 +16,10 @@ img: /library/images/headers/header-pricing.svg
 		</div>
 	</section>
 
+	<div class="pricing-grid">
 	{% for product in site.products limit:12 %}
-		<div class="pricing-grid">
-			<section class="card one">
+		
+			<section class="card">
 				<div class="content">
 					<img src="{{ site.baseurl }}{{ product.img }}" alt="">
 
@@ -40,14 +41,7 @@ img: /library/images/headers/header-pricing.svg
 				<div class="pad-top"></div>
 				<a class="drift-open-chat action-btn">{{ product.call-to-action }}</a>
 			</section>
-
-			<section class="card two">
-				<div class="timeline">
-					<h3>Timeline</h3>
-					{{ product.content }}
-				</div>
-			</section>
-		</div>
+		
 	{% endfor %}
-
+	</div>
 </main>

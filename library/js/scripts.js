@@ -51,8 +51,7 @@ var viewport = updateViewportDimensions();
 // Mobile Menu Slider Function
 function mobileMenu() {
   	document.getElementById('menu-burger').addEventListener('click',function() {
-    	
-    	document.getElementById('mobile-menu').classList.toggle('menu-shown');
+    document.getElementById('mobile-menu').classList.toggle('menu-shown');
 	});
 }
 
