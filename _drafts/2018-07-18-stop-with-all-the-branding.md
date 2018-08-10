@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Stop with all the Branding"
+title: Stop with all the Branding
 author: John Welch
-img: /library/images/headers/header-about.svg
-permalink: /posts/stop-with-all-the-branding.html
+img: "/library/images/headers/header-about.svg"
+permalink: "/posts/stop-with-all-the-branding.html"
 ttr: 8
----
 
+---
 ### I come from a family of athletes. 
 My dad ran a 4:29 mile as a freshman in high-school. That’s pretty fast when you’re 15. That’s actually pretty fast no matter how old you are. 
 
@@ -56,4 +56,3 @@ Someday, your company may be just like Apple or Nike. If it is, it won’t be be
 - Are you providing a service people love? Do you have raving Google reviews?
 - How does your content reflect your business?
 - What is your message? If you are having trouble converting website visitors or closing a deal with your potential clients, 9 times out of 10 its an issue with your message.
-
