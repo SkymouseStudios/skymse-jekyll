@@ -1,14 +1,12 @@
 ---
-
 layout: post
-title: "How to Actually Strategize Your Social Media"
+title: How to Actually Strategize Your Social Media
 author: Patrick Hanus
-img: /library/images/our-work/website-ams.jpg
-permalink: /posts/how-to-actually-strategize-your-social-media.html
+img: "/library/images/our-work/website-ams.jpg"
+permalink: "/posts/how-to-actually-strategize-your-social-media.html"
 ttr: 7
 
 ---
-
 ## Great Brands Avoid Selling Products
 The temptation to sell products is a great one, but at the end of the day you should be selling the feeling people get when they use your product. You’re selling "Brand Ethos.”
 
