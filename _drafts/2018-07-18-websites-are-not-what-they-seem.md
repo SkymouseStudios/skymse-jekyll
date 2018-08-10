@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Websites Aren't Products Anymore...They're Services"
+title: Websites Aren't Products Anymore...They're Services
 author: John Welch
-img: /library/images/headers/header-about.svg
-permalink: /posts/websites-arent-a-product-anymore-theyre-a-service.html
+img: "/library/images/headers/header-about.svg"
+permalink: "/posts/websites-arent-a-product-anymore-theyre-a-service.html"
 ttr: 6.5
----
 
+---
 A business owner, his name was Ted, decided that he needed a new website. His current site had been built in the mid 2000’s and he was pretty sure it wasn’t screaming “sophisticated” anymore. He had one problem though: he had no idea what a new website would cost him. 
 
 ### A Story About Ted
@@ -45,5 +45,4 @@ Under a managed website provider, a business engages in an ongoing relationship 
 The cost model looks a lot different, as well. The up-front cost is an onboarding/kick-off fee, roughly 25% of what businesses are used to paying for websites. Then the ongoing costs are around that of a full-time web developer, only the business is getting access to an entire team of developers for that price. For the businesses that understand the value, this is a game-changer. The market will respond. 
 
 ### The future is coming and disruption is inevitable. 
-The agencies that get on board will win big. The ones that don’t will join Blockbuster, MySpace, and every other company that couldn’t, or wouldn’t, adapt. 
-
+The agencies that get on board will win big. The ones that don’t will join Blockbuster, MySpace, and every other company that couldn’t, or wouldn’t, adapt.
