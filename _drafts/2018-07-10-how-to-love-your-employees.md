@@ -1,9 +1,10 @@
 ---
+
 layout: post
 title: How to love your employees
 author: Patrick Hanus
 img: "/library/images/our-work/website-ams.jpg"
-permalink: "/posts/how-to-actually-strategize-your-social-media.html"
+permalink: "/how-to-actually-strategize-your-social-media.html"
 ttr: 7
 
 ---

@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: How to Actually Strategize Your Social Media
 author: Patrick Hanus
@@ -7,6 +8,7 @@ permalink: "/how-to-actually-strategize-your-social-media.html"
 ttr: 7
 
 ---
+
 ```This is an example, the finished product can be found in evernote.```
 
 Content Advisory: Some bad language was used because I have a very limited vocabulary. Please think twice before reading aloud to your children as you drive in the car.

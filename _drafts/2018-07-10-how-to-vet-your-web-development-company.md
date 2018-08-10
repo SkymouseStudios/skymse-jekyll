@@ -1,5 +1,12 @@
 ---
 
+layout: post
+title: How to vet your web development company
+author: Patrick Hanus
+img: "/library/images/our-work/website-ams.jpg"
+permalink: "/how-to-actually-strategize-your-social-media.html"
+ttr: 7
+
 ---
 ## How to vet your web development company.
 

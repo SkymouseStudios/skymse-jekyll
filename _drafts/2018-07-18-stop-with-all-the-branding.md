@@ -1,12 +1,14 @@
 ---
+
 layout: post
 title: Stop with all the Branding
 author: John Welch
 img: "/library/images/headers/header-about.svg"
-permalink: "/posts/stop-with-all-the-branding.html"
+permalink: "/stop-with-all-the-branding.html"
 ttr: 8
 
 ---
+
 ### I come from a family of athletes. 
 My dad ran a 4:29 mile as a freshman in high-school. That’s pretty fast when you’re 15. That’s actually pretty fast no matter how old you are. 
 

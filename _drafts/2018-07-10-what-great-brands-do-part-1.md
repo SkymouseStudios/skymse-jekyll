@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: What great brands do (Part 1)
 author: Patrick Hanus

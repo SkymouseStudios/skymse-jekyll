@@ -1,6 +1,13 @@
 ---
 
+layout: post
+title: Why We started our own busniess
+img: "/library/images/our-work/website-ams.jpg"
+permalink: "/how-to-actually-strategize-your-social-media.html"
+ttr: 7
+
 ---
+
 Why did we start Skymouse?
 
 Skymouse was born in the back of an old 1989 Toyota Corrolla on a trip from Indianapolis to Washington D.C. 

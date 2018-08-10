@@ -1,9 +1,11 @@
 ---
 
----
-Branding Skymouse
-
----
+layout: post
+title: A walk through Branding Skymouse Studios
+author: Patrick Hanus
+img: "/library/images/our-work/website-ams.jpg"
+permalink: "/how-to-actually-strategize-your-social-media.html"
+ttr: 7
 
 layout: page
 title: "Branding at Skymouse Studios"

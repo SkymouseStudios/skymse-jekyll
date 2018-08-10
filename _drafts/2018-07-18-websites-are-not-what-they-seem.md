@@ -3,7 +3,7 @@ layout: post
 title: Websites Aren't Products Anymore...They're Services
 author: John Welch
 img: "/library/images/headers/header-about.svg"
-permalink: "/posts/websites-arent-a-product-anymore-theyre-a-service.html"
+permalink: "/websites-arent-a-product-anymore-theyre-a-service.html"
 ttr: 6.5
 
 ---

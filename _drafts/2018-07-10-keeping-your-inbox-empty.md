@@ -1,5 +1,12 @@
 ---
 
+layout: post
+title: 10 tips for managing your email
+author: Patrick Hanus
+img: "/library/images/our-work/website-ams.jpg"
+permalink: "/how-to-actually-strategize-your-social-media.html"
+ttr: 7
+
 ---
 Write an article on how I use asana to keep my inbox clean and empty.
 
