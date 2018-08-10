@@ -1,3 +1,6 @@
+---
+
+---
 Branding Skymouse
 
 ---
@@ -271,4 +274,4 @@ I built our website off of a custom wordpress theme, and boy was that no fun. I 
 - Asana
 - Evernote
 - Buffer
-- 
+-
