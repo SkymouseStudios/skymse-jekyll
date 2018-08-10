@@ -1,14 +1,12 @@
 ---
-
 layout: post
-title: "What great brands do (Part 1)"
+title: What great brands do (Part 1)
 author: Patrick Hanus
-img: /library/images/our-work/website-ams.jpg
-permalink: /what-great-brands-do-part-1.html
+img: "/library/images/our-work/website-ams.jpg"
+permalink: "/what-great-brands-do-part-1.html"
 ttr: 7
 
 ---
-
 ## Great Brands Start Inside
 Before you can be great to you clients and prospects you must take a look at your internal brand and how that affects your team and internal culture.
 
