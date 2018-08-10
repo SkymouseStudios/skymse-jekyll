@@ -4,30 +4,27 @@ title: Contact
 layout: default
 subtitle: Let's build a website you love.
 permalink: contact.html
-img: /library/images/headers/header-contact+0.svg
+img-front: /library/images/headers/header-contact-front.svg
+img-mid: /library/images/headers/header-contact-mid.svg
+img-back: /library/images/headers/header-contact-back.svg
 
 ---
+
+<div id="scene" data-relative-input="true" data-pointer-events="true">
+	<img style="z-index: 2; filter: blur(2px);" data-depth="0.50" src="{{ page.img-front }}" alt="">
+	<img style="z-index: 1; margin-top: -150px" data-depth="0.30" src="{{ page.img-mid }}" alt="">
+	<img style="z-index: 0" data-depth="0.10" src="{{ page.img-back }}" alt="">
+</div>
 
 <main id="page" class="contact">
 
 	<section class="_big-idea-box">
 				
 			<div class="content">
-				<h2>What does skymouse do?</h2>
+				<h2>What does Skymouse do?</h2>
 				<p>We are a web design company based out of Indianapolis, but working around the entire United States of America. We love to travel and explore the unknown, so we never limit ourselves to one location.</p>
 			</div>
 	
-	</section>
-
-		
-	<section>
-		<aside class="pad pad-top">
-			<div class="content">
-				<h3>How to get in touch:</h3>
-				<p>We would love to talk to you and find out if we can work together! </p>
-				<p>Send us a message here and we will do our best to get back to you as soon as we can!</p>
-			</div>
-		</aside>
 	</section>
 
 	{% include contact.html %}

@@ -4,86 +4,53 @@ title: Pricing
 layout: default
 subtitle: Let's build a website you love
 permalink: pricing.html
-img: /library/images/headers/header-pricing.svg
+img-front: /library/images/headers/header-pricing-front.svg
+img-mid: /library/images/headers/header-pricing-mid.svg
+img-back: /library/images/headers/header-pricing-back.svg
 
 ---
+
+<div id="scene" data-relative-input="true" data-pointer-events="true">
+	<img style="z-index: 2; margin-top: 350px" data-depth="0.50" src="{{ page.img-front }}" alt="">
+	<img style="z-index: 1; margin-top: 200px" data-depth="0.30" src="{{ page.img-mid }}" alt="">
+	<img style="z-index: 0" data-depth="0.10" src="{{ page.img-back }}" alt="">
+</div>
 
 <main id="page">
 	<section class="_big-idea-box">
 		<div class="content">
-			<h2>In short, we build awesome branded websites backed by social media for businesses like you.</h2>
+			<h2>So how much is "brand development"?</h2>
 			<p>We believe in straight-forward answers you can count on. No hidden costs. No vague contracts. Know what you’re paying for and know where your hard-earned money is going. Transparent as a window.</p>
 		</div>
 	</section>
-	
+
 	<div class="pricing-grid">
+	
+		{% for service in site.services limit:3 %}
 			
-		<section class="card one">
-			<img src="{{ site.baseurl }}/library/images/icons/icon-plan.svg" alt="">
-			<div class="content">
-				<h3>Subscription</h3>
-				<h5>Starting at $400/mo.</h5>
-				<p>Pay for you services as you go. We’re not afraid of a long-term relationship. Don’t worry ever again about keeping your site up to date or trying to make a flyer in Microsoft word, Skymouse handles your marketing for you and let’s you focus on what you love.</p>
-			</div>
-		</section>
+			<section class="card">
+				<div class="content">
+					<img src="{{ site.baseurl }}{{ service.img }}" alt="">
 
-		<section class="card two">
-			<img src="{{ site.baseurl }}/library/images/icons/icon-website.svg" alt="">
-			<div class="content">
-				<h3>Projects</h3>
-				<p>Our Tier system helps you figure out what type of website you need.</p>
-			</div>
-		</section>
+					<h2>{{ service.title }}</h2>
+					
+					<p>{{ service.description }}</p>
+					
+					<ul>
+						<li>+ 1 month engagement</li>
+						<li>+ Full access to the Skymouse Team</li>
+						<li>+ 10 hours</li>
+						<li>+ Website review</li>
+						{{ service.price }}
+					</ul>
+				</div>
 
-		<section class="card two">
-			<div class="content">
-				<h4 class="text-center">Basic</h4>
-				<h5>$8,000 - $12,000</h5>
-				<p class="text-center">Craft a website you love.</p>
-			</div>
-		</section>
+				<div class="pad-top"></div>
+				<a class="drift-open-chat action-btn">{{ service.call-to-action }}</a>
+				<div class="pad-top"></div>
+			</section>
+			
+		{% endfor %}
 
-		<section class="card two">
-			<div class="content">
-				<h4 class="text-center">Pro</h4>
-				<h5>$20,000 - $30,000</h5>
-				<p class="text-center">Craft a great website that impresses your wife.</p>
-			</div>
-		</section>
-
-		<section class="card two">
-			<div class="content">
-				<h4 class="text-center">Elite</h4>
-				<h5>$50,000 - up</h5>
-				<p class="text-center">Craft an amazing website that impresses your mother-in-law.</p>
-			</div>
-		</section>
-
-		<section class="card three">
-			<img src="{{ site.baseurl }}/library/images/icons/icon-contract.svg" alt="">
-			<div class="content">
-				<h3>Custom</h3>
-				<ul>
-					<li>-Host management</li>
-					<li>-Page write-ups</li>
-					<li>-Site structure</li>
-					<li>-Copywriting</li>
-					<li>-Site design and layout</li>
-					<li>-Interactive mock-ups</li>
-					<li>-Coding</li>
-					<li>-Styling</li>
-					<li>-Back-end development</li>
-					<li>-CMS development</li>
-					<li>-Analytics</li>
-					<li>-Integrations</li>
-					<li>-Updates (plugins, themes)</li>
-					<li>-Content management (Services)</li>
-				</ul>
-			</div>
-		</section>
-		
 	</div>
-			
-	{% include contact.html %}
-
 </main>

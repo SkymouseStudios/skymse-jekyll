@@ -3,7 +3,7 @@
 layout: post
 title: "How to Actually Strategize Your Social Media"
 author: Patrick Hanus
-img: twitter.png
+img: /library/images/our-work/website-ams.jpg
 permalink: /posts/how-to-actually-strategize-your-social-media.html
 ttr: 7
 ---

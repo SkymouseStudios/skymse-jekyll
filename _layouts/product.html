@@ -1,0 +1,61 @@
+{% include header.html %}
+
+<main id="product">
+	<a class="nav-button" href="/pricing.html">&larr; Back to Pricing</a>
+	
+	
+		<div class="pricing-grid">
+			<section class="card m-hide" style="grid-row: 1 / 4;"></section>
+			<section class="card card--orange grid-top">
+				<div class="content">
+					<img src="{{ site.baseurl }}{{ page.img }}" alt="">
+
+					<h2>{{ page.title }}</h2>
+					
+					<p>{{ page.description }}</p>
+					
+					<ul>
+						<li>+ 1 month engagement</li>
+						<li>+ Full access to the Skymouse Team</li>
+						<li>+ 10 hours</li>
+						<li>+ Website review</li>
+						{{ page.price }}
+					</ul>
+				</div>
+			</section>
+			<section class="card m-hide" style="grid-row: 1 / 4;"></section>
+
+			<section class="card grid-top">
+				<div class="pad-top"></div>
+				<h3>Schedule a free 15-minute call</h3>
+				<a class="drift-open-chat action-btn">{{ page.call-to-action }}</a>
+				<div class="pad-top"></div>
+			</section>
+
+			<section class="card grid-bottom">
+			<div class="timeline">
+				<h3>Timeline</h3>
+				{{ content }}
+			</div>
+			</section>
+
+			<section class="card m-hide" style="grid-column: 1 / 5;"></section>
+			
+			<section class="card" style="grid-column: 2 / 4;">
+				<div class="content">
+					<img src="{{ site.baseurl }}/library/images/icons/icon-across-devices.svg" alt="">
+					<h2>Want to start on your own?</h2>
+					<p>Get started with our 7 Steps to boosting your brand and making more money, a free eCourse. Because we love you.</p>
+				</div>
+				{% include mailchimp.html %}
+				<div class="pad-top"></div>
+			</section>
+		</div>
+		
+		
+		
+
+	
+</main>
+
+{% include footer.html %}

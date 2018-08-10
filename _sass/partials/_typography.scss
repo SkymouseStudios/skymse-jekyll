@@ -137,9 +137,19 @@ h4, .h4 {
   font-family: $sans-serif;
   font-weight: 200;
   font-size: 20px;
+  background-color: white;
+  z-index: 2;
   // border-radius: 5px;
   // padding: 10px;
   // text-align: center;
+}
+
+h5 {
+  font-size: 1em;
+  line-height: 2em;
+  font-weight: 400;
+  text-align: left;
+  margin-bottom: -20px;
 }
 
 code {
@@ -151,7 +161,6 @@ code {
   font-size: 1.5em;
   color: $black;
   margin: 0;
-
 }
 
 .dark {
@@ -160,4 +169,22 @@ code {
 
 .text-center {
   text-align: center;
+}
+
+.text-big {
+  font-size: 2em;
+  margin: 0;
+}
+
+.text-divider {
+  &:before {
+    content: " ";
+    position: absolute;
+    left: 5px;
+    right: -5px;
+    width: 100%;
+    margin-top: 15px;
+    border: 0.5px solid $lgray;
+    z-index: 1;
+  }
 }

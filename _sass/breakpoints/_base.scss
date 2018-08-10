@@ -9,7 +9,6 @@ html {
 	overflow-x: hidden;    
 }
 
-
 body {
 	position: relative;
     scroll-behavior: smooth;
@@ -26,6 +25,17 @@ body {
 	background-image: url('library/images/icons/icon-subtle-pattern.svg');
 	background-size: 300px;
 	background-repeat: repeat;
+}
+
+#Fade {
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	background-color: rgba(0,0,0, .5);
+	z-index: 999;
+	transition: 0.5s;
 }
 
 /*********************
@@ -65,12 +75,43 @@ h2 {
 HEADER STYLES
 *********************/
 
+#scene {
+	overflow: hidden;
+	position: absolute;
+	width: 105%;
+	top: -10px;
+	bottom: 0px;
+	left: -5%;
+	z-index: -5;
+	height: 400px;
+
+	img {
+		width: 105%;
+		//margin-right: 10%;
+	}
+}
+
 header {
 	position: relative;
 	display: block;
 	overflow: hidden;
 	width: 100%;
 	border-top: 10px solid $orange;
+}
+
+.header-fade {
+	background: rgb(0,0,0);
+	background: -webkit-linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
+	background: -o-linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
+	background: linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
+	position: absolute;
+	display: block;
+	content: "";
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	bottom: 0px;
+	z-index: -1;
 }
 
 .header-image {
@@ -80,7 +121,7 @@ header {
 	left: -250px;
 	right: 0;
 	width: 100%;
-	opacity: .4;
+	opacity: .7;
 
 	img {
 		width: 1000px;
@@ -94,11 +135,26 @@ header {
 	border-radius: 5px;
 	width: 140%;
 	margin: 20px -20%;
+
+	img {
+		width: 100%;
+		margin-top: -100px;
+	}
 }
 
 .hero {
 	margin-top: 100px;
 	text-align: left;
+	margin: 450px 10px 0px 10px;
+	border-radius: 5px;
+}
+
+.home-hero {
+	left: 0px;
+	right: 0px;
+	margin: 200px auto;
+	text-align: center;
+	max-width: 750px;
 }
 
 /*********************
@@ -117,8 +173,9 @@ NAVIGATION STYLES
 }
 
 #logo {
-	margin-top: 20px;
+	margin-top: 22px;
 	width: 100px;
+	z-index: 999;
 }
 
 #desktop-menu {
@@ -198,7 +255,12 @@ NAVIGATION STYLES
 	}
 }
 
-
+.arrow {
+	position: absolute;
+	right: -100px;
+	z-index: 55;
+	top: 25%;
+}
 /*********************
 SECTIONS
 *********************/
@@ -209,11 +271,16 @@ section {
     margin: 20px 1em 0 1em;
     height: auto;
 	border: 4px solid $lgray;
-	overflow: hidden;
+	// overflow: hidden; This was messing up the arrow on the home page.
 	text-align: center;
+	background-color: white;
 
 	.content {
-		text-align: left;
+		text-align: center;
+
+		p, ul, li {
+			text-align: left;
+		}
 	}
 
 	ul {
@@ -245,19 +312,35 @@ section {
 	}
 
 	// pricing cards
+
 	&.card {
 		padding: 0;
 		margin: 0 2em;
+		transition: 0.5s;
+		text-align: center;
+
+		&--orange {
+			box-shadow: 2px 2px 20px -10px #a2a2a2;
+			transition: 0.5s;
+			border: double 4px transparent;
+			background-image: linear-gradient(white, white), radial-gradient(circle at top left, #ef6500,#feb13e);
+			background-origin: border-box;
+			background-clip: content-box, border-box;
+		}
 
 		h3 {
 			background-color: $lgray;
 			width: 100%;
 			text-align: center;
 			padding: 20px 0;
+			background-color: $ygray;
+			background-image: url(/library/images/icons/icon-subtle-pattern.svg);
+    		background-size: 300px;
 		}
 
 		p {
 			margin: 1em;
+			text-align: left;
 		} 
 	}
 
@@ -266,6 +349,54 @@ section {
 		padding: 0;
 		border: none;
 		text-align: left;
+	}
+}
+
+section.card-dark {
+	border-color: gray;
+}
+
+.timeline {
+	position: relative;
+	text-align: left;
+
+	ul {
+		border-left: 3px solid $gray;
+		text-align: left;
+		padding: 10px 0px 10px 10px;
+	}
+
+	li {
+		margin-left: 5px;
+
+		&:before {
+			content:" ";
+			border: 1.5px solid $gray;
+			width: 10px;
+			height: 0px;
+			position: absolute;
+			left: 16px;
+			margin-top: 15px;
+			border-radius: 5px;
+		}
+	}	
+
+	h4 {
+		margin: 15px;
+		margin-left: 35px;
+
+		&:before {
+			position: absolute;
+			content: " ";
+			height: 15px;
+			width: 15px;
+			left: 5px;
+			margin-top: 5px;
+			background-color: #fff;
+			border: 4px solid $gray;
+			border-radius: 50%;
+			display: inline-block;
+		}
 	}
 }
 
@@ -358,7 +489,9 @@ TEMPLATE OBJECTS
 }
 
 .description {
-	background-color: #D8D8D8;
+	background-color: $ygray;
+	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
+    background-size: 300px;
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
 	padding: 1.5em;
@@ -366,7 +499,7 @@ TEMPLATE OBJECTS
 	p {
 		margin: 0;
 		font-size: 1.3em;
-		font-weight: 400;
+		font-weight: 200;
 	}
 }
 
@@ -406,8 +539,11 @@ POSTS & CONTENT STYLES
 
 
 .profile {
+	text-align: left;
+	margin: 10px 0px;
+
 	img {
-		width: 50px;
+		width: 60px;
 		border-radius: 5px;
 		margin-right: 10px;
 	}
@@ -415,20 +551,33 @@ POSTS & CONTENT STYLES
 	p {
 		display: inline-block;
 		margin: 0;
+		line-height: 1.5em;
 	}
 
 	.bio {
 		display: inline-block;
+		text-align: left;
 	}
 }
 
 .blog-post {
 	background-color: $lgray;
 	border-radius: 5px;
+	background-color: $ygray;
+	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
+    background-size: 300px;
+    border: 3px solid $lgray;
+    transition: 0.5s;
+
+    &:hover {
+    	box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
+    	transition: 0.5s;
+    	border: 3px solid white;
+    }
 
 	h2 {
-		font-size: 1em;
-		padding: 1em;
+		font-size: 1.5em;
+		padding: 0.5em;
 		height: 100px;
 	}
 
@@ -447,7 +596,7 @@ POSTS & CONTENT STYLES
 	}
 
 	img {
-		width: 100%;
+		height: 100%;
 		margin: 0;
 	}
 }

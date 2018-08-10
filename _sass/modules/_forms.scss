@@ -129,11 +129,13 @@ form#searchbar #searchbar-submit {
   text-align: left; 
   clear:left; 
   width:100%;
+
 }
 
 #mc_embed_signup form {
-    text-align: left;
-    padding: 10px 0 10px 0;
+    text-align: center;
+    margin: 0;
+    max-width: none;
 }
 
 .mc-field-group {
@@ -157,8 +159,10 @@ form#searchbar #searchbar-submit {
     padding: 0px 0.4em;
     display: inline-block;
     margin: 0;
-    width: 350px;
+    width: 250px;
     vertical-align: top;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
 }
 
 #mc_embed_signup label {
@@ -191,6 +195,8 @@ form#searchbar #searchbar-submit {
     display: inline-block;
     margin: 0;
     transition: all 0.23s ease-in-out 0s;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
 }
 
 #mc_embed_signup .button:hover {
