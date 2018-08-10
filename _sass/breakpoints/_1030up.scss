@@ -21,6 +21,17 @@
 /* HEADER */
 /******************/
 
+#scene {
+	height: 700px;
+}
+
+.arrow {
+	right: -100px;
+	z-index: 55;
+	top: 25%;
+	transform: rotate(0deg);
+}
+
 #menu-burger, {
 	display: none;
 }

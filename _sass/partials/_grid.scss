@@ -34,7 +34,7 @@ Stylesheet: Grid Stylesheet
 .feature-grid {
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
 }
 
 .blog-grid {
@@ -83,6 +83,8 @@ Stylesheet: Grid Stylesheet
   grid-row: 2;
   grid-column: span 2;
 }
+
+/////////////// Mobile Styles /////////////
 
 @media (max-width: 767px) {
 
@@ -140,6 +142,11 @@ Stylesheet: Grid Stylesheet
     display: grid;
     grid-template-columns: auto;
     grid-gap: 10px;
+  }
+
+  .feature-grid { 
+    grid-gap: 40px;
+    grid-template-columns: auto;
   }
 
   .m-hide {
@@ -208,6 +215,12 @@ Stylesheet: Grid Stylesheet
     grid-gap: 20px;
     grid-auto-rows: repeat(4, 1fr); 
   }
+
+  .feature-grid { 
+    grid-gap: 40px;
+    grid-template-columns: auto;
+  }
+
 } // end tablet
 
 /* Landscape to small desktop */

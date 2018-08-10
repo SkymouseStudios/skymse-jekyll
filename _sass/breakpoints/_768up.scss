@@ -45,7 +45,7 @@ HEADER STYLES
 }
 
 #scene {
-	height: 700px;
+	height: 500px;
 }
 
 
@@ -122,6 +122,14 @@ img.client-site {
 	&:hover {
 		bottom: -50px;
 	}
+}
+
+.arrow {
+	position: absolute;
+	right: 220px;
+	z-index: 55;
+	bottom: -120px;
+	transform: rotate(95deg);
 }
 
 /*********************

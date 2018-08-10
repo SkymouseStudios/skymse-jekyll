@@ -2,10 +2,14 @@
 
 title: Free Call
 layout: product
-description: We understand what its like trying to wrangle your marketing when youre just starting. Here's a plan that helps you start taking control of your marketing now.
-price: Priced at a simple $950
-call-to-action: Take back control
+description: We will free acknowledge that not everyone is a good fit. Rather than wast your time or ours, we can set up a call so that we can learn more about eachother.
+price: Free!
+call-to-action: Schedule a Call
 img: /library/images/icons/icon-search.svg
+item-1: A review of your current strategy
+item-2: Suggested next steps
+item-3: Free Website review
+item-4: Recommendations
 
 ---
 
@@ -13,18 +17,3 @@ img: /library/images/icons/icon-search.svg
 - 1 Hour consultation call
 - Discuss goals and obstacles
 - Weekly review call
-
-#### Week 2
-- 4 hours of work
-- Research assessment
-- Weekly review call
-			
-#### Week 3
-- 4 hours of work
-- Research assessment
-- Weekly review call
-
-#### Week 4
-- Marketing strategy report
-- Further recommendations
-- 1 hour final consultation call
