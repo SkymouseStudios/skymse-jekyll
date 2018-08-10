@@ -159,6 +159,10 @@ a.nav-button {
   color: $black;
   background-color: #fff;
   border-bottom: 3px solid #cfcfcf;
+
+  &:active {
+    border: 1px solid $orange;
+  }
 }
 
 .orange-button {

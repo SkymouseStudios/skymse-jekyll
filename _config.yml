@@ -10,10 +10,6 @@ logo: "/assets/logo.png"
 username: Patrick Hanus
 user_title: Patrick Hanus | Creative Director
 email: patrick@skymse.com
-twitter_username: "@thehsedition"
-github_username:  "@thehsedition"
-gplus_username:  "@thehsedition"
-disqus_username: "@thehsedition"
 
 # html minify
 compress_html:
@@ -30,7 +26,7 @@ include: ["_pages"]
 permalink: /:title/
 
 collections:
-  products:
+  services:
     output: true
     permalink: /:collection/:name
   case_studies:
@@ -53,17 +49,13 @@ links:
 # Links to Social Media
 social:
   - name: Instagram
-    url: https://bit.ly/ph-insta
-  - name: Vimeo
-    url: https://bit.ly/ph-vimeo
+    url: https://bit.ly/skyGram
   - name: LinkedIn
-    url: https://bit.ly/ph-LinkedIn
+    url: https://bit.ly/skyLinkedIn
   - name: YouTube
-    url: https://bit.ly/ph-youtube
-  - name: GitHub
-    url: https://bit.ly/ph-github
+    url: https://bit.ly/skyTube
   - name: Twitter
-    url: https://bit.ly/ph-twitter
+    url: https://bit.ly/skyTweets
 
 # Descriptions for Blog Categories
 descriptions:

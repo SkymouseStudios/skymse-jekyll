@@ -1,11 +1,11 @@
 ---
 
-title: Free Call
+title: SkyTeam
 layout: product
 description: We understand what its like trying to wrangle your marketing when youre just starting. Here's a plan that helps you start taking control of your marketing now.
 price: Priced at a simple $950
 call-to-action: Take back control
-img: /library/images/icons/icon-plan.svg
+img: /library/images/icons/icon-cheese.svg
 
 ---
 

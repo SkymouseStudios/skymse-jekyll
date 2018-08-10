@@ -9,7 +9,6 @@ html {
 	overflow-x: hidden;    
 }
 
-
 body {
 	position: relative;
     scroll-behavior: smooth;
@@ -37,10 +36,6 @@ body {
 	background-color: rgba(0,0,0, .5);
 	z-index: 999;
 	transition: 0.5s;
-}
-
-#page {
-	margin-top: -50px;
 }
 
 /*********************
@@ -88,10 +83,11 @@ HEADER STYLES
 	bottom: 0px;
 	left: -5%;
 	z-index: -5;
+	height: 400px;
 
 	img {
-		width: 100%;
-		margin-right: 10%;
+		width: 105%;
+		//margin-right: 10%;
 	}
 }
 
@@ -150,14 +146,15 @@ header {
 	margin-top: 100px;
 	text-align: left;
 	margin: 450px 10px 0px 10px;
-	background-color: white;
-	padding: 5px 20px 15px;
 	border-radius: 5px;
 }
 
 .home-hero {
-	margin: 300px auto;
+	left: 0px;
+	right: 0px;
+	margin: 200px auto;
 	text-align: center;
+	max-width: 750px;
 }
 
 /*********************
@@ -258,7 +255,12 @@ NAVIGATION STYLES
 	}
 }
 
-
+.arrow {
+	position: absolute;
+	right: -100px;
+	z-index: 55;
+	top: 25%;
+}
 /*********************
 SECTIONS
 *********************/
@@ -269,7 +271,7 @@ section {
     margin: 20px 1em 0 1em;
     height: auto;
 	border: 4px solid $lgray;
-	overflow: hidden;
+	// overflow: hidden; This was messing up the arrow on the home page.
 	text-align: center;
 	background-color: white;
 
@@ -317,7 +319,7 @@ section {
 		transition: 0.5s;
 		text-align: center;
 
-		&:hover {
+		&--orange {
 			box-shadow: 2px 2px 20px -10px #a2a2a2;
 			transition: 0.5s;
 			border: double 4px transparent;
@@ -561,6 +563,10 @@ POSTS & CONTENT STYLES
 .blog-post {
 	background-color: $lgray;
 	border-radius: 5px;
+	background-color: $ygray;
+	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
+    background-size: 300px;
+    border: 3px solid $lgray;
 
 	h2 {
 		font-size: 1.5em;

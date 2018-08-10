@@ -12,11 +12,67 @@ img-back: /library/images/headers/header-home-back.svg
 
 <div id="scene" data-relative-input="true" data-pointer-events="true">
 	<img style="z-index: 2; margin-top: 40px; filter: blur(2px);" data-depth="0.50" src="{{ page.img-front }}" alt="">
-	<img style="z-index: 1; margin-top: 400px;" data-depth="0.30" src="{{ page.img-mid }}" alt="">
+	<img style="z-index: 1; margin-top: 375px;" data-depth="0.30" src="{{ page.img-mid }}" alt="">
 	<img style="z-index: 0" data-depth="0.10" src="{{ page.img-back }}" alt="">
 </div>
 		
-<main class="wrapper">
-	<div class="pad-top"></div>
+<main id="page">
+	<section class="_big-idea-box">
+		<div class="content">
+		<h1>Take Back Control.</h1>
+		<h2>Get more visitors, convert more leads and make more money.</h2>
+	</div>
+	</section>
+
+	<div style="margin: 200px auto;">
+		<h4 class="text-center">We'll show you how. It's quite simple.</h4>
+	</div>
+
+	<div class="feature-grid">
+	<section>
+
+		<h3>Services</h3>
+		<ul>
+			<li>- Ecommerce Development</li>
+			<li>- Email Campaigns</li>
+			<li>- Lead Generation</li>
+		</ul>
+		<img src="/library/images/icons/icon-arrow.svg" alt="right arrow" class="arrow">
+	</section>
+
+	<section class="card card--orange">
+		<div class="pad-top">
+			<h2>Skymouse Team</h2>
+			<p>We do the dirty work to make sure your website is converting, your ads are enticing and all systems are humming.</p>
+		</div>
+		<img src="/library/images/icons/icon-arrow.svg" alt="right arrow" class="arrow">
+	</section>
+
+	<section>
+		<h3>Results</h3>
+		<ul>
+			<li>- Sell more products</li>
+			<li>- Grow your client base</li>
+			<li>- Buy a beach house</li>
+		</ul>
+	</section>
+
+	</div>
+
+	<div style="margin: 200px auto;" class="text-center">
+		<h4 class="text-center">So you in?</h4>
+		<a class="drift-open-chat action-btn text-center">< Take back control ></a>
+	</div>
+	
+	<section>
+		<div class="content">
+			<img src="{{ site.baseurl }}/library/images/icons/icon-across-devices.svg" alt="">
+			<h2>Want to start on your own?</h2>
+			<p style="padding: 10px 80px;">Get started with our 7 Steps to boosting your brand and making more money, a free eCourse. Because we love you.</p>
+		</div>
+		{% include mailchimp.html %}
+		<div class="pad-top"></div>
+	</section>
+
 </main>
 		

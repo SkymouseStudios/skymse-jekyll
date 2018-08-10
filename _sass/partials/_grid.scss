@@ -37,15 +37,9 @@ Stylesheet: Grid Stylesheet
   grid-template-columns: repeat(3, 1fr);
 }
 
-.pricing-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
-  grid-gap: 20px;
-  grid-auto-rows: repeat(4, 1fr);
-}
-
 .blog-grid {
   width: 100%;
+  padding: 0 20px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
   grid-gap: 40px;
@@ -141,6 +135,16 @@ Stylesheet: Grid Stylesheet
     grid-column: 1;
     grid-row: auto;
   }
+
+  .pricing-grid {
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 10px;
+  }
+
+  .m-hide {
+    display: none;
+  }
 } // end mobile styles
 
 
@@ -198,6 +202,12 @@ Stylesheet: Grid Stylesheet
     width: 80%;
   }
 
+  .pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
+    grid-gap: 20px;
+    grid-auto-rows: repeat(4, 1fr); 
+  }
 } // end tablet
 
 /* Landscape to small desktop */
@@ -312,6 +322,13 @@ Stylesheet: Grid Stylesheet
   .d-1of12 {
     @include grid-col;
     width: 8.33%;
+  }
+
+  .pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
+    grid-gap: 20px;
+    grid-auto-rows: repeat(4, 1fr);
   }
 
 } // end desktop styles
