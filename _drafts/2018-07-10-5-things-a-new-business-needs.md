@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "5 Things a new business needs"
+title: 5 Things a new business needs
 author: Patrick Hanus
-img: /library/images/headers/header-why.svg
-permalink: /posts/5-things-a-new-business-needs.html
+img: "/library/images/headers/header-why.svg"
+permalink: "/posts/5-things-a-new-business-needs.html"
 ttr: 5
----
 
+---
 # Taking Skymouse to the next level.
 
 We did it. This is the next big step. Me and John started this company just over 2 years ago and now we are ready to embrace the next steps. I will be going full time with Skymouse starting today.
