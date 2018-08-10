@@ -567,6 +567,13 @@ POSTS & CONTENT STYLES
 	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
     background-size: 300px;
     border: 3px solid $lgray;
+    transition: 0.5s;
+
+    &:hover {
+    	box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
+    	transition: 0.5s;
+    	border: 3px solid white;
+    }
 
 	h2 {
 		font-size: 1.5em;

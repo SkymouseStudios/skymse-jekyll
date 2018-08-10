@@ -24,11 +24,7 @@ description: "Take back control of your marketing\n\nYou are drowning.\n\nYou ar
   began to consume you\n\n\n\n\n\n\n\n"
 price: Priced at a simple $950
 call-to-action: Take back control
-<<<<<<< HEAD:_services/skyteam.md
 img: /library/images/icons/icon-cheese.svg
-=======
-img: "/library/images/icons/icon-plan.svg"
->>>>>>> origin/180506-content-changes:_products/skyteam.md
 
 ---
 #### Week 1

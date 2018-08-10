@@ -41,7 +41,7 @@ Stylesheet: Grid Stylesheet
   width: 100%;
   padding: 0 20px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
   grid-gap: 40px;
   grid-auto-rows: minmax(50px, auto);
   -ms-flex-line-pack: justify;
