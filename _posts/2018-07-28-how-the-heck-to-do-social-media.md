@@ -4,8 +4,9 @@ layout: post
 title: "How to Actually Strategize Your Social Media"
 author: Patrick Hanus
 img: /library/images/our-work/website-ams.jpg
-permalink: /posts/how-to-actually-strategize-your-social-media.html
+permalink: /how-to-actually-strategize-your-social-media.html
 ttr: 7
+
 ---
 
 ```This is an example, the finished product can be found in evernote.```
