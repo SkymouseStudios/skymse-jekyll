@@ -1,0 +1,60 @@
+---
+label: LaunchPad
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: img
+  label: Img
+  type: file
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: content
+  label: Content
+  type: textarea
+  hidden: false
+  default: ''
+- name: price
+  label: Price
+  type: text
+  hidden: false
+  default: ''
+- name: call-to-action
+  label: Call to action
+  type: text
+  hidden: false
+  default: ''
+- name: item-1
+  label: Item 1
+  type: text
+  hidden: false
+  default: ''
+- name: item-2
+  label: Item 2
+  type: text
+  hidden: false
+  default: ''
+- name: item-3
+  label: Item 3
+  type: text
+  hidden: false
+  default: ''
+- name: item-4
+  label: Item 4
+  type: text
+  hidden: false
+  default: ''
