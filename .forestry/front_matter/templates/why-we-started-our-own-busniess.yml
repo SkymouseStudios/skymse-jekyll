@@ -1,0 +1,30 @@
+---
+label: Why We started our own busniess
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: img
+  label: Img
+  type: file
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: ttr
+  label: Ttr
+  type: text
+  hidden: false
+  default: ''
