@@ -31,6 +31,11 @@ Stylesheet: Grid Stylesheet
   margin-right: 5%;
 }
 
+.grid-half {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
+}
+
 .feature-grid {
   display: grid;
   grid-gap: 20px;

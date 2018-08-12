@@ -74,9 +74,14 @@ NAVIGATION STYLES
 TEMPLATE OBJECTS
 *********************/
 
+.content:nth-child(2) {
+	border-left: 4px solid $lgray;
+}
+
+
 ._big-idea-box {
 	.content {
-		margin: 0 20%;
+		margin: 0 15%;
 	}
 }
 

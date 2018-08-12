@@ -176,6 +176,11 @@ code {
   margin: 0;
 }
 
+ul.list {
+  text-align: left;
+  list-style: disc;
+}
+
 .text-divider {
   &:before {
     content: " ";

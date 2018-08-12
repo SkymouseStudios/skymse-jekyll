@@ -350,6 +350,10 @@ section {
 			margin: 1em;
 			text-align: left;
 		} 
+
+		h5 {
+			margin: 1em;
+		}
 	}
 
 	// no border and stuff
@@ -406,6 +410,69 @@ section.card-dark {
 			display: inline-block;
 		}
 	}
+}
+
+.pricing-grid {
+	.card {
+		margin-bottom: 60px;
+
+		p {
+			margin: 2em;
+		}
+	}
+
+
+}
+
+.super-list {
+	position: relative;
+	text-align: left;
+
+	ul {
+		text-align: left;
+		padding: 10px 0px 10px 10px;
+	}
+
+	li {
+		margin-left: 5px;
+
+		&:before {
+			position: absolute;
+			content: " ";
+			height: 10px;
+			width: 10px;
+			left: 10px;
+			margin-top: 9px;
+			background-color: #fff;
+			border: 2px solid $gray;
+			border-radius: 50%;
+			display: inline-block;
+		}
+	}
+
+	span {
+		color: red;
+	}	
+}
+
+.logo-center {
+	margin: 0 auto;
+	width: 100px;
+	z-index: 999;
+	position: absolute;
+	top: -20px;
+	left: 0;
+	right: 0;
+}
+
+.icon-center {
+	margin: 0 auto;
+	width: 100px;
+	z-index: 999;
+	position: absolute;
+	top: -60px;
+	left: 0;
+	right: 0;
 }
 
 /*********************
