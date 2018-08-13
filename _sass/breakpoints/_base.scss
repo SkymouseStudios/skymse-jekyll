@@ -372,40 +372,24 @@ section.card-dark {
 	position: relative;
 	text-align: left;
 
-	ul {
-		border-left: 3px solid $gray;
-		text-align: left;
-		padding: 10px 0px 10px 10px;
-	}
-
 	li {
 		margin-left: 5px;
-
-		&:before {
-			content:" ";
-			border: 1.5px solid $gray;
-			width: 10px;
-			height: 0px;
-			position: absolute;
-			left: 16px;
-			margin-top: 15px;
-			border-radius: 5px;
-		}
 	}	
 
-	h4 {
-		margin: 15px;
-		margin-left: 35px;
+	ul {
+		position: relative;
+		border-top: 3px solid $gray;
+		margin: 0;
 
 		&:before {
 			position: absolute;
 			content: " ";
 			height: 15px;
 			width: 15px;
-			left: 5px;
-			margin-top: 5px;
+			left: 20px;
+			margin-top: -11px;
 			background-color: #fff;
-			border: 4px solid $gray;
+			border: 3px solid $gray;
 			border-radius: 50%;
 			display: inline-block;
 		}
@@ -420,8 +404,6 @@ section.card-dark {
 			margin: 2em;
 		}
 	}
-
-
 }
 
 .super-list {
@@ -460,7 +442,7 @@ section.card-dark {
 	width: 100px;
 	z-index: 999;
 	position: absolute;
-	top: -20px;
+	top: -23px;
 	left: 0;
 	right: 0;
 }

@@ -6,7 +6,7 @@
 LAYOUT & GRID STYLES
 *********************/
 
-#page, #inner-header, #product {
+#page, #inner-header, #product, #Checkout {
 	width: 700px; // set content width
 	margin: 0 auto; // center content in page
 	overflow: hidden; // hide anything that wants to overflow
@@ -78,7 +78,6 @@ TEMPLATE OBJECTS
 	border-left: 4px solid $lgray;
 }
 
-
 ._big-idea-box {
 	.content {
 		margin: 0 15%;
@@ -135,6 +134,11 @@ img.client-site {
 	z-index: 55;
 	bottom: -120px;
 	transform: rotate(95deg);
+}
+
+section.guarantee-center {
+	width: 50%;
+	margin: 0 auto;
 }
 
 /*********************
