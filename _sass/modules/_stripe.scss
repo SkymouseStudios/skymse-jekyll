@@ -671,23 +671,24 @@ main > .example .success .reset svg {
 }
 
 .example.example5 .success .icon .border {
-  stroke: $orange;
+  stroke: $lblue;
 }
 
 .example.example5 .success .icon .checkmark {
-  stroke: #fff;
+  stroke: $lblue;
 }
 
 .example.example5 .success .title {
-  color: #fff;
+  color: $gray;
+  background: transparent;
 }
 
 .example.example5 .success .message {
-  color: #cdd0f8;
+  color: $gray;
 }
 
 .example.example5 .success .reset path {
-  fill: #fff;
+  fill: $gray;
 }
 
 #Checkout {
