@@ -14,6 +14,11 @@ permalink: checkout.html
   });
 </script>
 
+<div class="pad-top pad m-margin">
+    <h1>Drive web traffic that converts.</h1>
+    <h4>The Skymouse Marketing Launchpad</h4>
+</div>
+
 <main id="Checkout" class="grid-half">
 
 <div class="cell example example5">

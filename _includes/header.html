@@ -80,6 +80,9 @@
 	
 	<header role="banner" itemscope itemtype="http://schema.org/WPHeader">
 		
+	{% if page.layout == 'landing-page' or page.title == 'Checkout' %}
+		<!-- No Nav -->
+	{% else %}
 		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 			<ul class="cf">
           		{% for link in site.links %}
@@ -89,7 +92,8 @@
           		{% endfor %}
         	</ul>
 		</nav>
-			
+	
+
 		<div id="inner-header" class="cf">
 
 			<a href="{{ site.baseurl }}/index.html" rel="nofollow">
@@ -111,6 +115,7 @@
 	        	</ul>
 			</nav>
 		</div> 
+	{% endif %}	
 
 		<div class="header-fade"></div>
 		
