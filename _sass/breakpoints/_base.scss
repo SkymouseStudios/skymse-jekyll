@@ -264,10 +264,13 @@ NAVIGATION STYLES
 
 .arrow {
 	position: absolute;
-	right: 120px;
+	width: 100px;
+	right: 0px;
+	left: 0px;
+	bottom: -50px;
 	z-index: 55;
-	bottom: -130px;
 	transform: rotate(95deg);
+	margin: 0 auto;
 }
 /*********************
 SECTIONS

@@ -122,8 +122,9 @@
 
       if (result.token) {
         // If we received a token, show the token ID.
-        //example.querySelector('.token').innerText = result.token.id;
+        // example.querySelector('.token').innerText = result.token.id;
         example.classList.add('submitted');
+        fbq('track', 'CompleteRegistration');
       } else {
         // Otherwise, un-disable inputs.
         enableInputs();

@@ -130,9 +130,12 @@ img.client-site {
 
 .arrow {
 	position: absolute;
-	right: 220px;
+	top: 30%;
+	right: -62px;
+	left: auto;
+	bottom: auto;
+	margin: auto;
 	z-index: 55;
-	bottom: -120px;
 	transform: rotate(95deg);
 }
 
