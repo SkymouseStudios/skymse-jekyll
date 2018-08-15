@@ -113,9 +113,15 @@ You also want to show that the money is making a return, so whether thats gettin
 
 So let's start with out plan. Let's pretend we are a boring law firm, because I think thats a good example of an organization that might have trouble with social media. We'll call it Zebra & Associates, LLC. 
 
-What do we want to accomplish 
+##### What do we want to accomplish?
 
-Social media for the sake of social media is a bad idea. So
+Social media for the sake of social media is a bad idea. So let's think about potential call to actions here
+
+* Visit the website (bad idea, we don't know they will convert)
+* Follow our social media account (not bad, but not the end
+* Call our office (good, we can sell)
+* Schedule an appointment (good, we can sell)
+* Give us their email address (good start to keeping them in touch)
 
 ##### Who is interested in our services (target market)?
 
