@@ -1,12 +1,12 @@
 ---
 
-title: Order Confirmed!
+title: You're on the List!
 layout: landing
-subtitle: We'll send you an email for your records.
-permalink: order-confirmation.html
+subtitle: Check your email to make sure it didn't get stuck in your spam.
+permalink: subscription-confirmed.html
 img-front: /library/images/headers/header-contact-front.svg
 img-mid: /library/images/headers/header-contact-mid.svg
 img-back: /library/images/headers/header-contact-back.svg
-img: /library/images/icons/icon-contract.svg
+img: /library/images/icons/icon-across-devices.svg
 
 ---

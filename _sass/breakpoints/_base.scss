@@ -382,7 +382,7 @@ section.card-dark {
 	ul {
 		position: relative;
 		border-top: 3px solid $gray;
-		margin: 0;
+		margin-bottom: 60px;
 
 		&:before {
 			position: absolute;
@@ -395,6 +395,12 @@ section.card-dark {
 			border: 3px solid $gray;
 			border-radius: 50%;
 			display: inline-block;
+			transition: 0.5s;
+		}
+
+		&:hover::before {
+			left: 240px;
+			transition: 2.5s;
 		}
 	}
 }
@@ -601,6 +607,7 @@ POSTS & CONTENT STYLES
 .profile {
 	text-align: left;
 	margin: 10px 0px;
+	margin-top: 20px;
 
 	img {
 		width: 60px;
@@ -608,15 +615,14 @@ POSTS & CONTENT STYLES
 		margin-right: 10px;
 	}
 
-	p {
-		display: inline-block;
-		margin: 0;
-		line-height: 1.5em;
-	}
-
 	.bio {
-		display: inline-block;
+		display: block;
 		text-align: left;
+		
+		p {
+			margin: 0px;
+			padding: 0px;
+		}
 	}
 }
 
@@ -708,10 +714,10 @@ footer {
 
 .footer-links, .social-links {
 	display: inline-block;
-	margin-right: 40px;
+	margin-right: 0px;
 
 	p {
-		margin-right: 40px;
+		margin-right: 0px;
 	}
 
 	a {

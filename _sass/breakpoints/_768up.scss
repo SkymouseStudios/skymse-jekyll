@@ -128,6 +128,10 @@ img.client-site {
 	}
 }
 
+.timeline ul {
+	margin: 0;
+}
+
 .arrow {
 	position: absolute;
 	top: 30%;
@@ -162,10 +166,13 @@ FOOTER STYLES
 
 footer {
 
+	.footer-links, .social-links {
+		margin-right: 40px;
+	}
+
 	p {
 		display: inline-block;
-		//margin: 0;
-		//float: right;
+		margin-right: 40px;
 	}
 }
 
