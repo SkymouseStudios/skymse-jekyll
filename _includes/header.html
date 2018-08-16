@@ -6,43 +6,57 @@
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>Skymouse Studios | {% if page.title == "Skymouse Studios" %}
-										Craft a business you love.
-									{% else %}
-										{{ page.subtitle }}
-									{% endif %}</title>
+		<title>{{ site.title }} • {{ page.subtitle }} </title>
 
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-		<meta name="description" content="Skymouse Studios helps you tell stories, design better, and develop a brand people love. From beautiful and speedy websites to slick motion graphics, we've gotcha covered.">
-		<meta property="og:title" content="Skymouse Studios" />
+
+		<!-- Icon Info -->
+		<div id='hidden' style='display:none;'><img src="{{ page.image }}"></div>
+		<link rel="shortcut icon" href="/favicon.png" type="image/x-icon"/>
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#ffffff">
+
+		<!--[if IE]>
+		<link rel="shortcut icon" href="/favicon.ico">
+		<![endif]-->
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="{{ site.username }}" />
+		<meta name="twitter:title" content="{{ page.title }}" />
+		<meta name="twitter:description" content="{{ page.description }}" />
+		<meta name="twitter:image" content="{{ page.image }}" />
+
+		<!-- Meta Information -->
+		<meta name="keywords" content="{{ page.keywords }}" />
+		<meta property="og:title" content="{{ page.title }}" />
+		<meta name="og:description" content="{{ page.description }}">
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="{{ site.baseurl }}" />
-		<meta property="og:image" content="{{ site.baseurl }}/screenshot.png" />
+		<meta property="og:image" content="{{ site.baseurl }}{{ page.image }}" />
 
-		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
-		<link rel="icon" href="{{ site.baseurl }}/favicon.png">
 		<!--[if IE]>
 			<link rel="shortcut icon" href="/favicon.ico">
 		<![endif]-->
-		<meta name="msapplication-TileColor" content="#f01d4f">
-		<meta name="msapplication-TileImage" content="{{ site.baseurl }}/library/images/win8-tile-icon.png">
-            <meta name="theme-color" content="#121212">
-
-
 		
 		<script type="application/ld+json">
 			{
 			  "@context": "http://schema.org",
 			  "@type": "Organization",
-			  "name": "Skymouse Studios",
+			  "name": "{{ site.title }}",
 			  "url": "{{ site.baseurl }}",
-			  "email": "info@skymse.com"
+			  "email": "{{ site.email }}"
 			  "founders": [ "John Welch", "Patrick Hanus" ],
 			  "foundingDate": "2016-05-20",
-			  "logo": "{{ site.baseurl }}/library/images/skymse-logo-words-100.jpg",
+			  "logo": "{{ site.baseurl }}{{ site.logo }}",
 			  "sameAs": [
 			    "https://www.instagram.com/SkymouseStudios/",
 				"https://twitter.com/SkymouseStudios",
@@ -55,28 +69,34 @@
 			}
 		</script>
 		
-
-
+		<!-- Site Styles -->
 		<link rel="stylesheet" href="{{ site.baseurl }}/style.css">
-		<!-- <link rel="stylesheet" href="/library/css/ie.css"> -->
+
+		<!-- Fonts -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,500">
-		
-		<!-- stripe -->
-		<script src="https://js.stripe.com/v3/"></script>
 
+		<!-- Parallax -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+
+		<!-- General JS -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-		<script src="https://s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js"></script>
 		
 		<!-- Snipcart -->
         <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="Y2Y0ZWRjMWUtMzc4Ny00ZmUxLTlkMWQtODFkMTkyMWM0ODJkNjM2Njk5NDA3MzI3NzQ1MTM0" id="snipcart"></script>
 		<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
+
+		<!-- Analytics -->
 		{% include analyticstracking.html %}
 	</head>
 
 	<body itemscope itemtype="http://schema.org/WebPage">
+		<!-- WhatsApp Image -->
+		<span itemprop="image" itemscope itemtype="image/jpeg"> 
+      		<link itemprop="url" itemtype="image/jpeg" href="http://stringsattachedfilm.com/images/strings-attached-small.png"> 
+    	</span>
+
 		<!-- Google Tag Manager (noscript) -->
 			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJJ59XW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->

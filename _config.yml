@@ -1,15 +1,14 @@
 # Site settings
-title: "Skymouse Studios - Transparent. Responsive. Webdesign"
+title: "Skymouse Studios"
 description: "A web design studio that helps you build a website you love. No nonsense."
-baseurl: "https://skymousestudios.com"
+baseurl: #"https://skymousestudios.com"
 url: "SkymouseStudios.com"
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
-
-# User settings
-username: Patrick Hanus
-user_title: Patrick Hanus | Creative Director
-email: patrick@skymse.com
+cover: "/library/cover.png"
+logo: "/library/logo.png"
+username: "@skymousestudios"
+email: "sos@skymousestudios.com"
+location: "Indianapolis, IN"
+color: "#F99C1C"
 
 # html minify
 compress_html:

@@ -9,6 +9,41 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/.forestry\/front_matter\/Icon\r": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.forestry\/front_matter\/Icon\r",
+		"oF": 0
+		},
+	"\/.forestry\/front_matter\/templates\/Icon\r": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.forestry\/front_matter\/templates\/Icon\r",
+		"oF": 0
+		},
+	"\/.forestry\/front_matter\/templates\/launchpad.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.forestry\/front_matter\/templates\/launchpad.yml",
+		"oF": 0
+		},
+	"\/.forestry\/front_matter\/templates\/why-we-started-our-own-busniess.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.forestry\/front_matter\/templates\/why-we-started-our-own-busniess.yml",
+		"oF": 0
+		},
+	"\/.forestry\/Icon\r": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.forestry\/Icon\r",
+		"oF": 0
+		},
 	"\/.forestry\/settings.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -119,6 +154,13 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/.sass-cache\/32c7333b44fa467d2d6b4d45c0da8e51e11f2349\/_forms.scssc",
+		"oF": 0
+		},
+	"\/.sass-cache\/32c7333b44fa467d2d6b4d45c0da8e51e11f2349\/_stripe.scssc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/.sass-cache\/32c7333b44fa467d2d6b4d45c0da8e51e11f2349\/_stripe.scssc",
 		"oF": 0
 		},
 	"\/.sass-cache\/32c7333b44fa467d2d6b4d45c0da8e51e11f2349\/Icon\r": {
@@ -965,6 +1007,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_drafts\/2018-07-18-why-we-started-our-own-business.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_drafts\/2018-07-18-why-we-started-our-own-business.html",
+		"oF": 0
+		},
 	"\/_drafts\/2018-07-18-why-we-started-our-own-business.md": {
 		"cB": 0,
 		"cS": 0,
@@ -1043,6 +1092,13 @@
 		"oAP": "\/_layouts\/default.html",
 		"oF": 0
 		},
+	"\/_layouts\/landing-page.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_layouts\/landing-page.html",
+		"oF": 0
+		},
 	"\/_layouts\/landing.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1110,6 +1166,24 @@
 		"oAP": "\/_pages\/index.html",
 		"oF": 0
 		},
+	"\/_pages\/order-confirmation.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pages\/order-confirmation.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_pages\/pricing.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1155,6 +1229,42 @@
 		"oA": 0,
 		"oAP": "\/_pages\/stories.html",
 		"oF": 0
+		},
+	"\/_pages\/subscribe.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pages\/subscribe.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pages\/subscription-confirmed.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pages\/subscription-confirmed.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_pages\/thank-you.html": {
 		"cB": 0,
@@ -1284,6 +1394,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/_sass\/css\/_forms.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_sass\/modules\/_stripe.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_sass\/css\/_stripe.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1504,6 +1627,14 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/_site\/flatmarket.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/flatmarket-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"\/_site\/help.html": {
 		"cB": 0,
@@ -1807,6 +1938,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/_site\/library\/images\/icons\/cards.png": {
+		"ft": 32768,
+		"iS": 15243,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/icons\/cards.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_site\/library\/images\/icons\/home-1-content-that-kills.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1894,6 +2036,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/_site\/library\/images\/icons\/icon-facebook-ad.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/library\/images\/icons\/icon-facebook-ad.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/_site\/library\/images\/icons\/icon-french-press.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1914,11 +2066,31 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/_site\/library\/images\/icons\/icon-landing-page.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/library\/images\/icons\/icon-landing-page.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/_site\/library\/images\/icons\/icon-manage.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/_site\/library\/images\/icons\/icon-manage.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/library\/images\/icons\/icon-money.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/library\/images\/icons\/icon-money.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -1999,6 +2171,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/_site\/library\/images\/icons\/menu-burger.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/library\/images\/icons\/powered_by_stripe.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/library\/images\/icons\/powered_by_stripe.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -2123,6 +2305,17 @@
 		"oAP": "\/_site\/library\/images\/profile\/Icon\r",
 		"oF": 0
 		},
+	"\/_site\/library\/images\/profile\/johns-profile-s-round.png": {
+		"ft": 32768,
+		"iS": 121173,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/profile\/johns-profile-s-round.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_site\/library\/images\/profile\/johns-profile-s.jpg": {
 		"ft": 16384,
 		"iS": 81440,
@@ -2143,6 +2336,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/library\/images\/profile\/patricks-profile-s-round.png": {
+		"ft": 32768,
+		"iS": 128045,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/profile\/patricks-profile-s-round.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_site\/library\/images\/profile\/patricks-profile-s.jpg": {
@@ -2167,23 +2371,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/library\/js\/Icon\r": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/library\/js\/Icon\r",
-		"oF": 0
-		},
-	"\/_site\/library\/js\/parallax.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/library\/js\/min\/parallax-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/_site\/library\/js\/scripts.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2193,6 +2380,13 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/_site\/order-confirmation.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/order-confirmation.html",
+		"oF": 0
 		},
 	"\/_site\/pricing.html": {
 		"cB": 0,
@@ -2285,6 +2479,20 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/_site\/subscribe.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/subscribe.html",
+		"oF": 0
+		},
+	"\/_site\/subscription-confirmed.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/subscription-confirmed.html",
+		"oF": 0
+		},
 	"\/_site\/thank-you.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2365,6 +2573,14 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/flatmarket.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/flatmarket-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"\/Icon\r": {
 		"cB": 0,
@@ -2654,6 +2870,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/library\/images\/icons\/cards.png": {
+		"ft": 32768,
+		"iS": 15243,
+		"oA": 0,
+		"oAP": "\/library\/images\/icons\/cards.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/library\/images\/icons\/home-1-content-that-kills.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -2741,6 +2968,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/library\/images\/icons\/icon-facebook-ad.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/library\/images\/icons\/icon-facebook-ad.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/library\/images\/icons\/icon-french-press.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -2761,11 +2998,31 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/library\/images\/icons\/icon-landing-page.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/library\/images\/icons\/icon-landing-page.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/library\/images\/icons\/icon-manage.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/library\/images\/icons\/icon-manage.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/library\/images\/icons\/icon-money.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/library\/images\/icons\/icon-money.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -2846,6 +3103,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/library\/images\/icons\/menu-burger.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/library\/images\/icons\/powered_by_stripe.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/library\/images\/icons\/powered_by_stripe.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -2970,6 +3237,17 @@
 		"oAP": "\/library\/images\/profile\/Icon\r",
 		"oF": 0
 		},
+	"\/library\/images\/profile\/johns-profile-s-round.png": {
+		"ft": 32768,
+		"iS": 121173,
+		"oA": 0,
+		"oAP": "\/library\/images\/profile\/johns-profile-s-round.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/library\/images\/profile\/johns-profile-s.jpg": {
 		"ft": 16384,
 		"iS": 81440,
@@ -2990,6 +3268,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/library\/images\/profile\/patricks-profile-s-round.png": {
+		"ft": 32768,
+		"iS": 128045,
+		"oA": 0,
+		"oAP": "\/library\/images\/profile\/patricks-profile-s-round.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/profile\/patricks-profile-s.jpg": {
@@ -3013,23 +3302,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/library\/js\/Icon\r": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/library\/js\/Icon\r",
-		"oF": 0
-		},
-	"\/library\/js\/parallax.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/library\/js\/min\/parallax-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/library\/js\/scripts.js": {
 		"ft": 64,

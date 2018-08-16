@@ -1,10 +1,9 @@
-			
 			<footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
 
 				<div id="inner-footer" class="cf">
 					
 					<div class="footer-links">
-						<p>&copy; 2018&nbsp;Skymouse Studios, LLC</p>
+						<p>&copy; 2018&nbsp;{{ site.name }}</p>
 						<ul>
 							<li><a title="Privacy" href="{{ site.baseurl }}/privacy.html">Privacy</a></li>
 							<li><a title="Help" href="{{ site.baseurl }}/help.html">Help</a></li>
@@ -13,20 +12,17 @@
 				
 					<div class="social-links">
 						<ul>
-							<li><a href="https://bit.ly/skyBook" class="social-btn"> <i class="fa fa-facebook"></i>
-							</a></li>
-							<li><a href="https://bit.ly/skyGram" class="social-btn"> <i class="fa fa-instagram"></i>
-							</a></li>
-							<li><a href="https://bit.ly/skyTweets" class="social-btn"> <i class="fa fa-twitter"></i>
-							</a></li>
-							<li><a href="https://bit.ly/skyLinkedIn" class="social-btn"> <i class="fa fa-linkedin"></i>
-							</a></li>
-							<li><a href="https://bit.ly/skyGoogle" class="social-btn"> <i class="fa fa-google-plus"></i>
-							</a></li>
+							{% for link in site.links %}
+				            <li>
+				              <a class="social-btn" href="{{ site.baseurl }}{{ social.url }}">
+				              	<i class="fa fa-{{ social.name }}">
+				              </a>
+				            </li>
+	          				{% endfor %}
 						</ul>
 					</div>
 					
-					<p class="right">Indianapolis, IN</p>
+					<p class="right">{{ site.location }}</p>
 
 				</div><!-- END Inner Footer -->
  
@@ -34,7 +30,7 @@
 
 		</div> <!-- END The container -->			
 		
-		<script src="{{ site.baseurl }}/library/js/stripe-example.js" data-rel-js></script>
+		<!-- Custom Scripts -->
 		<script src="{{ site.baseurl }}/library/js/scripts.js"></script>
 		<script>
 			var scene = document.getElementById('scene');
