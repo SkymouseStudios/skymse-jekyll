@@ -4,7 +4,7 @@ description: "A web design studio that helps you build a website you love. No no
 baseurl: #"https://skymousestudios.com"
 url: "SkymouseStudios.com"
 cover: "/library/cover.png"
-logo: "/library/logo.png"
+logo: "/library/images/.png"
 username: "@skymousestudios"
 email: "sos@skymousestudios.com"
 location: "Indianapolis, IN"
@@ -48,13 +48,15 @@ links:
 # Links to Social Media
 social:
   - name: instagram
-    url: https://bit.ly/skyGram
+    url: "https://www.instagram.com/SkymouseStudios/"
   - name: linkedIn
-    url: https://bit.ly/skyLinkedIn
+    url: "https://www.linkedin.com/company/skymouse-studios-and-entertainment"
   - name: youtube
-    url: https://bit.ly/skyTube
+    url: "https://www.youtube.com/channel/UCNaO9FKEx5GiagyapRpuehQ"
   - name: twitter
-    url: https://bit.ly/skyTweets
+    url: "https://twitter.com/SkymouseStudios"
+  - name: facebook
+    url: "https://www.facebook.com/Skymouse-Studios-1667422846889253"
 
 # Descriptions for Blog Categories
 descriptions:
