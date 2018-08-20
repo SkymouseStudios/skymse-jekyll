@@ -47,13 +47,13 @@ links:
 
 # Links to Social Media
 social:
-  - name: Instagram
+  - name: instagram
     url: https://bit.ly/skyGram
-  - name: LinkedIn
+  - name: linkedIn
     url: https://bit.ly/skyLinkedIn
-  - name: YouTube
+  - name: youtube
     url: https://bit.ly/skyTube
-  - name: Twitter
+  - name: twitter
     url: https://bit.ly/skyTweets
 
 # Descriptions for Blog Categories

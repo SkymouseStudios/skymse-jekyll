@@ -1,7 +1,14 @@
 # Changelog
 
-### Small Tweaks - 08.16.18 v1
+### Updates 18.08.16 v2 
+- Added universal variables to the YAML file
+- Automated the social link output
+- Added new site icons
+- Updated site meta for Social and Search
+- Removed Stripe Stuff
+- Added some html labels
 
+### Small Tweaks - 08.16.18 v1
 - made corrections to the landing page
 - created a thank you page for email subscriptions
 - added new images for me and john

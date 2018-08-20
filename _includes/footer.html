@@ -2,27 +2,22 @@
 
 				<div id="inner-footer" class="cf">
 					
-					<div class="footer-links">
-						<p>&copy; 2018&nbsp;{{ site.name }}</p>
+					<!-- <div class="footer-links">
+						<p>&copy; 2018&nbsp;{{ site.title }}</p>
 						<ul>
 							<li><a title="Privacy" href="{{ site.baseurl }}/privacy.html">Privacy</a></li>
 							<li><a title="Help" href="{{ site.baseurl }}/help.html">Help</a></li>
 						</ul>	
-					</div>
+					</div> -->
 				
 					<div class="social-links">
-						<ul>
-							{% for link in site.links %}
-				            <li>
-				              <a class="social-btn" href="{{ site.baseurl }}{{ social.url }}">
-				              	<i class="fa fa-{{ social.name }}">
-				              </a>
-				            </li>
-	          				{% endfor %}
+
+						<ul>{% for social in site.socials %}
+				            <li><a class="social-btn" href="{{ social.url }}"><i class="fa fa-{{ social.name }}"></a></li>{% endfor %}
 						</ul>
 					</div>
 					
-					<p class="right">{{ site.location }}</p>
+					<!-- <p class="right">{{ site.location }}</p> -->
 
 				</div><!-- END Inner Footer -->
  

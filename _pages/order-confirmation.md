@@ -7,6 +7,6 @@ permalink: order-confirmation.html
 img-front: /library/images/headers/header-contact-front.svg
 img-mid: /library/images/headers/header-contact-mid.svg
 img-back: /library/images/headers/header-contact-back.svg
-img: /library/images/icons/icon-contract.svg
+icon: /library/images/icons/icon-contract.svg
 
 ---
