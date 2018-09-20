@@ -7,17 +7,6 @@ img: "/library/images/our-work/website-ams.jpg"
 permalink: "/how-to-actually-strategize-your-social-media.html"
 ttr: 7
 
-layout: page
-title: "Branding at Skymouse Studios"
-subtitle: Build a Brand People Love
-permalink: /building-the-brand-of-skymouse.html
-
-hidden-message: It will probably be a while before I finish this.
-
-seo-title: Skymouse Studios - A Behind the Scenes Look at Branding a Brand
-excerpt: How we built a company that helps people build a beautiful brand on the web.
-seo-image:
-
 ---
 
 	Much like Wikipedia, this page is in need of some cleaning up. 

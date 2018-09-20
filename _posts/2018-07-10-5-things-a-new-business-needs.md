@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Things a new business needs
+title: "5 Things a new business needs"
 author: Patrick Hanus
 img: "/library/images/headers/header-why.svg"
 permalink: "/posts/5-things-a-new-business-needs.html"

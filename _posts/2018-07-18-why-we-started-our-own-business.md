@@ -14,7 +14,7 @@ And I'm John, the other co-founder of Skymouse. As much as it sounds like a clic
 
 It's been a lot of work so far and we've evolved our services from a full-service marketing company to a website-only company and then to a branding company.
 
-> Recently we've realized there's a real niche available for folks who  need more people visiting their sites and buying more things.
+> Recently we've realized there's a real niche available for folks who need more people visiting their sites and buying more things.
 
 It's not an easy task, but at the end of the day "good design" and "sweet websites" don't mean anything if they aren't doing what they were meant to do: _Convert Users!_
 

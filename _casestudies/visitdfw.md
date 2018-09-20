@@ -1,7 +1,7 @@
 ---
 
 title: VisitDFW
-layout: case-studies
+layout: case-study
 quote:
 description: 
 Services offered: Hosting, SEO, Consulting, SEO Training

@@ -1,7 +1,7 @@
 ---
 
 title: Those Catholic Men
-layout: case-studies
+layout: case-study
 quote: 
 description: Those Catholic Men had two WordPress sites they needed managed and changes made to. Skymouse was able to help them make changes quickly, explore their options and improve their website so they could keep reaching their readers and increasing donations.
 Services offered: Hosting, SEO, Consulting, Web Development

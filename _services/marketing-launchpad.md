@@ -1,6 +1,6 @@
 ---
 
-title: Start growing your revenue in 30 days.
+title: Marketing LaunchPad
 subtitle: Start growing your revenue in 30 days.
 layout: landing-page
 description: You didn’t go into business to waste time trying to market your product. You did it because you’re passionate about helping your customers solve a unique problem. 
@@ -8,6 +8,7 @@ price: Priced at a simple $950
 call-to-action: Take back control.
 cta-link: /services/marketing-launchpad.html
 img: /library/images/icons/icon-plan.svg
+
 item-1: Full access to the Skymouse Team
 item-2: 10 Hours of work
 item-3: Website review

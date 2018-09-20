@@ -4,7 +4,8 @@ title: Privacy
 layout: post
 subtitle: Mum's the word.
 permalink: privacy.html
-img: /library/images/headers/header-contact+0.svg
+img: /library/images/social/social-pricing.jpg
+description: Skymouse Studios is committed to protect the privacy of individuals who visit the website and who make use of the online facilities.
 
 ---
 

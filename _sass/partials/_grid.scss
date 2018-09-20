@@ -16,11 +16,6 @@ Stylesheet: Grid Stylesheet
 }
 
 .pad {
-  margin-left: 8.33%;
-  margin-right: 8.33%;
-}
-
-.pad-top {
   margin-bottom: 5%;
   margin-top: 5%;
 }
@@ -53,6 +48,12 @@ Stylesheet: Grid Stylesheet
   align-content: space-between;
   -ms-flex-pack: distribute;
   justify-content: space-around;
+}
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 2fr));
+  grid-gap: 40px;
 }
 
 .one {

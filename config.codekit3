@@ -1010,7 +1010,7 @@
 	"\/_drafts\/2018-07-18-why-we-started-our-own-business.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_drafts\/2018-07-18-why-we-started-our-own-business.html",
 		"oF": 0
 		},
@@ -1215,6 +1215,31 @@
 		"oA": 0,
 		"oAP": "\/_pages\/process.html",
 		"oF": 0
+		},
+	"\/_pages\/social-media-survey.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_pages\/social-media-survey.html",
+		"oF": 0
+		},
+	"\/_pages\/social-media-survey.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pages\/social-media-survey.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_pages\/social.html": {
 		"cB": 0,
@@ -1564,12 +1589,59 @@
 		"oAP": "\/_site\/404.html",
 		"oF": 0
 		},
+	"\/_site\/_pages\/Icon\r": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/_pages\/Icon\r",
+		"oF": 0
+		},
+	"\/_site\/_pages\/social-media-survey.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/_pages\/social-media-survey.html",
+		"oF": 0
+		},
 	"\/_site\/about.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/about.html",
 		"oF": 0
+		},
+	"\/_site\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 15491,
+		"oA": 0,
+		"oAP": "\/_site\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/android-chrome-384x384.png": {
+		"ft": 32768,
+		"iS": 22841,
+		"oA": 0,
+		"oAP": "\/_site\/android-chrome-384x384.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 9632,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/_site\/browserconfig.xml": {
 		"cB": 0,
@@ -1610,23 +1682,34 @@
 		"oAP": "\/_site\/crossdomain.xml",
 		"oF": 0
 		},
+	"\/_site\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1287,
+		"oA": 0,
+		"oAP": "\/_site\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2041,
+		"oA": 0,
+		"oAP": "\/_site\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_site\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/favicon.ico",
 		"oF": 0
-		},
-	"\/_site\/favicon.png": {
-		"ft": 32768,
-		"iS": 1975,
-		"oA": 0,
-		"oAP": "\/_site\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"\/_site\/flatmarket.json": {
 		"ft": 524288,
@@ -2186,55 +2269,37 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/_site\/library\/images\/logos\/apple-touch-icon.png": {
+	"\/_site\/library\/images\/logos\/skymouse-logo-white-bg.png": {
 		"ft": 32768,
-		"iS": 6174,
+		"iS": 19837,
 		"oA": 0,
-		"oAP": "\/_site\/library\/images\/logos\/apple-touch-icon.png",
+		"oAP": "\/_site\/library\/images\/logos\/skymouse-logo-white-bg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/_site\/library\/images\/logos\/Icon\r": {
-		"cB": 0,
-		"ft": 8192,
+	"\/_site\/library\/images\/logos\/skymouse-logo.png": {
+		"ft": 32768,
+		"iS": 22726,
 		"oA": 0,
-		"oAP": "\/_site\/library\/images\/logos\/Icon\r",
-		"oF": 0
-		},
-	"\/_site\/library\/images\/logos\/skymse-logo-words-100.jpg": {
-		"ft": 16384,
-		"iS": 666041,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_site\/library\/images\/logos\/skymse-logo-words-100.jpg",
+		"oAP": "\/_site\/library\/images\/logos\/skymouse-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
-	"\/_site\/library\/images\/logos\/skymse-logo.svg": {
+	"\/_site\/library\/images\/logos\/skymouse-logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/_site\/library\/images\/logos\/skymse-logo.svg",
+		"oAP": "\/_site\/library\/images\/logos\/skymouse-logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/_site\/library\/images\/logos\/tile.png": {
-		"ft": 32768,
-		"iS": 23270,
-		"oA": 0,
-		"oAP": "\/_site\/library\/images\/logos\/tile.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"\/_site\/library\/images\/our-work\/Icon\r": {
 		"cB": 0,
@@ -2371,6 +2436,79 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/library\/images\/social\/Icon\r": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/social\/Icon\r",
+		"oF": 0
+		},
+	"\/_site\/library\/images\/social\/Projects Scene - Rocket above the ocean.jpg": {
+		"ft": 16384,
+		"iS": 67316,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/social\/Projects Scene - Rocket above the ocean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/library\/images\/social\/social-about.jpg": {
+		"ft": 16384,
+		"iS": 74985,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/social\/social-about.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/library\/images\/social\/social-contact.jpg": {
+		"ft": 16384,
+		"iS": 91814,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/social\/social-contact.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/library\/images\/social\/social-home.jpg": {
+		"ft": 16384,
+		"iS": 73800,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/social\/social-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/library\/images\/social\/social-marketing-survey.jpg": {
+		"ft": 16384,
+		"iS": 68659,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/social\/social-marketing-survey.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/library\/images\/social\/social-pricing.jpg": {
+		"ft": 16384,
+		"iS": 67364,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_site\/library\/images\/social\/social-pricing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/library\/js\/scripts.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2380,6 +2518,17 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/_site\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 8734,
+		"oA": 0,
+		"oAP": "\/_site\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/_site\/order-confirmation.html": {
 		"cB": 0,
@@ -2434,6 +2583,16 @@
 		"oAP": "\/_site\/robots.txt",
 		"oF": 0
 		},
+	"\/_site\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/_site\/services\/free-call.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2453,6 +2612,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_site\/services\/skyteam.html",
+		"oF": 0
+		},
+	"\/_site\/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/site.webmanifest",
+		"oF": 0
+		},
+	"\/_site\/social-media-marketing-survey.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_site\/social-media-marketing-survey.html",
 		"oF": 0
 		},
 	"\/_site\/social.html": {
@@ -2500,16 +2673,6 @@
 		"oAP": "\/_site\/thank-you.html",
 		"oF": 0
 		},
-	"\/_site\/topography.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/topography.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/_site\/why.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2523,6 +2686,39 @@
 		"oA": 0,
 		"oAP": "\/_site\/work.html",
 		"oF": 0
+		},
+	"\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 15491,
+		"oA": 0,
+		"oAP": "\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/android-chrome-384x384.png": {
+		"ft": 32768,
+		"iS": 22841,
+		"oA": 0,
+		"oAP": "\/android-chrome-384x384.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 9632,
+		"oA": 0,
+		"oAP": "\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/browserconfig.xml": {
 		"cB": 0,
@@ -2556,23 +2752,34 @@
 		"oAP": "\/crossdomain.xml",
 		"oF": 0
 		},
+	"\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1287,
+		"oA": 0,
+		"oAP": "\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2041,
+		"oA": 0,
+		"oAP": "\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/favicon.ico",
 		"oF": 0
-		},
-	"\/favicon.png": {
-		"ft": 32768,
-		"iS": 1975,
-		"oA": 0,
-		"oAP": "\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"\/flatmarket.json": {
 		"ft": 524288,
@@ -2595,6 +2802,17 @@
 		"oA": 0,
 		"oAP": "\/library\/Icon\r",
 		"oF": 0
+		},
+	"\/library\/images\/headers\/_social-media-survey.jpg": {
+		"ft": 16384,
+		"iS": 69293,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/library\/images\/headers\/_social-media-survey.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/library\/images\/headers\/header-about-back.svg": {
 		"ft": 2097152,
@@ -3118,55 +3336,37 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/library\/images\/logos\/apple-touch-icon.png": {
+	"\/library\/images\/logos\/skymouse-logo-white-bg.png": {
 		"ft": 32768,
-		"iS": 6174,
+		"iS": 19837,
 		"oA": 0,
-		"oAP": "\/library\/images\/logos\/apple-touch-icon.png",
+		"oAP": "\/library\/images\/logos\/skymouse-logo-white-bg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/library\/images\/logos\/Icon\r": {
-		"cB": 0,
-		"ft": 8192,
+	"\/library\/images\/logos\/skymouse-logo.png": {
+		"ft": 32768,
+		"iS": 22726,
 		"oA": 0,
-		"oAP": "\/library\/images\/logos\/Icon\r",
-		"oF": 0
-		},
-	"\/library\/images\/logos\/skymse-logo-words-100.jpg": {
-		"ft": 16384,
-		"iS": 666041,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/library\/images\/logos\/skymse-logo-words-100.jpg",
+		"oAP": "\/library\/images\/logos\/skymouse-logo.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
-	"\/library\/images\/logos\/skymse-logo.svg": {
+	"\/library\/images\/logos\/skymouse-logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/library\/images\/logos\/skymse-logo.svg",
+		"oAP": "\/library\/images\/logos\/skymouse-logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/library\/images\/logos\/tile.png": {
-		"ft": 32768,
-		"iS": 23270,
-		"oA": 0,
-		"oAP": "\/library\/images\/logos\/tile.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"\/library\/images\/our-work\/Icon\r": {
 		"cB": 0,
@@ -3303,6 +3503,79 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/library\/images\/social\/Icon\r": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/library\/images\/social\/Icon\r",
+		"oF": 0
+		},
+	"\/library\/images\/social\/Projects Scene - Rocket above the ocean.jpg": {
+		"ft": 16384,
+		"iS": 67316,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/library\/images\/social\/Projects Scene - Rocket above the ocean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/library\/images\/social\/social-about.jpg": {
+		"ft": 16384,
+		"iS": 74985,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/library\/images\/social\/social-about.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/library\/images\/social\/social-contact.jpg": {
+		"ft": 16384,
+		"iS": 91814,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/library\/images\/social\/social-contact.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/library\/images\/social\/social-home.jpg": {
+		"ft": 16384,
+		"iS": 73800,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/library\/images\/social\/social-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/library\/images\/social\/social-marketing-survey.jpg": {
+		"ft": 16384,
+		"iS": 68659,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/library\/images\/social\/social-marketing-survey.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/library\/images\/social\/social-pricing.jpg": {
+		"ft": 16384,
+		"iS": 67364,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/library\/images\/social\/social-pricing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/library\/js\/scripts.js": {
 		"ft": 64,
 		"ma": 0,
@@ -3312,6 +3585,17 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 8734,
+		"oA": 0,
+		"oAP": "\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/readme.md": {
 		"cB": 0,
@@ -3338,6 +3622,23 @@
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
+	"\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site.webmanifest",
+		"oF": 0
+		},
 	"\/style.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -3350,16 +3651,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"\/topography.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/topography.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		}
 	},
 "hooks": [
@@ -3370,7 +3661,7 @@
 	"creationDate": 551064638,
 	"displayValue": "skymse-jekyll",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "\/_site\/library\/images\/logos\/apple-touch-icon.png",
+	"iconImageName": "\/_site\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {

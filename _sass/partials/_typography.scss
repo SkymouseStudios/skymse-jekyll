@@ -111,7 +111,6 @@ h1, .h1 {
   color: $black;
   font-family: $sans-serif;
   font-weight: 800;
-  text-transform: uppercase;
   margin: 0;
 }
 
@@ -133,15 +132,11 @@ h3, .h3 {
 
 h4, .h4 {
   color: $black;
-  text-transform: uppercase;
   font-family: $sans-serif;
   font-weight: 200;
   font-size: 20px;
   background-color: white;
   z-index: 2;
-  // border-radius: 5px;
-  // padding: 10px;
-  // text-align: center;
 }
 
 h5 {
@@ -198,4 +193,13 @@ ul.list {
   font-size: 1.5em;
   font-style: italic;
   line-height: 1.3em;
+}
+
+.tag {
+  background-color: $lblue;
+  border-radius: $radius-sm;
+  display: inline-block;
+  padding: 0.2em;
+  font-size: 0.8em;
+  color: white;
 }

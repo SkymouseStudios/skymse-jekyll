@@ -32,14 +32,15 @@
 		<meta name="twitter:site" content="{{ site.username }}" />
 		<meta name="twitter:title" content="{{ page.title }}" />
 		<meta name="twitter:description" content="{{ page.description }}" />
-		<meta name="twitter:image" content="{{ page.img }}" />
+		<meta name="twitter:image" content="{{ site.baseurl }}{{ page.img }}" />
 
 		<!-- Meta Information -->
 		<meta name="keywords" content="{{ page.keyword }}" />
+		<meta property="fb:app_id" content="1829603110479968"/>
 		<meta property="og:title" content="{{ page.title }}" />
-		<meta name="og:description" content="{{ page.description }}">
+		<meta property="og:description" content="{{ page.description }}">
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
 		<meta property="og:image" content="{{ site.baseurl }}{{ page.img }}" />
 
 		<!--[if IE]>
@@ -52,7 +53,7 @@
 			  "@type": "Organization",
 			  "name": "{{ site.title }}",
 			  "url": "{{ site.baseurl }}",
-			  "email": "{{ site.email }}"
+			  "email": "{{ site.email }}",
 			  "founders": [ "John Welch", "Patrick Hanus" ],
 			  "foundingDate": "2016-05-20",
 			  "logo": "{{ site.baseurl }}{{ site.logo }}",
@@ -68,6 +69,7 @@
 		<!-- Fonts -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,500">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
 		<!-- Parallax -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
@@ -86,15 +88,13 @@
 
 	<body itemscope itemtype="http://schema.org/WebPage">
 		<!-- WhatsApp Image -->
-		<span itemprop="image" itemscope itemtype="image/jpeg"> 
-      		<link itemprop="url" itemtype="image/jpeg" href="http://stringsattachedfilm.com/images/strings-attached-small.png"> 
-    	</span>
+      	<link itemprop="image" href="{{ site.baseurl }}/apple-touch-icon.png"> 
 
 		<!-- Google Tag Manager (noscript) -->
 			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJJ59XW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
 
-	<div id="container" class="Parallax">
+	<div id="container">
 	
 	
 	<header role="banner" itemscope itemtype="http://schema.org/WPHeader">
@@ -103,20 +103,17 @@
 		<!-- No Nav -->
 	{% else %}
 		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-			<ul class="cf">
-          		{% for link in site.links %}
-		            <li>
-		              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
-		            </li>
-          		{% endfor %}
+			<ul class="cf"> {% for link in site.links %}<li><a class="nav-btn" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>{% endfor %}
         	</ul>
 		</nav>
 	
 
 		<div id="inner-header" class="cf">
 
-			<a href="{{ site.baseurl }}/index.html" rel="nofollow">
-				<img id="logo" alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymse-logo.svg">
+
+			<a id="logo" href="{{ site.baseurl }}/index.html" rel="nofollow">
+				<img alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymouse-logo.svg">
+				<strong>Skymouse</strong><span style="font-weight: 100;">Studios</span>
 			</a>
 
 		
@@ -128,15 +125,13 @@
 				<ul class="cf">
 	          		{% for link in site.links %}
 			            <li>
-			              <a class="nav-button" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+			              <a class="nav-btn" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
 			            </li>
 	          		{% endfor %}
 	        	</ul>
 			</nav>
 		</div> 
 	{% endif %}	
-
-		<div class="header-fade"></div>
 		
 	</header>
 	

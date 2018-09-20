@@ -13,7 +13,8 @@ body {
 	position: relative;
     scroll-behavior: smooth;
 	font-family: $serif;
-	font-size: 100%;
+	//font-size: 100%;
+	font-size: 14px;
 	line-height: 1.5;
 	color: $black;
   	-webkit-font-smoothing: antialiased;
@@ -27,21 +28,9 @@ body {
 	background-repeat: repeat;
 }
 
-#Fade {
-	position: fixed;
-	top: 0px;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-	background-color: rgba(0,0,0, .5);
-	z-index: 999;
-	transition: 0.5s;
+#page {
+	margin-top: 300px;
 }
-
-/*********************
-LINK STYLES
-*********************/
-
 
 /******************************************************************
 H1, H2, H3, H4, H5 STYLES
@@ -49,27 +38,32 @@ H1, H2, H3, H4, H5 STYLES
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	text-rendering: optimizelegibility;
-
-	/* removing text decoration from all headline links */
-	a {
-		text-decoration: none;
-	}
 }
 
 a {
 	text-decoration: none;
-	color: $black;
+	color: $orange;
+	font-weight: 300;
+	border-bottom: 0px solid $orange;
+	transition: 0.5s;
 }
 
-.pricing-grid {
-	h5 {
-		text-align: center;
-	}
+// h1 {
+// 	font-size: 2em;
+// }
+
+// h2 {
+// 	font-size: 1.6em;
+// }
+
+img {
+	width: 100%;
 }
 
-h2 {
-	font-size: 2em;
-}
+/*********************
+HELPER CLASSES
+*********************/
+
 
 /*********************
 HEADER STYLES
@@ -104,21 +98,6 @@ header {
 	overflow: hidden;
 	width: 100%;
 	border-top: 10px solid $orange;
-}
-
-.header-fade {
-	background: rgb(0,0,0);
-	background: -webkit-linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
-	background: -o-linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
-	background: linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
-	position: absolute;
-	display: block;
-	content: "";
-	width: 100%;
-	left: 0px;
-	top: 0px;
-	bottom: 0px;
-	z-index: -1;
 }
 
 .header-image {
@@ -180,9 +159,18 @@ NAVIGATION STYLES
 }
 
 #logo {
-	margin-top: 22px;
-	width: 100px;
-	z-index: 999;
+	clear: both; 
+	margin: 17px 0; 
+	font-size: 1.5em; 
+	display: inline-block;
+
+	img{
+		margin-top: -15px;
+		width: 65px;
+		z-index: 999;
+		float: left;
+	}
+	
 }
 
 #desktop-menu {
@@ -262,16 +250,6 @@ NAVIGATION STYLES
 	}
 }
 
-.arrow {
-	position: absolute;
-	width: 100px;
-	right: 0px;
-	left: 0px;
-	bottom: -50px;
-	z-index: 55;
-	transform: rotate(95deg);
-	margin: 0 auto;
-}
 /*********************
 SECTIONS
 *********************/
@@ -281,13 +259,13 @@ section {
     border-radius: 5px;
     margin: 20px 1em 0 1em;
     height: auto;
-	border: 4px solid $lgray;
-	// overflow: hidden; This was messing up the arrow on the home page.
-	text-align: center;
 	background-color: white;
 
+	img {
+		width: 200px;
+	}
+
 	.content {
-		text-align: center;
 
 		p, ul, li {
 			text-align: left;
@@ -304,7 +282,6 @@ section {
 	    margin: 5em 0;
 	    height: auto;
 		border: none;
-		text-align: center;
 
 		img {
 			z-index: -1;
@@ -322,43 +299,6 @@ section {
 		}
 	}
 
-	// pricing cards
-
-	&.card {
-		padding: 0;
-		margin: 0 2em;
-		transition: 0.5s;
-		text-align: center;
-
-		&--orange {
-			box-shadow: 2px 2px 20px -10px #a2a2a2;
-			transition: 0.5s;
-			border: double 4px transparent;
-			background-image: linear-gradient(white, white), radial-gradient(circle at top left, #ef6500,#feb13e);
-			background-origin: border-box;
-			background-clip: content-box, border-box;
-		}
-
-		h3 {
-			background-color: $lgray;
-			width: 100%;
-			text-align: center;
-			padding: 20px 0;
-			background-color: $ygray;
-			background-image: url(/library/images/icons/icon-subtle-pattern.svg);
-    		background-size: 300px;
-		}
-
-		p {
-			margin: 1em;
-			text-align: left;
-		} 
-
-		h5 {
-			margin: 1em;
-		}
-	}
-
 	// no border and stuff
 	&.blank {
 		padding: 0;
@@ -369,40 +309,6 @@ section {
 
 section.card-dark {
 	border-color: gray;
-}
-
-.timeline {
-	position: relative;
-	text-align: left;
-
-	li {
-		margin-left: 5px;
-	}	
-
-	ul {
-		position: relative;
-		border-top: 3px solid $gray;
-		margin-bottom: 60px;
-
-		&:before {
-			position: absolute;
-			content: " ";
-			height: 15px;
-			width: 15px;
-			left: 20px;
-			margin-top: -11px;
-			background-color: #fff;
-			border: 3px solid $gray;
-			border-radius: 50%;
-			display: inline-block;
-			transition: 0.5s;
-		}
-
-		&:hover::before {
-			left: 240px;
-			transition: 2.5s;
-		}
-	}
 }
 
 .pricing-grid {
@@ -421,19 +327,18 @@ section.card-dark {
 
 	ul {
 		text-align: left;
-		padding: 10px 0px 10px 10px;
+		padding: 10px 0px;
 	}
 
 	li {
-		margin-left: 5px;
 
 		&:before {
 			position: absolute;
 			content: " ";
-			height: 10px;
-			width: 10px;
-			left: 10px;
-			margin-top: 9px;
+			height: 5px;
+			width: 5px;
+			left: 0px;
+			margin-top: 12px;
 			background-color: #fff;
 			border: 2px solid $gray;
 			border-radius: 50%;
@@ -444,16 +349,6 @@ section.card-dark {
 	span {
 		color: red;
 	}	
-}
-
-.logo-center {
-	margin: 0 auto;
-	width: 100px;
-	z-index: 999;
-	position: absolute;
-	top: -23px;
-	left: 0;
-	right: 0;
 }
 
 .icon-center {
@@ -470,64 +365,13 @@ section.card-dark {
 TEMPLATE OBJECTS
 *********************/
 
-// This is for a main point or the main feature idea on a page
+// Main Card
 ._big-idea-box {
 	border: none;
 	padding: 20px;
 	background-color: $ygray;
 	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
     background-size: 300px;
-}
-
-#tweet {
-	left: 20%;
-	right: 20%;
-    top: 25%;
-
-    .twitter-box {
-    	border-radius: 10px;
-		border: 3px solid $white;
-		padding: 20px;
-		font-family: $sans-serif;
-    	padding: 40px;
-    	color: $white;
-    	position: relative;
-    }
-
-    .twitter-name {
-    	font-weight: 600;
-    	font-size: 0.8em;
-    	position: absolute;
-    	top: 20px;
-    	left: 40px;
-    }
-
-    .twitter-handle {
-    	font-weight: 200;
-    	font-size: 0.8em;
-    	position: absolute;
-    	top: 40px;
-    	left: 40px;
-    }
-
-    .twitter-content {
-    	font-size: 2em;
-    	margin: 30px 0;
-    }
-
-    .twitter-date {
-    	position: absolute;
-    	bottom: 20px;
-    	right: 20px;
-    	font-size: 0.8em;
-    }
-
-    .twitter-icon {
-    	position: absolute;
-    	top: 20px;
-    	right: 20px;
-    	font-size: 2em;
-    }
 }
 
 #socialLogo {
@@ -541,34 +385,6 @@ TEMPLATE OBJECTS
     -moz-transform: translate(-50%, -50%);
 }
 
-// Home page selling points
-.title {
-	background: linear-gradient(135deg, $black, #656565);
-	border-top-left-radius: 5px;
-	border-top-right-radius: 5px;
-	text-align: center;
-	padding: 1.5em;
-
-	h3 {
-		color: $white;
-	}
-}
-
-.description {
-	background-color: $ygray;
-	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
-    background-size: 300px;
-	border-bottom-left-radius: 5px;
-	border-bottom-right-radius: 5px;
-	padding: 1.5em;
-
-	p {
-		margin: 0;
-		font-size: 1.3em;
-		font-weight: 200;
-	}
-}
-
 .quote {
 	font-size: 1.5em;
 	font-style: italic;
@@ -578,7 +394,10 @@ TEMPLATE OBJECTS
 
 .client {
 	text-align: right;
+	bottom: 0px;
+	//position: absolute;
 }
+
 /*********************
 POSTS & CONTENT STYLES
 *********************/
@@ -603,29 +422,7 @@ POSTS & CONTENT STYLES
 	}
 }
 
-
-.profile {
-	text-align: left;
-	margin: 10px 0px;
-	margin-top: 20px;
-
-	img {
-		width: 60px;
-		border-radius: 5px;
-		margin-right: 10px;
-	}
-
-	.bio {
-		display: block;
-		text-align: left;
-		
-		p {
-			margin: 0px;
-			padding: 0px;
-		}
-	}
-}
-
+// POST: Blog Post
 .blog-post {
 	background-color: $lgray;
 	border-radius: 5px;
@@ -650,7 +447,7 @@ POSTS & CONTENT STYLES
 	p {
 		font-size: 0.8em;
 		padding: 1em;
-		height: 150px;
+		height: 100px;
 	}
 	
 	.picture {
@@ -662,38 +459,408 @@ POSTS & CONTENT STYLES
 	}
 
 	img {
-		width: 100%;
+		width: 110%;
 		margin: 0;
 	}
 }
 
+// TIME TO READ
 .time-to-read {
-		position: absolute;
-		bottom: 10px;
-		right: 10px;
-		background-color: $lgray;
-		border-radius: 5px;
-		font-size: 0.8em;
-		font-weight: 200;
-		padding: 2px;
-	}
-
-#post {
-	.time-to-read {
-		position: relative;
-		display: inline-block;
-		float: right;
-		bottom: 0px;
-	}
-}
-
-img.client-site {
+	color: $black;
 	position: absolute;
-	width: 300px;
-	bottom: -170px;
-	right: -170px;
+	bottom: 10px;
+	right: 10px;
+	background-color: $lgray;
+	border-radius: 5px;
+	font-size: 0.8em;
+	font-weight: 200;
+	padding: 2px;
 }
 
+
+#post .time-to-read {
+	position: relative;
+	display: inline-block;
+	float: right;
+	bottom: 0px;
+}
+
+.grid-half:nth-child(even) {
+	.content {
+		grid-column: 2;
+		grid-row: 1;
+	}
+
+	.client-site {
+		perspective-origin: left;
+		grid-column: 1;
+		grid-row: 1;
+
+		.frame {
+			-webkit-transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
+			transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
+			-webkit-box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
+			box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
+		}
+	}
+}
+
+// POST: Case Study
+.client-site {
+	perspective: 750px;
+	perspective-origin: left;
+	
+	.frame {
+		position: relative;
+		top: 100px;
+		right: -250px;
+		
+		transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
+		-webkit-transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
+
+		width: 300px;
+		height: 300px;
+		display: block;
+		overflow: scroll;
+
+		border: 3px solid $gray;
+		border-top: 10px solid $gray;
+		border-radius: 2px;
+
+		box-shadow: 37.2px 62.5px 125px -25px rgba(50,50,93,.5),22.3px 37.5px 75px -37.5px rgba(0,0,0,.6);
+	}
+
+	.dot {
+		background-color: #efefef;
+		border-radius: 10px;
+		width: 5px;
+		height: 5px;
+
+		position: absolute;
+		left: 2px;
+		top: 140px;
+		z-index: 10;
+
+		transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
+		-webkit-transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
+
+		&:before {
+			content: "";
+			background-color: #efefef;
+			border-radius: 10px;
+			width: 5px;
+			height: 5px;
+
+			position: absolute;
+			left: 12px;
+			top: 140px;
+			z-index: 10;
+
+			transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
+			-webkit-transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
+		}
+
+		&:after {
+			content: "";
+			background-color: #efefef;
+			border-radius: 10px;
+			width: 5px;
+			height: 5px;
+
+			position: absolute;
+			left: 20px;
+			top: 140px;
+			z-index: 10;
+
+			transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
+			-webkit-transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
+		}
+	}
+
+	img {
+		position: absolute;
+		width: 100%;
+		transition: 0.5s;
+	}
+}
+
+/*********************
+MODULES
+*********************/
+
+// PANEL STYLES
+
+.block {
+	background-color: #efefef;
+	border-radius: $radius;
+	padding: 1em;
+}
+
+// CARD STYLES
+.card {
+	background-color: white;
+	border: 4px solid $lgray;
+	border-radius: $radius;
+	padding: 0;
+	transition: 0.5s;
+	text-align: center;
+	position: relative;
+
+	&--orange {
+		box-shadow: 2px 2px 20px -10px #a2a2a2;
+		transition: 0.5s;
+		border: double 4px transparent;
+		background-image: linear-gradient(white, white), radial-gradient(circle at top left, #ef6500,#feb13e);
+		background-origin: border-box;
+		background-clip: content-box, border-box;
+	}
+
+	h3 {
+		background-color: $lgray;
+		width: 100%;
+		text-align: center;
+		padding: 20px 0;
+		background-color: $ygray;
+		background-image: url(/library/images/icons/icon-subtle-pattern.svg);
+		background-size: 300px;
+	}
+
+	h5 {
+		margin: 1em;
+	}
+
+	p {
+		margin: 1em;
+		text-align: left;
+	} 
+
+	ul {
+		margin: 0;
+	}
+
+	li {
+		background-color: $ygray;
+		margin: 0.2em;
+		text-align: left;
+		padding-top: 1em;
+		padding-bottom: 1em;
+		padding-left: 0.5em;
+	}
+}
+
+.card-inset {
+	border: none;
+	box-shadow: 37.2px 62.5px 125px -25px rgba(50,50,93,.5),22.3px 37.5px 75px -37.5px rgba(0,0,0,.6);
+	transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
+	-webkit-transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
+	transform: scale(0.75);
+
+	&:before {
+		content: "";
+		border: 3px solid $lgray;
+		width: 90%;
+		position: absolute;
+		height: 90%;
+		margin: 5%;
+		left: 0px;
+		border-radius: 5px;
+	}
+}
+
+// TWITTER CARDS
+.twitter-box {
+	border-radius: 5px;
+	border: 1.5px solid $gray;
+	padding: 15px;
+	font-family: $sans-serif;
+	padding: 20px;
+	color: $black;
+	position: relative;
+	background-color: white;
+	box-shadow: 37.2px 62.5px 125px -25px rgba(50,50,93,.5),22.3px 37.5px 75px -37.5px rgba(0,0,0,.6);
+	transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
+	-webkit-transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
+	
+	&:nth-child(odd) {
+		transform: translate(60%, -35%) rotate3d(0.32, -0.94, 0, 2deg) rotate(-2.2deg);
+		-webkit-transform: translate(60%, -35%) rotate3d(0.32, -0.94, 0, 2deg) rotate(-2.2deg);
+	}
+
+	img {
+		width: 100%;
+	}
+
+	.twitter-profile {
+		top: 20px;
+		left: 40px;
+		width: 30px;
+		border-radius: 30px;
+	}
+
+	.twitter-name {
+		font-weight: 600;
+		font-size: 0.8em;
+		position: absolute;
+		top: 2px;
+		left: 60px;
+	}
+
+	.twitter-handle {
+		font-weight: 400;
+		font-size: 0.8em;
+		position: absolute;
+		top: 35px;
+		left: 60px;
+	}
+
+	.twitter-content {
+		margin: 10px -20px 0 -20px;
+		overflow: hidden;
+	}
+
+	.twitter-date {
+		position: absolute;
+		bottom: 20px;
+		right: 20px;
+		font-size: 0.8em;
+	}
+
+	.twitter-icon {
+		position: absolute;
+		top: 20px;
+		right: 20px;
+		font-size: 1.6em;
+	}
+
+	.fas {
+		font-size: 0.8em;
+		margin-right: 5px;
+	}
+}
+
+// TIMELINE
+
+.timeline {
+
+	ul {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(150px, 5fr));
+		border-radius: $radius;
+	}
+
+	.labels li {
+		text-align: center;
+
+		h5 {
+			text-align: center;
+		}
+	}
+
+	ul.slider {
+		height: 6px;
+		background-color: $orange;
+		margin-bottom: 20px;
+
+		li {
+			background-color: $orange;
+			margin: 0;
+			padding: 0;
+			height: 6px;
+			position: relative;
+			border-radius: $radius;
+
+			&:after {
+				content: "";
+				position: absolute;
+				left: 100%;
+				top: 50%;
+				-webkit-transform: translate(-50%,-50%);
+				transform: translate(-50%,-50%);
+				width: 10px;
+				height: 10px;
+				border: 3px solid $gray;
+				border-radius: 50%;
+				background: #fff;
+				z-index: 10;
+				pointer-events: none;
+			}
+
+			&:last-child::after {
+				content: none;
+			}
+		}
+	}
+}
+
+.animation-hover {
+	animation: hover 2s infinite cubic-bezier;
+	-moz-animation: hover 2s infinite cubic-bezier;
+    -o-animation: hover 2s infinite cubic-bezier;
+    -webkit-animation: hover 2s infinite cubic-bezier;
+}
+
+/*********************
+ANIMATIONS
+*********************/
+
+@keyframes hover {
+	0% {
+		-moz-transform: translateY(0px);
+		-o-transform: translateY(0px);
+		-webkit-transform: translateY(0px);
+		transform: translateY(0px);
+	}
+
+	50% {
+		-moz-transform: translateY(10px);
+		-o-transform: translateY(10px);
+		-webkit-transform: translateY(10px);
+		transform: translateY(10px);
+	}
+
+	100% {
+		-moz-transform: translateY(0px);
+		-o-transform: translateY(0px);
+		-webkit-transform: translateY(0px);
+		transform: translateY(0px);
+	}
+}
+
+.animation-hover {
+	animation: hover 2s infinite cubic-bezier;
+	-moz-animation: hover 2s infinite cubic-bezier;
+    -o-animation: hover 2s infinite cubic-bezier;
+    -webkit-animation: hover 2s infinite cubic-bezier;
+}
+
+@keyframes tweet {
+	0% {
+		height: 0px;
+	}
+
+	40% {
+		height: 0px;
+	}
+
+	50% {
+		height: 300px;
+	}
+
+	90% {
+		height: 300px;
+	}
+
+	100% {
+		height: 0px;
+	}
+}
+
+.animation-tweet {
+	animation: tweet 6s infinite cubic-bezier(.56,0,.45,.95);
+	-moz-animation: tweet 6s infinite cubic-bezier(.56,0,.45,.95);
+    -o-animation: tweet 6s infinite cubic-bezier(.56,0,.45,.95);
+    -webkit-animation: tweet 6s infinite cubic-bezier(.56,0,.45,.95);
+}
 /*********************
 FOOTER STYLES
 *********************/

@@ -31,25 +31,8 @@ Stylesheet: Button Styles
   } // end active
 
 } // end .button
-
-.blue-btn {
-  @extend %btn; // here we load the btn defaults
-  background-color: $dblue;
-
-  &:hover,
-  &:focus {
-    background-color: darken($dblue, 4%);
-  } // end hover
-
-  &:active {
-    background-color: darken($dblue, 5%);
-  } // end active
-
-} // end blue button
-
  
 %opacity {
-  
   transition: .8s ease;
 
   div.overlay { 
@@ -70,48 +53,6 @@ Stylesheet: Button Styles
   }
 }
 
-%no-border-button {
-  text-decoration: none;
-  color: $orange;
-  font-family: $sans-serif;
-  font-weight: 600;
-  font-size: 1.2em;
-  padding: 10px;
-  border-bottom: 5px solid $orange;
-  display: inline-block;
-  cursor: pointer;
-  background-color: transparent;
-  transition: .8s ease;
-
-  &:hover {
-    background-color: $orange;
-    color: lighten($orange, 50%);
-    border-radius: 10px;
-    transition: .8s ease;
-  }
-
-}
-
-.blue-btn-2 {
-  @extend %btn; // here we load the btn defaults
-  padding: 5px 0;
-  width: 150px;
-  margin: 20px;
-  background-color: $dblue;
-  border: 5px solid $lblue;
-  border-radius: 15px;
-
-  &:hover,
-  &:focus {
-    background-color: darken($dblue, 4%);
-  } // end hover
-
-  &:active {
-    background-color: darken($dblue, 5%);
-  } // end active
-
-} // end blue button
-
 .arrow-btn {
   font-size: 1em;
   color: darken(white, 25%);
@@ -127,10 +68,11 @@ Stylesheet: Button Styles
 
 .footer-btn {
   @extend %btn;
-  font-family: $serif;
-  color: $cheese;
+  color: $gray;
   font-weight: 300;
   font-size: .7em;
+  margin: 0px;
+  margin-left: 10px;
 }
 
 .action-btn {
@@ -154,7 +96,7 @@ Stylesheet: Button Styles
   }
 }
 
-a.nav-button {
+.nav-btn {
   @extend %btn;
   color: $black;
   background-color: #fff;
@@ -165,7 +107,7 @@ a.nav-button {
   }
 }
 
-.orange-button {
+.orange-btn {
   display: inline-block;
   margin: 5px;
   padding: 5px;
@@ -177,4 +119,3 @@ a.nav-button {
   background-origin: border-box;
   background-clip: content-box, border-box;
 }
-

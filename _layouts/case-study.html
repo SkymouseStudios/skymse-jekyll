@@ -1,0 +1,28 @@
+{% include header.html %}
+
+<div id="post">
+  
+  <section class="blank">
+    <div class="tag">Case Study</div>
+    <h2>{{ page.title }}</h2>
+  
+    <div class="post-info-wrapper cf">
+      <p>{{page.services}}</p>
+    </div>
+  </section>
+
+  <div class="blog-header">
+     <img class="blog-image" src="{{ page.img }}" alt="">
+  </div>
+
+  <section class="_big-idea-box">
+    <p>{{ page.description }}</p>
+  </section>
+  
+  <section class="blank">
+    {{ content }}
+  </section>
+    
+</div>
+
+{% include footer.html %}

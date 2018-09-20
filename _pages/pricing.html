@@ -1,13 +1,13 @@
 ---
-
 title: Pricing
 layout: default
-subtitle: Let's do this
+subtitle: Let's do this.
+description: Skymouse helps businesses tackle their marketing like pros
 permalink: pricing.html
 img-front: /library/images/headers/header-pricing-front.svg
 img-mid: /library/images/headers/header-pricing-mid.svg
 img-back: /library/images/headers/header-pricing-back.svg
-
+img: /library/images/social/social-about.jpg
 ---
 
 <div id="scene" data-relative-input="true" data-pointer-events="true">
@@ -30,19 +30,16 @@ img-back: /library/images/headers/header-pricing-back.svg
 			
 			<section class="card">
 				<div class="content">
-					<img src="{{ site.baseurl }}{{ service.img }}" alt="">
-
-					<h2>{{ service.title }}</h2>
-					
+					<h3>{{ service.title }}</h3>
+					<img src="{{ site.baseurl }}{{ service.img }}" alt="">					
 					<p>{{ service.description }}</p>
-					
 					<ul>
 						<li>{{ service.item-1 }}</li>
 						<li>{{ service.item-2 }}</li>
 						<li>{{ service.item-3 }}</li>
 						<li>{{ service.item-4 }}</li>
-						{{ service.price }}
 					</ul>
+					<h5>{{ service.price }}</h5>
 				</div>
 
 				<div class="pad-top"></div>
