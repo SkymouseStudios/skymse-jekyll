@@ -5,8 +5,6 @@ layout: product
 description: "Stay on top of your marketing effortlessly with the Skymouse team. We handle all the nitty gritty things so you can focus on what you love."
 price: Starting at $500/month
 call-to-action: Get the team
-cta-class: drift-open-chat
-cta-link: "#"
 img: /library/images/icons/icon-cheese.svg
 item-1: Weekly Strategy Calls
 item-2: Website Optimization

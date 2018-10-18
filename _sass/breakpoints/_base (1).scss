@@ -13,8 +13,7 @@ body {
 	position: relative;
     scroll-behavior: smooth;
 	font-family: $serif;
-	//font-size: 100%;
-	font-size: 14px;
+	font-size: 100%;
 	line-height: 1.5;
 	color: $black;
   	-webkit-font-smoothing: antialiased;
@@ -28,42 +27,38 @@ body {
 	background-repeat: repeat;
 }
 
-#page {
-	margin-top: 300px;
-}
-
 /******************************************************************
 H1, H2, H3, H4, H5 STYLES
 ******************************************************************/
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 	text-rendering: optimizelegibility;
+
+	/* removing text decoration from all headline links */
+	a {
+		text-decoration: none;
+	}
 }
 
 a {
 	text-decoration: none;
 	color: $orange;
 	font-weight: 300;
-	border-bottom: 0px solid $orange;
-	transition: 0.5s;
 }
 
-// h1 {
-// 	font-size: 2em;
-// }
+.pricing-grid {
+	h5 {
+		text-align: center;
+	}
+}
 
-// h2 {
-// 	font-size: 1.6em;
-// }
+h2 {
+	font-size: 2em;
+}
 
 img {
 	width: 100%;
 }
-
-/*********************
-HELPER CLASSES
-*********************/
-
 
 /*********************
 HEADER STYLES
@@ -98,6 +93,21 @@ header {
 	overflow: hidden;
 	width: 100%;
 	border-top: 10px solid $orange;
+}
+
+.header-fade {
+	background: rgb(0,0,0);
+	background: -webkit-linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
+	background: -o-linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
+	background: linear-gradient(rgba(0,0,0,0.20) 0%, rgba(255,255,255,0) 51%);
+	position: absolute;
+	display: block;
+	content: "";
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	bottom: 0px;
+	z-index: -1;
 }
 
 .header-image {
@@ -374,6 +384,61 @@ TEMPLATE OBJECTS
     background-size: 300px;
 }
 
+// Tweet Card
+#tweet {
+
+    .twitter-box {
+    	border-radius: 5px;
+		border: 1.5px solid $black;
+		padding: 15px;
+		font-family: $sans-serif;
+    	padding: 20px;
+    	color: $black;
+    	position: relative;
+    }
+
+    .twitter-profile {
+		top: 20px;
+    	left: 40px;
+    	width: 30px;
+    }
+
+    .twitter-name {
+    	font-weight: 600;
+    	font-size: 0.8em;
+    	position: absolute;
+    	top: 2px;
+    	left: 60px;
+    }
+
+    .twitter-handle {
+    	font-weight: 400;
+    	font-size: 0.8em;
+    	position: absolute;
+    	top: 35px;
+    	left: 60px;
+    }
+
+    .twitter-content {
+    	font-size: 2em;
+    	margin: 30px 0;
+    }
+
+    .twitter-date {
+    	position: absolute;
+    	bottom: 20px;
+    	right: 20px;
+    	font-size: 0.8em;
+    }
+
+    .twitter-icon {
+    	position: absolute;
+    	top: 20px;
+    	right: 20px;
+    	font-size: 1.9em;
+    }
+}
+
 #socialLogo {
 	text-align: center;
 	font-size: 3em;
@@ -447,7 +512,7 @@ POSTS & CONTENT STYLES
 	p {
 		font-size: 0.8em;
 		padding: 1em;
-		height: 100px;
+		height: 150px;
 	}
 	
 	.picture {
@@ -459,14 +524,13 @@ POSTS & CONTENT STYLES
 	}
 
 	img {
-		width: 110%;
+		width: 100%;
 		margin: 0;
 	}
 }
 
 // TIME TO READ
 .time-to-read {
-	color: $black;
 	position: absolute;
 	bottom: 10px;
 	right: 10px;
@@ -483,26 +547,6 @@ POSTS & CONTENT STYLES
 	display: inline-block;
 	float: right;
 	bottom: 0px;
-}
-
-.grid-half:nth-child(even) {
-	.content {
-		grid-column: 2;
-		grid-row: 1;
-	}
-
-	.client-site {
-		perspective-origin: left;
-		grid-column: 1;
-		grid-row: 1;
-
-		.frame {
-			-webkit-transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
-			transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
-			-webkit-box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
-			box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
-		}
-	}
 }
 
 // POST: Case Study
@@ -667,77 +711,6 @@ MODULES
 	}
 }
 
-// TWITTER CARDS
-.twitter-box {
-	border-radius: 5px;
-	border: 1.5px solid $gray;
-	padding: 15px;
-	font-family: $sans-serif;
-	padding: 20px;
-	color: $black;
-	position: relative;
-	background-color: white;
-	box-shadow: 37.2px 62.5px 125px -25px rgba(50,50,93,.5),22.3px 37.5px 75px -37.5px rgba(0,0,0,.6);
-	transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
-	-webkit-transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
-	
-	&:nth-child(odd) {
-		transform: translate(60%, -35%) rotate3d(0.32, -0.94, 0, 2deg) rotate(-2.2deg);
-		-webkit-transform: translate(60%, -35%) rotate3d(0.32, -0.94, 0, 2deg) rotate(-2.2deg);
-	}
-
-	img {
-		width: 100%;
-	}
-
-	.twitter-profile {
-		top: 20px;
-		left: 40px;
-		width: 30px;
-		border-radius: 30px;
-	}
-
-	.twitter-name {
-		font-weight: 600;
-		font-size: 0.8em;
-		position: absolute;
-		top: 2px;
-		left: 60px;
-	}
-
-	.twitter-handle {
-		font-weight: 400;
-		font-size: 0.8em;
-		position: absolute;
-		top: 35px;
-		left: 60px;
-	}
-
-	.twitter-content {
-		margin: 10px -20px 0 -20px;
-		overflow: hidden;
-	}
-
-	.twitter-date {
-		position: absolute;
-		bottom: 20px;
-		right: 20px;
-		font-size: 0.8em;
-	}
-
-	.twitter-icon {
-		position: absolute;
-		top: 20px;
-		right: 20px;
-		font-size: 1.6em;
-	}
-
-	.fas {
-		font-size: 0.8em;
-		margin-right: 5px;
-	}
-}
-
 // TIMELINE
 
 .timeline {
@@ -826,41 +799,6 @@ ANIMATIONS
 	}
 }
 
-.animation-hover {
-	animation: hover 2s infinite cubic-bezier;
-	-moz-animation: hover 2s infinite cubic-bezier;
-    -o-animation: hover 2s infinite cubic-bezier;
-    -webkit-animation: hover 2s infinite cubic-bezier;
-}
-
-@keyframes tweet {
-	0% {
-		height: 0px;
-	}
-
-	40% {
-		height: 0px;
-	}
-
-	50% {
-		height: 300px;
-	}
-
-	90% {
-		height: 300px;
-	}
-
-	100% {
-		height: 0px;
-	}
-}
-
-.animation-tweet {
-	animation: tweet 6s infinite cubic-bezier(.56,0,.45,.95);
-	-moz-animation: tweet 6s infinite cubic-bezier(.56,0,.45,.95);
-    -o-animation: tweet 6s infinite cubic-bezier(.56,0,.45,.95);
-    -webkit-animation: tweet 6s infinite cubic-bezier(.56,0,.45,.95);
-}
 /*********************
 FOOTER STYLES
 *********************/
