@@ -14,7 +14,7 @@
 }
 
 #page {
-	margin-top: 500px;
+	margin-top: 300px;
 }
 
 /*****************/
@@ -39,8 +39,11 @@
 	
 	&#desktop-menu {
 		display: block;
+		float: left;
+	}
+
+	ul:last-child {
 		float: right;
-		
 	}
 
 	&#mobile-menu {

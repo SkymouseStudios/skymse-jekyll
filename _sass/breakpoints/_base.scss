@@ -29,7 +29,7 @@ body {
 }
 
 #page {
-	margin-top: 300px;
+	margin-top:  0px;
 }
 
 /******************************************************************
@@ -58,6 +58,10 @@ a {
 
 img {
 	width: 100%;
+}
+
+.icon-size {
+	width: 150px;
 }
 
 /*********************
@@ -89,6 +93,18 @@ HEADER STYLES
 		width: 105%;
 		left: 0px;
 		right: 0px;
+	}
+
+	&::before {
+		content: " ";
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		background-color: $orange;
+		opacity: 0.75;
+		z-index: 10;
 	}
 }
 
@@ -128,19 +144,13 @@ header {
 	}
 }
 
-.hero {
-	margin-top: 100px;
-	text-align: left;
-	margin: 450px 10px 0px 10px;
-	border-radius: 5px;
-}
-
 .home-hero {
 	left: 0px;
 	right: 0px;
-	margin: 200px auto;
-	text-align: center;
-	max-width: 750px;
+	margin: 50px auto;
+	text-align: left;
+	max-width: 1050px;
+	margin-top: 270px;
 }
 
 /*********************
@@ -164,6 +174,8 @@ NAVIGATION STYLES
 	font-size: 1.5em; 
 	display: inline-block;
 	color: $black;
+	float: left;
+	margin-right: 10px;
 
 	img{
 		margin-top: -15px;
@@ -263,7 +275,8 @@ section {
 	background-color: white;
 
 	img {
-		width: 200px;
+		width: 80%;
+		margin: 0 auto;
 	}
 
 	.content {
@@ -274,30 +287,7 @@ section {
 	}
 
 	ul {
-		margin: 1em;
-	}
-
-	// Home page
-	&.home {
-	    border-radius: 0px;
-	    margin: 5em 0;
-	    height: auto;
-		border: none;
-
-		img {
-			z-index: -1;
-			width: 300px;
-			margin-left: auto;
-			margin-right: auto;
-			margin-bottom: -100px;
-		}
-
-		.content {
-			text-align: left;
-			z-index: 1;
-			max-width: 420px;
-			margin: 0 1em;
-		}
+		// margin: 1em; Why is this here?
 	}
 
 	// no border and stuff
@@ -366,6 +356,17 @@ section.card-dark {
 TEMPLATE OBJECTS
 *********************/
 
+.section-heading {
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 35px;
+
+	h4 {
+		margin: 0;
+		opacity: 0.5;
+	}
+}
+
 // Main Card
 ._big-idea-box {
 	border: none;
@@ -387,16 +388,21 @@ TEMPLATE OBJECTS
 }
 
 .quote {
-	font-size: 1.5em;
-	font-style: italic;
+	font-size: 2.5em;
+	line-height: 1.5em;
 	margin-top: 1em;
-	text-align: right;
+	padding-right: 20px;
 }
 
 .client {
-	text-align: right;
 	bottom: 0px;
-	//position: absolute;
+	color: $gray;
+}
+
+.client-pic {
+	width: 100%;
+	border-radius: 10px;
+	margin: 0 auto;
 }
 
 /*********************
@@ -593,9 +599,10 @@ MODULES
 // PANEL STYLES
 
 .block {
-	background-color: #efefef;
+	background-color: $ygray;
 	border-radius: $radius;
-	padding: 1em;
+	// padding: 1em; Disabled looks better on the about page.
+	margin: 0; // This should even out the side to top ratio
 }
 
 // CARD STYLES
@@ -643,7 +650,7 @@ MODULES
 	li {
 		background-color: $ygray;
 		margin: 0.2em;
-		text-align: left;
+		text-align: center;
 		padding-top: 1em;
 		padding-bottom: 1em;
 		padding-left: 0.5em;

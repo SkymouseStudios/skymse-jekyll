@@ -26,7 +26,7 @@ img: /library/images/social/social-work.jpg
 		</div>
 	</section>
 		
-	{% for casestudy in site.casestudies limit:4 %}
+	{% for casestudy in site.casestudies %}
 		
 	<section class="grid-half pad block">
 		<div class="content pad alternate">
@@ -37,7 +37,7 @@ img: /library/images/social/social-work.jpg
 		<div class="client-site alternate">
 			<div class="frame">
 				<div class="dot"></div>
-				<img src="{{ site.baseurl }}{{casestudy.img}}">
+				<img src="{{ site.baseurl }}{{casestudy.website-img}}">
 			</div>
 		</div>
 		

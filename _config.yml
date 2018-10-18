@@ -34,14 +34,14 @@ collections:
 
 # Links to include in menu navigation
 links:
-  - title: About
-    url: /about.html
-  - title: Our Work
-    url: /work.html
+  - title: Why Skymouse
+    url: /why-skymouse.html
+  - title: What you can do
+    url: /what-you-can-do.html
   - title: Pricing
     url: /pricing.html
-  - title: Stories
-    url: /stories.html 
+  - title: Resources
+    url: /resources.html 
   - title: Contact
     url: /contact.html
 
