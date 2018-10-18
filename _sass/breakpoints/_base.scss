@@ -163,6 +163,7 @@ NAVIGATION STYLES
 	margin: 17px 0; 
 	font-size: 1.5em; 
 	display: inline-block;
+	color: $black;
 
 	img{
 		margin-top: -15px;
@@ -581,6 +582,7 @@ POSTS & CONTENT STYLES
 		position: absolute;
 		width: 100%;
 		transition: 0.5s;
+		background-color: $lgray;
 	}
 }
 

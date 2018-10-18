@@ -3,8 +3,8 @@
 title: Marketing LaunchPad
 subtitle: Start growing your revenue in 30 days.
 layout: landing-page
-description: You didn’t go into business to waste time trying to market your product. You did it because you’re passionate about helping your customers solve a unique problem. 
-price: One-time price of $950
+description: You didn’t go into business to waste time trying to market your product. You did it because you’re passionate about helping your customers. 
+price: One-time price of $1,750
 call-to-action: Take back control.
 cta-link: /services/marketing-launchpad.html
 img: /library/images/icons/icon-plan.svg

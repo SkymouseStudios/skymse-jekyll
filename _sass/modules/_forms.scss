@@ -168,8 +168,8 @@ form#searchbar #searchbar-submit {
 #mc_embed_signup label {
     display: block;
     font-size: 16px;
-    padding-bottom: 10px;
-    font-weight: bold;
+    text-align: left;
+    color: $gray;
 }
 
 #mc_embed_signup .clear {

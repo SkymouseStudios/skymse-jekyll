@@ -96,6 +96,17 @@ Stylesheet: Button Styles
   }
 }
 
+.action-btn-grey {
+  background-color: $gray;
+
+  &:hover {
+    box-shadow: 1px 10px 10px rgba(5,5,5,.2);
+    transition: 0.25s;
+    color: white;
+    background-color: lighten($gray, 7%);
+  }
+}
+
 .nav-btn {
   @extend %btn;
   color: $black;
