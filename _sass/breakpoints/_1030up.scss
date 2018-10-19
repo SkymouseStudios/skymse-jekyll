@@ -54,3 +54,26 @@
 img.client-site {
 	right: 110px;
 }
+
+.twitter-box {
+	border-radius: 5px;
+	border: 1.5px solid $gray;
+	padding: 15px;
+	font-family: $sans-serif;
+	padding: 20px;
+	color: $black;
+	position: relative;
+	background-color: white;
+	box-shadow: 37.2px 62.5px 125px -25px rgba(50,50,93,.5),22.3px 37.5px 75px -37.5px rgba(0,0,0,.6);
+	transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
+	-webkit-transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
+	
+	&:nth-child(odd) {
+		transform: translate(60%, -35%) rotate3d(0.32, -0.94, 0, 2deg) rotate(-2.2deg);
+		-webkit-transform: translate(60%, -35%) rotate3d(0.32, -0.94, 0, 2deg) rotate(-2.2deg);
+	}
+}
+
+.twitter-heading {
+	margin-bottom: 235px;
+}

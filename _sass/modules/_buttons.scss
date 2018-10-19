@@ -8,7 +8,7 @@ Stylesheet: Button Styles
   font-family: $sans-serif;
   text-decoration: none;
   color: $white(.9);
-  font-size: 0.9em;
+  // font-size: 0.9em; Fixed an issue in the nav
   font-weight: 300;
   padding: 0 0.5em;
   margin: 0.5em;

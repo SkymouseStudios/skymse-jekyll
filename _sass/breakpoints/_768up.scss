@@ -130,14 +130,6 @@ section {
 POSTS & CONTENT STYLES
 *********************/
 
-#proof {
-	
-	> div {
-		margin-top: 0;
-		height: 100%;
-	}
-}
-
 /*********************
 FOOTER STYLES
 *********************/
@@ -147,7 +139,7 @@ footer {
 		float: right;
 	}
 
-	.footer-links, .social-links {
+	.footer-links {
 		margin-right: 40px;
 		float: left;
 	}

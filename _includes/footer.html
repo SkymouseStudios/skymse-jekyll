@@ -10,13 +10,6 @@
 							<li><a class="footer-btn" title="Privacy" href="{{ site.baseurl }}/privacy.html">Privacy</a></li>
 						</ul>	
 					</div>
-				
-					<div class="social-links">
-
-						<ul>{% for social in site.socials %}
-				            <li><a class="social-btn" href="{{ social.url }}"><i class="fa fa-{{ social.name }}"></a></li>{% endfor %}
-						</ul>
-					</div>
 					
 					<p class="location">{{ site.location }}</p>
 
@@ -24,6 +17,11 @@
  
  				<div class="bottom-footer text-center pad">
 					<img class="icon-size" alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymouse-logo.svg">
+					<div class="social-links">
+						<ul>{% for social in site.socials %}
+				            <li><a class="social-btn" href="{{ social.url }}"><i class="fa fa-{{ social.name }}"></i></a></li>{% endfor %}
+						</ul>
+					</div>
 					<h4 class="subtitle">Do it up.</h4>
 				</div>
 			</footer><!-- END The footer -->
