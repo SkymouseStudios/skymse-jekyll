@@ -93,7 +93,7 @@
 	<div id="container">
 	
 	
-	<header role="banner" itemscope itemtype="http://schema.org/WPHeader">
+	<header role="banner" {% if page.layout == 'post' %} style="background-color: orange;" {% endif %} itemscope itemtype="http://schema.org/WPHeader">
 		
 	{% if page.layout == 'landing-page' or page.title == 'Checkout' %}
 		<!-- No Nav -->
@@ -109,7 +109,7 @@
 
 			<a id="logo" href="{{ site.baseurl }}/index.html" rel="nofollow">
 				<img alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymouse-logo.svg">
-				<strong>Skymouse</strong><span style="font-weight: 100;">Studios</span>
+				<span class="m-hide"><strong>Skymouse</strong><span style="font-weight: 100;">Studios</span></span>
 			</a>
 
 		
@@ -126,6 +126,11 @@
 	          		{% endfor %}
 	        	</ul>
 			</nav>
+			
+			<ul style="text-align: right;">
+				<li><a class="nav-btn orange" href="contact.html">Become a client</a></li>
+			</ul>
+			
 		</div> 
 	{% endif %}	
 		

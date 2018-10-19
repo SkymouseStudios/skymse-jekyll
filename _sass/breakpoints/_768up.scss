@@ -48,8 +48,11 @@ HEADER STYLES
 	}
 }
 
-.hero {
-	margin: 550px 10px 50px 10px;
+.home-hero {
+	width: 700px;
+	margin: 50px auto;
+	margin-top: 170px;
+	width: 700px;
 }
 
 #scene {
@@ -76,6 +79,10 @@ NAVIGATION STYLES
 			a {}
 		}  
 	} 
+
+	&:last-child {
+		float: right;
+	}
 } /* end .nav */
 
 /*********************
@@ -99,6 +106,26 @@ section {
 	margin-left: auto;
 }
 
+.grid-half:nth-child(even) {
+	.content {
+		grid-column: 1;
+		grid-row: 1;
+	}
+
+	.client-site {
+		perspective-origin: left;
+		grid-column: 1;
+		grid-row: 1;
+
+		.frame {
+			-webkit-transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
+			transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
+			-webkit-box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
+			box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
+		}
+	}
+}
+
 /*********************
 POSTS & CONTENT STYLES
 *********************/
@@ -116,14 +143,17 @@ FOOTER STYLES
 *********************/
 
 footer {
+	.location {
+		float: right;
+	}
 
 	.footer-links, .social-links {
 		margin-right: 40px;
+		float: left;
 	}
 
 	p {
 		display: inline-block;
-		margin-right: 40px;
 	}
 }
 

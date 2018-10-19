@@ -109,13 +109,18 @@ Stylesheet: Button Styles
 
 .nav-btn {
   @extend %btn;
-  color: $black;
-  background-color: #fff;
-  border-bottom: 3px solid #cfcfcf;
+  font-weight: 400;
+  color: $white;
+  //background-color: #fff;
+  border-bottom: 3px solid $orange;
 
   &:active {
     border: 1px solid $orange;
   }
+}
+
+.orange {
+  background-color: $orange;
 }
 
 .orange-btn {

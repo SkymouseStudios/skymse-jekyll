@@ -9,8 +9,8 @@
 .wrap {
 }
 
-#page, #inner-header, #product, #Checkout {
-	width: 900px;
+#page, #inner-header, #product, #Checkout, .home-hero {
+	width: 1000px;
 }
 
 #page {
@@ -20,6 +20,10 @@
 /*****************/
 /* HEADER */
 /******************/
+
+.home-hero {
+	margin-top: 270px;
+}
 
 #scene {
 	height: 700px;
@@ -40,10 +44,6 @@
 	&#desktop-menu {
 		display: block;
 		float: left;
-	}
-
-	ul:last-child {
-		float: right;
 	}
 
 	&#mobile-menu {

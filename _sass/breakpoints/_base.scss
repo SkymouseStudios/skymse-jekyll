@@ -28,8 +28,13 @@ body {
 	background-repeat: repeat;
 }
 
+#page, #inner-header, #product, #Checkout {
+	margin: 0 20px; // center content in page
+	overflow: hidden; // hide anything that wants to overflow
+}
+
 #page {
-	margin-top:  0px;
+	margin-top:  50px;
 }
 
 /******************************************************************
@@ -62,6 +67,10 @@ img {
 
 .icon-size {
 	width: 150px;
+}
+
+.icon-array > img {
+	margin-top: 40px;
 }
 
 /*********************
@@ -145,12 +154,8 @@ header {
 }
 
 .home-hero {
-	left: 0px;
-	right: 0px;
-	margin: 50px auto;
 	text-align: left;
-	max-width: 1050px;
-	margin-top: 270px;
+	margin-top: 25px;
 }
 
 /*********************
@@ -170,7 +175,7 @@ NAVIGATION STYLES
 
 #logo {
 	clear: both; 
-	margin: 17px 0; 
+	margin: 18px 0; 
 	font-size: 1.5em; 
 	display: inline-block;
 	color: $black;
@@ -225,12 +230,11 @@ NAVIGATION STYLES
 }
 #menu-burger {
 	float: right;
-	margin-right: 30px;
-	margin-top: 30px;
+	margin-top: 20px;
 }
 
 #line {
-	height: 8px;
+	height: 6px;
 	width: 40px;
 	display: block;
     position: relative;
@@ -242,10 +246,10 @@ NAVIGATION STYLES
 
     &:before {
     	position: absolute;
-    	top: 15px;
+    	top: 12.4px;
     	display: block;
     	content: " ";
-		height: 8px;
+		height: 6px;
 		width: 40px;
 		background-color: $black;
 		border-radius: 2px;
@@ -253,10 +257,10 @@ NAVIGATION STYLES
 
 	&:after {
 		position: absolute;
-		bottom: -30px;
+		bottom: -25px;
 		display: block;
 		content: " ";
-		height: 8px;
+		height: 6px;
 		width: 40px;
 		background-color: $black;
 		border-radius: 2px;
@@ -268,9 +272,10 @@ SECTIONS
 *********************/
 
 section {
+	padding: 2em; // mobile padding?
 	position: relative;
     border-radius: 5px;
-    margin: 20px 1em 0 1em;
+    margin: 20px 0;
     height: auto;
 	background-color: white;
 
@@ -494,8 +499,8 @@ POSTS & CONTENT STYLES
 
 .grid-half:nth-child(even) {
 	.content {
-		grid-column: 2;
-		grid-row: 1;
+		//grid-column: 1;
+		//grid-row: 1;
 	}
 
 	.client-site {
@@ -875,7 +880,7 @@ FOOTER STYLES
 *********************/
 
 footer {
-	margin: 20px 10%;
+	margin: 20px;
 	z-index: 999;
 	position: relative;
 	display: block;
@@ -884,6 +889,7 @@ footer {
 		background-color: $lgray;
 		border-radius: 5px;
 		padding: 0 40px;
+		text-align: center;
 	}
 }
 
