@@ -1,5 +1,18 @@
 # Changelog
 
+
+### Updates 18.10.20
+- added some new icons
+- fixed some typos
+- tweaked some new copy
+- adjusted some font sizing
+- Special contact form for “become a client”
+- Call to action at the end of “why skymouse”
+- Call to action at the end of “what you can do”
+- mailchimp sign-up for fans
+- fixed some alignment issues in the header images
+- added airtable form for become a client
+
 ### Updates 18.08.16 v2 
 - Added universal variables to the YAML file
 - Automated the social link output
