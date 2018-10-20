@@ -35,6 +35,11 @@ body {
 	}
 }
 
+
+p {
+	font-size: 1em;
+}
+
 /*********************
 HEADER STYLES
 *********************/
@@ -57,6 +62,21 @@ HEADER STYLES
 
 #scene {
 	height: 500px;
+
+	#headerFront {
+		width: 105%;
+		margin: auto;
+	}
+
+	#headerMid {
+		width: 105%;
+		margin: auto;
+	}
+
+	#headerBack {
+ 		width: 105%;
+ 		margin: auto;
+	}
 }
 
 

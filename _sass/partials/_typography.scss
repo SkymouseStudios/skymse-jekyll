@@ -176,6 +176,10 @@ ul.list {
   list-style: disc;
 }
 
+.text-gray {
+  color: #dcdcdc;
+}
+
 .text-divider {
   &:before {
     content: " ";

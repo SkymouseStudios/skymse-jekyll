@@ -72,6 +72,10 @@ Stylesheet: Grid Stylesheet
   grid-row: 2 / 3;
 }
 
+.grid-gap {
+  grid-gap: 20px;
+}
+
 .grid-top {
   grid-column: 2 / span 2;
 }

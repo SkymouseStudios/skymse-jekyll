@@ -65,6 +65,18 @@ img {
 	margin-top: 40px;
 }
 
+p {
+	font-size: 1.2em;
+}
+
+.indent:before {
+	content: " ";
+	border-left: 2px solid $lgray;
+	border-right: 2px solid $lgray;
+	border-radius: $radius;
+	margin-right: 5px;
+}
+
 /*********************
 HELPER CLASSES
 *********************/
@@ -106,6 +118,21 @@ HEADER STYLES
 		background-color: $orange;
 		opacity: 0.75;
 		z-index: 10;
+	}
+
+	#headerFront {
+		width: 150%;
+		margin: 0 -25%;
+	}
+
+	#headerMid {
+		width: 150%;
+		margin: 0 -25%;
+	}
+
+	#headerBack {
+ 		width: 200%;
+ 		margin: 0 -50%;
 	}
 }
 
@@ -384,21 +411,12 @@ TEMPLATE OBJECTS
     -moz-transform: translate(-50%, -50%);
 }
 
-.quote {
-	font-size: 2.5em;
-	line-height: 1.5em;
-	margin-top: 1em;
-	padding-right: 20px;
-}
-
 .client {
-	bottom: 0px;
 	color: $gray;
 }
 
 .client-pic {
 	width: 100%;
-	border-radius: 10px;
 	margin: 0 auto;
 }
 
@@ -858,8 +876,14 @@ footer {
 	}
 
 	i {
-		color: $gray;
+		color: #dcdcdc;
 		font-size: 1.2em;
+		transition: 0.5s;
+
+		&:hover {
+			transition: 0.5s;
+			color: $lblue;
+		}
 	}
 	
 	ul, li {

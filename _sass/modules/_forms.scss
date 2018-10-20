@@ -248,8 +248,8 @@ form#searchbar #searchbar-submit {
         margin-bottom: 5px;
     }
     #mc_embed_signup .clear {
-        display: block;
-        width: 100%
+        // display: block; Made things look weird on mobile.
+        // width: 100%
     }
     #mc_embed_signup .button {
         width: 100%;

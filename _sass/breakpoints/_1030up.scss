@@ -2,6 +2,10 @@
 1030px and up - Desktop Stylsheet
 ******************************************************************/
 
+p {
+	font-size: 1em;
+}
+
 /*****************/
 /* LAYOUT Styles */
 /******************/
@@ -53,6 +57,13 @@
 
 img.client-site {
 	right: 110px;
+}
+
+.quote {
+	font-size: 2.3em;
+	line-height: 1.5em;
+	margin-top: 1em;
+	padding-right: 20px;
 }
 
 .twitter-box {

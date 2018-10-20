@@ -36,6 +36,7 @@
 
 		<!-- Meta Information -->
 		<meta name="keywords" content="{{ page.keyword }}" />
+		<meta name="description" content="{{ page.description }}"/>
 		<meta property="fb:app_id" content="1829603110479968"/>
 		<meta property="og:title" content="{{ page.title }}" />
 		<meta property="og:description" content="{{ page.description }}">
@@ -57,7 +58,7 @@
 			  "founders": [ "John Welch", "Patrick Hanus" ],
 			  "foundingDate": "2016-05-20",
 			  "logo": "{{ site.baseurl }}{{ site.logo }}",
-			  "sameAs": [ {% for social in site.social %}
+			  "sameAs": [ {% for social in site.socials %}
                     "{{ social.url }}", {% endfor %}
               ]
 			}
@@ -127,7 +128,7 @@
 			</nav>
 			
 			<ul style="text-align: right;">
-				<li><a class="nav-btn orange" href="contact.html">Become a client</a></li>
+				<li><a class="nav-btn orange" href="become-a-client.html">Become a client</a></li>
 			</ul>
 			
 		</div> 

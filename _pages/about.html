@@ -1,8 +1,8 @@
 ---
-title: About
+title: About Skymouse
 layout: default
 subtitle: Purpose drives passion.
-description: Skymouse studios is a media company based out of Indianapolis, IN. We help people use media to transform their businesses.
+description: Skymouse Studios is a media company based out of Indianapolis, IN and Nashville, TN. We help people use media to transform their businesses.
 permalink: about.html
 img-front: /library/images/headers/header-about-front.svg
 img-mid: /library/images/headers/header-about-mid.svg
@@ -16,9 +16,9 @@ img: /library/images/social/social-about.jpg
 </div>
 
 <div id="scene" data-relative-input="true" data-pointer-events="true">
-	<img style="z-index: 2; margin-top: 550px" data-depth="0.50" src="{{ page.img-front }}" alt="">
-	<img style="z-index: 1; margin-top: 0px;" data-depth="0.30" src="{{ page.img-mid }}" alt="">
-	<img style="z-index: 0" data-depth="0.10" src="{{ page.img-back }}" alt="">
+	<img id="headerFront" style="z-index: 2; margin-top: 450px" data-depth="0.50" src="{{ page.img-front }}" alt="">
+	<img id="headerMid" style="z-index: 1; margin-top: 100px;" data-depth="0.30" src="{{ page.img-mid }}" alt="">
+	<img id="headerBack" style="z-index: 0" data-depth="0.10" src="{{ page.img-back }}" alt="">
 </div>
 
 <main id="page" class="about">
@@ -26,7 +26,7 @@ img: /library/images/social/social-about.jpg
 	<section class="_big-idea-box">
 		<div class="content">
 			<h2>We're no corporate fat cat. <br>We hate cats.</h2>
-			<p>We get asked a lot: “Who’s your ideal client?” The answer is pretty simple. Our ideal client is a company that wants to know themselves better and share it with their employees, clients and competitors.</p>
+			<p>We get asked a lot: “Who’s your ideal client?” The answer is pretty simple. Our ideal client is an organization that wants to share their brand with their employees, clients and competitors.</p>
 		</div>
 	</section>
 
@@ -40,7 +40,7 @@ img: /library/images/social/social-about.jpg
 
 		<div class="content m-margin">
 			<h3>Why we do.</h3>
-			<h5>Marketing should be straightforward.</h5>
+			<h5>Marketing should be straight-forward.</h5>
 			<p>You know that feeling you get when you see a pickup artist hitting on a girl from out of town? That's how we feel watching other marketing companies. We exist because we're tired of marketing agencies taking advantage of unsuspecting businesses.</p>
 
 			<h5>We have a vision.</h5>
@@ -59,7 +59,7 @@ img: /library/images/social/social-about.jpg
 			<h3>What we do.</h3>
 		
 			<h5>Focus on the ONE thing.</h5>
-			<p>You know what’s hard? Admitting who isn’t your customer. Dropping your highest revenue customer because they don't align with the vision of your brand. Teaching your company why you exist and why the marketplace should care. </p>
+			<p>You know what’s hard? Admitting who isn’t your customer. Dropping your highest revenue customer because they don't align with the vision of your brand. Teaching your company why you exist and why the marketplace should care.</p>
 
 			<p>We partner with companies who are ready to make the tough choices to see their business flourish like never before.</p>
 		</div>
@@ -78,10 +78,10 @@ img: /library/images/social/social-about.jpg
 			<h3>How we do.</h3>
 
 			<h5>Getting things done.</h5>
-			<p>While XYZ Marketing is explaining the psychological impact of Helvetica Light Augmented Arial Bold Universal Typeface, we’re busy getting the job done.</p>
+			<p>While Sleazy Marketing LLC is explaining the psychological impact of Helvetica Light Augmented Arial Bold Universal Typeface, we’re busy getting the job done.</p>
 
-			<h5>Principles exist for one reason – to drive actions.</h5>
-			<p>We take you through specific exercises designed to teach you and then your customers who you are and why you matter. We got the principles down a long time ago, now we just focus on executing. </p>
+			<h5>Principles exist for one reason: to drive actions.</h5>
+			<p>We take you through specific exercises designed to teach you and your customers who you are and why you matter. You focus on your business, we focus on executing.</p>
 		</div>
 
 	</section>
@@ -94,8 +94,10 @@ img: /library/images/social/social-about.jpg
 		</div>
 		<div class="content m-margin">
 			<h3>Where we work.</h3>
-			<h5>Based out of the flat lands of Indiana and the rolling hills of Tennessee.</h5>
-			<p>In the crossroads of America. Where the people are great, the food is delicious and there is always something to do. Passing through Indianapolis or Nashville? let us know! We'd love to buy you a coffee and chat.</p>
+			<h5>From the flatlands of Indiana and the rolling hills of Tennessee.</h5>
+			<p>Where the people are great, the food is delicious and there is always something to do. We're a remote team working with clients all over the United States.</p>
+
+			<p>Passing through Indianapolis or Nashville? let us know! We'd love to buy you a coffee and chat.</p>
 		</div>
 
 		
@@ -103,17 +105,17 @@ img: /library/images/social/social-about.jpg
 
 	
 	
-	<section class="pad">
+	<section class="blank">
 		<div class="section-heading twitter-heading">
 			<h4>Who we are</h4>
 			<h3>Meet the Founders</h3>
 		</div>
 
-		<div class="profile-grid pad">
+		<div class="profile-grid">
 		{% for profile in site.profiles %}
 				<div class="twitter-box">
 					<p class="twitter-name">{{profile.name }}</p>
-					<a class="twitter-handle" href="#">{{ profile.handle }}</a>
+					<a class="twitter-handle" href="https://twitter.com/{{ profile.handle }}">{{ profile.handle }}</a>
 					<img class="twitter-profile" src="{{ site.baseurl }}{{ profile.img }}" alt="{{profile.name}}">
 					<div class="twitter-content">
 						<img src="{{ site.baseurl }}{{ profile.img }}" alt="{{profile.name}}">
@@ -121,14 +123,24 @@ img: /library/images/social/social-about.jpg
 					
 					<h5>{{profile.title }}</h5>
 					<p>{{profile.desc }}</p>
-					<a href="{{ profile.twitter }}" class="social-btn"> <i class="twitter-icon fab fa-twitter"></i> </a>
+					<a href="{{ profile.twitter }}" class="social-btn"> <i class="twitter-icon fa fa-twitter"></i> </a>
 					
-					<i class="fas fa-retweet"></i>
-					<i class="fas fa-heart"></i>
-					<i class="fas fa-reply"></i>
+					<i class="fa fa-retweet"></i>
+					<i class="fa fa-heart"></i>
+					<i class="fa fa-reply"></i>
 				</div>
 		{% endfor %}
 		</div>
 	</section>
 	
+	<section class="card card--orange">
+		<div class="content pad">
+			<img class="icon-size" src="{{ site.baseurl }}/library/images/logos/skymouse-logo.svg" alt="Skymouse circle logo">
+			<h2>Want to hear what we're up to?</h2>
+			<p style="text-align: center;">Join our loyal crew, following the latest projects, services and our discoveries in the wonderful world of design.</p>
+		</div>
+		{% include mailchimp-skymse-news.html %}
+		<div class="pad"></div>
+	</section>
+
 </main>
