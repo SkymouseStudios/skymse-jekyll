@@ -12,16 +12,15 @@
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-
 		<!-- Icon Info -->
 		<link rel="shortcut icon" href="/favicon.png" type="image/x-icon"/>
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 		<link rel="manifest" href="/site.webmanifest">
-		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-		<meta name="msapplication-TileColor" content="#2b5797">
-		<meta name="theme-color" content="#ffffff">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="{{ site.color }}">
+		<meta name="msapplication-TileColor" content="{{ site.color }}">
+		<meta name="theme-color" content="{{ site.color }}">
 
 		<!--[if IE]>
 		<link rel="shortcut icon" href="/favicon.ico">
@@ -33,6 +32,7 @@
 		<meta name="twitter:title" content="{{ page.title }}" />
 		<meta name="twitter:description" content="{{ page.description }}" />
 		<meta name="twitter:image" content="{{ site.baseurl }}{{ page.img }}" />
+		<meta name="twitter:creator" content="{{ site.username }}">
 
 		<!-- Meta Information -->
 		<meta name="keywords" content="{{ page.keyword }}" />
@@ -43,10 +43,6 @@
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
 		<meta property="og:image" content="{{ site.baseurl }}{{ page.img }}" />
-
-		<!--[if IE]>
-			<link rel="shortcut icon" href="/favicon.ico">
-		<![endif]-->
 		
 		<script type="application/ld+json">
 			{
@@ -58,8 +54,15 @@
 			  "founders": [ "John Welch", "Patrick Hanus" ],
 			  "foundingDate": "2016-05-20",
 			  "logo": "{{ site.baseurl }}{{ site.logo }}",
-			  "sameAs": [ {% for social in site.socials %}
-                    "{{ social.url }}", {% endfor %}
+			  "sameAs": [ 
+			  	{% for social in site.socials %}
+                    {% if forloop.last == true %}
+				        {{ social.url }}
+				    {% else %}
+				        "{{ social.url }}", 
+				    {% endif %}
+
+                    {% endfor %}
               ]
 			}
 		</script>
@@ -92,27 +95,20 @@
 
 	<div id="container">
 	
-	
-	<header role="banner" {% if page.layout == 'post' %} style="background-color: orange;" {% endif %} itemscope itemtype="http://schema.org/WPHeader">
+	<header role="banner" {% if page.layout == 'post' or page.layout == 'landing-page' %} style="background-color: orange;" {% endif %} itemscope itemtype="http://schema.org/WPHeader">
 		
-	{% if page.layout == 'landing-page' or page.title == 'Checkout' %}
-		<!-- No Nav -->
-	{% else %}
 		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 			<ul class="cf"> {% for link in site.links %}<li><a class="nav-btn" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>{% endfor %}
         	</ul>
 		</nav>
-	
 
 		<div id="inner-header" class="cf">
-
 
 			<a id="logo" href="{{ site.baseurl }}/index.html" rel="nofollow">
 				<img alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymouse-logo.svg">
 				<span class="m-hide"><strong>Skymouse</strong><span style="font-weight: 100;">Studios</span></span>
 			</a>
 
-		
 			<div id="menu-burger">
 				<div id="line"></div>
 			</div>
