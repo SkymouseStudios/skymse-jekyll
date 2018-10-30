@@ -7,7 +7,7 @@ description: Good free apps are hard to find. Take your productivity to the next
 keyword: "2018 Apps"
 author: Patrick Hanus
 img: "/library/images/our-work/website-ams.jpg"
-permalink: "/top-apps-for-business-owners.html"
+permalink: "/best-free-apps-for-business-owners-in-2018.html"
 ttr: 7
 
 ---
@@ -44,7 +44,7 @@ Alternate apps to Evernote
 - BoostNote
 - Dropbox Paper
 - Onenote
-
+- Google Keep
 
 ## 2. Automate all your repetative tasks with Zapier
 Zapier may be my favorite app of all. It's really quite amazing. You can get started way easier when they let you make 5 zaps for free! I can promise that your life will never be the same.
