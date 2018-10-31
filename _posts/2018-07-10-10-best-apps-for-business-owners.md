@@ -242,7 +242,7 @@ Something Harvest taught me was how to think of my time in terms of the value. I
 * generate invoices for your clients from right within harvest
 * integrate with your accounting app (Quickbooks has a native integration, we use Wave for account, so I integrated that via Zapier)
 
-### When Harvest may not be for you. 
+### When Harvest may not be for you.
 
 ### The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients
 
@@ -250,15 +250,15 @@ It also integrates with Asana right in the app!
 
 Alternatives to Harvest
 
-* Toggl (The free version of this may be a better start if you have alot of projects.)
+* Toggl (The free version of this may be a better start if you have a lot of projects.)
 
 ## Bonus: Read things later with Pocket
 
-Chances are you read a lot. It's not always the best time to read though, the way I solve this: Pocket. I'll get email newslettters with links to new articles, my dad might text me an article he found, our I'll see some intresting blogs on the internet.
+Chances are you read a lot. It's not always the best time to read though, the way I solve this: Pocket. I'll get email newsletters with links to new articles, my dad might text me an article he found, our I'll see some interesting blogs on the internet.
 
 I'll save them quickly with pocket and be on my way. That way I can come back later and do all my reading when I'm ready for it.
 
-Hopefully I can find a relaxing environment where I can focus and perhaps take some notes if something is particularly usefull.
+Hopefully I can find a relaxing environment where I can focus and perhaps take some notes if something is particularly useful.
 
 * organize your articles with tags
 * the browser plugin lets you save for later with one click
