@@ -30,9 +30,9 @@ Keep notes about your business model, customer profiles, and any ideas for cups,
 
 ### Here are some of the things Evernote allows you to do:
 
-* Organize a similar `Notes` in a `Notebook`, and similar notebooks in a `Stack`
-* Organize with tags.
-* Sync between computer, web browser, iPad, iPhone, etc.
+* Organize a similar `Notes` in a `Notebook`, and similar notebooks in a `Stack.`
+* Connect similar notes with each other using `Tags.`
+* Sync notes between computer, web browser, iPad, iPhone, etc.
 * Take notes on the go...I LOVE the **top bar note taker**—I use it every day.
 * Share notes and notebooks with other members of your team or with your clients.
 
