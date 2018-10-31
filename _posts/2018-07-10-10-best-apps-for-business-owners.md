@@ -14,17 +14,19 @@ ttr: 7
 ---
 ## So what are the most useful apps for business owners?
 
-The landscape of apps is changing quickly. Here's the apps we like to use at Skymouse, and how we use them.
+Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set would be a lovely addition to my kitchen and beef up my cooking capabilities, there are loads of apps out there helping you cook up a business that you're proud of.
+
+That being said, the landscape of apps is changing quickly. Here's the apps we like to use at Skymouse, and how we use them, and something new that might make you reconsider some of these apps that have been around a while.
 
 We also suggest some alternatives if you are looking for something different.
 
 ## 1. Use Evernote for keeping all of your information accessible.
 
-As a business owner, you have a lot to keep track of. Evernotes can assist you in this task. 
+As a business owner, you have a lot to track. Evernote can assist you in this task.
 
-Evernotes allows you to keep notes about your business model and your customer profiles. It helps you keep track of people who might want to invest in your business and  "tag" them with labels, providing you with pertinent information at a glance. 
+Keep notes about your business model, customer profiles, and any ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and  "tag" them with labels, providing you with pertinent information at a glance.
 
-Here are some of the things Evernote allows you to do:
+### Here are some of the things Evernote allows you to do:
 
 * Organize in Stacks > Notebooks > Notes
 * Organize with tags.
@@ -32,19 +34,19 @@ Here are some of the things Evernote allows you to do:
 * Take notes on the go...I LOVE the **top bar note taker**—I use it every day.
 * Share notes and notebooks with other members of your team or with your clients.
 
-_(This next paragraph really weakens everything you have been trying to say.  Maybe you can say something more along the lines of, "Evernote has been around for a while and there are other similar options, but this is still my go-to organizational and note-taking tool." If you do keep this paragraph, move it to the end somewhere.  It interrupts your flow.)_
-
-I'll be honest I've been using this for a while, so there may be a better option. I've been messing around in Boostnote recently.
-
 At Skymouse, we use Evernote for meeting notes, notes about what our clients needs are, and research. We do a lot of sorting with our tags and _(here you might want to give an example. Your original draft had some examples in the first paragraph, but I got rid of it._) I'm going to publish a post about Evernote which will....in the next couple weeks, so subscribe to make sure you don't miss it! _(what will make that post different from this one? Maybe "teach you how to use Evernote systematically and effectively" or something even more specific that will benefit your reader._
 
-What's new in Evernote 2018? They just added templates which is a sweet way to get started quickly and standardize some of your information.
+### What's new in Evernote 2018? 
 
-Note: Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use work docs for internal purposes, we put it all into Evernote. _(I don't understand that last line. Actually I am a little fuzzy on the whole paragraph and what it really means.)_
+They just added templates which is a sweet way to get started quickly and standardize some of your information.
+
+### A word of warning
+
+Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use work docs for internal purposes, we put it all into Evernote. _(I don't understand that last line. Actually I am a little fuzzy on the whole paragraph and what it really means.)_
 
 You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time. _(You could just mention this on your bulleted list above when you mention its features.)_
 
-Alternate apps to Evernote:
+### Alternates to Evernote
 
 * BoostNote
 * Dropbox Paper
@@ -53,13 +55,13 @@ Alternate apps to Evernote:
 
 ## 2. Automate all your repetitive tasks with Zapier.
 
-Zapier may be my favorite app of all. It's really quite amazing. Zapier let you make 5 zaps for free, so it makes getting started easy! I can promise that your life will never be the same.
+Zapier may be my favorite app of all. It's really quite amazing. Zapier let you make 5 "Zaps" for free, so it makes getting started easy! I can promise that your life will never be the same.
 
 Using Zapier, you can automate pretty much everything in your life besides spending quality time with your kids. (That's something you should probably do in person.)
 
 _(I need to talk to you about these bullet points.)_
 
-Some of my favorite Zaps include:
+### Some of my favorite Zaps
 
 * When I post instagram picture _then_ post it as an actual picture in Twitter (Not just the link)
 * When I get a new subscriber in Mailchimp, _then_ add them to Hubspot as a new contact
@@ -71,7 +73,7 @@ The only downside about using Zapier is that it may be a bit confusing if you do
 
 What's new in Zapier? IF/Then logic allows you to add conditional logic to your automations! This is a big deal when you want automations to take place only in certain situations.
 
-Alternates to automating your apps: _(Do you mean alternatives to Zapier?)_
+### Alternates to Zapier
 
 * IFTTT (completely free)
 * Tray.io
@@ -92,7 +94,7 @@ What's new in MailChimp 2018? Mailchimp is really good about growing their servi
 
 Note: If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. You account might be shut down if you upload a bunch of emails without making sure it's a good list of people. _(Might want to specify what makes it "good?")_
 
-Alternatives to MailChimp:
+### Alternates to Mailchimp
 
 * Active Campaign
 * Campagin Monitor
@@ -102,7 +104,7 @@ Alternatives to MailChimp:
 
 I've been using Asana for about 2 years now and it's great. They've also added some new features, so it's an app that keeps on giving. The free version of the app is highly functional and works well even for very large projects.
 
-Asana allows you to:
+### Asana allows you to...
 
 * create different organizations/workspaces and quickly move between them.
 * ascertain your project status through **Board View**.
@@ -110,7 +112,7 @@ Asana allows you to:
 * assign tasks to other users.
 * view a timeline progression of the whole project, as well as task dependencies.
 
-How to use Asana in the workplace:
+### How to use Asana in the workplace:
 
 * We've created a **project** for each client and manage a **board view** so we know the status of each client at all times.
 * We have internal projects like our website, social media, and a SkyDev project so we don't fall behind.
@@ -120,7 +122,7 @@ Note: What I've found in Asana is that it can get confusing really quick. Especi
 
 I would suggest keeping tasks basic and simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwelming and unnecessary.
 
-Alternative to Asana:
+### Alternates to Asana
 
 * Monday
 * Trello
@@ -132,9 +134,9 @@ Email gets really sloppy and is a pain in the neck for a lot of people. Slack ha
 
 We like it a lot, and it's made life easier at Skymouse!
 
-Slack has power. Here are just a few of the ways you can utilize Slack:
+### How to use Slack in the workplace
 
-* Quickly switch between organizations throughout the day. 
+* Quickly switch between organizations throughout the day.
 * Create an Evernote from within Slack. Great integration!
 * Create social media alerts that show up in Slack.
 * Create tasks in Asana from Slack.
@@ -145,15 +147,15 @@ Note: Slack could be a terrible idea. Slack is addicting, and it can be distract
 
 I recommend setting times in your day to mute Slack so it doesn't bring you out of work mode and ruin your flow.
 
-An alternatives to Slack:
+### Alternatives to Slack
 
-* Microsoft Teams (inlcuded in Office 365 Subscription )
+* Microsoft Teams (included in Office 365 Subscription )
 
 ## 6. Buffer
 
 I've been using Buffer for almost 2 years now. Not only do I like the app but I've come to appreciate the company behind the app. They have some cool pricipals and their blog is also pretty great.
 
-I've talked to alot of people and there are a lot of preferences out there when it comes to soclial media schduleing. We use Buffer for our clients, ourselves and I use it for my personal account.
+I've talked to a lot of people and there are a lot of preferences out there when it comes to social media scheduling. We use Buffer for our clients, ourselves and I use it for my personal account.
 
 * Schedule social media posts
 * Track new feeds of things
