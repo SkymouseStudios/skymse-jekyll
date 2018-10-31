@@ -30,11 +30,9 @@ Keep notes about your business model, customer profiles, and any ideas for cups,
 
 * Organize in Stacks > Notebooks > Notes
 * Organize with tags.
-* Sync between computer, web browser, ipad, iphone, etc.
+* Sync between computer, web browser, iPad, iPhone, etc.
 * Take notes on the go...I LOVE the **top bar note taker**—I use it every day.
 * Share notes and notebooks with other members of your team or with your clients.
-
-At Skymouse, we use Evernote for meeting notes, notes about what our clients needs are, and research. We do a lot of sorting with our tags and _(here you might want to give an example. Your original draft had some examples in the first paragraph, but I got rid of it._) I'm going to publish a post about Evernote which will....in the next couple weeks, so subscribe to make sure you don't miss it! _(what will make that post different from this one? Maybe "teach you how to use Evernote systematically and effectively" or something even more specific that will benefit your reader._
 
 ### What's new in Evernote 2018? 
 
