@@ -18,7 +18,7 @@ Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set wo
 
 That being said, the landscape of apps is changing quickly. Here's the apps we like to use at Skymouse, and how we use them, and something new that might make you reconsider some of these apps that have been around a while.
 
-We also suggest some alternatives if you are looking for something different.
+I've also suggested some alternatives if you are looking for something different.
 
 ## 1. Use Evernote for keeping all of your information accessible.
 
@@ -169,10 +169,11 @@ The social media work is an echo chamber of recycled information. While buffer i
 
 Buffer also doesn't take the place of live interaction. Engaging with your followers and fans works best when you're in the native medium and can make the difference in how people perceive your brand.
 
-What's new
+### What's new in Buffer 
+
 You can now post to instagram automatically! (Previously you could only schedule reminders to post). You can also now add emojis straight from buffer.
 
-Alternatives to Buffer for social media
+### Alternatives to Buffer for social media
 
 * Sprout Social
 * Hootsuite
@@ -183,14 +184,14 @@ Airtable is the most recent addition to our arsenal of apps. It's basically goog
 
 Much of the projects we work on only make so much sense to be stored as a document. Some information is really more like data and should be treated as such.
 
-Some examples of what you can do in Airtable
+### Some examples of what you can do in Airtable
 
 * Create online forms
 * plan your social media calendar
 * track employee or client feedback
 * keep all your client testimonials in one place
 
-Some of our favorite qualities about Airtable
+### Some of our favorite qualities about Airtable
 
 * See record history on your fields! (So if someone deletes something, it's still there)
 * easily manage "base" permissions with clients and other staff
@@ -199,7 +200,7 @@ Some of our favorite qualities about Airtable
 
 There really aren't many downsides to Airtable to be honest. The paid version has a ton of additional functionality using their `Airtable Blocks`
 
-Alternatives to Airtable
+### Alternatives to Airtable
 
 * Google Sheets
 
@@ -209,7 +210,7 @@ A CRM is the best way to track sales and your client life cycle. At Skymouse we 
 
 Many businesses and sale people hate CRMs and spend a lot of time and money on software they never use.
 
-Why you should be using a CRM like HubSpot.
+### Why you should be using a CRM like HubSpot.
 
 * A CRM is essential to making sure you're focusing on the right projects at the right time
 * Keep notes on clients and prospects right in the app so you don't repeat yourself and look foolish
@@ -225,16 +226,18 @@ Again, you don't have to go crazy with your information, just keep it up to date
 
 ### Alternatives to HubSpot
 
-* salesforce
+* Salesforce
 * Drift
 * Pipedrive
 * Airtable
 
 ## 9. Track your team's time with Harvest
 
-This is also a new one for me, I had been previously using toggle.
+This is also a new one for me, I had been previously using Toggl.
 
-Something Harvest taught me was how to think of my time in terms of the value. If I'm doing business development, vs. web development vs. a call with a client, I've become way  more conscious of how I spend my time. I'm tracking my time this very moment. So meta.
+Something Harvest taught me was how to think of my time in terms of the value. 
+
+If I'm doing business development, vs. web development vs. a call with a client, I've become way  more conscious of how I spend my time. I'm tracking my time this very moment. So meta.
 
 * browser, phone, computer apps to make tracking time accessible
 * apply varied billable rates based on the type of task you're working on.
@@ -244,7 +247,7 @@ Something Harvest taught me was how to think of my time in terms of the value. I
 
 ### When Harvest may not be for you.
 
-### The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients
+###### The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients
 
 It also integrates with Asana right in the app!
 
