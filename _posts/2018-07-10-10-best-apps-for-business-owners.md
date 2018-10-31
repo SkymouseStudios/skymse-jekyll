@@ -22,7 +22,7 @@ I've also suggested some alternatives if you are looking for something different
 
 ## 1. Use Evernote for keeping all of your information accessible.
 
-`Free, Minor Limitations`
+`Free, Minor/Major Limitations`
 
 As a business owner, you have a lot to track. Evernote can assist you in this task.
 
@@ -30,7 +30,7 @@ Keep notes about your business model, customer profiles, and any ideas for cups,
 
 ### Here are some of the things Evernote allows you to do:
 
-* Organize in Stacks > Notebooks > Notes
+* Organize a similar `Notes` in a `Notebook`, and similar notebooks in a `Stack`
 * Organize with tags.
 * Sync between computer, web browser, iPad, iPhone, etc.
 * Take notes on the go...I LOVE the **top bar note taker**—I use it every day.
@@ -42,9 +42,9 @@ They just added templates which is a sweet way to get started quickly and standa
 
 ### A word of warning
 
-Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use work docs for internal purposes, we put it all into Evernote. _(I don't understand that last line. Actually I am a little fuzzy on the whole paragraph and what it really means.)_
+Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use Microsoft Word for typing up drafts or ideas, we put it all into Evernote.
 
-You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time.
+You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time and you can't view notes if you don't have internet.
 
 ### Alternates to Evernote
 
@@ -61,15 +61,13 @@ Zapier may be my favorite app of all. It's really quite amazing. Zapier let you 
 
 Using Zapier, you can automate pretty much everything in your life besides spending quality time with your kids. (That's something you should probably do in person.)
 
-_(I need to talk to you about these bullet points.)_
-
 ### Some of my favorite Zaps
 
-* When I post instagram picture _then_ post it as an actual picture in Twitter (Not just the link)
-* When I get a new subscriber in Mailchimp, _then_ add them to Hubspot as a new contact
-* When someone fills out a form in Airtable (more on this later) send me an alert in Slack
+* **_When_** I post a picture to Instagram **_then_** post it as an actual picture in Twitter.
+* **_When_** I get a new subscriber in Mailchimp, _then_ add them to HubSpot as a new contact
+* **_When_** someone fills out a form in Airtable, **_then_** send me an alert in Slack
 
-The possibilities are endless and when every moment counts in the business day, Zapier will definitely help cut out the piddling around.
+The possibilities are endless and when every moment counts in the business day, Zapier helps cut out the busywork.
 
 The only downside about using Zapier is that it may be a bit confusing if you don't document your automations. I keep track of Automations in Evernote and have no problems related to automations.
 
@@ -94,14 +92,14 @@ I use Mailchimp all the time. It may be used in order to:
 * design pop-ups and other ways of capturing emails from your website or social media accounts.
 * add tags to subscribers automatically after they've finished a drip campaign.
 
-What's new in MailChimp 2018? Mailchimp is really good about growing their service expanding capabilites. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you Ecommerce store effortlessly.
+What's new in MailChimp 2018? Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you Ecommerce store effortlessly.
 
 Note: If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. You account might be shut down if you upload a bunch of emails without making sure it's a good list of people. _(Might want to specify what makes it "good?")_
 
 ### Alternates to Mailchimp
 
 * Active Campaign
-* Campagin Monitor
+* Campaign Monitor
 * Intercom
 
 ## 4. Track your projects like a pro with Asana
@@ -260,12 +258,11 @@ If I'm doing business development, vs. web development vs. a call with a client,
 * if you've been inactive on your computer for an extended amount of time, Harvest will catch it and ask if you want to stop the timer and roll back the time.
 * generate invoices for your clients from right within harvest
 * integrate with your accounting app (Quickbooks has a native integration, we use Wave for account, so I integrated that via Zapier)
+* It also integrates with Asana right in the app!
 
 ### When Harvest may not be for you.
 
-###### The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients
-
-It also integrates with Asana right in the app!
+The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
 
 Alternatives to Harvest
 
