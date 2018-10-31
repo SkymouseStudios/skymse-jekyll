@@ -28,7 +28,7 @@ As a business owner, you have a lot to track. Evernote can assist you in this ta
 
 Keep notes about your business model, customer profiles, and any ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and  "tag" them with labels, providing you with pertinent information at a glance.
 
-### Here are some of the things Evernote allows you to do:
+### How to use Evernote in the workplace
 
 * Organize a similar `Notes` in a `Notebook`, and similar notebooks in a `Stack.`
 * Connect similar notes with each other using `Tags.`
@@ -55,13 +55,13 @@ You should also be aware that with the free version of the Evernote app you can 
 
 ## 2. Automate all your repetitive tasks with Zapier.
 
-`Free, 5 "Zaps"`
+`Free, Limited to 5 "Zaps"`
 
-Zapier may be my favorite app of all. It's really quite amazing. Zapier let you make 5 "Zaps" for free, so it makes getting started easy! I can promise that your life will never be the same.
+Zapier may be my favorite app of all. It's really quite amazing. Zapier let you make 5 `Zaps` for free, so it makes getting started easy! I can promise that your life will never be the same.
 
 Using Zapier, you can automate pretty much everything in your life besides spending quality time with your kids. (That's something you should probably do in person.)
 
-### Some of my favorite Zaps
+### How to use Zapier in the workplace
 
 * **_When_** I post a picture to Instagram **_then_** post it as an actual picture in Twitter.
 * **_When_** I get a new subscriber in Mailchimp, _then_ add them to HubSpot as a new contact
@@ -71,20 +71,24 @@ The possibilities are endless and when every moment counts in the business day, 
 
 The only downside about using Zapier is that it may be a bit confusing if you don't document your automations. I keep track of Automations in Evernote and have no problems related to automations.
 
-What's new in Zapier? IF/Then logic allows you to add conditional logic to your automations! This is a big deal when you want automations to take place only in certain situations.
+### What's new in Zapier 2018? 
+
+IF/THEN logic allows you to add conditional logic inside of your automations! This is a big deal when you want automations to take place only in certain situations.
 
 ### Alternates to Zapier
 
 * IFTTT (completely free)
 * Tray.io
 
-## 3. Send great looking email to a lot of people with MailChimp.
+## 3. Send great looking email to your people with MailChimp.
 
 `Free, up to 2,000 Subscribers`
 
 MailChimp may be one of the more popular apps out there for marketers.The best part— use Mailchimp for free if your list isn't too big.
 
-I use Mailchimp all the time. It may be used in order to:
+I use Mailchimp all the time.
+
+### How to use Mailchimp in the workplace
 
 * create `groups` and `segments` in Mailchimp so your customers get what they need and only what they need
 * quickly design your own email templates, so you aren't repeating yourself
@@ -92,7 +96,9 @@ I use Mailchimp all the time. It may be used in order to:
 * design pop-ups and other ways of capturing emails from your website or social media accounts.
 * add tags to subscribers automatically after they've finished a drip campaign.
 
-What's new in MailChimp 2018? Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you Ecommerce store effortlessly.
+### What's new in MailChimp 2018? 
+
+Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you Ecommerce store effortlessly.
 
 Note: If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. You account might be shut down if you upload a bunch of emails without making sure it's a good list of people. _(Might want to specify what makes it "good?")_
 
@@ -126,6 +132,8 @@ Note: What I've found in Asana is that it can get confusing really quick. Especi
 
 I would suggest keeping tasks basic and simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwelming and unnecessary.
 
+### What's new in Asana 2018? 
+
 ### Alternates to Asana
 
 * Monday
@@ -153,11 +161,13 @@ Note: Slack could be a terrible idea. Slack is addicting, and it can be distract
 
 I recommend setting times in your day to mute Slack so it doesn't bring you out of work mode and ruin your flow.
 
+### What's new in Slack 2018? 
+
 ### Alternatives to Slack
 
 * Microsoft Teams (included in Office 365 Subscription )
 
-## 6. Buffer
+## 6. Post to all your social media with Buffer
 
 `Free, up to 3 social accounts`
 
@@ -177,7 +187,7 @@ The social media work is an echo chamber of recycled information. While buffer i
 
 Buffer also doesn't take the place of live interaction. Engaging with your followers and fans works best when you're in the native medium and can make the difference in how people perceive your brand.
 
-### What's new in Buffer 
+### What's new in Buffer 2018?
 
 You can now post to instagram automatically! (Previously you could only schedule reminders to post). You can also now add emojis straight from buffer.
 
@@ -210,6 +220,8 @@ Much of the projects we work on only make so much sense to be stored as a docume
 
 There really aren't many downsides to Airtable to be honest. The paid version has a ton of additional functionality using their `Airtable Blocks`
 
+### What's new in Airtable 2018? 
+
 ### Alternatives to Airtable
 
 * Google Sheets
@@ -235,6 +247,8 @@ Again, you don't have to go crazy with your information, just keep it up to date
 * Send emails directly to clients from without HubSpot
 * Create forms to capture leads on your website
 * Keep track of all your contacts and companies while easily linking them together as needed
+
+### What's new in HubSpot 2018? 
 
 ### Alternatives to HubSpot
 
@@ -264,7 +278,11 @@ If I'm doing business development, vs. web development vs. a call with a client,
 
 The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
 
-Alternatives to Harvest
+### What's new in Harvest 2018? 
+
+Stuff
+
+### Alternatives to Harvest
 
 * Toggl (The free version of this may be a better start if you have a lot of projects.)
 
