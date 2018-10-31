@@ -22,6 +22,8 @@ I've also suggested some alternatives if you are looking for something different
 
 ## 1. Use Evernote for keeping all of your information accessible.
 
+`Free, Minor Limitations`
+
 As a business owner, you have a lot to track. Evernote can assist you in this task.
 
 Keep notes about your business model, customer profiles, and any ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and  "tag" them with labels, providing you with pertinent information at a glance.
@@ -42,7 +44,7 @@ They just added templates which is a sweet way to get started quickly and standa
 
 Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use work docs for internal purposes, we put it all into Evernote. _(I don't understand that last line. Actually I am a little fuzzy on the whole paragraph and what it really means.)_
 
-You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time. _(You could just mention this on your bulleted list above when you mention its features.)_
+You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time.
 
 ### Alternates to Evernote
 
@@ -52,6 +54,8 @@ You should also be aware that with the free version of the Evernote app you can 
 * Google Keep
 
 ## 2. Automate all your repetitive tasks with Zapier.
+
+`Free, 5 "Zaps"`
 
 Zapier may be my favorite app of all. It's really quite amazing. Zapier let you make 5 "Zaps" for free, so it makes getting started easy! I can promise that your life will never be the same.
 
@@ -78,6 +82,8 @@ What's new in Zapier? IF/Then logic allows you to add conditional logic to your 
 
 ## 3. Send great looking email to a lot of people with MailChimp.
 
+`Free, up to 2,000 Subscribers`
+
 MailChimp may be one of the more popular apps out there for marketers.The best part— use Mailchimp for free if your list isn't too big.
 
 I use Mailchimp all the time. It may be used in order to:
@@ -99,6 +105,8 @@ Note: If you are doing a lot of cold sales emails, Mailchimp is not for you. The
 * Intercom
 
 ## 4. Track your projects like a pro with Asana
+
+`Free, Minor Limitations`
 
 I've been using Asana for about 2 years now and it's great. They've also added some new features, so it's an app that keeps on giving. The free version of the app is highly functional and works well even for very large projects.
 
@@ -128,6 +136,8 @@ I would suggest keeping tasks basic and simple. As much as you might be tempted 
 
 ## 5. Communicate sans-email with your team on Slack.
 
+`Free, Minor Limitations`
+
 Email gets really sloppy and is a pain in the neck for a lot of people. Slack has quickly become a super popular way of communicating in all sorts of groups.
 
 We like it a lot, and it's made life easier at Skymouse!
@@ -150,6 +160,8 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 * Microsoft Teams (included in Office 365 Subscription )
 
 ## 6. Buffer
+
+`Free, up to 3 social accounts`
 
 I've been using Buffer for almost 2 years now. Not only do I like the app but I've come to appreciate the company behind the app. They have some cool principals and their blog is also pretty great.
 
@@ -178,6 +190,8 @@ You can now post to instagram automatically! (Previously you could only schedule
 
 ## 7. Organize and view data like never before in Airtable
 
+`Free, Minor Limitations`
+
 Airtable is the most recent addition to our arsenal of apps. It's basically google sheets with way more functionality and more simplicity. Counter-intuitive? Nope. They actually did it.
 
 Much of the projects we work on only make so much sense to be stored as a document. Some information is really more like data and should be treated as such.
@@ -203,6 +217,8 @@ There really aren't many downsides to Airtable to be honest. The paid version ha
 * Google Sheets
 
 ## 8. Keep you contacts all in one place and grow your business with HubSpot CRM
+
+`Free, Minor Limitations`
 
 A CRM is the best way to track sales and your client life cycle. At Skymouse we track our deals using HubSpot as well a couple other features that make life easier.
 
@@ -231,6 +247,8 @@ Again, you don't have to go crazy with your information, just keep it up to date
 
 ## 9. Track your team's time with Harvest
 
+`Free, Up to 2 projects`
+
 This is also a new one for me, I had been previously using Toggl.
 
 Something Harvest taught me was how to think of my time in terms of the value. 
@@ -254,6 +272,8 @@ Alternatives to Harvest
 * Toggl (The free version of this may be a better start if you have a lot of projects.)
 
 ## Bonus: Read things later with Pocket
+
+`Free, Minor Limitations`
 
 Chances are you read a lot. It's not always the best time to read though, the way I solve this: Pocket. I'll get email newsletters with links to new articles, my dad might text me an article he found, our I'll see some interesting blogs on the internet.
 
