@@ -36,7 +36,7 @@ Keep notes about your business model, customer profiles, and any ideas for cups,
 * Take notes on the go...I LOVE the **top bar note taker**—I use it every day.
 * Share notes and notebooks with other members of your team or with your clients.
 
-### What's new in Evernote 2018? 
+### What's new in Evernote 2018?
 
 They just added templates which is a sweet way to get started quickly and standardize some of your information.
 
@@ -71,7 +71,7 @@ The possibilities are endless and when every moment counts in the business day, 
 
 The only downside about using Zapier is that it may be a bit confusing if you don't document your automations. I keep track of Automations in Evernote and have no problems related to automations.
 
-### What's new in Zapier 2018? 
+### What's new in Zapier 2018?
 
 IF/THEN logic allows you to add conditional logic inside of your automations! This is a big deal when you want automations to take place only in certain situations.
 
@@ -94,7 +94,7 @@ MailChimp may be one of the more popular apps out there for marketers. I use Mai
 * Design pop-ups and other ways of capturing emails from your website or social media accounts.
 * Add tags to subscribers automatically after they've finished a drip campaign.
 
-### What's new in MailChimp 2018? 
+### What's new in MailChimp 2018?
 
 Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you Ecommerce store effortlessly.
 
@@ -127,9 +127,13 @@ I've been using Asana for about 2 years now and it's great. They've also added s
 
 Note: What I've found in Asana is that it can get confusing really quick. Especially if you have a large project or a couple of large projects. Smaller teams might struggle to make sure projects are updated and that people are using it effectively.
 
-I would suggest keeping tasks basic and simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwelming and unnecessary.
+I would suggest keeping tasks basic and simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwhelming and unnecessary.
 
-### What's new in Asana 2018? 
+### What's new in Asana 2018?
+
+* Portfolios allow you to see the real-time status of projects and whether or not you're on track or not.
+* Timelines are basically a gantt chart view of how long aspects of a project will last and allow for dependencies.
+* Board view is also pretty new, which is my personal favorite.
 
 ### Alternates to Asana
 
@@ -150,15 +154,17 @@ We like it a lot, and it's made life easier at Skymouse!
 * Quickly switch between organizations throughout the day.
 * Create an Evernote from within Slack. Great integration!
 * Create social media alerts that show up in Slack.
-* Create tasks in Asana from Slack.
 * Establish calendar alerts and create new calendar events.
-* get an alert in Slack when we get a new lead in Salesforce. _(Who is "we." Sould it be assumed that your reader knows what this phrase is referring to in general?)_
+* get an alert in Slack when we get a new lead in Salesforce. _(Who is "we." Should it be assumed that your reader knows what this phrase is referring to in general?)_
 
 Note: Slack could be a terrible idea. Slack is addicting, and it can be distracting as a commercial during the superbowl. _(I don't find this to be a good analogy.)_ Some people start using the private messaging version instead of being out in the open in channels, which defeats the purpose of channels in a lot of ways. _(This paragraph might need reworking--it isn't clear to me.)_
 
 I recommend setting times in your day to mute Slack so it doesn't bring you out of work mode and ruin your flow.
 
-### What's new in Slack 2018? 
+### What's new in Slack 2018?
+
+* Turn your conversations into action (i.e. Create tasks in Asana from Slack)
+* See [more of what's new]() on the Slack Blog
 
 ### Alternatives to Slack
 
@@ -178,7 +184,7 @@ I've talked to a lot of people and there are a lot of preferences out there when
 * easily integrate your own short URL for your links(i.e. skymse.com)
 * The mobile app makes scheduling on the go super easy.
 
-### You probably shouldn't use buffer if... 
+### You probably shouldn't use buffer if...
 
 The social media work is an echo chamber of recycled information. While buffer is a good tool, it's only as good as the content that you're sharing. So be original focus on creating awesome content. That't where the real magic happens.
 
@@ -217,7 +223,7 @@ Much of the projects we work on only make so much sense to be stored as a docume
 
 There really aren't many downsides to Airtable to be honest. The paid version has a ton of additional functionality using their `Airtable Blocks`
 
-### What's new in Airtable 2018? 
+### What's new in Airtable 2018?
 
 ### Alternatives to Airtable
 
@@ -245,7 +251,7 @@ Again, you don't have to go crazy with your information, just keep it up to date
 * Create forms to capture leads on your website
 * Keep track of all your contacts and companies while easily linking them together as needed
 
-### What's new in HubSpot 2018? 
+### What's new in HubSpot 2018?
 
 ### Alternatives to HubSpot
 
@@ -260,7 +266,7 @@ Again, you don't have to go crazy with your information, just keep it up to date
 
 This is also a new one for me, I had been previously using Toggl.
 
-Something Harvest taught me was how to think of my time in terms of the value. 
+Something Harvest taught me was how to think of my time in terms of the value.
 
 If I'm doing business development, vs. web development vs. a call with a client, I've become way  more conscious of how I spend my time. I'm tracking my time this very moment. So meta.
 
@@ -275,7 +281,7 @@ If I'm doing business development, vs. web development vs. a call with a client,
 
 The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
 
-### What's new in Harvest 2018? 
+### What's new in Harvest 2018?
 
 Stuff
 
