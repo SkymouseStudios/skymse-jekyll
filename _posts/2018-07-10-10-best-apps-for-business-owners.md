@@ -84,17 +84,15 @@ IF/THEN logic allows you to add conditional logic inside of your automations! Th
 
 `Free, up to 2,000 Subscribers`
 
-MailChimp may be one of the more popular apps out there for marketers.The best part— use Mailchimp for free if your list isn't too big.
-
-I use Mailchimp all the time.
+MailChimp may be one of the more popular apps out there for marketers. I use Mailchimp all the time.
 
 ### How to use Mailchimp in the workplace
 
-* create `groups` and `segments` in Mailchimp so your customers get what they need and only what they need
-* quickly design your own email templates, so you aren't repeating yourself
-* automate when people get emails, like when they sign-up, have a birthday, or leave your list. (Awesome.)
-* design pop-ups and other ways of capturing emails from your website or social media accounts.
-* add tags to subscribers automatically after they've finished a drip campaign.
+* Create `Groups` and `Segments` in Mailchimp so your customers get what they need and only what they need
+* Quickly design your own email templates, so you aren't repeating yourself
+* automate when people get emails, like when they sign-up, have a birthday, or leave Your list. (Awesome.)
+* Design pop-ups and other ways of capturing emails from your website or social media accounts.
+* Add tags to subscribers automatically after they've finished a drip campaign.
 
 ### What's new in MailChimp 2018? 
 
@@ -116,11 +114,10 @@ I've been using Asana for about 2 years now and it's great. They've also added s
 
 ### Asana allows you to...
 
-* create different organizations/workspaces and quickly move between them.
-* ascertain your project status through **Board View**.
-* _???_ list view
-* assign tasks to other users.
-* view a timeline progression of the whole project, as well as task dependencies.
+* Create different organizations/workspaces and quickly move between them.
+* See your project status through **Board View**.
+* Assign tasks to other members of your team.
+* View a timeline progression of the whole project, as well as task dependencies.
 
 ### How to use Asana in the workplace:
 
