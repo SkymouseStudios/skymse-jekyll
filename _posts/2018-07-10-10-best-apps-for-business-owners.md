@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best free apps for business owners in 2018
+title: Best Free Apps For Business Owners in 2018
 subtitle: 9 Best free apps for business owners in 2018
 description: Good free apps are hard to find. Take your productivity to the next level
   with this complete rundown of the best apps in 2018 for people who are on the go.
