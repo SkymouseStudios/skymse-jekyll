@@ -1,10 +1,9 @@
 ---
-
 layout: post
-title: What Great Brands Do (Part 2)
+title: What Great Brands Do - (Part 2)
 author: Patrick Hanus
 img: "/library/images/our-work/website-ams.jpg"
-permalink: "/how-to-actually-strategize-your-social-media.html"
+permalink: "/what-great-brands-do-part-2.html"
 ttr: 7
 
 ---
