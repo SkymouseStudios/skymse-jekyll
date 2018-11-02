@@ -205,7 +205,7 @@ You can now post to instagram automatically! (Previously you could only schedule
 
 `Free, Minor Limitations`
 
-Airtable is the most recent addition to our arsenal of apps. It's basically google sheets with way more functionality and more simplicity. Counter-intuitive? Nope. They actually did it.
+[Airtable](https://airtable.com/) is the most recent addition to our arsenal of apps at Skymouse. It's basically google sheets with way more functionality and more simplicity. Counter-intuitive? Nope. They actually did it.
 
 Much of the projects we work on only make so much sense to be stored as a document. Some information is really more like data and should be treated as such.
 
@@ -226,6 +226,10 @@ Much of the projects we work on only make so much sense to be stored as a docume
 There really aren't many downsides to Airtable to be honest. The paid version has a ton of additional functionality using their `Airtable Blocks`
 
 ### What's new in Airtable 2018?
+
+\-
+
+\-
 
 ### Alternatives to Airtable
 
