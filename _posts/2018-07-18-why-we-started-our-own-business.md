@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Why We started our own busniess
+title: How Skymouse Studios Got Started
 img: "/library/images/our-work/website-ams.jpg"
-permalink: "/how-to-actually-strategize-your-social-media.html"
+permalink: "/how-skymouse-studios-got-started.html"
 ttr: 7
 
 ---
