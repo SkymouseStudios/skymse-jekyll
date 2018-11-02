@@ -29,7 +29,7 @@ img-back: /library/images/headers/header-blog-back.svg
 					<div class="time-to-read"> {{ post.ttr }} Minutes of Quality Reading 👌</div>
 					<img src="{{ post.img }}" alt="{{ post.title }}">
 				</div>
-				<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+				<p>{{ post.description }}</p>
 			</div>
 		</a>
 	{% endfor %}

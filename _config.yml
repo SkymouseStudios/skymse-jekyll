@@ -1,7 +1,7 @@
 # Site settings
 title: "Skymouse Studios"
 description: "A web design studio that helps you build a website you love. No nonsense."
-baseurl: "https://skymousestudios.com"
+baseurl: #"https://skymousestudios.com"
 url: "skymousestudios.com"
 cover: "/library/cover.png"
 logo: "/library/images/logos/skymse-logo-circle.png"
@@ -54,14 +54,14 @@ socials:
 
 # Descriptions for Blog Categories
 descriptions:
-  - cat: Website
-    desc: "Things that make life better."
-  - cat: Brand
-    desc: "Developing a better me"
-  - cat: Hosting
-    desc: "Developing a better me"
-  - cat: SEO
-    desc: "Developing a better me"
+  - cat: New To Branding
+    desc: "How to get started, from square one"
+  - cat: Business Spotlight
+    desc: "A look at businesses, and how they work"
+  - cat: Tips and Tricks
+    desc: "The best of the best for doing better work"
+  - cat: Apps in the Workplace
+    desc: "How to make the most of apps in your business"
 
 profiles:
   - name: John Welch
@@ -72,7 +72,7 @@ profiles:
     img: /library/images/profile/johns-profile.jpg
   - name: Patrick Hanus
     title: Creative Director
-    twitter: https://twitter.com/thehsedition
+    twitter: https://twitter.com/thePatrickHanus
     handle: "@thePatrickHanus"
     desc: Staff Writer for the Patrick Hanus Show. Follow me for a great time.
     img: /library/images/profile/patricks-profile.jpg
