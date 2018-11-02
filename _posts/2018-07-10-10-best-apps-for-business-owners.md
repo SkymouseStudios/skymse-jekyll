@@ -165,7 +165,7 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 ### What's new in Slack 2018?
 
 * Turn your conversations into action (i.e. Create tasks in Asana from Slack)
-* See [more of what's new]() on the Slack Blog
+* See [more of what's new](https://slackhq.com/in-case-you-missed-it-new-emoji-improved-search-and-more) on the Slack Blog
 
 ### Alternatives to Slack
 
@@ -175,7 +175,7 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 `Free, up to 3 social accounts`
 
-I've been using Buffer for almost 2 years now. Not only do I like the app but I've come to appreciate the company behind the app. They have some cool principals and their blog is also pretty great.
+I've been using [Buffer](https://buffer.com) for almost 2 years now. Not only do I like the app but I've come to appreciate the company behind the app. They have some cool principals and their blog is also pretty great.
 
 I've talked to a lot of people and there are a lot of preferences out there when it comes to social media scheduling. We use Buffer for our clients, ourselves and I use it for my personal account.
 
@@ -197,8 +197,9 @@ You can now post to instagram automatically! (Previously you could only schedule
 
 ### Alternatives to Buffer for social media
 
-* Sprout Social
-* Hootsuite
+* [Sprout Social](https://sproutsocial.com/)
+* [Hootsuite](https://hootsuite.com/)
+* [Falcon](https://www.falcon.io/)
 
 ## 7. Organize and view data like never before in Airtable
 
