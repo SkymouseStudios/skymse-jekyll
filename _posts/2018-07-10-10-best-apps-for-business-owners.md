@@ -233,7 +233,8 @@ There really aren't many downsides to Airtable to be honest. The paid version ha
 
 ### Alternatives to Airtable
 
-* Google Sheets
+* [Google Sheets](https://www.google.com/sheets/about/)
+* [Quickbase](https://www.quickbase.com/)
 
 ## 8. Keep you contacts all in one place and grow your business with HubSpot CRM
 
