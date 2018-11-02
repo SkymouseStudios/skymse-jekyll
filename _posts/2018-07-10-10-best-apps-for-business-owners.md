@@ -8,7 +8,7 @@ description: Good free apps are hard to find. Take your productivity to the next
 keyword: 2018 Apps
 author: Patrick Hanus
 authorTitle: Creative Director
-authorImg: /library/images/profile/patricks-profile-s.jpg
+authorImg: "/library/images/profile/patricks-profile-s.jpg"
 img: "/library/images/our-work/website-ams.jpg"
 permalink: "/best-free-apps-for-business-owners-in-2018.html"
 ttr: 7
@@ -50,10 +50,10 @@ You should also be aware that with the free version of the Evernote app you can 
 
 ### Alternates to Evernote
 
-* BoostNote
-* Dropbox Paper
-* Onenote
-* Google Keep
+* [BoostNote](https://boostnote.io/ "Boostnote Website")
+* [Dropbox Paper](https://www.dropbox.com/paper "Dropbox Paper Website")
+* [Onenote](https://products.office.com/en-us/onenote/digital-note-taking-app "Onenote Website")
+* [Google Keep](https://keep.google.com/ "Google Keep")
 
 ## 2. Automate all your repetitive tasks with Zapier.
 
@@ -79,14 +79,14 @@ IF/THEN logic allows you to add conditional logic inside of your automations! Th
 
 ### Alternates to Zapier
 
-* IFTTT (completely free)
-* Tray.io
+* [IFTTT](https://ifttt.com/discover "If This Then That - Website") (completely free)
+* [Tray.io](https://tray.io/ "Tray.io Website")
 
 ## 3. Send great looking email to your people with MailChimp.
 
 `Free, up to 2,000 Subscribers`
 
-MailChimp may be one of the more popular apps out there for marketers. I use Mailchimp all the time.
+[Mailchimp]() may be one of the more popular apps out there for marketers. I use Mailchimp all the time.
 
 ### How to use Mailchimp in the workplace
 
@@ -98,21 +98,20 @@ MailChimp may be one of the more popular apps out there for marketers. I use Mai
 
 ### What's new in MailChimp 2018?
 
-Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you Ecommerce store effortlessly.
+Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you E-commerce store effortlessly.
 
 Note: If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. You account might be shut down if you upload a bunch of emails without making sure it's a good list of people. _(Might want to specify what makes it "good?")_
 
 ### Alternates to Mailchimp
 
-* Active Campaign
-* Campaign Monitor
-* Intercom
+* [Active Campaign](https://www.activecampaign.com/)
+* [Campaign Monitor](https://www.campaignmonitor.com/)
 
 ## 4. Track your projects like a pro with Asana
 
 `Free, Minor Limitations`
 
-I've been using Asana for about 2 years now and it's great. They've also added some new features, so it's an app that keeps on giving. The free version of the app is highly functional and works well even for very large projects.
+I've been using [Asana](https://asana.com/) for about 2 years now and it's great. They've also added some new features, so it's an app that keeps on giving. The free version of the app is highly functional and works well even for very large projects.
 
 ### Asana allows you to...
 
@@ -139,9 +138,9 @@ I would suggest keeping tasks basic and simple. As much as you might be tempted 
 
 ### Alternates to Asana
 
-* Monday
-* Trello
-* Airtable
+* [Monday](https://monday.com/)
+* [Trello](https://trello.com/)
+* [Airtable](https://airtable.com)
 
 ## 5. Communicate sans-email with your team on Slack.
 
@@ -170,7 +169,7 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 ### Alternatives to Slack
 
-* Microsoft Teams (included in Office 365 Subscription )
+* [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/) (included in Office 365 Subscription )
 
 ## 6. Post to all your social media with Buffer
 
@@ -289,7 +288,7 @@ Stuff
 
 ### Alternatives to Harvest
 
-* Toggl (The free version of this may be a better start if you have a lot of projects.)
+* [Toggl](https://toggl.com "Toggl Website") (The free version of this may be a better start if you have a lot of projects.)
 
 ## Bonus: Read things later with Pocket
 
@@ -323,4 +322,4 @@ While I think apps are great for doing business in the business universe of 2018
 
 I also included some noteworthy alternatives to each app, because not every app is perfect. Sometimes you one app works better for your needs.
 
-I am also aware that there are other apps out there, I'd be happy to hear any suggestions if you have any! Just tweet me @thePatrickHanus.
+I am also aware that there are other apps out there, I'd be happy to hear any suggestions if you have any! Just tweet me [@thePatrickHanus](https://www.twitter.com/thepatrickhanus "Patrick's Twitter").
