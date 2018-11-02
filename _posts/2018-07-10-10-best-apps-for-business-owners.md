@@ -7,6 +7,8 @@ description: Good free apps are hard to find. Take your productivity to the next
   From Evernote, Zapier and Mailchimp here's what we recommend.
 keyword: 2018 Apps
 author: Patrick Hanus
+authorTitle: Creative Director
+authorImg: /library/images/profile/patricks-profile-s.jpg
 img: "/library/images/our-work/website-ams.jpg"
 permalink: "/best-free-apps-for-business-owners-in-2018.html"
 ttr: 7

@@ -3,12 +3,12 @@
 <div id="post">
   
   <section class="blank">
-    <h2>{{ page.title }}</h2>
+    <h1>{{ page.title }}</h1>
   
     <div class="post-info-wrapper cf">
       
-    {% if post.author %}
-      {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}
+    {% if page.author %}
+      <p>By {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</p>
     {% endif %}
 
     {% if page.ttr %}
@@ -21,11 +21,21 @@
   <div class="blog-header">
      <img class="blog-image" src="{{ page.img }}" alt="">
   </div>
-  
+
   <section class="blank">
     {{ content }}
   </section>
     
+  <section class="block">
+    <h3>We'd love to send you the latest.</h3>
+    {% include mailchimp-blog.html %}
+  </section>
+
+  <section>
+    <img class="icon-size" src="{{ page.authorImg }}" alt="{{ page.author }}">
+    <p>{{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</p>
+    <p>{{ page.authorTitle}}</p>
+  </section>
     
 </div>
 

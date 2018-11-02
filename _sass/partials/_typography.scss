@@ -148,8 +148,9 @@ h5 {
 }
 
 code {
-  background-color: $lgray;
+  background-color: $ygray;
   border-radius: 5px;
+  color: $lblue;
 }
 
 .subtitle {
@@ -174,6 +175,11 @@ code {
 ul.list {
   text-align: left;
   list-style: disc;
+}
+
+ol,ul {
+    padding-left: 40px;
+    list-style-type: disc;
 }
 
 .text-gray {

@@ -444,6 +444,13 @@ POSTS & CONTENT STYLES
 	}
 }
 
+.post-info-wrapper {
+	p {
+		display: inline-block;
+		margin: 0px;
+	}
+}
+
 // POST: Blog Post
 .blog-post {
 	background-color: $lgray;
