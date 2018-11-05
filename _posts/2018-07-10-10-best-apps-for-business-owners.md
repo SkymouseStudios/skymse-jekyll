@@ -16,11 +16,9 @@ ttr: 7
 ---
 ## So what are the most useful apps for business owners?
 
-Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set would be a lovely addition to my kitchen and beef up my cooking capabilities, there are loads of apps out there helping you cook up a business that you're proud of.
+Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set would be a lovely addition to my kitchen and beef up my cooking capabilities, there are loads of apps out there which will help you cook up a business that you're proud of.
 
-That being said, the landscape of apps is changing quickly. Here's the apps we like to use at Skymouse, and how we use them, and something new that might make you reconsider some of these apps that have been around a while.
-
-I've also suggested some alternatives if you are looking for something different.
+That being said, the landscape of apps is changing quickly. Here are the tried and true apps we like to use at Skymouse. I've also suggested some alternatives if you are looking for something newer or different.
 
 ## 1. Use Evernote for keeping all of your information accessible.
 
