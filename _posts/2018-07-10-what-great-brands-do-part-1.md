@@ -69,18 +69,24 @@ A brand toolbox is about how you execute, "creating a clear, consistent common u
 
 In show business, you have a "pitch" that dumbs down the concept so that anyone can wrap your brain around the it. 
 
-> “It’s like Godzilla meets StarTrek” or “James Bond as a Family Man” creating parallels and telling stories so people aren’t in danger of misunderstanding what is going on. We see the same thing in business with “It’s the Uber for Animal Control” or “It’s like AirBnb for Dogs."
+> “It’s like Godzilla meets StarTrek” or “James Bond as a Family Man.”
 
-Create a monthly iPhone video with other team members that can be just for fun but everybody can be a part of and watch later. At one of the companies I’ve worked with we once did a “Harlem Freeze” video. Everyone in the office got super into it and was showing it to their family, friends and clients. Especially in boring industries, having some aspects of fun can separate you from everyone in your business and break up the monotony of the the days.
+Creating parallels and telling stories are the best way to ensure people understand. We see the same thing in the tech biz and Silicon Valley with new apps that call themselves "the Uber for Animal Control” or “It’s like AirBnb for Dogs."
 
-* A birthday sombrero that people have to wear on their birthday. Creating rituals and traditions.
-* Provide customer profiles with illustrations so people know the type of clients that you work with and when they are out in the wild we can say “AH! I found one!”. The idea is to help people recoginize the right opportunities for your business.
+Create a monthly iPhone video with other team members can be fun and help bring everyone together. At one of the companies I’ve worked with we once did a “Harlem Freeze” video. Everyone in the office got super into it and was showing it to their family, friends and clients. Especially in boring industries, having some aspects of fun can separate you from everyone in your business and break up the monotony.
+
+Here are some other examples:
+
+* A birthday sombrero that people have to wear on their birthday. (Creating rituals and traditions.)
+* Provide customer profiles with illustrations so people know the type of clients that you work with and when they are out in the wild we can say “AH! I found one!”. The idea is to help people recognize the right opportunities for your business.
 * Employees can submit stories and ideas they had for making the company experience better and more engaging and then sharing those ideas with the team out of everyone who enters they get put in a drawing for an awesome prize.
 * Hold brand engagement sessions on each level of the company. Starbucks held “Brand days” for it’s managers.
 
 The goal is to make employees feel like they contribute to the brand and it’s not just a bunch of old guys in a conference room deciding what the brand is. It’s made up of each member of your company team.
 
-In one of the businesses I worked with they would often allow employees to not attend events or team building exercises. Sometimes because they were too busy, but many times it was because they didn’t want to and they didn’t see the value in it. People like this are a poison to your culture. They make everyone else feel inferior and no matter how much money they are bringing in, they are hindering the overall growth of the business and tearing down your hard work as a business owner.
+In one of the businesses I worked with, some employees would not attend events or team building exercises. Sometimes because they were too busy, but many times it was because they "didn’t want to" or "didn’t see the value" in it. 
+
+People like this are a poison to your culture. They make everyone else feel inferior. No matter how much money they are bringing in, people like that are hindering the overall growth of the business and tearing down your hard work of building a great culture.
 
 #### Branding is not Marketing’s job.
 
