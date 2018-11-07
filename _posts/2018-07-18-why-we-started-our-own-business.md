@@ -28,11 +28,11 @@ Whether you sell clothes, health supplements, retro kitchen appliances, or onlin
 
 ### How we got started
 
-Patrick: Skymouse was born in the back of an old 1989 Toyota Corolla on a trip from Indianapolis to Washington D.C., where John and I were doing a video shoot.
+_Patrick:_ Skymouse was born in the back of an old 1989 Toyota Corolla on a trip from Indianapolis to Washington D.C.
 
 John and I had met at college, making short films together and now we were on our way to do a video shoot in D.C. As we talked, we agreed there was real need for better businesses in the world. We spent the 9 hour drive talking about what we wanted to do about that and how we might help people build better businesses. 
 
-The conversation continued on through out the week in restaurants and hotel rooms. We kept coming back to the same principal idea. We wanted to start a marketing business that would help deserving people develop worthwhile business ideas. And we want to do it starting _now_. 
+The conversation continued on through out the week in restaurants and hotel rooms. We kept coming back to the same principal idea. We wanted to start a marketing company that would help deserving people develop worthwhile business ideas. And we want to do it starting _now_. 
 
 But we didn't want to phone it in. Our primary concern was: **How can we provide real value to people?** We knew we needed to believe in the product we would be selling. Skymouse slowly began to take shape.
 
@@ -42,15 +42,13 @@ Since then we've had non-violent yelling matches, chats over pizza and Guinness,
 
 We can't thank our current clients, families and friends enough for the support along the way. This may be the beginning, but it is a solid beginning, and we already owe so much to so many people.
 
-### Skymouse got started for a couple reasons:
+***
 
-1. We were tired of mediocre businesses ripping people off while good companies struggle to grow
-2. We were sick of seeing employers taking advantage of their employees and clients and we felt we could establish a great company our employees and clients would love and trust
-3. We wanted more time with our families
+Ever hear of of a company paying $40k for a website they weren't happy with? Or a developer that you can't get ahold of? There is a lot to be desired when it comes to finding good service in the web and marketing business.
 
-#### 1. Don't rip people off.
+Online businesses are a great way connect people with a product, so it's especially sad when someone has a great product but can't seem to get them to "fly off the shelves."
 
-Ever hear of someone paying $40k for a website they weren't happy with? Or a developer that you can't get ahold of? There is a lot to be desired when it comes to finding good service in the web and marketing business. It's also how we connect people with great or bad products, so it's especially sad when someone has a great product but can't seem to get them to "fly off the shelves."
+John and I wanted to create a marketing company that would focus on satisfying our customers
 
 You can bring a horse to water, but you can't make him drink...so it's imperative to find yourself a thirsty horse. We help businesses find that thirsty horse. It's not impossible.
 
@@ -105,3 +103,17 @@ Thanks for reading, and we'd like to invite you to join us on our journey.
 Bonus: If you wouldn't mind sharing our Resources page with someone you know, we create out content for free and would like to share it with as many people as possible.
 
 Cheers!
+
+We envisioned starting a great company. 
+
+A company which would enable other companies to be great.
+
+We identified certain problems in the business world and with our marketing know-how and our values, we knew we had answers.
+
+The first two points are directly related to our customers and the third to our employees and the kind of values we want to foster within our company. (Though more directly related to the inner workings of our company, those values constantly impact our dealings with customers.)
+
+First there is the unsatisfied customer. The rip-off.
+
+Second, there are good products and good companies that can't seem to sell those good products.
+
+Third, there aren't enough business out there have the correct focus. If they don't eventually fail altogether, their unhealthy, unhappy work environment leaves their employees unsatisfied if not miserable. Businesses don't have to be like this. We knew that our business could be different.
