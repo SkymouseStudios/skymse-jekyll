@@ -36,16 +36,16 @@ The conversation continued on through out the week in restaurants and hotel room
 
 But we didn't want to phone it in. Our primary concern was: **How can we provide real value to people?** We knew we needed to believe in the product we would be selling. Skymouse slowly began to take shape.
 
-I had 6 months of college left, but when I graduated, I left the comfortable familiarity of my family in NY to start growing Skymouse with John in the flatlands of the Midwest.
+I soon graduated college and left the comfortable familiarity of my family in NY to start growing Skymouse with John in the flatlands of the Midwest.
 
-Since then we've had non-violent yelling matches, chats over pizza and Guinness, and accomplished a lot.
+Since then we've had non-violent yelling matches, chats over pizza and Guinness, and accomplished a lot.We're exited and motivated to help people (IN WHAT WAY).
 
-We're exited and motivated to help people market sell their own worthwhile ideas and we can't thank our current clients, families and friends enough for the support along the way. This may be the beginning, but it is a solid beginning, and we already owe so much to so many people.
+We can't thank our current clients, families and friends enough for the support along the way. This may be the beginning, but it is a solid beginning, and we already owe so much to so many people.
 
 ### Skymouse got started for a couple reasons:
 
-1. We were tired of mediocre businesses ripping people off
-2. We were sick of employers taking advantage of their employees and clients
+1. We were tired of mediocre businesses ripping people off while good companies struggle to grow
+2. We were sick of seeing employers taking advantage of their employees and clients and we felt we could establish a great company our employees and clients would love and trust
 3. We wanted more time with our families
 
 #### 1. Don't rip people off.
@@ -54,7 +54,7 @@ Ever hear of someone paying $40k for a website they weren't happy with? Or a dev
 
 You can bring a horse to water, but you can't make him drink...so it's imperative to find yourself a thirsty horse. We help businesses find that thirsty horse. It's not impossible.
 
-#### 2. Everyone deserves to work at a great company
+#### 2. Everyone deserves to be treated well
 
 There are not enough great companies in the world. It's a shame, but it's the truth.
 
@@ -66,17 +66,19 @@ We need more companies like that in the world, and we want to be that kind of co
 
 #### 3. Family First
 
-Ask any entrepreneur why they did it. Ask them, “What was it all for?"
+Ask any entrepreneur why they started their company. Ask them, “What was it all for?"
 
-They’ll all tell you the same thing: money.
+If they are being honest, most of them will say the same thing. Money.
 
-Or freedom. You'll probably get a lot of different messages.
+But what is life without love? It's nothing.
 
-What is life without love? It's nothing. We do what we do because it's about providing for our immediate families and doing what is best for them.
+John and I do what we do because creating a business that provides an income helps us love and serve our families. 
 
-We carry that principal with everyone we work with. Our vendors, clients, employees and ourselves. We have to stay focused on what's really important. It's not about the money.
+We try to have that mindset with everyone we encounter.  Our vendors, clients, employees and the people who work behind the counter where we get our coffee in the morning. We have to stay focused on what's really important. Life is about loving others and wanting what is best for them. 
 
-We believe the modern workplace is flawed. We knew before we ever got into the workforce that the 8-5 grind was not for us. People are not put in position to succeed. With the emergence of remote work, great benefits and crazy perks, we want to be one of those businesses [(like Buffer)](https://open.buffer.com/distributed-team-benefits/ "Buffer Blogpost on Remote Work") that let people work to live, not live to work.
+We are all part of the human family and family comes first.
+
+One of the things we want to do . We believe the modern workplace is flawed. People are not put in position to succeed. We knew before we ever got into the workforce that the 8-5 grind was not for us.  With the emergence of remote work, great benefits and crazy perks, we want to be one of those businesses [(like Buffer)](https://open.buffer.com/distributed-team-benefits/ "Buffer Blogpost on Remote Work") that let people work to live, not live to work.
 
 Does marketing save lives? No, but it can make people happier, and help them find exactly what they are looking for.
 
