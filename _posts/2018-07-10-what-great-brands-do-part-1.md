@@ -9,29 +9,33 @@ ttr: 7
 ---
 ## Great Brands Start Inside
 
-Before you can be great to you clients and prospects you must take a look at your internal brand and how that affects your team and internal culture.
+Before you can be great to you clients and prospects, you must take a look at your internal brand and how that affects your team and internal culture.
 
 ### Internal Brand Culture comes first
 
-I’ve hear countless companies chant “we have great culture” but I have worked at those same companies and I realized the culture not great, sometimes even toxic. I had been lied to— there was no flag to hold up high after all.
+I’ve hear countless companies chant “we have great culture.” However, I have worked at those same companies and realized the culture is not great. Sometimes it's toxic. It's not a good feeling. I had been lied to— there was no flag to hold up high after all.
 
-There were still great people at the company and I made some wonderful friends there but we connected the most on the fact the culture was poisonous and we banded together because that’s what kept us sane.
+There were still great people at the company and I made some wonderful friends, but we connected the most on the fact the culture was poisonous and we banded together because that’s what kept us sane.
 
-When one of your cell-mates leaves it can trigger the drop-off of all your good people. The only thing that was getting them through the day was their friends. Great Culture doesn’t build itself. If you have "good culture" it can go bad very quickly if even just one person decides to leave and trigger a mass exodus.
+When one of your cell-mates leaves it can trigger the drop-off of all the good people. The only thing that was getting them through the day was their friends. 
+
+Great Culture doesn’t build itself. If you have "good culture" it can go bad very quickly if even just one person decides to leave and trigger a mass exodus.
 
 So how can we create internal brand culture?
 
-* Hire people who’s personalities fit the current culture
-* offer instruction in a culture from day 1 of employment
-* give employees lots of feedback on what the values and culture really mean
+* Hire people who’s personalities fit the current culture.
+* Offer instruction in a culture from day 1 of employment.
+* Give employees lots of feedback on what the values and culture really mean.
 
 ### Make Culture Matter
 
-The culture you have will attract the culture you’re going to have. If you really want to encourage the best talent, you need to communicate your business is indeed a home for the best talent.
+The culture you have will attract the culture you’re going to have. 
 
-I’ve seen companies wave the flag of “great culture” but at the end of the day there is not a great culture. You need to be proactive in the lives of your employees. When an employee leaves, if you get all bent out of shape, forcing them out early or refusing to pay their accrued vacation time, it all sets a tone for your existing employees.
+If you really want to encourage the best talent, you need to communicate your business is indeed a home for the best talent.
 
-It shows that you only care about people if they do things YOUR way.
+I’ve seen companies wave the flag of “great culture” but at the end of the day there is not a great culture. You need to be proactive in the lives of your employees. When an employee leaves, if you get bent out of shape, forcing them out early or refusing to pay their accrued vacation time, it all sets a tone for your existing employees.
+
+It shows that you only care about people **if** they do things YOUR way.
 
 ### Employees are the front line of your business
 
@@ -39,11 +43,11 @@ Employees need to feel engaged, like they are a part of something. They don’t 
 
 It’s about taking specific actions so everyone feels like they are on a mission, that they are **part of a team** that is going to make a difference in the world.
 
-It’s also important to remember ex-employees are as much a representation of your brand as current employees are. All employees want to be proud of the company they work at so all you have to do is give them the ammunition and they will be a beacon of good will for great people and great clients to come be a part of what you are doing.
+It’s also important to remember ex-employees are as much a representation of your brand as current employees are. All employees want to be proud of the company they work at. All you have to do is give them the ammunition and they will be a beacon of good will for great people and great clients to come be a part of what you are doing.
 
 ### What to do so your employees know you care.
 
-It doesn’t have to be anything crazy. It can start with a hand-crafted welcome package when people first join the company. It could be a pre-emptive raise when someone tackles new problems on their own. Or having monthly hack-days to encourage building better systems and evolving the way the company solves problems.
+It doesn’t have to be anything crazy. It can start with a hand-crafted welcome package when people first join the company. It could be a pre-emptive raise when someone tackles new problems on their own. Or having monthly "hack-days" to encourage building better systems and evolving the way the company solves problems.
 
 > Create touch-points with your employees so they know you have not forgotten about them.
 
@@ -51,17 +55,17 @@ They want to be loved and love starts with just giving them the attention they n
 
 #### A warning for the wise.
 
-I worked at a company that kept calling themselves “innovative" and “creative" but every time new decisions had to be made the leadership balked at the new ideas and would decide on the safe route, often claiming money was an issue.
+I worked at a company that kept calling themselves “innovative" and “creative" but every time new decisions had to be made the leadership balked at the new ideas and would decide on the safe route, often claiming money was the issue.
 
-At the same time, the company was spending thousands upon thousands of dollars on software and technology that no one was using. Taking action is more than just buying something, **it’s taking the right action** to show you mean what you say and that moves the business forward in the direction your mission says you’re going to.
+At the same time, the company was spending thousands upon thousands of dollars on software and technology that no one was using. Taking action is more than just buying something, **it’s taking the right action** to show you mean what you say.
 
-If you want to be something, your actions have to match up, you can’t just say something and not follow through—this will only instill contempt in your employees and set your brand up for failure because you’re lying.
+If you want to be something, your actions have to match up, you can’t just say something and not follow through—this will only instill contempt in your employees and set your brand up for failure—because you’re lying.
 
 Do what you say you will do!
 
 ### Building your brand toolbox
 
-A brand toolbox is about how you execute, "creating a clear, consistent common understanding of your brand among everyone who works with it."
+A brand toolbox is about how you execute, "creating a clear, consistent common understanding of your brand among everyone who works with it." Here are some examples:
 
 * Web pages that do more than list ideas but illustrate them in action of provide various tools for understanding what you do
 * Create a word bank of adjectives in addition to you core values to help flush out your brand.
@@ -90,7 +94,7 @@ People like this are a poison to your culture. They make everyone else feel infe
 
 #### Branding is not Marketing’s job.
 
-It’s **everyone's** job to build your brand, marketing just plays one role in that. 
+It’s **everyone's** job to build your brand, marketing just plays one role in that.
 
 How do you track engagement? Employee surveys about how they are understand the brand strategy and implement it on a daily basis and how they feel about the culture is important. Anonymity is important for getting accurate results. (Brand Happiness Level, people should be happy and delighted to go to work.)
 
