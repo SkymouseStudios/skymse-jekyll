@@ -8,7 +8,7 @@ ttr: 7
 ---
 ## Why did we start Skymouse?
 
-In a word, Skymouse has always been about marketing. We are both passionate about being creative with a purpose, which is the lifeblood for most businesses. 
+In a word, Skymouse has always been about marketing. We are both passionate about being creative with a purpose, which is the lifeblood for most businesses.
 
 It’s easy to be passionate about something that matters so much.
 
@@ -28,7 +28,7 @@ Since then we've had non-violent yelling matches, chats over pizza and Guinness,
 
 We can't thank our current clients, families and friends enough for the support along the way. This may be the beginning, but it is a solid beginning, and we already owe so much to so many people.
 
-***
+Our way of work can be broken down into roughly 3 different categories.
 
 #### 1. Do great work.
 
@@ -76,11 +76,29 @@ We want to help people be better people.
 
 We hope to grow, we can't wait to hire brilliant people and build a culture of learning. It's not going to be instant, but we've known that from the start.
 
-Our dream isn't to "make websites" or "do marketing" it's to be truthful with our clients and lead people closer to the truth. No matter what we're doing or what services we're offering its all about telling stories that lead people to the truth.
+Our dream isn't to "make websites" or "do marketing" it's to be truthful with our clients and lead people closer to the truth. No matter what we're doing or what services we're offering—its all about telling stories that lead people to the truth.
 
 For us, it's not about websites, or music or design. It's about providing value for people so that they can be successful and grow their businesses.
 
 > It's about making life better. Helping to make a better Human Experience.
+
+## What we're up to now
+
+Skymouse is almost 2 and a half years old, and it's been a very educational experience. Our services have shifted from full-service marketing to a website-only company and then to a branding company.
+
+> Over time, we realized business owners need more people visiting their website and buying their products/services.
+
+So we decided to focus our services.
+
+We decided to focus on _driving traffic to websites and converting users to paying customers_ with targeted ad campaigns and webpage optimization.
+
+It's not an easy task, but at the end of the day design and websites don't mean anything if visitors aren't doing what they were meant to do.
+
+Whether they sell clothes, retro kitchen appliances, or online courses for origami—business need people to visit their website and need them to take action from there.
+
+So how do we do that?
+
+That's the problem we set out to solve for ourselves, and we hope to help others do it too.
 
 Thanks for reading, and we'd like to invite you to join us on our journey.
 
@@ -89,21 +107,3 @@ Thanks for reading, and we'd like to invite you to join us on our journey.
 3. Check out out [store for people who love creativity](#). We have some awesome products and if you have any suggestions for new products, we'd love to hear them.
 
 Bonus: If you wouldn't mind sharing our Resources page with someone you know, we create out content for free and would like to share it with as many people as possible.
-
-## What we're up to now
-
-Skymouse is almost 2 and a half years old, and it's been a very educational experience. Our services have shifted from full-service marketing to a website-only company and then to a branding company.
-
-> Over time, we realized business owners need more people visiting their website and buying their products/services.
-
-So we decided to focus our services. 
-
-We decided to focus on _driving traffic to websites and converting users to paying customers_ with targeted ad campaigns and webpage optimization.
-
-It's not an easy task, but at the end of the day design and websites don't mean anything if visitors aren't doing what they were meant to do.
-
-Whether they sell clothes, retro kitchen appliances, or online courses for origami—business need people to visit their website and need them to take action from there.
-
-So how do we do that? 
-
-That's the problem we set out to solve for ourselves, and we hope to help others do it too.
