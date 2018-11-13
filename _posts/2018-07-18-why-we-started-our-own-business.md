@@ -90,21 +90,7 @@ Thanks for reading, and we'd like to invite you to join us on our journey.
 
 Bonus: If you wouldn't mind sharing our Resources page with someone you know, we create out content for free and would like to share it with as many people as possible.
 
-    We envisioned starting a great company.
-
-    A company which would enable other companies to be great.
-
-    We identified certain problems in the business world and with our marketing know-how and our values, we knew we had answers.
-
-    The first two points are directly related to our customers and the third to our employees and the kind of values we want to foster within our company. (Though more directly related to the inner workings of our company, those values constantly impact our dealings with customers.)
-
-    First there is the unsatisfied customer. The rip-off.
-
-    Second, there are good products and good companies that can't seem to sell those good products.
-
-    Third, there aren't enough business out there have the correct focus. If they don't eventually fail altogether, their unhealthy, unhappy work environment leaves their employees unsatisfied if not miserable. Businesses don't have to be like this. We knew that our business could be different.
-
-    What we're up to now.
+## What we're up to now
 
 Skymouse is almost 2 and a half years old, and it's been a very educational experience. Our services have shifted from full-service marketing to a website-only company and then to a branding company.
 
