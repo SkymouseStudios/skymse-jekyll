@@ -8,21 +8,15 @@ ttr: 7
 ---
 ## Why did we start Skymouse?
 
-_Patrick:_ Hi. I am co-founder of Skymouse Studios. I started Skymouse Studios with John Welch almost 2 years ago in the hope of turning it into a nationwide enterprise that makes the world a better place. 
+In a word, Skymouse has always been about marketing. We are both passionate about being creative with a purpose, which is the lifeblood for most businesses. It’s easy to be passionate about something that matters so much.
 
-_John_: And I'm the other co-founder of Skymouse. As much as it sounds like a cliche, we really did start Skymouse to make a positive difference. Not just for our customers but also for the people closest to us. 
+Skymouse is almost 2 and a half years old, and it's been a very educational experience. Our services have shifted from full-service marketing to a website-only company and then to a branding company.
 
-In a word, Skymouse has always been about marketing. We are both passionate about marketing, which is the lifeblood for most businesses. It’s easy to be passionate about something that matters so much.
-
-_(BETTER TRANSITION?)_
-
-Starting a company is hard work! We've evolved our services from a full-service marketing company to a website-only company and then to a branding company. 
-
-> Recently we've realized there's a real niche available for business owners who need more people visiting their sites and buying their products. (IS "BUYING THEIR PRODUCTS" NECESSARILY GOING TO RESONATE WITH THOSE PEOPLE WHO ARE SELLING A SERVICE? AND IS THERE A REASON YOU INDENTED THIS PARAGRAPH?)
+> Over time, we realized business owners need more people visiting their website and buying their products/services. 
 
 As of now we help _drive traffic to websites and convert users to paying customers_ with targeted ad campaigns and webpage optimization.
 
-It's not an easy task, but at the end of the day "good design" and "sweet websites" don't mean anything if they aren't doing what they were meant to do: _Convert Users!_
+It's not an easy task, but at the end of the day "good design" and "awesome websites" don't mean anything if visitors aren't doing what they were meant to do: _Convert Users!_
 
 Whether you sell clothes, health supplements, retro kitchen appliances, or online courses for origami—you need to get people to your website and then get them to buy whatever you sell. So how do you do that? That's the problem we set out to solve for ourselves, and we hope to help others do it too. (DO YOU REALLY WANT TO REMIND YOUR READERS THAT YOU WANT TO CONVERT THEM, OR DO YOU JUST WANT TO POINT OUT THAT IT IS YOUR BUSINESS TO HELP THEM CONVERT THEIR PROSPECTS?)
 
@@ -30,9 +24,9 @@ Whether you sell clothes, health supplements, retro kitchen appliances, or onlin
 
 _Patrick:_ Skymouse was born in the back of an old 1989 Toyota Corolla on a trip from Indianapolis to Washington D.C.
 
-John and I had met at college, making short films together and now we were on our way to do a video shoot in D.C. As we talked, we agreed there was real need for better businesses in the world. We spent the 9 hour drive talking about what we wanted to do about that and how we might help people build better businesses. 
+John and I had met at college, making short films together and now we were on our way to do a video shoot in D.C. As we talked, we agreed there was real need for better businesses in the world. We spent the 9 hour drive talking about what we wanted to do about that and how we might help people build better businesses.
 
-The conversation continued on through out the week in restaurants and hotel rooms. We kept coming back to the same principal idea. We wanted to start a marketing company that would help deserving people develop worthwhile business ideas. And we want to do it starting _now_. 
+The conversation continued on through out the week in restaurants and hotel rooms. We kept coming back to the same principal idea. We wanted to start a marketing company that would help deserving people develop worthwhile business ideas. And we want to do it starting _now_.
 
 But we didn't want to phone it in. Our primary concern was: **How can we provide real value to people?** We knew we needed to believe in the product we would be selling. Skymouse slowly began to take shape.
 
@@ -70,9 +64,9 @@ If they are being honest, most of them will say the same thing. Money.
 
 But what is life without love? It's nothing.
 
-John and I do what we do because creating a business that provides an income helps us love and serve our families. 
+John and I do what we do because creating a business that provides an income helps us love and serve our families.
 
-We try to have that mindset with everyone we encounter.  Our vendors, clients, employees and the people who work behind the counter where we get our coffee in the morning. We have to stay focused on what's really important. Life is about loving others and wanting what is best for them. 
+We try to have that mindset with everyone we encounter.  Our vendors, clients, employees and the people who work behind the counter where we get our coffee in the morning. We have to stay focused on what's really important. Life is about loving others and wanting what is best for them.
 
 We are all part of the human family and family comes first.
 
@@ -104,7 +98,7 @@ Bonus: If you wouldn't mind sharing our Resources page with someone you know, we
 
 Cheers!
 
-We envisioned starting a great company. 
+We envisioned starting a great company.
 
 A company which would enable other companies to be great.
 
