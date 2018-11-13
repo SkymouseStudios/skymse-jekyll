@@ -18,7 +18,7 @@ Skymouse was born in an old 1989 Toyota Corolla on a trip from Indianapolis to W
 
 John and I had met at college, making short films together and now we were on our way to do a video shoot in D.C. As we talked, we agreed there was real need for better businesses in the world. We spent the 9 hour drive talking about what we wanted to do about that and how we might help people build better businesses.
 
-The conversation continued on through out the week in restaurants and hotel rooms. We kept coming back to the same principal idea. We wanted to start a marketing company that would help deserving people develop worthwhile business ideas. And we want to do it starting _now_.
+The conversation continued on through out the week, in restaurants and hotel rooms. We kept coming back to the same principal idea. We wanted to start a marketing company that would help deserving people develop worthwhile business ideas. And we want to do it starting _now_.
 
 But we didn't want to phone it in. Our primary concern was: **How can we provide real value to people?** We knew we needed to believe in the product we would be selling. Skymouse slowly began to take shape.
 
