@@ -8,7 +8,7 @@ ttr: 7
 ---
 ## Why did we start Skymouse?
 
-In a word, Skymouse has always been about marketing. John and I are both passionate about being creative with a purpose, which is the lifeblood for most businesses.
+In a word (or two), Skymouse has always been about marketing. John and I are both passionate about being creative with a purpose, which is the lifeblood for most businesses.
 
 It’s easy to be passionate about something that matters so much, but  harder to make a business around it.
 
