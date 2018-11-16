@@ -41,7 +41,7 @@ So how can we create internal brand culture?
 
 There are three main aspects:
 
-* Hire people who’s personalities fit the current culture.
+* Hire people whose personalities fit the current culture.
 * Offer instruction in a culture from day 1 of employment.
 * Give employees lots of feedback on what the values and culture really mean.
 
