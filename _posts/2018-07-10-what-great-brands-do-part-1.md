@@ -9,25 +9,25 @@ ttr: 7
 ---
 ## Great Brands Start Inside
 
-When making an apple pie, there are two "core" elements. 
+When making an apple pie, there are two "core" elements.
 
 The crust and the filling.
 
 Now I assume you will be making this pie yourself so it's important to select ripe, healthy apples from the start.
 
-People tend to judge a pie by its crust, so engineering the golden brown, hand-rolled crust is worth spending time on. 
+People tend to judge a pie by its crust, so engineering the golden brown, hand-rolled crust is worth spending time on.
 
 However, if we spend all our time on the crust and fill our pie with old apples or rotten apples or tasteless apples, no one will enjoy our pie.
 
-In the same way your choice of apples will dictate much of the flavor and success of an apple pie, the your internal company culture matters just as much as the crust. People will excuse a delicious pie for being ugly, but no matter how beautiful your apple pie looks, if it tastes gross, no one will bother with it. 
+In the same way your choice of apples will dictate much of the flavor and success of an apple pie, the your internal company culture matters just as much as the crust. People will excuse a delicious pie for being ugly, but no matter how beautiful your apple pie looks, if it tastes gross, no one will bother with it.
 
 The insides matter.
 
 Before you can be great to you clients and prospects, you must take a look at your internal brand and how that affects your team and internal culture.
 
-### Internal Brand Culture comes first
+### Internal Culture Comes First
 
-I’ve hear countless companies chant “we have great culture.” However, I have had an inside look at those same companies and seen for myself the culture is not "_great_." 
+I’ve hear countless companies chant “we have great culture.” However, I have had an inside look at those same companies and seen for myself the culture is not "_great_."
 
 Sometimes it's toxic.
 
@@ -75,7 +75,7 @@ They want to be loved and love starts with just giving them the attention they n
 
 I once worked at a company that kept calling themselves “innovative" and “creative" but every time new decisions had to be made the leadership balked at the new ideas and would decide on the safe route, often claiming money was the issue.
 
-At the same time, the company was spending thousands upon thousands of dollars on software and technology that no one was using. 
+At the same time, the company was spending thousands upon thousands of dollars on software and technology that no one was using.
 
 Taking action is more than just buying something, **it’s taking the right action** to show you mean what you say.
 
@@ -118,13 +118,13 @@ It’s **everyone's** job to build your brand, marketing just plays one role in 
 
 How do you track engagement?
 
-Employee surveys van track how they are understand the brand strategy and implement it on a daily basis. Anonymity is important for getting accurate results. 
+Employee surveys van track how they are understand the brand strategy and implement it on a daily basis. Anonymity is important for getting accurate results.
 
 (Brand Happiness Level, people should be happy and delighted to go to work.)
 
 ### This is a long-term game.
 
-It’s not going to be one event or one company values handout. It’s about walking the walk. 
+It’s not going to be one event or one company values handout. It’s about walking the walk.
 
 If you want to show your wife you love her, buying a necklace once a year is not going to do it. You have to spend time with her, find out how she wants to be loved and then continue to show her with your actions.
 
