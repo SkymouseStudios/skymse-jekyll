@@ -18,7 +18,7 @@ ttr: 7
 
 Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set would be a lovely addition to my kitchen and beef up my cooking capabilities, there are loads of apps out there which will help you cook up a business that you're proud of.
 
-That being said, the landscape of apps is changing quickly. Here are the tried and true apps we like to use at Skymouse. I've also suggested some alternatives if you are looking for something newer or different.
+That being said, the landscape of apps is changing quickly. Here are the tried and true apps we like to use at Skymouse. I've also suggested some alternatives if you are looking for something new or different.
 
 ## 1. Use Evernote for keeping all of your information accessible.
 
@@ -26,13 +26,13 @@ That being said, the landscape of apps is changing quickly. Here are the tried a
 
 As a business owner, you have a lot to track. Evernote can assist you in this task.
 
-Keep notes about your business model, customer profiles, and any ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and  "tag" them with labels, providing you with pertinent information at a glance.
+Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and "tag" them with labels, providing you with pertinent information at a glance.
 
 ### How to use Evernote in the workplace
 
-* Organize a similar `Notes` in a `Notebook`, and similar notebooks in a `Stack.`
+* Organize similar `Notes` in a `Notebook`, and similar notebooks in a `Stack.`
 * Connect similar notes with each other using `Tags.`
-* Sync notes between computer, web browser, iPad, iPhone, etc.
+* Sync notes between your computer, web browser, iPad, iPhone, etc.
 * Take notes on the go...I LOVE the **top bar note taker**—I use it every day.
 * Share notes and notebooks with other members of your team or with your clients.
 
@@ -40,11 +40,13 @@ Keep notes about your business model, customer profiles, and any ideas for cups,
 
 They just added templates which is a sweet way to get started quickly and standardize some of your information.
 
+They also added a dark mode. (finally!)
+
 ### A word of warning
 
-Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use Microsoft Word for typing up drafts or ideas, we put it all into Evernote.
+Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use Microsoft Word for typing up drafts or ideas, we put it all in Evernote.
 
-You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time and you can't view notes if you don't have internet.
+You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time and you can't view notes on the mobile app if you don't have internet.
 
 ### Alternates to Evernote
 
@@ -59,6 +61,8 @@ You should also be aware that with the free version of the Evernote app you can 
 
 Zapier may be my favorite app of all. It's really quite amazing. Zapier let you make 5 `Zaps` for free, so it makes getting started easy! I can promise that your life will never be the same.
 
+Zapier connects different apps with each other. Using what's called APIs it allows you to send information from one app to another app with an easy-to-use interface.
+
 Using Zapier, you can automate pretty much everything in your life besides spending quality time with your kids. (That's something you should probably do in person.)
 
 ### How to use Zapier in the workplace
@@ -66,14 +70,15 @@ Using Zapier, you can automate pretty much everything in your life besides spend
 * **_When_** I post a picture to Instagram **_then_** post it as an actual picture in Twitter.
 * **_When_** I get a new subscriber in Mailchimp, _then_ add them to HubSpot as a new contact
 * **_When_** someone fills out a form in Airtable, **_then_** send me an alert in Slack
+* When someone buys something in Shopify, then
 
 The possibilities are endless and when every moment counts in the business day, Zapier helps cut out the busywork.
-
-The only downside about using Zapier is that it may be a bit confusing if you don't document your automations. I keep track of Automations in Evernote and have no problems related to automations.
 
 ### What's new in Zapier 2018?
 
 IF/THEN logic allows you to add conditional logic inside of your automations! This is a big deal when you want automations to take place only in certain situations.
+
+The only downside about using Zapier is that it may be a bit confusing if you don't document your automations. I keep track of Automations in Evernote and have no problems related to automations.
 
 ### Alternates to Zapier
 
