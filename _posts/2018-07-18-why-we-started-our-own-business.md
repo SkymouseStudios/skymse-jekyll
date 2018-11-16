@@ -8,9 +8,9 @@ ttr: 7
 ---
 ## Why did we start Skymouse?
 
-In a word (or two), Skymouse has always been about marketing. John and I are both passionate about being creative with a purpose, which is the lifeblood for most businesses.
+In a word (or two), Skymouse has always been about creating great things. John and I are both passionate about being creative with a purpose, which is the lifeblood for many businesses.
 
-It’s easy to be passionate about something that matters so much, but  harder to make a business around it.
+It’s easy to be passionate about something that matters so much, but harder to make a business around it.
 
 ### How we got started.
 
@@ -46,9 +46,9 @@ It can give people that "Aha!" moment where they realize they can transcend thei
 
 There are not enough great companies in the world. It's a shame, but it's the truth.
 
-**Southwest Airlines** is one of our favorite brands. They have an entire culture around making the customer feel special. Their employees are treated great so their customers feel great. 
+**Southwest Airlines** is one of our favorite brands. They have an entire culture around making the customer feel special. Their employees are treated great so their customers feel great.
 
-I'll spend the extra buck flying Southwest because I know I can rely on them to take care of me if my flight gets canceled. 
+I'll spend the extra buck flying Southwest because I know I can rely on them to take care of me if my flight gets canceled.
 
 > It's when things go wrong that companies show their true colors.
 
