@@ -189,9 +189,13 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 `Free, up to 3 social accounts`
 
-I've been using [Buffer](https://buffer.com) for almost 2 years now. Not only do I like the app but I've come to appreciate the company behind the app. They have some cool principals and their blog is also pretty great.
+I've been using [Buffer](https://buffer.com) for almost 2 years now. Not only do I like the app but I've come to appreciate the company it. They have some cool principals and their blog is also pretty great.
 
-I've talked to a lot of people and there are a lot of preferences out there when it comes to social media scheduling. We use Buffer for our clients, ourselves and I use it for my personal account.
+I've talked to a lot of people and there are a lot of preferences out there when it comes to social media scheduling. 
+
+We use Buffer for our clients, ourselves and I use it for my personal account.
+
+### Using Buffer in the Workplace
 
 * Schedule social media posts
 * Track new feeds of things
@@ -199,15 +203,15 @@ I've talked to a lot of people and there are a lot of preferences out there when
 * easily integrate your own short URL for your links(i.e. skymse.com)
 * The mobile app makes scheduling on the go super easy.
 
-### You probably shouldn't use buffer if...
+### What's new in Buffer 2018?
+
+You can now post to instagram automatically! (Previously you could only schedule reminders to post). You can also now add emojis straight from buffer.
+
+#### What you might not like
 
 The social media work is an echo chamber of recycled information. While buffer is a good tool, it's only as good as the content that you're sharing. So be original focus on creating awesome content. That't where the real magic happens.
 
 Buffer also doesn't take the place of live interaction. Engaging with your followers and fans works best when you're in the native medium and can make the difference in how people perceive your brand.
-
-### What's new in Buffer 2018?
-
-You can now post to instagram automatically! (Previously you could only schedule reminders to post). You can also now add emojis straight from buffer.
 
 ### Alternatives to Buffer for social media
 
@@ -223,9 +227,6 @@ You can now post to instagram automatically! (Previously you could only schedule
 
 Much of the projects we work on only make so much sense to be stored as a document. Some information is really more like data and should be treated as such.
 
-### Some examples of what you can do in Airtable
-
-* Create online forms
 * plan your social media calendar
 * track employee or client feedback
 * keep all your client testimonials in one place
@@ -237,13 +238,13 @@ Much of the projects we work on only make so much sense to be stored as a docume
 * embed and share your tables
 * Switch how you see your data with the click of a mouse with the `views` functionality
 
-There really aren't many downsides to Airtable to be honest. The paid version has a ton of additional functionality using their `Airtable Blocks`
-
 ### What's new in Airtable 2018?
 
-\-
+The paid version has a ton of additional functionality using their `Airtable Blocks`
 
-\-
+#### What you might not like
+
+There really aren't many downsides to Airtable to be honest. 
 
 ### Alternatives to Airtable
 
@@ -258,7 +259,7 @@ A CRM is the best way to track sales and your client life cycle. At Skymouse we 
 
 Many businesses and sale people hate CRMs and spend a lot of time and money on software they never use.
 
-### Why you should be using a CRM like HubSpot.
+### How to use Hubspot in the workplace.
 
 * A CRM is essential to making sure you're focusing on the right projects at the right time
 * Keep notes on clients and prospects right in the app so you don't repeat yourself and look foolish
@@ -273,6 +274,12 @@ Again, you don't have to go crazy with your information, just keep it up to date
 * Keep track of all your contacts and companies while easily linking them together as needed
 
 ### What's new in HubSpot 2018?
+
+This
+
+#### What you might not like
+
+The free version plugs Hubspot on its forms, templates and things like that. 
 
 ### Alternatives to HubSpot
 
@@ -291,6 +298,8 @@ Something Harvest taught me was how to think of my time in terms of the value.
 
 If I'm doing business development, vs. web development vs. a call with a client, I've become way  more conscious of how I spend my time. I'm tracking my time this very moment. So meta.
 
+### How we use Harvest in the workplace.
+
 * browser, phone, computer apps to make tracking time accessible
 * apply varied billable rates based on the type of task you're working on.
 * if you've been inactive on your computer for an extended amount of time, Harvest will catch it and ask if you want to stop the timer and roll back the time.
@@ -298,15 +307,15 @@ If I'm doing business development, vs. web development vs. a call with a client,
 * integrate with your accounting app (Quickbooks has a native integration, we use Wave for account, so I integrated that via Zapier)
 * It also integrates with Asana right in the app!
 
-### When Harvest may not be for you.
-
-The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
-
 ### What's new in Harvest 2018?
 
 Stuff
 
-### Alternatives to Harvest
+#### What you might not like
+
+The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
+
+### Alternatives to Harvest.
 
 * [Toggl](https://toggl.com "Toggl Website") (The free version of this may be a better start if you have a lot of projects.)
 
