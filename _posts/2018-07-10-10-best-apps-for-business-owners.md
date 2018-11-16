@@ -132,17 +132,19 @@ Asana is a glorified checklist, helping you tackle large projects and collaborat
 * We have internal projects like our website, social media, and a SkyDev project so we don't fall behind.
 * We can invite clients to their **project** so they can also upload documents, finish their tasks, and see the project status.
 
+### What's new in Asana 2018?
+
+Portfolios allow you to see the real-time status of projects and whether or not you're on track or not.
+
+Timelines are basically a gantt chart view of how long aspects of a project will last and allow for dependencies.
+
+Board view is also pretty new, which is my personal favorite.
+
 #### What you might not like
 
 What I've found in Asana is that it can get confusing really quick. Especially if you have a large project or a couple of large projects. Smaller teams might struggle to make sure projects are updated and that people are using it effectively.
 
 I would suggest keeping tasks simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwhelming and unnecessary.
-
-### What's new in Asana 2018?
-
-* Portfolios allow you to see the real-time status of projects and whether or not you're on track or not.
-* Timelines are basically a gantt chart view of how long aspects of a project will last and allow for dependencies.
-* Board view is also pretty new, which is my personal favorite.
 
 ### Alternates to Asana
 
@@ -154,7 +156,9 @@ I would suggest keeping tasks simple. As much as you might be tempted to make a 
 
 `Free, Minor Limitations`
 
-Email gets really sloppy and is a pain in the neck for a lot of people. Slack has quickly become a super popular way of communicating in all sorts of groups.
+Email can get really sloppy and is a pain in the neck for a lot of people. Slack has quickly become a super popular way of communicating in all sorts of groups.
+
+It's basically a high-powered messenger app helping you organize conversations and communicate quickly.
 
 We like it a lot, and it's made life easier at Skymouse!
 
@@ -166,14 +170,16 @@ We like it a lot, and it's made life easier at Skymouse!
 * Establish calendar alerts and create new calendar events.
 * get an alert in Slack when we get a new lead in Salesforce. _(Who is "we." Should it be assumed that your reader knows what this phrase is referring to in general?)_
 
-Note: Slack could be a terrible idea. Slack is addicting, and it can be distracting as a commercial during the superbowl. _(I don't find this to be a good analogy.)_ Some people start using the private messaging version instead of being out in the open in channels, which defeats the purpose of channels in a lot of ways. _(This paragraph might need reworking--it isn't clear to me.)_
-
-I recommend setting times in your day to mute Slack so it doesn't bring you out of work mode and ruin your flow.
-
 ### What's new in Slack 2018?
 
 * Turn your conversations into action (i.e. Create tasks in Asana from Slack)
 * See [more of what's new](https://slackhq.com/in-case-you-missed-it-new-emoji-improved-search-and-more) on the Slack Blog
+
+#### What you might not like
+
+Slack can be addicting and distracting, especially when you have a lot of people in your organization. 
+
+I recommend setting times in your day to mute Slack so it doesn't bring you out of work mode and ruin your flow.
 
 ### Alternatives to Slack
 
