@@ -42,7 +42,7 @@ They just added templates which is a sweet way to get started quickly and standa
 
 They also added a dark mode. (finally!)
 
-### A word of warning
+#### What you might not like
 
 Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use Microsoft Word for typing up drafts or ideas, we put it all in Evernote.
 
@@ -70,13 +70,15 @@ Using Zapier, you can automate pretty much everything in your life besides spend
 * **_When_** I post a picture to Instagram **_then_** post it as an actual picture in Twitter.
 * **_When_** I get a new subscriber in Mailchimp, _then_ add them to HubSpot as a new contact
 * **_When_** someone fills out a form in Airtable, **_then_** send me an alert in Slack
-* When someone buys something in Shopify, then
+* **_When_** someone buys something in Shopify, **_then_** add them to a Google Sheet
 
 The possibilities are endless and when every moment counts in the business day, Zapier helps cut out the busywork.
 
 ### What's new in Zapier 2018?
 
 IF/THEN logic allows you to add conditional logic inside of your automations! This is a big deal when you want automations to take place only in certain situations.
+
+#### What you might not like
 
 The only downside about using Zapier is that it may be a bit confusing if you don't document your automations. I keep track of Automations in Evernote and have no problems related to automations.
 
@@ -91,19 +93,25 @@ The only downside about using Zapier is that it may be a bit confusing if you do
 
 [Mailchimp]() may be one of the more popular apps out there for marketers. I use Mailchimp all the time.
 
+The main thing Mailchimp is used for is sending email campaigns to your customers, clients or followers. Their drag-and-drop editor makes it easy to create clean, easy-to-read emails.
+
+They've been adding features pretty consistently over the years—they now have landing pages to collect email addresses and some other cool functions.
+
 ### How to use Mailchimp in the workplace
 
-* Create `Groups` and `Segments` in Mailchimp so your customers get what they need and only what they need
-* Quickly design your own email templates, so you aren't repeating yourself
-* automate when people get emails, like when they sign-up, have a birthday, or leave Your list. (Awesome.)
-* Design pop-ups and other ways of capturing emails from your website or social media accounts.
+* Create `Groups` and `Segments` in Mailchimp so your customers get what they need and only what they need.
+* Quickly design your own email templates, so you aren't reinventing the wheel.
+* Automate when people get emails, like when they sign-up, have a birthday, or leave your list.
+* Design pop-ups and other ways of capturing emails on your website or social media accounts.
 * Add tags to subscribers automatically after they've finished a drip campaign.
 
 ### What's new in MailChimp 2018?
 
 Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you E-commerce store effortlessly.
 
-Note: If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. You account might be shut down if you upload a bunch of emails without making sure it's a good list of people. _(Might want to specify what makes it "good?")_
+#### What you might not like
+
+If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. You account might be shut down if you upload a bunch of emails without making sure it's a list of emails that aren't old and outdated.
 
 ### Alternates to Mailchimp
 
@@ -116,12 +124,7 @@ Note: If you are doing a lot of cold sales emails, Mailchimp is not for you. The
 
 I've been using [Asana](https://asana.com/) for about 2 years now and it's great. They've also added some new features, so it's an app that keeps on giving. The free version of the app is highly functional and works well even for very large projects.
 
-### Asana allows you to...
-
-* Create different organizations/workspaces and quickly move between them.
-* See your project status through **Board View**.
-* Assign tasks to other members of your team.
-* View a timeline progression of the whole project, as well as task dependencies.
+Asana is a glorified checklist, helping you tackle large projects and collaborate with other team members. It has a lot of flexibility so you can organize projects your way.
 
 ### How to use Asana in the workplace:
 
@@ -129,9 +132,11 @@ I've been using [Asana](https://asana.com/) for about 2 years now and it's great
 * We have internal projects like our website, social media, and a SkyDev project so we don't fall behind.
 * We can invite clients to their **project** so they can also upload documents, finish their tasks, and see the project status.
 
-Note: What I've found in Asana is that it can get confusing really quick. Especially if you have a large project or a couple of large projects. Smaller teams might struggle to make sure projects are updated and that people are using it effectively.
+#### What you might not like
 
-I would suggest keeping tasks basic and simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwhelming and unnecessary.
+What I've found in Asana is that it can get confusing really quick. Especially if you have a large project or a couple of large projects. Smaller teams might struggle to make sure projects are updated and that people are using it effectively.
+
+I would suggest keeping tasks simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwhelming and unnecessary.
 
 ### What's new in Asana 2018?
 
