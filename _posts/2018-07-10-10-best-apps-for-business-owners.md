@@ -16,11 +16,9 @@ ttr: 7
 ---
 ## So what are the most useful apps for business owners?
 
-Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set would be a lovely addition to my kitchen and beef up my cooking capabilities, there are loads of apps out there helping you cook up a business that you're proud of.
+Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set would be a lovely addition to my kitchen and beef up my cooking capabilities, there are loads of apps out there which will help you cook up a business that you're proud of.
 
-That being said, the landscape of apps is changing quickly. Here's the apps we like to use at Skymouse, and how we use them, and something new that might make you reconsider some of these apps that have been around a while.
-
-I've also suggested some alternatives if you are looking for something different.
+That being said, the landscape of apps is changing quickly. Here are the tried and true apps we like to use at Skymouse. I've also suggested some alternatives if you are looking for something new or different.
 
 ## 1. Use Evernote for keeping all of your information accessible.
 
@@ -28,13 +26,13 @@ I've also suggested some alternatives if you are looking for something different
 
 As a business owner, you have a lot to track. Evernote can assist you in this task.
 
-Keep notes about your business model, customer profiles, and any ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and  "tag" them with labels, providing you with pertinent information at a glance.
+Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and "tag" them with labels, providing you with pertinent information at a glance.
 
 ### How to use Evernote in the workplace
 
-* Organize a similar `Notes` in a `Notebook`, and similar notebooks in a `Stack.`
+* Organize similar `Notes` in a `Notebook`, and similar notebooks in a `Stack.`
 * Connect similar notes with each other using `Tags.`
-* Sync notes between computer, web browser, iPad, iPhone, etc.
+* Sync notes between your computer, web browser, iPad, iPhone, etc.
 * Take notes on the go...I LOVE the **top bar note taker**—I use it every day.
 * Share notes and notebooks with other members of your team or with your clients.
 
@@ -42,11 +40,13 @@ Keep notes about your business model, customer profiles, and any ideas for cups,
 
 They just added templates which is a sweet way to get started quickly and standardize some of your information.
 
-### A word of warning
+They also added a dark mode. (finally!)
 
-Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use Microsoft Word for typing up drafts or ideas, we put it all into Evernote.
+#### What you might not like
 
-You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time and you can't view notes if you don't have internet.
+Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use Microsoft Word for typing up drafts or ideas, we put it all in Evernote.
+
+You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time and you can't view notes on the mobile app if you don't have internet.
 
 ### Alternates to Evernote
 
@@ -61,6 +61,8 @@ You should also be aware that with the free version of the Evernote app you can 
 
 Zapier may be my favorite app of all. It's really quite amazing. Zapier let you make 5 `Zaps` for free, so it makes getting started easy! I can promise that your life will never be the same.
 
+Zapier connects different apps with each other. Using what's called APIs it allows you to send information from one app to another app with an easy-to-use interface.
+
 Using Zapier, you can automate pretty much everything in your life besides spending quality time with your kids. (That's something you should probably do in person.)
 
 ### How to use Zapier in the workplace
@@ -68,14 +70,17 @@ Using Zapier, you can automate pretty much everything in your life besides spend
 * **_When_** I post a picture to Instagram **_then_** post it as an actual picture in Twitter.
 * **_When_** I get a new subscriber in Mailchimp, _then_ add them to HubSpot as a new contact
 * **_When_** someone fills out a form in Airtable, **_then_** send me an alert in Slack
+* **_When_** someone buys something in Shopify, **_then_** add them to a Google Sheet
 
 The possibilities are endless and when every moment counts in the business day, Zapier helps cut out the busywork.
-
-The only downside about using Zapier is that it may be a bit confusing if you don't document your automations. I keep track of Automations in Evernote and have no problems related to automations.
 
 ### What's new in Zapier 2018?
 
 IF/THEN logic allows you to add conditional logic inside of your automations! This is a big deal when you want automations to take place only in certain situations.
+
+#### What you might not like
+
+The only downside about using Zapier is that it may be a bit confusing if you don't document your automations. I keep track of Automations in Evernote and have no problems related to automations.
 
 ### Alternates to Zapier
 
@@ -88,19 +93,25 @@ IF/THEN logic allows you to add conditional logic inside of your automations! Th
 
 [Mailchimp]() may be one of the more popular apps out there for marketers. I use Mailchimp all the time.
 
+The main thing Mailchimp is used for is sending email campaigns to your customers, clients or followers. Their drag-and-drop editor makes it easy to create clean, easy-to-read emails.
+
+They've been adding features pretty consistently over the years—they now have landing pages to collect email addresses and some other cool functions.
+
 ### How to use Mailchimp in the workplace
 
-* Create `Groups` and `Segments` in Mailchimp so your customers get what they need and only what they need
-* Quickly design your own email templates, so you aren't repeating yourself
-* automate when people get emails, like when they sign-up, have a birthday, or leave Your list. (Awesome.)
-* Design pop-ups and other ways of capturing emails from your website or social media accounts.
+* Create `Groups` and `Segments` in Mailchimp so your customers get what they need and only what they need.
+* Quickly design your own email templates, so you aren't reinventing the wheel.
+* Automate when people get emails, like when they sign-up, have a birthday, or leave your list.
+* Design pop-ups and other ways of capturing emails on your website or social media accounts.
 * Add tags to subscribers automatically after they've finished a drip campaign.
 
 ### What's new in MailChimp 2018?
 
 Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you E-commerce store effortlessly.
 
-Note: If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. You account might be shut down if you upload a bunch of emails without making sure it's a good list of people. _(Might want to specify what makes it "good?")_
+#### What you might not like
+
+If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. You account might be shut down if you upload a bunch of emails without making sure it's a list of emails that aren't old and outdated.
 
 ### Alternates to Mailchimp
 
@@ -113,12 +124,7 @@ Note: If you are doing a lot of cold sales emails, Mailchimp is not for you. The
 
 I've been using [Asana](https://asana.com/) for about 2 years now and it's great. They've also added some new features, so it's an app that keeps on giving. The free version of the app is highly functional and works well even for very large projects.
 
-### Asana allows you to...
-
-* Create different organizations/workspaces and quickly move between them.
-* See your project status through **Board View**.
-* Assign tasks to other members of your team.
-* View a timeline progression of the whole project, as well as task dependencies.
+Asana is a glorified checklist, helping you tackle large projects and collaborate with other team members. It has a lot of flexibility so you can organize projects your way.
 
 ### How to use Asana in the workplace:
 
@@ -126,15 +132,19 @@ I've been using [Asana](https://asana.com/) for about 2 years now and it's great
 * We have internal projects like our website, social media, and a SkyDev project so we don't fall behind.
 * We can invite clients to their **project** so they can also upload documents, finish their tasks, and see the project status.
 
-Note: What I've found in Asana is that it can get confusing really quick. Especially if you have a large project or a couple of large projects. Smaller teams might struggle to make sure projects are updated and that people are using it effectively.
-
-I would suggest keeping tasks basic and simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwhelming and unnecessary.
-
 ### What's new in Asana 2018?
 
-* Portfolios allow you to see the real-time status of projects and whether or not you're on track or not.
-* Timelines are basically a gantt chart view of how long aspects of a project will last and allow for dependencies.
-* Board view is also pretty new, which is my personal favorite.
+Portfolios allow you to see the real-time status of projects and whether or not you're on track or not.
+
+Timelines are basically a gantt chart view of how long aspects of a project will last and allow for dependencies.
+
+Board view is also pretty new, which is my personal favorite.
+
+#### What you might not like
+
+What I've found in Asana is that it can get confusing really quick. Especially if you have a large project or a couple of large projects. Smaller teams might struggle to make sure projects are updated and that people are using it effectively.
+
+I would suggest keeping tasks simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwhelming and unnecessary.
 
 ### Alternates to Asana
 
@@ -146,7 +156,9 @@ I would suggest keeping tasks basic and simple. As much as you might be tempted 
 
 `Free, Minor Limitations`
 
-Email gets really sloppy and is a pain in the neck for a lot of people. Slack has quickly become a super popular way of communicating in all sorts of groups.
+Email can get really sloppy and is a pain in the neck for a lot of people. Slack has quickly become a super popular way of communicating in all sorts of groups.
+
+It's basically a high-powered messenger app helping you organize conversations and communicate quickly.
 
 We like it a lot, and it's made life easier at Skymouse!
 
@@ -158,14 +170,16 @@ We like it a lot, and it's made life easier at Skymouse!
 * Establish calendar alerts and create new calendar events.
 * get an alert in Slack when we get a new lead in Salesforce. _(Who is "we." Should it be assumed that your reader knows what this phrase is referring to in general?)_
 
-Note: Slack could be a terrible idea. Slack is addicting, and it can be distracting as a commercial during the superbowl. _(I don't find this to be a good analogy.)_ Some people start using the private messaging version instead of being out in the open in channels, which defeats the purpose of channels in a lot of ways. _(This paragraph might need reworking--it isn't clear to me.)_
-
-I recommend setting times in your day to mute Slack so it doesn't bring you out of work mode and ruin your flow.
-
 ### What's new in Slack 2018?
 
 * Turn your conversations into action (i.e. Create tasks in Asana from Slack)
 * See [more of what's new](https://slackhq.com/in-case-you-missed-it-new-emoji-improved-search-and-more) on the Slack Blog
+
+#### What you might not like
+
+Slack can be addicting and distracting, especially when you have a lot of people in your organization. 
+
+I recommend setting times in your day to mute Slack so it doesn't bring you out of work mode and ruin your flow.
 
 ### Alternatives to Slack
 
@@ -175,9 +189,13 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 `Free, up to 3 social accounts`
 
-I've been using [Buffer](https://buffer.com) for almost 2 years now. Not only do I like the app but I've come to appreciate the company behind the app. They have some cool principals and their blog is also pretty great.
+I've been using [Buffer](https://buffer.com) for almost 2 years now. Not only do I like the app but I've come to appreciate the company it. They have some cool principals and their blog is also pretty great.
 
-I've talked to a lot of people and there are a lot of preferences out there when it comes to social media scheduling. We use Buffer for our clients, ourselves and I use it for my personal account.
+I've talked to a lot of people and there are a lot of preferences out there when it comes to social media scheduling. 
+
+We use Buffer for our clients, ourselves and I use it for my personal account.
+
+### Using Buffer in the Workplace
 
 * Schedule social media posts
 * Track new feeds of things
@@ -185,15 +203,15 @@ I've talked to a lot of people and there are a lot of preferences out there when
 * easily integrate your own short URL for your links(i.e. skymse.com)
 * The mobile app makes scheduling on the go super easy.
 
-### You probably shouldn't use buffer if...
+### What's new in Buffer 2018?
+
+You can now post to instagram automatically! (Previously you could only schedule reminders to post). You can also now add emojis straight from buffer.
+
+#### What you might not like
 
 The social media work is an echo chamber of recycled information. While buffer is a good tool, it's only as good as the content that you're sharing. So be original focus on creating awesome content. That't where the real magic happens.
 
 Buffer also doesn't take the place of live interaction. Engaging with your followers and fans works best when you're in the native medium and can make the difference in how people perceive your brand.
-
-### What's new in Buffer 2018?
-
-You can now post to instagram automatically! (Previously you could only schedule reminders to post). You can also now add emojis straight from buffer.
 
 ### Alternatives to Buffer for social media
 
@@ -209,9 +227,6 @@ You can now post to instagram automatically! (Previously you could only schedule
 
 Much of the projects we work on only make so much sense to be stored as a document. Some information is really more like data and should be treated as such.
 
-### Some examples of what you can do in Airtable
-
-* Create online forms
 * plan your social media calendar
 * track employee or client feedback
 * keep all your client testimonials in one place
@@ -223,13 +238,13 @@ Much of the projects we work on only make so much sense to be stored as a docume
 * embed and share your tables
 * Switch how you see your data with the click of a mouse with the `views` functionality
 
-There really aren't many downsides to Airtable to be honest. The paid version has a ton of additional functionality using their `Airtable Blocks`
-
 ### What's new in Airtable 2018?
 
-\-
+The paid version has a ton of additional functionality using their `Airtable Blocks`
 
-\-
+#### What you might not like
+
+There really aren't many downsides to Airtable to be honest. 
 
 ### Alternatives to Airtable
 
@@ -244,7 +259,7 @@ A CRM is the best way to track sales and your client life cycle. At Skymouse we 
 
 Many businesses and sale people hate CRMs and spend a lot of time and money on software they never use.
 
-### Why you should be using a CRM like HubSpot.
+### How to use Hubspot in the workplace.
 
 * A CRM is essential to making sure you're focusing on the right projects at the right time
 * Keep notes on clients and prospects right in the app so you don't repeat yourself and look foolish
@@ -259,6 +274,12 @@ Again, you don't have to go crazy with your information, just keep it up to date
 * Keep track of all your contacts and companies while easily linking them together as needed
 
 ### What's new in HubSpot 2018?
+
+This
+
+#### What you might not like
+
+The free version plugs Hubspot on its forms, templates and things like that. 
 
 ### Alternatives to HubSpot
 
@@ -277,6 +298,8 @@ Something Harvest taught me was how to think of my time in terms of the value.
 
 If I'm doing business development, vs. web development vs. a call with a client, I've become way  more conscious of how I spend my time. I'm tracking my time this very moment. So meta.
 
+### How we use Harvest in the workplace.
+
 * browser, phone, computer apps to make tracking time accessible
 * apply varied billable rates based on the type of task you're working on.
 * if you've been inactive on your computer for an extended amount of time, Harvest will catch it and ask if you want to stop the timer and roll back the time.
@@ -284,15 +307,15 @@ If I'm doing business development, vs. web development vs. a call with a client,
 * integrate with your accounting app (Quickbooks has a native integration, we use Wave for account, so I integrated that via Zapier)
 * It also integrates with Asana right in the app!
 
-### When Harvest may not be for you.
-
-The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
-
 ### What's new in Harvest 2018?
 
 Stuff
 
-### Alternatives to Harvest
+#### What you might not like
+
+The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
+
+### Alternatives to Harvest.
 
 * [Toggl](https://toggl.com "Toggl Website") (The free version of this may be a better start if you have a lot of projects.)
 

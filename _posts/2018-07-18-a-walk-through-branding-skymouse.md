@@ -15,13 +15,13 @@ Me and John Welch went to the same school, where we met and realized we wanted t
 
 It really began when the company my dad works for heard that I did video and asked if we could do some training videos for them as well as a promotional video about the company.
 
-Me and john drove in my 1989 Toyota corolla across the country from Indiana to the job sit in Washington DC. It was on that trip where we cycled though name after name, trying out different combinations of verbs, adjectives, things we liked, dark ironic things and things we didn't know where they came from.
+Me and John drove in my 1989 Toyota corolla across the country from Indiana to the job sit in Washington DC. It was on that trip where we cycled though name after name, trying out different combinations of verbs, adjectives, things we liked, dark ironic things and things we didn't know where they came from.
 
 `Insert: Some of the more ridiculous options`
 
 We finally did land on Skymouse. Skymouse studios. John got to be satisfied with his love of rodents and I got to love out my love for flying if I was a super hero. We sketched and doodled ideas for logos, trying to nail down something we could get behind. This was a tough job. there had to be some sort of meaning. We had to be intentional with our brand because people would see it and want us to be intentional with their brand.
 
-`Insert: Some logo ideas and sketches` `
+`Insert: Some logo ideas and sketches` \`
 
 ### Early Brandstorming
 
@@ -58,35 +58,37 @@ Motor Oil for main titles
 Avenir Next for Body (Sans Serif)
 We need another font for our Heading 1/ for internal thoughts and dialogues.
 
-    1. Codify your vision We must maintain a unified and consistent brand identity. The website, business, cards, logos and animations must all have the same voice and the theme so people know its coming from us.
+1. Codify your vision We must maintain a unified and consistent brand identity. The website, business, cards, logos and animations must all have the same voice and the theme so people know its coming from us.
     
-    2. Determine the value of function benefit you promise to deliver. We are a brand launchpad. We educate and mentor as we go, working with you to tell your story and send you on your way.
+2. Determine the value of function benefit you promise to deliver. We are a brand launchpad. We educate and mentor as we go, working with you to tell your story and send you on your way.
     
-    3. Our story is a mouse trying to reach his cheese up in the sky. He has to be inventive, persistent and creative. Sometimes he fails, but he keeps on trying.
+3. Our story is a mouse trying to reach his cheese up in the sky. He has to be inventive, persistent and creative. Sometimes he fails, but he keeps on trying.
     
-    4. Determine your core values. We want to craft brand stories. That is what we love. Our partners want to share their story. We create a great design experience and user experience.
+4. Determine your core values. We want to craft brand stories. That is what we love. Our partners want to share their story. We create a great design experience and user experience.
     
-    5. Elevator speech. We partner with aspiring brands to help them create and implement their vision by crafting a beautiful and functional client experience. Resulting in a sustainable marketing strategy and the knowledge to carry that strategy into the future. We are looking for partners, not just clients.
-        1.  Further Concepts: Brand experience - elements that make up your brand and how it is delivered to customers and clients.
+5. Elevator speech. We partner with aspiring brands to help them create and implement their vision by crafting a beautiful and functional client experience. Resulting in a sustainable marketing strategy and the knowledge to carry that strategy into the future. We are looking for partners, not just clients.
+
+1.  Further Concepts: Brand experience - elements that make up your brand and how it is delivered to customers and clients.
         
-        2.  How do we effectively communicate our concepts to people who do not understand the digital world or the marketing landscape of this era?
-            1. When talking to a CEO: we need to communicate how we can increase their profits through greater brand cohesion and consistency.
-            
-            2. When we are talking to a
+2.  How do we effectively communicate our concepts to people who do not understand the digital world or the marketing landscape of this era?
+
+1. When talking to a CEO: we need to communicate how we can increase their profits through greater brand cohesion and consistency.
+
+2. When we are talking to a
     
-    6. Twitter bio. Welcome to skylab (Mouse in a lab jacket), cool ideas, insights and stuff to distract you from your real work. Questions? Just ask. (We bite a little)
+6. Twitter bio. Welcome to skylab (Mouse in a lab jacket), cool ideas, insights and stuff to distract you from your real work. Questions? Just ask. (We bite a little)
     
-    7. Visual Identity. Our logo is a pin with wings and cheese. The pin being a sign of accomplishment and the cheese being the goal or end result desired by the (mouse) people
+7. Visual Identity. Our logo is a pin with wings and cheese. The pin being a sign of accomplishment and the cheese being the goal or end result desired by the (mouse) people
     
-    8. Resume. Start with a funny story hook. Illustration and picture split. Skills and abilities chart. Disc profile explaining how we help each other and balance each other out.. What we have done and our hopes, dreams and aspirations.
+8. Resume. Start with a funny story hook. Illustration and picture split. Skills and abilities chart. Disc profile explaining how we help each other and balance each other out.. What we have done and our hopes, dreams and aspirations.
     
-    9. Website. Everything is anchored in the website. It’s the hq for our brand with everything else off shooting it. “A safe place.” What we’ve done and what we can do for you. Client testimonies, case studies. We need a client path/experience to help them satisfy their needs.
+9. Website. Everything is anchored in the website. It’s the hq for our brand with everything else off shooting it. “A safe place.” What we’ve done and what we can do for you. Client testimonies, case studies. We need a client path/experience to help them satisfy their needs.
 
 Something I think is very powerful is the concept of illustration. It personalizes you as a brand, it makes you stand out and it also creates a mystery, a sense of awe amongst you followers. I once read a blogpost that explained why the CEO of a company does all the illustrations for their blog. It shows you care. It shows _intention_. People like that. People feek cheated when they just see your website is a wordpress template or a simple squate space site. People know the difference. They can feel it. That's why the big brands get the super expensive websites, it shows they care.
 
 We had to do the same for our customers. We love our customers and now we have to prove it.
 
-## So how do you make money? Systems. Welcome to SkyDev
+## So how do you make money? Systems. Welcome to SkyDev.
 
 Building a better tomorrow, today. We need to keep re-evaluting ourselves and what is important to us and how we are hitting our benchmarks. Charging too much is one way to make money, but we thought of another one. What if you just learn how to do something so well that you can do it better and more consistently than everyone else? We document our processes and we work hard at growing ourselves with every client.
 
