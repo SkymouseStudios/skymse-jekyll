@@ -22,14 +22,6 @@ BASE (MOBILE) SIZE
 @import "breakpoints/base";
 
 /*********************
-LARGER MOBILE DEVICES
-*********************/
-@media only screen and (min-width: 481px) {
-	// styles in 481up.scss
-	@import "breakpoints/481up";
-} // end of media query
-
-/*********************
 TABLET & SMALLER LAPTOPS
 *********************/
 @media only screen and (min-width: 768px) {
