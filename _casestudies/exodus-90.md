@@ -72,12 +72,6 @@ spot-image-4: /library/images/TEST/spot-image.png
 3-image-2: /library/images/TEST/desktop-site.png
 3-image-3: /library/images/TEST/desktop-site.png
 
-
-
-
-
-
-
 ---
 
 Those Catholic Men asked us to help redesign and maintain exodus90.com to make it all clearer.

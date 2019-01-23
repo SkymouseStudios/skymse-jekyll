@@ -21,7 +21,7 @@ compress_html:
 sass:
   style: compressed
 
-include: ["_pages"]
+include: ["_pages", "_casestudies"]
 permalink: /:title/
 
 collections:
