@@ -1,26 +1,156 @@
 {% include header.html %}
 
-<div id="post">
-  
-  <section class="blank">
-    <div class="tag">Case Study</div>
-    <h2>{{ page.title }}</h2>
-  
-    <div class="post-info-wrapper cf">
-      <p>{{page.services}}</p>
-    </div>
-  </section>
-    
-  <p>{{ page.description }}</p>
+<div id="page">
 
-  <div class="blog-header">
-     <img class="blog-image" src="{{ page.img }}" alt="">
-  </div>
+<section>
+	<div class="tag">Case Study</div>
+	<h1>{{ page.title }}</h1>
 
-  <section class="blank">
-    {{ content }}
-  </section>
+	<div class="post-info-wrapper cf">
+	  <p>{{page.services}}</p>
+	</div>
+
+	<p style="max-width: 600px;">{{ page.description }}</p>
+</section>
     
+
+<div class="blog-header">
+ <img class="blog-image" src="{{ page.img }}" alt="">
+</div>
+
+<!-- # Introduction -->
+	<section class="grid-half">
+		<div>
+			<h2>{{page.elevator-pitch-title}}</h2>
+			<p class="quote">
+				{{page.elevator-pitch}}
+			</p>
+		</div>
+
+		<div>
+			{{ content }}
+		</div>
+	</section>
+
+<!-- # Highlight 1 -->
+	<section class="grid-three">
+		
+		<!-- 1/3 Space -->
+		<aside>
+			<h2>{{ page.1-title }}</h2>
+			<h3>{{ page.1-subtitle }}</h3>
+			<p>{{ page.1-p }}</p>
+		</aside>
+
+		<!-- 2/3 Space -->
+		<div class="mobile-and-desktop">
+			<img src="{{ page.1-image-mobile }}" alt="">
+			<img src="{{ page.1-image-desktop }}" alt="">
+		</div>
+
+	</section>
+
+<!-- # Highlight 2 -->
+	<section class="grid-three">
+		<!-- 2/3 Space -->
+		<div>
+			<img src="{{ page.2-image-desktop }}" alt="">
+		</div>
+		
+		<!-- 1/3 Space -->
+		<aside>
+			<h2>{{ page.2-title }}</h2>
+			<h3>{{ page.2-subtitle }}</h3>
+			<p>{{ page.2-p }}</p>
+		</aside>
+
+	</section>
+
+<!-- # Designer Quote -->
+	<section class="centered-quote">
+		<div>
+			<p>{{ page.designer-quote }}</p>
+
+			<img src="{{ page.designer-picture }}" alt="">
+			<h4>{{ page.designer-name }}</h4>
+			<p>{{ page.designer-title }}</p>
+		</div>
+	</section>
+
+<!-- # Highlight 2 -->
+	<section>
+		<img class="full-width" src="{{ page.sales-image }}" alt="">
+	</section>
+
+<!-- # Audience -->
+	<section class="grid-three">
+		
+		<!-- 1/3 Space -->
+		<aside>
+			<h2>{{ page.audience-title }}</h2>
+			<h3>{{ page.audience-subtitle }}</h3>
+			<p>{{ page.audience-p }}</p>
+		</aside>
+
+		<!-- 2/3 Space -->
+		<div>
+			<img class="full-width" src="{{ page.audience-image-desktop }}" alt="">
+		</div>
+
+	</section>
+
+<!-- # Header Artwork -->
+	<section class="grid-three">
+		<!-- 1/3 Space -->
+		<aside>
+			<h2>{{ page.artwork-title }}</h2>
+			<h3>{{ page.artwork-subtitle }}</h3>
+			<p>{{ page.artwork-p }}</p>
+		</aside>
+
+		<!-- All Space -->
+		<!-- Image Grid -->
+		<div class="grid-masonry fill-both">
+			<img src="{{ page.header-1 }}" alt="">
+			<img src="{{ page.header-2 }}" alt="">
+			<img src="{{ page.header-3 }}" alt="">
+			<img src="{{ page.header-4 }}" alt="">
+			<img src="{{ page.header-5 }}" alt="">
+		</div>
+
+	</section>
+
+<!-- # Misc Design Icons -->
+	<section class="block">
+		<h3>Misc</h3>
+		<p><strong>Spot Illustrations</strong></p>
+		<div class="grid-four">
+			<img src="{{ page.spot-image-1 }}" alt="">
+			<img src="{{ page.spot-image-2 }}" alt="">
+			<img src="{{ page.spot-image-3 }}" alt="">
+			<img src="{{ page.spot-image-4 }}" alt="">
+		</div>
+	</section>
+
+<!-- # Final Look -->
+	<section class="grid-three">
+		<!-- 1/2 Space -->
+		<aside>
+			<h2>{{ page.3-title }}</h2>
+			<h3>{{ page.3-subtitle }}</h3>
+			<p>{{ page.3-p }}</p>
+			
+			<img src="{{ page.3-image-1 }}" alt="">
+		</aside>
+
+		<!-- 1/2 Space -->
+		<div>
+			<img style="margin-bottom: 40px" src="{{ page.3-image-2 }}" alt="">
+			<img src="{{ page.3-image-3 }}" alt="">
+		</div>
+
+	</section>
+
 </div>
 
 {% include footer.html %}

@@ -31,12 +31,16 @@
     {% include mailchimp-blog.html %}
   </section>
 
+ {% if page.author %}
+
   <section>
     <img class="icon-size" src="{{ page.authorImg }}" alt="{{ page.author }}">
     <p>{{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</p>
     <p>{{ page.authorTitle}}</p>
   </section>
-    
+
+ {% endif %}
+  
 </div>
 
 {% include footer.html %}

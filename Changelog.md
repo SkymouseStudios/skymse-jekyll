@@ -1,5 +1,15 @@
 # Changelog
 
+### Updates 19.01.23
+- created a new template for case studies
+- filled out info for the exodus 90 case study
+- reformated the footer to make it cleaner
+- changed the mailchimp "boosting your brand" form
+- fixed an issue on the post template
+- removed the about link on the home page
+- replaced our online pricing with a pricing form
+- fixed an issue where bullets where showing up for all 'ul' elements
+- added sample images for the case study page
 
 ### Updates 18.10.20
 - added some new icons

@@ -12,7 +12,7 @@ img: /library/images/social/social-about.jpg
 
 <div class="home-hero m-pad">
 	<h1>Pricing</h1>
-	<h3>Custom packages to match your business.</h3>
+	<h3>Simple packages to match your business.</h3>
 </div>
 
 <div id="scene" data-relative-input="true" data-pointer-events="true">
@@ -29,30 +29,10 @@ img: /library/images/social/social-about.jpg
 		</div>
 	</section>
 
-	<div class="pricing-grid">
-	
-		{% for service in site.services limit:3 %}
-			
-			<section class="card">
-				<div class="content">
-					<h3>{{ service.title }}</h3>
-					<img class="icon-size" src="{{ site.baseurl }}{{ service.img }}" alt="">					
-					<p>{{ service.description }}</p>
-					<ul>
-						<li>{{ service.item-1 }}</li>
-						<li>{{ service.item-2 }}</li>
-						<li>{{ service.item-3 }}</li>
-						<li>{{ service.item-4 }}</li>
-					</ul>
-					<h5 class="text-center">{{ service.price }}</h5>
-				</div>
-
-				<div class="pad-top"></div>
-				<a href="{{ service.cta-link }}" class="{{ service.cta-class }} action-btn">{{ service.call-to-action }}</a>
-				<div class="pad-top"></div>
-			</section>
-			
-		{% endfor %}
-
+	<div class="card card--orange card-center pad">
+		<h3>Take the assesment.</h3>
+		<a class="action-btn" target="blank" href="https://skymouse.typeform.com/to/JFXkUQ">Begin</a>
 	</div>
+
+	
 </main>

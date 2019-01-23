@@ -26,6 +26,47 @@ Stylesheet: Grid Stylesheet
   margin-right: 5%;
 }
 
+.grid-masonry {
+// Used on the case studies page
+  display: grid;
+  grid-gap: 10px;
+  grid-template-rows: 1fr min-content;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 2fr));
+
+  img {
+    width: 100%;
+  }
+
+  img:nth-child(3) {
+    grid-column: span 2;
+  }
+}
+
+.grid-four {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 4fr));
+  
+  img {
+    width: 100%;
+  }
+}
+
+.grid-three {
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
+  
+  img {
+    width: 100%;
+  }
+
+  .fill-both {
+    grid-row: 2;
+    grid-column: span 2;
+  }
+}
+
 .grid-half {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));

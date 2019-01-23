@@ -177,10 +177,10 @@ ul.list {
   list-style: disc;
 }
 
-ol,ul {
-    padding-left: 40px;
-    list-style-type: disc;
-}
+// ol,ul {
+//     padding-left: 40px;
+//     list-style-type: disc;
+// }
 
 .text-gray {
   color: #dcdcdc;
@@ -206,10 +206,10 @@ ol,ul {
 }
 
 .tag {
-  background-color: $lblue;
+  background-color: $gray;
   border-radius: $radius-sm;
   display: inline-block;
-  padding: 0.2em;
+  padding: 0.2em 0.5em;
   font-size: 0.8em;
   color: white;
 }

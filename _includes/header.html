@@ -95,7 +95,7 @@
 
 	<div id="container">
 	
-	<header role="banner" {% if page.layout == 'post' or page.layout == 'landing-page' %} style="background-color: orange;" {% endif %} itemscope itemtype="http://schema.org/WPHeader">
+		<header role="banner" {% if page.layout == 'post' or page.layout == 'landing-page' %} style="background-color: orange;" {% endif %} itemscope itemtype="http://schema.org/WPHeader">
 		
 		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 			<ul class="cf"> {% for link in site.links %}<li><a class="nav-btn" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>{% endfor %}
@@ -128,6 +128,6 @@
 			</ul>
 			
 		</div> 
-	</header>
+		</header>
 	
 	
