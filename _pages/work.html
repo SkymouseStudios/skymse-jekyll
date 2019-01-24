@@ -2,9 +2,9 @@
 
 title: The Work We've Done
 layout: default
-subtitle: We love a challenge.
-description: We're helping companies take back control of their marketing. Gone are the days of creepy SEO guys who steal your money. Plan, execute and manage your brand like a pro.
-permalink: work.html
+subtitle: A look at the Skymouse Portfolio
+description: Take control of your marketing. Search Optimization got you down? We've done that. Trying to launch a new app on your website. We've done that too.
+permalink: work
 img-front: /library/images/headers/header-work-front.svg
 img-mid: /library/images/headers/header-work-mid.svg
 img-back: /library/images/headers/header-work-back.svg
@@ -49,10 +49,15 @@ img: /library/images/social/social-work.jpg
 			 </div>
 			
 			<p>{{ casestudy.description }}</p>
-			<a class="action-btn" href="{{ casestudy.url }}">Read more</a>
+
+			{% if casestudy.elevator-pitch-title %}
+				<a class="action-btn action-btn-gray" href="{{ casestudy.url }}">{{ casestudy.elevator-pitch-title }}</a>
+			{% endif %}
+			
 		</div>
 	</section> 
 		
 	{% endfor %}
 
+	{% include cta-b.html %}
 </main>

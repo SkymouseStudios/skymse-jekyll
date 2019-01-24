@@ -10,8 +10,8 @@ services:
 - Email Marketing
 - Web Development
 - Social Media
-permalink: case-studies/resource-commercial-real-estate.html
-img: /library/images/our-work/resource/exodus90-Banner.jpg
+permalink: work/resource-commercial-real-estate
+img: /library/images/our-work/resource/resource-banner.jpg
 website-img: /library/images/our-work/resource/resource.jpg
 
 # Introduction

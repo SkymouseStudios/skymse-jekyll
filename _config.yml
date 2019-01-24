@@ -30,18 +30,18 @@ collections:
     permalink: /:collection/:name
   casestudies:
     output: true
-    permalink: /:collection/:name
+    permalink: /our-work/:name
 
 # Links to include in menu navigation
 links:
   - title: Why Skymouse
-    url: /why-skymouse.html
+    url: /why-skymouse
   - title: What you can do
-    url: /what-you-can-do.html
+    url: /what-you-can-do
   - title: Our Work
-    url: /work.html
+    url: /work
   - title: Pricing
-    url: /pricing.html
+    url: /pricing
 
 # Links to Social Media
 socials:

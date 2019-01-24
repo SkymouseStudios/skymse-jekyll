@@ -14,13 +14,11 @@
 		
 	</div>
 
-	<p style="max-width: 600px;">{{ page.description }}</p>
+	<p class="pad card-center">{{ page.description }}</p>
 </section>
-    
-
-<div class="blog-header">
- <img src="{{ page.img }}" alt="">
-</div>
+   
+<!-- Header Image  -->
+<img class="blog-header" src="{{ page.img }}" alt="">
 
 <!-- # Introduction -->
 	<section class="grid-half">
@@ -155,6 +153,7 @@
 
 	</section>
 
+	{% include cta-a.html %}
 </div>
 
 {% include footer.html %}

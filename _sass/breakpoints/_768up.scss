@@ -125,6 +125,18 @@ section {
 	margin-left: auto;
 }
 
+.client-site {
+	.dot {
+		left: 5px;
+    	top: -67px;	
+	}
+}
+
+.frame {
+	top: 80px;
+	right: -230px;
+}
+
 .grid-half:nth-child(odd) {
 	.content {
 	 	grid-column: 1;
@@ -134,6 +146,11 @@ section {
 	.client-site {
 		grid-column: 2;
 		grid-row: 1;
+
+		.dot {
+    		left: 17px;
+    		top: -41px;
+		}
 	}
 }
 

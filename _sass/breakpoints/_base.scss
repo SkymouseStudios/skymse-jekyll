@@ -164,16 +164,7 @@ header {
 
 .blog-header {
 	background: linear-gradient(135deg, $orange, #ffc576);
-	height: 300px;
-	overflow: hidden;
 	border-radius: 5px;
-	width: 140%;
-	margin: 20px -20%;
-
-	img {
-		width: 100%;
-		margin-top: -240px;
-	}
 }
 
 .home-hero {
@@ -529,7 +520,7 @@ POSTS & CONTENT STYLES
 	.frame {
 		position: relative;
 		top: 100px;
-		right: -150px;
+		right: -130px;
 		
 		transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
 		-webkit-transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
@@ -553,8 +544,8 @@ POSTS & CONTENT STYLES
 		height: 5px;
 
 		position: absolute;
-		left: 34px;
-    	top: -41px;
+		left: 16px;
+    	top: -40px;
 		z-index: 10;
 
 		transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
@@ -592,18 +583,12 @@ POSTS & CONTENT STYLES
 }
 
 .grid-half:nth-child(even) {
-	.content {
-		// grid-column: 1;
-		// grid-row: 2;
-	}
 
 	.client-site {
 		perspective-origin: left;
-		// grid-column: 1;
-		// grid-row: 1;
 
 		.frame {
-    		right: -200px;
+    		right: -150px;
 			-webkit-transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
 			transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
 			-webkit-box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
@@ -613,7 +598,7 @@ POSTS & CONTENT STYLES
 		.dot { 
 			-webkit-transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
 			transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
-			left: 56px;
+			left: 6px;
     		top: -47px;
 		}
 	}
