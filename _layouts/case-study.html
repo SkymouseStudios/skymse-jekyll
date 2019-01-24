@@ -3,11 +3,15 @@
 <div id="page">
 
 <section>
-	<div class="tag">Case Study</div>
+	
 	<h1>{{ page.title }}</h1>
 
 	<div class="post-info-wrapper cf">
-	  <p>{{page.services}}</p>
+		<div class="tag tag-orange">Case Study</div>
+	  {% for service in page.services %}
+	    <div class="tag">{{service}}</div>
+	  {% endfor %}
+		
 	</div>
 
 	<p style="max-width: 600px;">{{ page.description }}</p>
@@ -15,7 +19,7 @@
     
 
 <div class="blog-header">
- <img class="blog-image" src="{{ page.img }}" alt="">
+ <img src="{{ page.img }}" alt="">
 </div>
 
 <!-- # Introduction -->
@@ -37,15 +41,15 @@
 		
 		<!-- 1/3 Space -->
 		<aside>
-			<h2>{{ page.1-title }}</h2>
-			<h3>{{ page.1-subtitle }}</h3>
-			<p>{{ page.1-p }}</p>
+			<h2>{{ page.A-title }}</h2>
+			<h3>{{ page.A-subtitle }}</h3>
+			<p>{{ page.A-p }}</p>
 		</aside>
 
 		<!-- 2/3 Space -->
 		<div class="mobile-and-desktop">
-			<img src="{{ page.1-image-mobile }}" alt="">
-			<img src="{{ page.1-image-desktop }}" alt="">
+			<img class="border" src="{{ page.A-image-mobile }}" alt="">
+			<img class="border" src="{{ page.A-image-desktop }}" alt="">
 		</div>
 
 	</section>
@@ -54,14 +58,14 @@
 	<section class="grid-three">
 		<!-- 2/3 Space -->
 		<div>
-			<img src="{{ page.2-image-desktop }}" alt="">
+			<img class="border" src="{{ page.B-image-desktop }}" alt="">
 		</div>
 		
 		<!-- 1/3 Space -->
 		<aside>
-			<h2>{{ page.2-title }}</h2>
-			<h3>{{ page.2-subtitle }}</h3>
-			<p>{{ page.2-p }}</p>
+			<h2>{{ page.B-title }}</h2>
+			<h3>{{ page.B-subtitle }}</h3>
+			<p>{{ page.B-p }}</p>
 		</aside>
 
 	</section>
@@ -79,7 +83,7 @@
 
 <!-- # Highlight 2 -->
 	<section>
-		<img class="full-width" src="{{ page.sales-image }}" alt="">
+		<img class="border full-width" src="{{ page.sales-image }}" alt="">
 	</section>
 
 <!-- # Audience -->
@@ -94,7 +98,7 @@
 
 		<!-- 2/3 Space -->
 		<div>
-			<img class="full-width" src="{{ page.audience-image-desktop }}" alt="">
+			<img class="border full-width" src="{{ page.audience-image-desktop }}" alt="">
 		</div>
 
 	</section>
@@ -111,11 +115,11 @@
 		<!-- All Space -->
 		<!-- Image Grid -->
 		<div class="grid-masonry fill-both">
-			<img src="{{ page.header-1 }}" alt="">
-			<img src="{{ page.header-2 }}" alt="">
-			<img src="{{ page.header-3 }}" alt="">
-			<img src="{{ page.header-4 }}" alt="">
-			<img src="{{ page.header-5 }}" alt="">
+			<img class="border" src="{{ page.header-A }}" alt="">
+			<img class="border" src="{{ page.header-B }}" alt="">
+			<img class="border" src="{{ page.header-C }}" alt="">
+			<img class="border" src="{{ page.header-D }}" alt="">
+			<img class="border" src="{{ page.header-E }}" alt="">
 		</div>
 
 	</section>
@@ -125,10 +129,10 @@
 		<h3>Misc</h3>
 		<p><strong>Spot Illustrations</strong></p>
 		<div class="grid-four">
-			<img src="{{ page.spot-image-1 }}" alt="">
-			<img src="{{ page.spot-image-2 }}" alt="">
-			<img src="{{ page.spot-image-3 }}" alt="">
-			<img src="{{ page.spot-image-4 }}" alt="">
+			<img src="{{ page.spot-image-A }}" alt="">
+			<img src="{{ page.spot-image-B }}" alt="">
+			<img src="{{ page.spot-image-C }}" alt="">
+			<img src="{{ page.spot-image-D }}" alt="">
 		</div>
 	</section>
 
@@ -136,17 +140,17 @@
 	<section class="grid-three">
 		<!-- 1/2 Space -->
 		<aside>
-			<h2>{{ page.3-title }}</h2>
-			<h3>{{ page.3-subtitle }}</h3>
-			<p>{{ page.3-p }}</p>
+			<h2>{{ page.C-title }}</h2>
+			<h3>{{ page.C-subtitle }}</h3>
+			<p>{{ page.C-p }}</p>
 			
-			<img src="{{ page.3-image-1 }}" alt="">
+			<img class="border" src="{{ page.C-image-A }}" alt="">
 		</aside>
 
 		<!-- 1/2 Space -->
 		<div>
-			<img style="margin-bottom: 40px" src="{{ page.3-image-2 }}" alt="">
-			<img src="{{ page.3-image-3 }}" alt="">
+			<img class="border" style="margin-bottom: 40px" src="{{ page.C-image-B }}" alt="">
+			<img class="border" src="{{ page.C-image-C }}" alt="">
 		</div>
 
 	</section>

@@ -206,10 +206,16 @@ ul.list {
 }
 
 .tag {
-  background-color: $gray;
-  border-radius: $radius-sm;
+  border-radius: 3px;
   display: inline-block;
   padding: 0.2em 0.5em;
   font-size: 0.8em;
-  color: white;
+  color: $gray;
+  font-weight: 300;
+  border: 1px solid $lgray;
+}
+
+.tag-orange {
+  border-color: $orange;
+  color: $orange;
 }

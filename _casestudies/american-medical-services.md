@@ -4,7 +4,9 @@ title: American Medical Services
 layout: case-study
 quote: 
 description: American Medical Services needed a brand. The Skymouse team stepped up and helped them develop a new logo, social accounts, and website. So the AMS team could keep helping their clients keep their medical centers operating smoothly. 
-services: Consulting, Branding, Web Development
+services: 
+- Web Development
+- Social Media
 permalink: case-studies/american-medical-services.html
 img: /library/images/our-work/website-ams.jpg
 

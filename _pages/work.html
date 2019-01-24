@@ -11,13 +11,18 @@ img-back: /library/images/headers/header-work-back.svg
 img: /library/images/social/social-work.jpg
 ---
 
+<div class="home-hero m-pad">
+	<h1>The work we've done</h1>
+	<h3>Purpose drives passion.</h3>
+</div>
+
 <div id="scene" data-relative-input="true" data-pointer-events="true">
 	<img style="z-index: 2; margin-top: 500px;" data-depth="0.50" src="{{ page.img-front }}" alt="">
 	<img style="z-index: 1; margin-top: 250px;" data-depth="0.30" src="{{ page.img-mid }}" alt="">
 	<img style="z-index: 0" data-depth="0.10" src="{{ page.img-back }}" alt="">
 </div>
 
-<main id="page">
+<main id="page" class="work">
 
 	<section class="_big-idea-box">
 		<div class="content">
@@ -28,19 +33,24 @@ img: /library/images/social/social-work.jpg
 		
 	{% for casestudy in site.casestudies %}
 		
-	<section class="grid-half pad block">
-		<div class="content pad alternate">
-			<h3>{{ casestudy.title }}</h3>
-			<p>{{ casestudy.description }}</p>
-			<a class="action-btn" href="{{ casestudy.url }}">Read more</a>
-		</div>
-		<div class="client-site alternate">
+	<section style="grid-gap:40px; margin-top: 50px;" class="grid-half block">
+		<div class="client-site">
+			<div class="dot"></div>
 			<div class="frame">
-				<div class="dot"></div>
-				<img src="{{ site.baseurl }}{{casestudy.website-img}}">
+				<img src="{{ site.baseurl }}{{ casestudy.website-img }}">
 			</div>
 		</div>
 		
+		<div class="content">
+			<h3>{{ casestudy.title }}</h3>
+			<div> {% for service in casestudy.services %}
+			    <div class="tag">{{service}}</div>
+			  {% endfor %}
+			 </div>
+			
+			<p>{{ casestudy.description }}</p>
+			<a class="action-btn" href="{{ casestudy.url }}">Read more</a>
+		</div>
 	</section> 
 		
 	{% endfor %}

@@ -172,7 +172,7 @@ header {
 
 	img {
 		width: 100%;
-		margin-top: -100px;
+		margin-top: -240px;
 	}
 }
 
@@ -198,7 +198,7 @@ NAVIGATION STYLES
 
 #logo {
 	clear: both; 
-	margin: 18px 0; 
+	margin: 20px 0; 
 	font-size: 1.5em; 
 	display: inline-block;
 	color: $black;
@@ -206,8 +206,9 @@ NAVIGATION STYLES
 	margin-right: 10px;
 
 	img{
-		margin-top: -15px;
-		width: 65px;
+		margin-right: 2px;
+		margin-top: -7px;
+		width: 45px;
 		z-index: 999;
 		float: left;
 	}
@@ -518,35 +519,17 @@ POSTS & CONTENT STYLES
 	bottom: 0px;
 }
 
-.grid-half:nth-child(even) {
-	.content {
-		//grid-column: 1;
-		//grid-row: 1;
-	}
-
-	.client-site {
-		perspective-origin: left;
-		grid-column: 1;
-		grid-row: 1;
-
-		.frame {
-			-webkit-transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
-			transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
-			-webkit-box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
-			box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
-		}
-	}
-}
-
 // POST: Case Study
 .client-site {
+	grid-row: 1;
+	grid-column: 1;
 	perspective: 750px;
 	perspective-origin: left;
 	
 	.frame {
 		position: relative;
 		top: 100px;
-		right: -250px;
+		right: -150px;
 		
 		transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
 		-webkit-transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
@@ -570,8 +553,8 @@ POSTS & CONTENT STYLES
 		height: 5px;
 
 		position: absolute;
-		left: 2px;
-		top: 140px;
+		left: 34px;
+    	top: -41px;
 		z-index: 10;
 
 		transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
@@ -585,12 +568,7 @@ POSTS & CONTENT STYLES
 			height: 5px;
 
 			position: absolute;
-			left: 12px;
-			top: 140px;
-			z-index: 10;
-
-			transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
-			-webkit-transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
+			left: 10px;
 		}
 
 		&:after {
@@ -602,11 +580,6 @@ POSTS & CONTENT STYLES
 
 			position: absolute;
 			left: 20px;
-			top: 140px;
-			z-index: 10;
-
-			transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
-			-webkit-transform: translate(-50%,-50%) rotate3d(.342,-.94,0,22deg) rotate(7deg);
 		}
 	}
 
@@ -618,18 +591,50 @@ POSTS & CONTENT STYLES
 	}
 }
 
+.grid-half:nth-child(even) {
+	.content {
+		// grid-column: 1;
+		// grid-row: 2;
+	}
+
+	.client-site {
+		perspective-origin: left;
+		// grid-column: 1;
+		// grid-row: 1;
+
+		.frame {
+    		right: -200px;
+			-webkit-transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
+			transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
+			-webkit-box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
+			box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
+		}
+
+		.dot { 
+			-webkit-transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
+			transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
+			left: 56px;
+    		top: -47px;
+		}
+	}
+}
+
+
 // Case study page
 .mobile-and-desktop {
 	position: relative;
+	max-height: 1900px;
 
 	img:first-child {
-		width: 250px;
+		border: 3px solid $lgray;
+		width: 200px;
 		position: absolute;
 		top: 100px;
 		left: -50px;
 	}
 
 	img:last-child {
+		border: 3px solid $lgray;
 		width: 100%;
 	}
 }
@@ -657,6 +662,11 @@ POSTS & CONTENT STYLES
 		width: 50px;
     	border-radius: 50px;
 	}
+}
+
+.border {
+	border: 3px solid $lgray;
+	box-shadow: -25.1px 32.5px 75px -25px rgba(30, 30, 63, 0.31), -16.2px 37.5px 35px -27.5px rgba(0, 0, 0, 0.21);
 }
 
 /*********************

@@ -4,7 +4,9 @@ title: Visit DFW
 layout: case-study
 quote:
 description: Search Engine Optimization, Development and team training. We helped the team at Visit DFW understand how their website was performing, how to improve and what to do when things go wrong.
-Services offered: Hosting, SEO, Consulting, SEO Training
+services: 
+- SEO
+- Web Development
 permalink: case-studies/visit-dfw.html
 img: /library/images/icons/icon-plan.svg
 website-img: /library/images/our-work/visitdfw/visitdfw.jpeg

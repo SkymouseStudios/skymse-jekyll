@@ -11,7 +11,7 @@ body {
 }
 
 #page, #inner-header, #product, #Checkout {
-	width: 700px; // set content width
+	width: 800px; // set content width
 	margin: 0 auto; // center content in page
 }
 
@@ -125,23 +125,15 @@ section {
 	margin-left: auto;
 }
 
-.grid-half:nth-child(even) {
+.grid-half:nth-child(odd) {
 	.content {
-		grid-column: 1;
+	 	grid-column: 1;
 		grid-row: 1;
-	}
+	 }
 
 	.client-site {
-		perspective-origin: left;
-		grid-column: 1;
+		grid-column: 2;
 		grid-row: 1;
-
-		.frame {
-			-webkit-transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
-			transform: translate(-50%,-50%) rotate3d(.5,.866,0,15deg) rotate(-1deg);
-			-webkit-box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
-			box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5),-16.2px 37.5px 75px -37.5px rgba(0,0,0,.6);
-		}
 	}
 }
 
