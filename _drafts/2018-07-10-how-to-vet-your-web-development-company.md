@@ -2,7 +2,7 @@
 layout: post
 title: How to vet your web development company.
 author: _profiles/patrick-hanus.md
-img: "/library/images/our-work/website-ams.jpg"
+img: ''
 permalink: "/how-to-vet-you-web-development-company"
 ttr: 7
 categories:
