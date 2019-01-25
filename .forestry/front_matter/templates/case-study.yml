@@ -1,0 +1,235 @@
+---
+label: Case Study
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: case-study
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: img
+  label: Img
+  type: file
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: services
+  label: Services
+  type: list
+  hidden: false
+  default: ''
+- name: website-img
+  label: Website img
+  type: file
+  hidden: false
+  default: ''
+- name: elevator-pitch
+  label: Elevator pitch
+  type: textarea
+  hidden: false
+  default: ''
+- name: A-title
+  label: A title
+  type: text
+  hidden: false
+  default: ''
+- name: A-subtitle
+  label: A subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: A-p
+  label: A p
+  type: textarea
+  hidden: false
+  default: ''
+- name: A-image-desktop
+  label: A image desktop
+  type: file
+  hidden: false
+  default: ''
+- name: A-image-mobile
+  label: A image mobile
+  type: file
+  hidden: false
+  default: ''
+- name: B-title
+  label: B title
+  type: text
+  hidden: false
+  default: ''
+- name: B-subtitle
+  label: B subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: B-p
+  label: B p
+  type: textarea
+  hidden: false
+  default: ''
+- name: B-image-desktop
+  label: B image desktop
+  type: file
+  hidden: false
+  default: ''
+- name: designer-quote
+  label: Designer quote
+  type: textarea
+  hidden: false
+  default: ''
+- name: designer-name
+  label: Designer name
+  type: text
+  hidden: false
+  default: ''
+- name: designer-title
+  label: Designer title
+  type: text
+  hidden: false
+  default: ''
+- name: designer-picture
+  label: Designer picture
+  type: file
+  hidden: false
+  default: ''
+- name: sales-image
+  label: Sales image
+  type: file
+  hidden: false
+  default: ''
+- name: audience-title
+  label: Audience title
+  type: text
+  hidden: false
+  default: ''
+- name: audience-subtitle
+  label: Audience subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: audience-p
+  label: Audience p
+  type: textarea
+  hidden: false
+  default: ''
+- name: audience-image-desktop
+  label: Audience image desktop
+  type: file
+  hidden: false
+  default: ''
+- name: artwork-title
+  label: Artwork title
+  type: text
+  hidden: false
+  default: ''
+- name: artwork-subtitle
+  label: Artwork subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: artwork-p
+  label: Artwork p
+  type: textarea
+  hidden: false
+  default: ''
+- name: header-A
+  label: Header a
+  type: file
+  hidden: false
+  default: ''
+- name: header-B
+  label: Header b
+  type: file
+  hidden: false
+  default: ''
+- name: header-C
+  label: Header c
+  type: file
+  hidden: false
+  default: ''
+- name: header-D
+  label: Header d
+  type: file
+  hidden: false
+  default: ''
+- name: header-E
+  label: Header e
+  type: file
+  hidden: false
+  default: ''
+- name: spot-image-A
+  label: Spot image a
+  type: file
+  hidden: false
+  default: ''
+- name: spot-image-B
+  label: Spot image b
+  type: file
+  hidden: false
+  default: ''
+- name: spot-image-C
+  label: Spot image c
+  type: file
+  hidden: false
+  default: ''
+- name: spot-image-D
+  label: Spot image d
+  type: file
+  hidden: false
+  default: ''
+- name: C-title
+  label: C title
+  type: text
+  hidden: false
+  default: ''
+- name: C-subtitle
+  label: C subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: C-p
+  label: C p
+  type: textarea
+  hidden: false
+  default: ''
+- name: C-image-A
+  label: C image a
+  type: file
+  hidden: false
+  default: ''
+- name: C-image-B
+  label: C image b
+  type: file
+  hidden: false
+  default: ''
+- name: C-image-C
+  label: C image c
+  type: file
+  hidden: false
+  default: ''
+- name: elevator-pitch-title
+  label: Elevator pitch title
+  type: text
+  hidden: false
+  default: ''
