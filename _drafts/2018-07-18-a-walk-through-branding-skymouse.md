@@ -7,6 +7,17 @@ permalink: "/how-to-build-and-brand-your-business.html"
 ttr: 7
 
 ---
+**The problem**  
+It's hard to build a business
+
+**The plan to solve the problem**  
+Here are the steps for building a brand
+
+**What the world looks like when you have solved the problem**  
+You will have a business that people know what you do, why you do it and they will give you money.
+
+***
+
 ## Building a business is hard.
 
 Writing how we did it is even harder.
@@ -58,31 +69,19 @@ Motor Oil for main titles
 Avenir Next for Body (Sans Serif)
 We need another font for our Heading 1/ for internal thoughts and dialogues.
 
-1. Codify your vision We must maintain a unified and consistent brand identity. The website, business, cards, logos and animations must all have the same voice and the theme so people know its coming from us.
-    
-2. Determine the value of function benefit you promise to deliver. We are a brand launchpad. We educate and mentor as we go, working with you to tell your story and send you on your way.
-    
-3. Our story is a mouse trying to reach his cheese up in the sky. He has to be inventive, persistent and creative. Sometimes he fails, but he keeps on trying.
-    
-4. Determine your core values. We want to craft brand stories. That is what we love. Our partners want to share their story. We create a great design experience and user experience.
-    
-5. Elevator speech. We partner with aspiring brands to help them create and implement their vision by crafting a beautiful and functional client experience. Resulting in a sustainable marketing strategy and the knowledge to carry that strategy into the future. We are looking for partners, not just clients.
-
-1.  Further Concepts: Brand experience - elements that make up your brand and how it is delivered to customers and clients.
-        
-2.  How do we effectively communicate our concepts to people who do not understand the digital world or the marketing landscape of this era?
-
-1. When talking to a CEO: we need to communicate how we can increase their profits through greater brand cohesion and consistency.
-
-2. When we are talking to a
-    
-6. Twitter bio. Welcome to skylab (Mouse in a lab jacket), cool ideas, insights and stuff to distract you from your real work. Questions? Just ask. (We bite a little)
-    
-7. Visual Identity. Our logo is a pin with wings and cheese. The pin being a sign of accomplishment and the cheese being the goal or end result desired by the (mouse) people
-    
-8. Resume. Start with a funny story hook. Illustration and picture split. Skills and abilities chart. Disc profile explaining how we help each other and balance each other out.. What we have done and our hopes, dreams and aspirations.
-    
-9. Website. Everything is anchored in the website. It’s the hq for our brand with everything else off shooting it. “A safe place.” What we’ve done and what we can do for you. Client testimonies, case studies. We need a client path/experience to help them satisfy their needs.
+ 1. Codify your vision We must maintain a unified and consistent brand identity. The website, business, cards, logos and animations must all have the same voice and the theme so people know its coming from us.
+ 2. Determine the value of function benefit you promise to deliver. We are a brand launchpad. We educate and mentor as we go, working with you to tell your story and send you on your way.
+ 3. Our story is a mouse trying to reach his cheese up in the sky. He has to be inventive, persistent and creative. Sometimes he fails, but he keeps on trying.
+ 4. Determine your core values. We want to craft brand stories. That is what we love. Our partners want to share their story. We create a great design experience and user experience.
+ 5. Elevator speech. We partner with aspiring brands to help them create and implement their vision by crafting a beautiful and functional client experience. Resulting in a sustainable marketing strategy and the knowledge to carry that strategy into the future. We are looking for partners, not just clients.
+ 6. Further Concepts: Brand experience - elements that make up your brand and how it is delivered to customers and clients.
+ 7. How do we effectively communicate our concepts to people who do not understand the digital world or the marketing landscape of this era?
+ 8. When talking to a CEO: we need to communicate how we can increase their profits through greater brand cohesion and consistency.
+ 9. When we are talking to a
+10. Twitter bio. Welcome to skylab (Mouse in a lab jacket), cool ideas, insights and stuff to distract you from your real work. Questions? Just ask. (We bite a little)
+11. Visual Identity. Our logo is a pin with wings and cheese. The pin being a sign of accomplishment and the cheese being the goal or end result desired by the (mouse) people
+12. Resume. Start with a funny story hook. Illustration and picture split. Skills and abilities chart. Disc profile explaining how we help each other and balance each other out.. What we have done and our hopes, dreams and aspirations.
+13. Website. Everything is anchored in the website. It’s the hq for our brand with everything else off shooting it. “A safe place.” What we’ve done and what we can do for you. Client testimonies, case studies. We need a client path/experience to help them satisfy their needs.
 
 Something I think is very powerful is the concept of illustration. It personalizes you as a brand, it makes you stand out and it also creates a mystery, a sense of awe amongst you followers. I once read a blogpost that explained why the CEO of a company does all the illustrations for their blog. It shows you care. It shows _intention_. People like that. People feek cheated when they just see your website is a wordpress template or a simple squate space site. People know the difference. They can feel it. That's why the big brands get the super expensive websites, it shows they care.
 
