@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to actually strategize your social media
-author: Patrick Hanus
-img: "/library/images/our-work/website-ams.jpg"
+author: _profiles/patrick-hanus.md
+img: ''
 permalink: "/how-to-actually-strategize-your-social-media.html"
 ttr: 7
 categories:
