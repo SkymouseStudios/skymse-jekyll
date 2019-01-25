@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Websites Aren't Products Anymore...They're Services
-author: John Welch
+author: _profiles/john-welch.md
 img: "/library/images/headers/header-about.svg"
-permalink: "/websites-arent-a-product-anymore-theyre-a-service.html"
+permalink: "/websites-arent-a-product-anymore"
 ttr: 6.5
+categories:
+- Web Design
+- Business
 
 ---
 A business owner, his name was Ted, decided that he needed a new website. His current site had been built in the mid 2000’s and he was pretty sure it wasn’t screaming “sophisticated” anymore. He had one problem though: he had no idea what a new website would cost him. 
