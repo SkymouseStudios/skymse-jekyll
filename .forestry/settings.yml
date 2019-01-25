@@ -23,6 +23,11 @@ sections:
   label: Posts
   create: all
 - type: directory
+  path: _profiles
+  label: Profiles
+  create: all
+  match: "**/*"
+- type: directory
   path: _data
   label: Data
   create: none
