@@ -1,42 +1,54 @@
 ---
 layout: post
-title: 10 tips for managing your email
+title: 6 tips for managing your email
 author: Patrick Hanus
 img: "/library/images/our-work/website-ams.jpg"
-permalink: "/how-to-actually-strategize-your-social-media.html"
+permalink: "/6-tips-for-managing-your-email"
 ttr: 7
 
 ---
-Write an article on how I use asana to keep my inbox clean and empty.
+## **Outline**
 
-Everyone has their own methodology, this is mine. Feel free to give this a shot.
+**The problem**  
+Email is distracting and difficult to manage.
 
-Email is the worst. Its messy, confusing and gets out of hand really quick. I think one of the best ways to shoot your productivity in the leg is working out of your email. The idea of using email as a to-do list is stupid.
+**The plan to solve the problem.**  
+Take these steps to make email better.
 
-Check  your email as infrequently as possible. If you must do it, do it at a designated time, like once an hour or whatever. Just try to keep it as a menial task that is done to waste time. Going through email has nothing to do with getting things done. It is a waste of time,
+**How life looks once the problem is solved.**  
+You will have more time each day, respond to people sooner, and have a more peaceful work-day.
 
-Things I need to do now or later. (Tasks and Project related information/files)
-->Send to Asana (This will maintain attachments!) This is also where prioritization takes place.
+***
 
-Things I want to read later. (Blogs and newsletters.)
-->Send to Pocket (read when I can focus, absorb and take notes)
+Email is the worst. It's messy, confusing and gets out of hand really quick. The idea of using email as a to-do list is silly. The best way to shoot your productivity in the foot is "working out of your email."
 
-Information and things I want to hold onto forever. (Pictures, files, conversations)
-->Send to Evernote (Usually ends up being just thoughts and ideas)
+You wouldn't believe how many people I know who spend 2 hours or more in their email. It's a businessman's Facebook. It's addicting.
 
-Nip alerts in the bud. (Automate alerts to a channel on slack)
-->Send to Slack (things like newsletters that can just be RSS feeds, twitter/social media alerts, 
+1. Create tasks and prioritize.
 
-Once it has been processed correctly, I archive it or delete it so it still exists if I need to search for things. The ideal result is to have inbox zero most of the time.
+   I use Asana for all my project management. So every time I have a new email involving a task, I create a task, copy any important information over and then archive that email. Asana has a feature that allows you to forward to a special email and a task is created auto-magically. It's wonderful. If you don't use Asana us a to-do list or a CRM, if you company has one.
 
-The Danger
-The trap to fall into is to become obsessed with cleaning and sorting your inbox. This is bad. email is and always will be a waste of time. The goal is to spend as little time in your inbox as humanly possible. What I’m doing now is checking my inbox at the end of a block of work time. So turn off email alerts and notifications, so that you work distraction-free for 50-minute (you can also do longer, whatever system works for you) blocks and the ten minute break in between where you check on the email, update your status in Asana, get a drink of water and reset to move on to the next project.
+   If it's information I want to hold on to I add it to my Evernote. Your email is not a notebook. Stop treating it like one.
+2. Schedule for later.
 
-Prioritize like its your Job. Because it is.
-The biggest problem with email is that it throws a brick in your smooth prioritization system. It can quickly pull you out of something much more important and urgent, simply because your brain loves distraction. Once someone asks a question or asks something of you you should add it to Asana and see how it matches up against the rest of your tasks. Think of it like a ticket system, and the more important tickets are going to get more love and Asana helps you make sure you do that. If you want to get to a task in a couple days, you can add a due date and make sure you have your reminder alerts set to ping you on the right day.
+   I use Spark as my email client. It's great for scheduling emails. That way I do all my email tasks at once. My goals is to not be sending emails peppered through the day.
+3. Schedule time to look at email.
 
-Slack + Asana
-One thing I like about this is that I have a channel set up for each project, so I can scroll through and see a chain of the work, completed tasks, and comments regarding the projects. A nice little digital trail. This is especially nice if you are working with a team or assigning projects to people.
+   I check my email as infrequently as possible. If I must do it, do it at a designated time, like once an hour. "Going through email" has nothing to do with productivity. It is a waste of time. Get in to your email, respond immediately if you have to, send any tasks to Asana and then archive the rest. Boom. The cool cats call it "Inbox Zero."
 
-Other Ideas
-Unsubscribe immediately from emails you don’t want to get like coupons newsletters, or flyers, and send them to a folder so you can look at them on an as-needed basis, rather than having to sort through them on a reoccurring pattern.
+
+4. Archive everything.
+
+   I keep my inbox empty. You heard right. If I need to find an old email, I search the archives. Indiana Jones style. By sorting and archiving all my email, I don't lose track of important tasks. When I archive something I know that I can track it's progress on my to-do list. 
+
+
+5. Unsubscribe from things you don't need.
+
+   I can't believe how I still get emails that I don't care about. I get in the habit of deleting them. I now unsubscribe from emails that I am not going to read. It prevents having to delete them every week. If I want to read the blog post later I add it to my Pocket app. Pocket lets me keep all my reading in one place.
+6. Put alerts somewhere else.
+
+   I forward most of my alert emails to Slack. If I want to see when I get a new lead from our website or a new subscriber on MailChimp, I've set my alerts to show up in Slack. This can also be done with Microsoft Teams and some other messaging apps.
+
+Your life will be better once you get a handle on your email.
+
+You will know what you need to work on. You will spend less time wandering through your inbox. You might even have time to get home at 4pm and sit by the pool for a bit.
