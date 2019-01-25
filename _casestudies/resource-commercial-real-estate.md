@@ -4,7 +4,7 @@ title: Reclaiming Digital Real Estate
 layout: case-study
 subtitle: Resource Commercial Real Estate
 quote: 
-description: RESOURCE needed a new website that clearly articulated their brand, reached their users and converted leads. Skymouse built them a custom Wordpress them, helped them write their web copy and oversaw design and layout for the new site. Traffic has since then increased by 30%. 
+description: RESOURCE needed a website that clearly articulated their brand, reached their users and converted leads. Skymouse built a custom Wordpress theme, developed a content strategy and oversaw design of the new site. Organic traffic increased by 30%. 
 services:
 - SEO
 - Email Marketing
@@ -15,21 +15,21 @@ img: /library/images/our-work/resource/resource-banner.jpg
 website-img: /library/images/our-work/resource/resource.jpg
 
 # Introduction
-elevator-pitch-title: Grow your business.
-elevator-pitch: RESOURCE Commercial Real Estate is a local Indianapolis Firm helping businesses find new property, sell current property or manage their real estate.
+elevator-pitch-title: Love your space.
+elevator-pitch: RESOURCE Commercial Real Estate is a locally-owned Indianapolis firm helping businesses find, sell or manage commercial real estate.
 
 # Highlight A
 A-title: Everything you need.
 A-subtitle: All in one place.
-A-p: For the home page, we realized the program wasn’t very clearly explained nor was the mission of the program communicated.
+A-p: Resource has many offerings. The challenge was to helps users find what they need and do it with ease. After multiple iterations, we landed on a layout that worked.
 
 A-image-desktop: /library/images/our-work/resource/resource-home-desktop.png
 A-image-mobile: /library/images/our-work/resource/resource-home-mobile.png
 
 # Highlight B
-B-title: Do I need change?
-B-subtitle: Convincing modern man.
-B-p: Our biggest challenge was phrasing things correctly and making changes effectively on a budget. Those Catholic Men wanted to make sure donors money was being used effectively and making a difference in sales.
+B-title: Sir, We've Made Contact.
+B-subtitle: Making engagement easy.
+B-p: The old website wasn't generating any leads. Many of the site users are in a rush and don't want to bother with contact forms. By incorporating an online chat service known as Drift, we were able to go from no leads to 9 qualified leads a month.
 
 B-image-desktop: /library/images/our-work/resource/resource-home-close.png
 

@@ -4,7 +4,7 @@ title: Finding the way to Exodus
 subtitle: Exodus 90
 layout: case-study
 quote: 
-description: The team at Exodus 90, a non-profit spiritual program for men, needed help updating their website. Skymouse helped them make changes quickly, explore new marketing campaigns and improve their website so they could get new sign-ups and increase donations.
+description: Exodus 90, a non-profit spiritual program for men, needed help wrangling their digital marketing. Skymouse helped them launch new landing pages quickly, explore new marketing campaigns and improve their website to boost sign-ups and increase donations.
 
 services:
 - Web Development
