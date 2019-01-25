@@ -22,6 +22,11 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: directory
+  path: _data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml}"
 upload_dir: uploads
 public_path: "/library"
 front_matter_path: ''
