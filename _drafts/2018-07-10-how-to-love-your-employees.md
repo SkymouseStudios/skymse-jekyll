@@ -1,14 +1,12 @@
 ---
-
 layout: post
-title: "How to find and keep hardworking millenial employees."
+title: How to find and keep hardworking millenial employees.
 author: Patrick Hanus
 img: "/library/images/our-work/website-ams.jpg"
 permalink: "/how-to-actually-strategize-your-social-media.html"
 ttr: 7
 
 ---
-
 Creating the best EX (Employee Experience)
 
 In a world where User Experience, Client Experience and Whatnot are so important, what about the way we treat our employees as business owners. I’ve searched some time as an employee and I noticed a could cool things that I liked, but some pretty obvious things that were not ever taken into consideration. If a company expects you to be flexible (work overtime) Then they should be flexible with you.
