@@ -19,19 +19,14 @@ sections:
   label: Services
   create: all
   match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: _profiles
   label: Profiles
   create: all
   match: "**/*"
-- type: directory
-  path: _data
-  label: Data
-  create: none
-  match: "**/*.{json,yaml,yml}"
+- type: jekyll-posts
+  label: Posts
+  create: all
 upload_dir: uploads
 public_path: "/library"
 front_matter_path: ''
