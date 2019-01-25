@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: 10 tips for managing your email
 author: Patrick Hanus
