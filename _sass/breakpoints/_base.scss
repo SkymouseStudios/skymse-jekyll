@@ -216,7 +216,7 @@ NAVIGATION STYLES
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(150, 150, 150, 0.9);
+    background: $gray;
     border-left: 5px solid $orange;
     padding: 5% 1em;
     z-index: 999;
@@ -228,10 +228,8 @@ NAVIGATION STYLES
     transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
 
     a {
-    	width: 120%;
-    	font-size: 1.5em;
+    	font-size: 1.4em;
     	padding: 0.8em;
-    	border-bottom: 3px solid #cfcfcf;
     }
 } 
 
@@ -243,9 +241,12 @@ NAVIGATION STYLES
     -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
     transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
 }
+
 #menu-burger {
 	float: right;
 	margin-top: 20px;
+	cursor: pointer;
+	height: 32px;
 }
 
 #line {
@@ -255,9 +256,9 @@ NAVIGATION STYLES
     position: relative;
     z-index: 999;
     vertical-align: middle;
-    cursor: pointer;
     background-color: $black;
     border-radius: 2px;
+    transition: 0.2s;
 
     &:before {
     	position: absolute;
@@ -268,6 +269,7 @@ NAVIGATION STYLES
 		width: 40px;
 		background-color: $black;
 		border-radius: 2px;
+		transition: 0.2s;
 	}
 
 	&:after {
@@ -279,6 +281,26 @@ NAVIGATION STYLES
 		width: 40px;
 		background-color: $black;
 		border-radius: 2px;
+		transition: 0.2s;
+	}
+
+	&.exit {
+		height: 0px;
+		transition: 0.2s;
+
+		&:before {
+	    	top: 12px;
+	    
+			transform: rotate(45deg);
+			transition: 0.2s;
+		}
+
+		&:after {
+			bottom: -18px;
+
+			transform: rotate(-45deg);
+			transition: 0.2s;
+		}
 	}
 }
 

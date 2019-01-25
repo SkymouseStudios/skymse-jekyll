@@ -47,6 +47,7 @@
 function mobileMenu() {
   	document.getElementById('menu-burger').addEventListener('click',function() {
     document.getElementById('mobile-menu').classList.toggle('menu-shown');
+    document.getElementById('line').classList.toggle('exit');
 	});
 }
 
