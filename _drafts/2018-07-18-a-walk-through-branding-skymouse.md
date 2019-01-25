@@ -1,10 +1,13 @@
 ---
 layout: post
 title: How to Build and Brand Your Business
-author: Patrick Hanus
-img: "/library/images/our-work/website-ams.jpg"
-permalink: "/how-to-build-and-brand-your-business.html"
-ttr: 7
+author: _profiles/patrick-hanus.md
+img: ''
+permalink: "/how-to-build-and-brand-your-business"
+ttr: 15
+categories:
+- Business
+- Branding
 
 ---
 **The problem**  
