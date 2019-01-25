@@ -2,12 +2,15 @@
 layout: post
 title: What Great Brands Do
 subtitle: Part 1 of 2 in a Book Report
-author: Patrick Hanus
-img: "/library/images/our-work/website-ams.jpg"
+author: _profiles/patrick-hanus.md
+img: ''
 permalink: "/what-great-brands-do-part-1"
 ttr: 7
 authorImg: "/library/images/profile/patricks-profile-s.jpg"
 authorTitle: Creative Director
+categories:
+- Branding
+- Business
 
 ---
 ## Great Brands Start Inside
