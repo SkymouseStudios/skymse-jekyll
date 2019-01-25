@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What Great Brands Do - (Part 2)
+title: What Great Brands Do (Part 2)
 author: _profiles/patrick-hanus.md
-img: "/library/images/our-work/website-ams.jpg"
+img: ''
 permalink: "/what-great-brands-do-part-2"
 ttr: 7
 categories:
