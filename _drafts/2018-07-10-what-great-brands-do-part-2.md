@@ -1,10 +1,13 @@
 ---
 layout: post
 title: What Great Brands Do - (Part 2)
-author: Patrick Hanus
+author: _profiles/patrick-hanus.md
 img: "/library/images/our-work/website-ams.jpg"
-permalink: "/what-great-brands-do-part-2.html"
+permalink: "/what-great-brands-do-part-2"
 ttr: 7
+categories:
+- Branding
+- Business
 
 ---
 ## Great Brands Avoid Selling Products
