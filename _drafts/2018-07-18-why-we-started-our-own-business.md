@@ -2,8 +2,11 @@
 layout: post
 title: Why Skymouse Studios got started.
 img: "/library/images/our-work/website-ams.jpg"
-permalink: "/how-skymouse-studios-got-started.html"
+permalink: "/why-skymouse-studios-got-started"
 ttr: 7
+categories:
+- Business
+author: _profiles/patrick-hanus.md
 
 ---
 ## Why did we start Skymouse?
