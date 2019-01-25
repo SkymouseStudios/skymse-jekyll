@@ -1,10 +1,13 @@
 ---
 layout: post
 title: How to find and keep hardworking millenial employees.
-author: Patrick Hanus
-img: "/library/images/our-work/website-ams.jpg"
-permalink: "/how-to-actually-strategize-your-social-media.html"
+author: _profiles/patrick-hanus.md
+img: ''
+permalink: "/how-to-find-and-keep-hardworking-millenial-employees"
 ttr: 7
+categories:
+- Branding
+- Business
 
 ---
 Creating the best EX (Employee Experience)
