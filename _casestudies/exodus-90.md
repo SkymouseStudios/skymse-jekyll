@@ -35,9 +35,9 @@ B-image-desktop: /library/images/our-work/exodus90/exodus90-home-close.png
 
 # Designer Quote
 designer-quote: We really liked the visual brand, so we wanted to hone it and not reinvent the wheel. It was a fun challege to use those design tools in a new and creative way.
-designer-name: Jacob Lawkowski
+designer-name: Jacob Laskowski
 designer-title: Designer
-designer-picture: /library/images/profile/johns-profile.jpg
+designer-picture: /library/images/our-work/exodus90/exodus90-jacob.jpg
 
 # Highlight Basic
 sales-image: /library/images/our-work/exodus90/exodus90-nola.png
