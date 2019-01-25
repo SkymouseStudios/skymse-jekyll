@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop with all the Branding
+title: Stop with all the branding
 author: John Welch
 img: "/library/images/headers/header-about.svg"
 permalink: "/stop-with-all-the-branding.html"
