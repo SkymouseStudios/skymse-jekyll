@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: How to vet your web development company
 author: Patrick Hanus
