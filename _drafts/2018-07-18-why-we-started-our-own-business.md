@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Skymouse Studios got started.
-img: "/library/images/our-work/website-ams.jpg"
+img: ''
 permalink: "/why-skymouse-studios-got-started"
 ttr: 7
 categories:
