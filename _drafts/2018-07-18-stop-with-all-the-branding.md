@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Stop with all the branding
-author: John Welch
+author: _profiles/john-welch.md
 img: "/library/images/headers/header-about.svg"
-permalink: "/stop-with-all-the-branding.html"
+permalink: "/stop-with-all-the-branding"
 ttr: 8
+categories:
+- Business
+- Branding
 
 ---
 ### I come from a family of athletes. 
