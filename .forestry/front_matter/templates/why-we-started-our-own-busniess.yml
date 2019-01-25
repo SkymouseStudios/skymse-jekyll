@@ -47,10 +47,6 @@ fields:
   name: categories
   default: []
 - type: select
-  config:
-    source:
-      type: documents
-- type: select
   name: author
   config:
     source:
