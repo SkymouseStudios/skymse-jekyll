@@ -46,5 +46,17 @@ fields:
   label: Categories
   name: categories
   default: []
+- type: select
+  config:
+    source:
+      type: documents
+- type: select
+  name: author
+  config:
+    source:
+      type: documents
+      section: profiles
+    required: true
+  label: Author
 pages:
 - _posts/2018-07-28-how-the-heck-to-do-social-media.md
