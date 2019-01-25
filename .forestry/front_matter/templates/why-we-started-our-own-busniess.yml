@@ -54,9 +54,11 @@ fields:
   name: author
   config:
     source:
-      type: documents
+      type: pages
       section: profiles
+      file: _profiles/patrick-hanus.md
     required: true
   label: Author
+  default: _profiles/patrick-hanus.md
 pages:
 - _posts/2018-07-28-how-the-heck-to-do-social-media.md
