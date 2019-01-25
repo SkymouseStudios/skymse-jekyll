@@ -1,6 +1,6 @@
 ---
 
-title: Free Call
+title: Email Marketing
 layout: product
 description: We know not everyone is a good fit. Let's set up a call so that we can learn more about each other.
 price: Free!

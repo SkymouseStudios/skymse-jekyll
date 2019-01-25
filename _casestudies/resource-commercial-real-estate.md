@@ -77,8 +77,8 @@ C-image-C: /library/images/our-work/resource/resource-before-3.png
 
 ---
 
-Those Catholic Men asked us to help redesign and maintain resource.com to make it all clearer.
+RESOURCE had recently gotten a new website. The problem was the new site was not engaging, had very little traffic and was on the 3rd page of Google. Much of the site's information was out of date or missing.
 
-With thousands of new registrations happening each year, the site is a huge driver of growth. We worked closely with Those Catholic Men, both onsite and offsite to improve conversion and better communicate the brand.
+As Indianapolis's largest locally-owned firm, RESOURCE needed a site that would be easy to find, and help users contact brokers to help them with their needs.
 
-By making the site comprehensive, easy to navigate and focusing on prospects, the redesign aims to increase the impact of resource.com on the bottom line.
+This required a specialized WordPress Theme that would make rcre.com look and work like it should. The team also requested a custom back-end allowing non-technical folks to make edits.

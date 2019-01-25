@@ -1,6 +1,6 @@
 ---
 
-title: Marketing LaunchPad
+title: Social Media
 subtitle: Start growing your revenue in 30 days.
 layout: landing-page
 description: You didn’t go into business to waste time trying to market your product. You did it because you’re passionate about helping your customers. 

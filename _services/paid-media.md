@@ -1,6 +1,6 @@
 ---
 
-title: SkyTeam
+title: Paid Media
 layout: product
 description: "Stay on top of your marketing effortlessly. We handle the nitty gritty so you can focus on what you love."
 price: Starting at $500/month
