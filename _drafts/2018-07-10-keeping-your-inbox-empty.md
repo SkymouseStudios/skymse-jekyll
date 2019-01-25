@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 tips for managing your email
+title: 6 tips for managing your email.
 author: Patrick Hanus
 img: "/library/images/our-work/website-ams.jpg"
 permalink: "/6-tips-for-managing-your-email"
