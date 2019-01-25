@@ -6,8 +6,8 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: post
 - name: title
   label: Title
   type: text
@@ -31,3 +31,18 @@ fields:
   description: About how long it takes to read this post. (Time yourself)
   config:
     required: true
+- type: list
+  config:
+    max: '3'
+    min: '1'
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Branding
+    - Business
+    - Web Design
+    - Productivity
+  label: Categories
+  name: categories
+  default: []
