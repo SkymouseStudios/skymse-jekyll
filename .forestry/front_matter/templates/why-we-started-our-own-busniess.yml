@@ -46,3 +46,5 @@ fields:
   label: Categories
   name: categories
   default: []
+pages:
+- _posts/2018-07-28-how-the-heck-to-do-social-media.md

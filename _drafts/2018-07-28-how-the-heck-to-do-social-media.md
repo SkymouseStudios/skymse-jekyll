@@ -5,6 +5,8 @@ author: Patrick Hanus
 img: "/library/images/our-work/website-ams.jpg"
 permalink: "/how-to-actually-strategize-your-social-media.html"
 ttr: 7
+categories:
+- Business
 
 ---
 ## TL;DR
