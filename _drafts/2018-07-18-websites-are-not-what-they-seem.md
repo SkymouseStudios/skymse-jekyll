@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Websites Aren't Products Anymore...They're Services
+title: Websites aren't products...they're services
 author: _profiles/john-welch.md
 img: "/library/images/headers/header-about.svg"
 permalink: "/websites-arent-a-product-anymore"
