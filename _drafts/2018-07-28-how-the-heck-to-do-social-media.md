@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to *Actually* Strategize Your Social Media
+title: How to actually strategize your social media
 author: Patrick Hanus
 img: "/library/images/our-work/website-ams.jpg"
 permalink: "/how-to-actually-strategize-your-social-media.html"
@@ -22,27 +22,29 @@ Jesus had followers becuase he healed lepersy and cool stuff like that. He gave 
 
 * Gary Vaynerchuck (content about media and motivation)
 * Adam Dunaway (content about design, the web and humor)
+* Andrew Kramer (content about motion graphics and animation)
 * Invision App
 
 The same principles apply when writing blog posts. If you’re gonna write something, write something people care about. Hone in on your audience. Don’t try to please everyone. It’s impossible. Just ask my girlfriend’s mom.
 
 ### 1. Sit down and make a plan.
 
-Don't panic. No one wants to do this. You're not alone. Plans take time, and that’s okay. Your followers and your boss will thank you later. Every person is different. Every organization has it’s own vibes. This should be evident on your social media. 
+Don't panic. No one wants to do this. You're not alone. Plans take time, and that’s okay. Your followers and your boss will thank you later. Every person is different. Every organization has it’s own vibes. This should be evident on your social media.
 
-> Find out what makes you different! 
+> Find out what makes you different!
 
-What you need to do is find out who your audience is, what they want and how you can give it to them in a format they understand and love. Do they want to see a beautiful office spaceS or a colorful report with the biggest real estate deals in your area? This plan should evolve as your following evolves.
+What you need to do is find out who your audience is, what they want and how you can give it to them in a format they understand and love. Do they want to see a beautiful office space or a colorful report with the biggest real estate deals in your area? This plan should evolve as your following evolves.
 
 #### Social Media Master Plan
 
-* the company you work at
+* Your company
+  * Who is your perfect customer?
 * Your personal social media accounts
 * Other companies you manage their social media for
 
 #### Resources
 
-* Make a list of news resource you want to check on a regular basis for articles that you clients are interested in. This could also include twitter accounts, Facebook accounts or some other social media channel that inspires you:
+* Make a list of news resources you want to check on a regular basis for articles that you clients are interested in. This could also include twitter accounts, Facebook accounts or some other social media channel that inspires you:
 * wallstreet journal
 * growINdiana.net
 * GoogleMaps
@@ -97,7 +99,7 @@ We all love free stuff. Branded hats and mugs, gift cards, tickets to Dave Mathe
 
 ### 4. So what about promoted advertisements?
 
-Promoted is still only worth it if people see value. You want to seduce them into following you. So they go to your profile, are they going to see a stream of awesome content? Or just a slew of shared articles from who knows where? You don’t want to drive your traffic off a cliff. 
+Promoted is still only worth it if people see value. You want to seduce them into following you. So they go to your profile, are they going to see a stream of awesome content? Or just a slew of shared articles from who knows where? You don’t want to drive your traffic off a cliff.
 
 You also want to show that the money is making a return, so whether thats getting clicks, getting impressions or getting acual purchases, you should go in with a gameplan.
 
@@ -111,11 +113,11 @@ You also want to show that the money is making a return, so whether thats gettin
 
 #### Our Plan
 
-So let's start with out plan. Let's pretend we are a boring law firm, because I think thats a good example of an organization that might have trouble with social media. We'll call it Zebra & Associates, LLC. 
+So let's start with our plan. Let's pretend we are a boring law firm, because I think that's a good example of an organization that might have trouble with social media. We'll call it Zebra & Associates, LLC.
 
 ##### What do we want to accomplish?
 
-Social media for the sake of social media is a bad idea. So let's think about potential call to actions here
+Social media for the sake of social media is a bad idea. So let's think about a potential call to action here.
 
 * Visit the website (bad idea, we don't know they will convert)
 * Follow our social media account (not bad, but not the end
@@ -125,12 +127,14 @@ Social media for the sake of social media is a bad idea. So let's think about po
 
 ##### Who is interested in our services (target market)?
 
-Let's say we are focused on millennial who are starting businesses and run into law trouble. So what do we know about our target based on current clients and what the market tells us?
+Let's say we are focused on millennials who are starting businesses and run into law trouble. What do we know about our target based on current clients and what the market tells us?
 
-* Self taught
+Millennial business owners are:
+
+* Usually self-taught
 * Don't trust sales people
-* Love googling stuff
-* On social media a lot
+* Love using Google to find answers
+* Spend significant time on social media
 
 What makes social media more powerful is a powerful brand. A good brand is about knowing your market and how you take action to serve that market. We have a free [eCourse on boosting your brand](#), that could be helpful here, so we encourage you to check it out!
 
@@ -144,11 +148,11 @@ You can guess what people want to know, but it's far more effective to ask peopl
   * Engaging videos about a specific law topic/problem
 * They want to know they can trust your firm
 * Most of the time people don't know what they don't know, so you can educate them.
-* Show them you are people who care about each-other and 
+* Show them you are people who care about each-other and
 
 ##### Do we have a plan for a content pipeline? (blog, resources, links, photos)
 
-We need to make sure we have a plan for getting content together. So whether we have an intern at our disposal, we are paying a company to write the content for us, or we (the marketer) will be spending time each week on content for social media. 
+We need to make sure we have a plan for getting content together. So whether we have an intern at our disposal, we are paying a company to write the content for us, or we (the marketer) will be spending time each week on content for social media.
 
 For me, I like to assign a day to content so I can remain in that headspace, and then schedule everything ahead of time.
 
@@ -166,8 +170,6 @@ _Note: Iteration is key, if something does well, we can increase frequency, and 
 
 So we have our content together, now we can get started on scheduling everything in buffer.
 
-> 
->
 > 5 things to be away of when it comes to the new tax law.
 >
 > Starting a business? Here are the first things you need to make sure you're taking care of.
