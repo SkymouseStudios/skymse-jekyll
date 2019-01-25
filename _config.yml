@@ -64,17 +64,3 @@ descriptions:
     desc: "The best of the best for doing better work"
   - cat: Apps in the Workplace
     desc: "How to make the most of apps in your business"
-
-profiles:
-  - name: John Welch
-    title: Director of Business Development
-    twitter: https://twitter.com/lifeofwelch
-    handle: "@LifeOfWelch"
-    desc: Musician, Loving Husband and Father. I'm also a singing Chef.
-    img: /library/images/profile/johns-profile.jpg
-  - name: Patrick Hanus
-    title: Creative Director
-    twitter: https://twitter.com/thePatrickHanus
-    handle: "@thePatrickHanus"
-    desc: Staff Writer for the Patrick Hanus Show. Follow me for a great time.
-    img: /library/images/profile/patricks-profile.jpg
