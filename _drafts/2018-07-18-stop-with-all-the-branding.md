@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stop with all the branding
-author: _profiles/john-welch.md
+author: john
 img: "/library/images/headers/header-about.svg"
 permalink: "/stop-with-all-the-branding"
 ttr: 8

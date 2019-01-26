@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The guide to going full-time with your own business.
-author: _profiles/patrick-hanus.md
+author: patrick
 img: "/library/images/headers/header-why.svg"
 permalink: "/posts/the-guide-to-going-full-time-with-your-own-business"
 ttr: 5
