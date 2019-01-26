@@ -10,6 +10,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _authors
+  label: Authors
+  create: all
+  match: "**/*"
+- type: directory
   path: _casestudies
   label: Case studies
   create: documents
@@ -17,11 +22,6 @@ sections:
 - type: directory
   path: _services
   label: Services
-  create: all
-  match: "**/*"
-- type: directory
-  path: _authors
-  label: Authors
   create: all
   match: "**/*"
 - type: jekyll-posts
