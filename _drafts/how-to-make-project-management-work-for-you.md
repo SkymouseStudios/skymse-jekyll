@@ -3,7 +3,7 @@ layout: post
 categories:
 - Business
 author: john
-title: ''
+title: How to make project management work for you.
 subtitle: ''
 description: ''
 img: ''
