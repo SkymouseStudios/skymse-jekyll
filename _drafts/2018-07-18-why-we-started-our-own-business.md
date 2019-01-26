@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Skymouse Studios got started.
+subtitle: Behind the Scenes
 img: ''
 permalink: "/why-skymouse-studios-got-started"
 ttr: 7

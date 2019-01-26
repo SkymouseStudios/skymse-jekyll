@@ -38,10 +38,10 @@ collections:
 # Descriptions for Blog Categories
 series:
   - cat: New To Branding
-    desc: "How to get started, from square one"
+    desc: "How to get started, from square one."
   - cat: Business Spotlight
-    desc: "A look at businesses, and how they work"
+    desc: "A look at businesses, and how they work."
   - cat: Tips and Tricks
-    desc: "The best of the best for doing better work"
+    desc: "The best of the best for doing better work."
   - cat: Apps in the Workplace
-    desc: "How to make the most of apps in your business"
+    desc: "How to make the most of apps in your business."

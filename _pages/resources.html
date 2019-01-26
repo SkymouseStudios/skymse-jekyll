@@ -31,10 +31,10 @@ img-back: /library/images/headers/header-blog-back.svg
 		</div>
 
 		<div class="blog-grid">
-		{% for description in site.descriptions %}
+		{% for type in site.series %}
 			<a class="blank" href="{{ cat.url }}">
-				<h5>{{ description.cat }}</h5>
-				<p>{{ description.desc }}</p>
+				<h5>{{ type.cat }}</h5>
+				<p>{{ type.desc }}</p>
 			</a>
 		{% endfor %}
 		</div>
@@ -45,11 +45,11 @@ img-back: /library/images/headers/header-blog-back.svg
 	{% for post in site.posts %}
 		<a class="blank" href="{{ post.url }}">
 			<div class="blog-post">
-				<h2>{{ post.title }}</h2>
 				<div class="picture">
 					<div class="time-to-read"> {{ post.ttr }} Minutes of Quality Reading 👌</div>
 					<img src="{{ post.img }}" alt="{{ post.title }}">
 				</div>
+				<h4>{{ post.title }}</h4>
 				<p>{{ post.description }}</p>
 			</div>
 		</a>

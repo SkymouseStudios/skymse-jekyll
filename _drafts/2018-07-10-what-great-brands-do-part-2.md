@@ -1,7 +1,8 @@
 ---
 layout: post
 title: What Great Brands Do (Part 2)
-author: _profiles/patrick-hanus.md
+subtitle: Part 2 of 2 in a Book Report
+author: patrick
 img: ''
 permalink: "/what-great-brands-do-part-2"
 ttr: 7

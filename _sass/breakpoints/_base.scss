@@ -471,7 +471,6 @@ POSTS & CONTENT STYLES
 
 // POST: Blog Post
 .blog-post {
-	background-color: $lgray;
 	border-radius: 5px;
 	background-color: $ygray;
 	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
@@ -482,26 +481,25 @@ POSTS & CONTENT STYLES
     &:hover {
     	box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
     	transition: 0.5s;
-    	border: 3px solid white;
+    	border: 3px solid $gray;
     }
 
-	h2 {
-		font-size: 1.5em;
-		padding: 0.5em;
-		height: 100px;
+	h4 {
+		padding: 10px 10px 3px 10px;
+		margin: 0px;
 	}
 
 	p {
-		font-size: 0.8em;
-		padding: 1em;
-		height: 100px;
+		margin-top: 0;
+		font-size: 0.9em;
+		padding: 0 10px;
 	}
 	
 	.picture {
 		position: relative;
 		height: 250px;
 		overflow: hidden;
-		border-radius: 5px;
+		border-radius: 5px 5px 0px 0px;
 		background: linear-gradient(135deg, $orange, #ffc576);
 	}
 

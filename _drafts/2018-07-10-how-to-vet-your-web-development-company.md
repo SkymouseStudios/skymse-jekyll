@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to vet your web development company.
+subtitle: A Guide to Websites
 author: patrick
 img: ''
 permalink: "/how-to-vet-you-web-development-company"

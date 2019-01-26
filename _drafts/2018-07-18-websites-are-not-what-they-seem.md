@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Websites are not products...they're services.
+title: Why your website isn't making you money.
+subtitle: A Guide to Websites
 author: john
 img: "/library/images/headers/header-about.svg"
 permalink: "/websites-are-not-products"

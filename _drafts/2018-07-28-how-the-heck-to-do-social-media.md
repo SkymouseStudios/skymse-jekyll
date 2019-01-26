@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How to strategize your social media
+title: How to strategize your social media.
+subtitle: A Guide to Social Media
 author: patrick
 img: ''
 permalink: "/how-to-strategize-your-social-media"

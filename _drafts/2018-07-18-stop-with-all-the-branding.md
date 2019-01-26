@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Stop with all the branding
+title: You don't don't need to rebrand.
+subtitle: A Guide to Branding
 author: john
 img: "/library/images/headers/header-about.svg"
 permalink: "/stop-with-all-the-branding"

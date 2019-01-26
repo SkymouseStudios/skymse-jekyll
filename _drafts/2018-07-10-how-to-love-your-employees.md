@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How to find and keep hardworking millenial employees.
+title: How to find hardworking millenial employees.
+subtitle: A Guide to Business
 author: patrick
 img: ''
 permalink: "/how-to-find-and-keep-hardworking-millenial-employees"

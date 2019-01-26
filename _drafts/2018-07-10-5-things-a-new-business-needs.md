@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The guide to going full-time with your own business.
+subtitle: A Guide to Business
 author: patrick
 img: "/library/images/headers/header-why.svg"
 permalink: "/posts/the-guide-to-going-full-time-with-your-own-business"

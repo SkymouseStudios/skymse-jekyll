@@ -2,7 +2,7 @@
 layout: post
 title: What Great Brands Do
 subtitle: Part 1 of 2 in a Book Report
-author: _profiles/patrick-hanus.md
+author: patrick
 img: ''
 permalink: "/what-great-brands-do-part-1"
 ttr: 7

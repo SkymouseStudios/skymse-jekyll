@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to build and brand your small business.
+subtitle: A Guide to Branding
 author: patrick
 img: ''
 permalink: "/how-to-build-and-brand-your-small-business"
