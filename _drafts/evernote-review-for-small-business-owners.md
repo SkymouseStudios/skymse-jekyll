@@ -2,12 +2,12 @@
 layout: post
 categories:
 - Productivity
-author: john
+author: patrick
 title: Evernote review for small business owners
 subtitle: ''
 description: ''
 img: ''
-ttr: ''
+ttr: 8
 date: 2019-01-26 17:51:06 -0600
 
 ---
