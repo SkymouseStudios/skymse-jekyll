@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to vet your web development company.
-author: _profiles/patrick-hanus.md
+author: john
 img: ''
 permalink: "/how-to-vet-you-web-development-company"
 ttr: 7
@@ -10,6 +10,17 @@ categories:
 - Web Design
 
 ---
+**The Problem**  
+Web development companies are not trustworthy
+
+**How to solve that problem**  
+Focus on what you want to achieve with the website
+
+**What life looks like once you've solved the problem**  
+Get a return on your investment.
+
+***
+
 ## Focus on solving problems, not just “getting a website.”
 
 Most people rush into a website deal with the intention of finding the cheapest website possible. Websites are like cars. You should find out what you want to do with it. Do you want a Lexus or do you want a used 2003 Kia with a busted windshield and Chinese takeout under the passenger seat?
