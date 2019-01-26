@@ -25,7 +25,7 @@ include: ["_pages"]
 permalink: /:title/
 
 plugins:
-- jekyll-menus
+  - jekyll-menus
 
 collections:
   services:
