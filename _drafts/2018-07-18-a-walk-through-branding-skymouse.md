@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How to Build and Brand Your Business
-author: _profiles/patrick-hanus.md
+title: How to build and brand your small business.
+author: patrick
 img: ''
-permalink: "/how-to-build-and-brand-your-business"
+permalink: "/how-to-build-and-brand-your-small-business"
 ttr: 15
 categories:
 - Business
