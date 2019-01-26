@@ -29,47 +29,41 @@ I met John Welch at college and we realized we wanted to do great things. We did
 
 It really began when my dad's company heard that I did video and asked if I could shoot some training videos and a company promo video.
 
-So John and I drove my 1989 Toyota Corolla from Indiana to Washington DC. It was on that trip that we decided to start a business together. But first we needed a name. We spent 10 hours trying out combinations of verbs, adjectives, things we liked, dark ironic things and things we didn't know where they came from.
+So John and I drove my 1989 Toyota Corolla from Indiana to Washington DC. It was on that trip that we decided to start a business together. But first we needed a name. We spent the 10 hour drive trying out combinations of verbs, adjectives, things we liked, dark ironic things and things we didn't know where they came from.
 
 `Insert: Some of the more ridiculous options`
 
-We finally did land on Skymouse. Skymouse studios. John got to be satisfied with his love of rodents and I got to love out my love for flying if I was a super hero. We sketched and doodled ideas for logos, trying to nail down something we could get behind. This was a tough job. there had to be some sort of meaning. We had to be intentional with our brand because people would see it and want us to be intentional with their brand.
+We finally landed on Skymouse. Skymouse Studios. It was fun and unique. John's love of rodents and my appreciation of flying were satisfied. What else could we ask for? We sketched and doodled ideas for logos. It was a tough. There had to be _meaning_. We wanted to be intentional with our brand because people would want us to be intentional with their brand.
 
 `Insert: Some logo ideas and sketches` \`
 
 ### Early Brandstorming
 
-The question we really needed to answer was "what do we want?" Why were we doing this? It started off as such a vague idea, but we really had no clue what direction we wanted to go in. At the time, we were stumbling around in the dark, blindly trying to figure things out. We are still figuring things out now, but I like to think we at lease have a couple flashlights.
+Why were we doing this? It started off as such a vague idea, we had no clue what we wanted to do yet. We were stumbling around in the dark—blindly trying to solve problems. What we needed was our **WHY.**
 
-_Mission:_ To provide quality marketing and entertainment implementing design.
+* Provide for our families.
+* Learn from every client we partner with.
+* Provide the best customer experience.
+* Learn new software, tools and technology.
+* Find new ways to do solve problems.
+* Teach people what creates great customer relationships.
 
-* We want to provide for our families
-* We want to learn from the people we partner with, they have unique perspective of what works for them and each company has a different story to tell.
-* We want to learn everything we can to provide the best customer experience and product
-* We learn new software, we learn new tools and technology
-* Find new ways to do solve problems
-* We want to teach people what creates, consistent and engaging, long term customer relationships
+**John's adjectives:** driven, engaging, musical, quick, intelligent, growing, adaptive.  
+**Patrick adjectives:** honest, problem-solver, creative, funny, open-minded, imaginative
 
-John: driven, engaging, musical, quick, intelligent, growing, adaptive,
-Patrick: honest, problem-solver, creative, funny, open-minded, imaginative
+**Mission:** To provide quality marketing and entertainment.  
+**Vision:** To provide a great client experience
 
-Vision: To provide a great client experience
+**Brand Personality:** Entertaining and Positive. Positive communication is always better received. People know when they see our logo, something great is about to follow. A herald of greatness.
 
-Brand Personality: Entertaining and Positive
-Positive communication is always better received. People know when they see our logo, something great is about to follow. A herald of greatness.
+**Communication Goals:** Continuous and accurate communication. We educate the client, guiding them through the adventure.
 
-Communication Goals: Continuous and accurate communication. We educate the client, guiding them through the adventure.
+**Brand Voice:** Relaxed, entertaining, responsive, clever. Expressed through this visualization technique our style says: The unknown is exciting and shouldn’t be feared. Don’t be afraid to plunge into the pool. Be hopeful.
 
-**Brand Voice:** Relaxed, entertaining, responsive, clever
+**Color Palette:** Muted, organic tones of orange and blue with a gray base color. White accents. Retro, futuristic illustration. Paper textures. Vintage. Earthy and organic. Lasting and friendly. We are everlasting.
 
-Expressed through this visualization technique our style says: The unknown is exciting and shouldn’t be feared. Don’t be afraid to plunge into the pool. Be hopeful.
+**Logo Typeface:** Motor Oil vintage font, sharp edges. Classic. Motor Oil for main titles. Avenir Next for Body (Sans Serif)
 
-**Color Pallete:** Muted, organic tones of orange and blue with a gray base color. White accents. Retro, futuristic illustration. Paper textures. Vintage. Earthy and organic. Lasting and friendly. We are everlasting.
-
-Logo Typeface: Motor Oil vintage font, sharp edges. Classic.
-
-Motor Oil for main titles
-Avenir Next for Body (Sans Serif)
 We need another font for our Heading 1/ for internal thoughts and dialogues.
 
  1. Codify your vision We must maintain a unified and consistent brand identity. The website, business, cards, logos and animations must all have the same voice and the theme so people know its coming from us.
@@ -86,17 +80,17 @@ We need another font for our Heading 1/ for internal thoughts and dialogues.
 12. Resume. Start with a funny story hook. Illustration and picture split. Skills and abilities chart. Disc profile explaining how we help each other and balance each other out.. What we have done and our hopes, dreams and aspirations.
 13. Website. Everything is anchored in the website. It’s the hq for our brand with everything else off shooting it. “A safe place.” What we’ve done and what we can do for you. Client testimonies, case studies. We need a client path/experience to help them satisfy their needs.
 
-Something I think is very powerful is the concept of illustration. It personalizes you as a brand, it makes you stand out and it also creates a mystery, a sense of awe amongst you followers. I once read a blogpost that explained why the CEO of a company does all the illustrations for their blog. It shows you care. It shows _intention_. People like that. People feek cheated when they just see your website is a wordpress template or a simple squate space site. People know the difference. They can feel it. That's why the big brands get the super expensive websites, it shows they care.
+The concept of illustration is powerful. It personalizes a brand. You stand out. It creates mystery—a sense of awe amongst you followers. I read a blogpost that explained why the CEO of a company illustrates the headers for their blog. It shows you care. It shows _intention_. People like that. I feel cheated when I see a website that is a $15 WordPress template or a naked Square Space site. I know the difference and you know the difference. Big brands have expensive websites, because it shows they care.
 
-We had to do the same for our customers. We love our customers and now we have to prove it.
+We love our customers and we need to prove it.
 
 ## So how do you make money? Systems. Welcome to SkyDev.
 
-Building a better tomorrow, today. We need to keep re-evaluting ourselves and what is important to us and how we are hitting our benchmarks. Charging too much is one way to make money, but we thought of another one. What if you just learn how to do something so well that you can do it better and more consistently than everyone else? We document our processes and we work hard at growing ourselves with every client.
+We need to keep re-evaluting ourselves and what is important to us and how we are hitting our benchmarks. Charging too much is one way to make money, but we thought of another one. What if you just learn how to do something so well that you can do it better and more consistently than everyone else? We document our processes and we work hard at growing ourselves with every client.
 
 At first SkyDev was just me and John, working like pigs in a tiny, poorly lit apartment. As we grew we decided we wanted to open up SkyDev to the who team. We realized we were in this together and there is something about transparency that brings people together. Building Skymouse is a project we all work on and can all feel good about rather than just keeping it limited to our daily client work. We are also a client to ourselves.
 
-I was really inspired by "The One Thing" by Gary Keller, as well as DHH's book "Get Work Done." so we adapted som methodology to help us get things done for people.
+I was really inspired by "The One Thing" by Gary Keller, as well as DHH's book "Get Work Done." We adapted some methodologies to help us work better and be more productive.
 
 ### Questions we ask ourselves
 
