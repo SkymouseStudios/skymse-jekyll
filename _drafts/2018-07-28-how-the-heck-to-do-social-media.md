@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to strategize your social media
-author: _profiles/patrick-hanus.md
+author: patrick
 img: ''
 permalink: "/how-to-strategize-your-social-media"
 ttr: 7

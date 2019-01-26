@@ -37,6 +37,13 @@
 
  {% endif %}
 
+ {% assign author = site.authors[page.author] %}
+{% if author %}
+  <img src="{{ author.image }}">
+  <p>{{ author.name }}</p>
+{% endif %}
+
+
 
  <section class="block">
     <h3>We'd love to send you posts hot off the press.</h3>
