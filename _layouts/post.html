@@ -9,7 +9,7 @@
     <div class="post-info-wrapper cf">
       
     {% if page.author %}
-      <p>By {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</p>
+      <p>By {{ page.author.name }} on {{ page.date | date: "%B %-d, %Y" }}</p>
     {% endif %}
 
     {% if page.ttr %}
@@ -30,12 +30,13 @@
  {% if page.author %}
 
   <section class="centered-quote">
-    <img class="icon-size" src="{{ page.authorImg }}" alt="{{ page.author }}">
-    <h4>{{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</h4>
-    <p>{{ page.authorTitle}}</p>
+    <img class="icon-size" src="{{ page.author.img }}" alt="{{ page.author.name }}">
+    <h4>{{ page.author.name }} on {{ page.date | date: "%B %-d, %Y" }}</h4>
+    <p>{{ page.author.title}}</p>
   </section>
 
  {% endif %}
+
 
  <section class="block">
     <h3>We'd love to send you posts hot off the press.</h3>
