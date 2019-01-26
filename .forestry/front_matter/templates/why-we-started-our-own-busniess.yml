@@ -59,7 +59,7 @@ fields:
     - john
     - patrick
   label: Author
-  default: ''
+  default: John
 pages:
 - _posts/2018-07-10-how-to-vet-your-web-development-company.md
 - _posts/2018-07-28-how-the-heck-to-do-social-media.md
