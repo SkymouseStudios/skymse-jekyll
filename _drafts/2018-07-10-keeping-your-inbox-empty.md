@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 tips for managing your email.
-author: _profiles/patrick-hanus.md
+author: Patrick
 img: ''
 permalink: "/6-tips-for-managing-your-email"
 ttr: 7
