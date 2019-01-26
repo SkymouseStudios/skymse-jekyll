@@ -9,42 +9,66 @@ categories:
 - Business
 
 ---
-## TL;DR
 
-* Don’t post crap on social media
-* Most of what you post is probably crap (no offense)
-* It doesn’t have to be this way
-* Please to goodness don’t share this article until after you read it.
+**The problem**  
+Social media is hard to plan
 
-Way too often people just post random crap to Social Media. _You might think “Oh this is better than nothing.”_ But that is a dangerous way to think. It’s like dating a girl for 5 years and everyone warns you about her, but you're positive “it’s better than nothing.” Well you’re wrong. People lose respect for what you have to offer and stop inviting you to family functions. On the flip side, If you get a reputation for only posting awesome stuff, more people will follow you, share your content, and actually read your stuff.
+**The plan to solve the problem.**  
+Create things people care about — take these steps to plan your social media
 
-> The goal isn’t just to “have followers” it’s to have a following. Following (n.) People who care about what you say because it helps them get what they need.
+* Make a plan.
+  * Substance (Audience, purpose, topics)
+  * Workflow (organized, formatted, and displayed)
+  * Structure (channels and format)
+  * Governance (Define ownership and roles. Who is responsible for what?)
+* Schedule your social media.
+  * Find time you audience is online
+  * use analytics to see what types of posts do well
+  * repost the same content in case it get's lost
+* Make a content database.
+  * Content is the hard part. Commit to a reasonable goal.
+  * Blogs are only as good as you make them.
+  * Learn from people who are doing it well.
+  * Skymouse does content.
+* Use paid media.
+  * Jump-start your following.
+  * Ensure you reach your followers.
+  * Promote a specific campaign.
 
-Jesus had followers becuase he healed lepersy and cool stuff like that. He gave people what they needed. Here are some good examples of people and business who have content down like a pro.
+**How life looks once the problem is solved.**  
+You will have a following that stays engaged and your posts will add value.
 
-* Gary Vaynerchuck (content about media and motivation)
-* Adam Dunaway (content about design, the web and humor)
-* Andrew Kramer (content about motion graphics and animation)
-* Invision App
+***
 
-The same principles apply when writing blog posts. If you’re gonna write something, write something people care about. Hone in on your audience. Don’t try to please everyone. It’s impossible. Just ask my girlfriend’s mom.
+People post random crap to social media. _They might think “Oh this is better than nothing.”_ But that is dangerous. It’s like dating a girl for 5 years and everyone warns you she's bad news, but you assure everyone “it’s better than nothing.” Well you’re wrong. People lose respect for what you have to offer and stop inviting you to family functions. But if you get a reputation for posting great content, more people will follow you, share your content, and buy what you're selling.
+
+> The goal isn’t to have followers—it’s to have a following. Following (n.) People who care about what you say because it helps them get what they need.
+
+Jesus had followers because he healed leprosy. He gave people what they needed. Here are some examples of people and business who have content people love.
+
+* Gary Vaynerchuck (media and motivation)
+* Adam Dunaway (design, the web and humor)
+* Andrew Kramer (motion graphics and animation)
+* Invision App (freelancing, design, productivity)
+
+If you’re going write something, write something people care about. Hone in on your audience. Don’t try to please everyone. It’s impossible. Just ask my girlfriend’s mom.
 
 ### 1. Sit down and make a plan.
 
-Don't panic. No one wants to do this. You're not alone. Plans take time, and that’s okay. Your followers and your boss will thank you later. Every person is different. Every organization has it’s own vibes. This should be evident on your social media.
+Don't panic. No one wants to do this. Plans take time, and that’s okay. Your social media followers will thank you later. Every organization has its own vibe. This should be evident on your social media.
 
-> Find out what makes you different!
+> Start by discovering what makes you different!
 
-What you need to do is find out who your audience is, what they want and how you can give it to them in a format they understand and love. Do they want to see a beautiful office space or a colorful report with the biggest real estate deals in your area? This plan should evolve as your following evolves.
+Who your is your audience? What they want and how you can give it to them in a format they understand and love? Do they want to see a beautiful office space or a colorful report with the biggest real estate deals in your area?
 
 #### Social Media Master Plan
 
-* Your company
+* Your company.
   * Who is your perfect customer?
-* Your personal social media accounts
-* Other companies you manage their social media for
+* Your personal social media accounts.
+* Other companies you manage their social media for.
 
-#### Resources
+#### Provide Resources
 
 * Make a list of news resources you want to check on a regular basis for articles that you clients are interested in. This could also include twitter accounts, Facebook accounts or some other social media channel that inspires you:
 * wallstreet journal
@@ -60,7 +84,7 @@ People want to peer into your life or the life of your company. What is going on
 * Video Interview other people who are there
 * Use event hashtags and tag other companies or groups that are present.
 
-#### Be awesome and people will respond
+#### Solve a problem
 
 Answer questions, solve problems and give people what they want.
 
@@ -70,7 +94,7 @@ Answer questions, solve problems and give people what they want.
 
 ### 2. Use a scheduler like Buffer or Hootsuite.
 
-Chances are you don't have time for doing social media every day of the week, not to mention it can quickly become overwelming.
+Chances are you don't have time for doing social media every day of the week, not to mention it can quickly become overwhelming.
 
 I am personally a huge fan of [Buffer](https://www.google.com), I like the format, the organization system and how it lets me do what I want. You don’t necessarily need a social media manager like this, but I really believe it’s worth it.
 
@@ -86,8 +110,9 @@ Be sure to have things that you can post on a weekly or daily basis as they happ
 
 #### Here are some started ideas:
 
-Post list
-Pull out microsoft word (or euivalent) and write 10-15 actual posts. Feel free to experiment with the tone and style of your posts. Think about what you’re giving away, or sharing and write something you could actually copy and paste into twitter. This is a huge help and helps boost your confidence in the type of things you can put into your queue. This also helps you find actual articl;es and resources you can share in the context of a social media post. Here are some examples:
+Post list 
+
+Open Microsoft Word and write 10-15 actual posts. Feel free to experiment with the tone and style of your posts. Think about what you’re giving away, or sharing and write something you could actually copy and paste into twitter. This is a huge help and helps boost your confidence in the type of things you can put into your queue. This also helps you find actual articles and resources you can share in the context of a social media post. Here are some examples:
 
 Free Stuff
 We all love free stuff. Branded hats and mugs, gift cards, tickets to Dave Mathews (I am not really a huge fan, but some people dig that) Offer stuff that only your desired demographic is going to want, that will ensure you are getting followers you actually want. So like local gift cards of you want to keep your following local.
@@ -103,7 +128,7 @@ We all love free stuff. Branded hats and mugs, gift cards, tickets to Dave Mathe
 
 Promoted is still only worth it if people see value. You want to seduce them into following you. So they go to your profile, are they going to see a stream of awesome content? Or just a slew of shared articles from who knows where? You don’t want to drive your traffic off a cliff.
 
-You also want to show that the money is making a return, so whether thats getting clicks, getting impressions or getting acual purchases, you should go in with a gameplan.
+You also want to show that the money is making a return, so whether thats getting clicks, getting impressions or getting actual purchases, you should go in with a game plan.
 
 > **Advertisements can be a pain**
 >
