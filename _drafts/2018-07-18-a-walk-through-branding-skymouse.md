@@ -88,7 +88,7 @@ We love our customers and we need to prove it.
 
 We need to keep re-evaluting ourselves and what is important to us and how we are hitting our benchmarks. Charging too much is one way to make money, but we thought of another one. What if you just learn how to do something so well that you can do it better and more consistently than everyone else? We document our processes and we work hard at growing ourselves with every client.
 
-At first SkyDev was just me and John, working like pigs in a tiny, poorly lit apartment. As we grew we decided we wanted to open up SkyDev to the who team. We realized we were in this together and there is something about transparency that brings people together. Building Skymouse is a project we all work on and can all feel good about rather than just keeping it limited to our daily client work. We are also a client to ourselves.
+SkyDev was me and John, working in a tiny, poorly lit apartment. We are a client to ourselves.
 
 I was really inspired by "The One Thing" by Gary Keller, as well as DHH's book "Get Work Done." We adapted some methodologies to help us work better and be more productive.
 
@@ -98,23 +98,22 @@ I was really inspired by "The One Thing" by Gary Keller, as well as DHH's book "
 * What takes up the most amount of time during our day?
 * How can we eliminate distractions?
 * Is there someone else who is better suited to do this job?
-* What is the one thing that by doing it everything else becomes easier or unecessary?
+* What is the one thing that by doing it everything else becomes easier or unnecessary?
 * What can I learn today so that I won't have to do this tomorrow?
 
 ### Steps we took, or try to
 
-* Initiate "Quite Time.™" where no one is allowed to talk, message or email. We're focusing on getting work done.
-* Every meeting must be short or cancelled
-* Every meeting must have an agenda
-* Work from where you want
-* Subscribing to things like Zapier or IFTTT can be so worth it
-* We hired an Internal Systems Engineer to make the Skymouse Engine sing.
+* Initiate "Quite Time.™" where no one is allowed to talk, message or email.
+* Every meeting must be short or cancelled.
+* Every meeting must have an agenda.
+* Work from where you want.
+* Using apps like Harvest and Zapier
 
 ## Building a Team
 
-It's hard to build a team. Doing all the work yourself has it's perks. You know exactly what to expect from yourself, and usually you know when something is down or when you need to keep working on something.
+It's hard to build a team. Doing all the work yourself has its perks. You know what to expect from yourself. Trusting someone else is much harder.
 
-Contractors are cool, but when do you move to hiring someone full time?
+The first step is using contractors and freelancers, but when do you hir someone full-time?
 
 Accounting
 Hired this out immediately
@@ -128,7 +127,7 @@ Sales
 
 ## The Client Experience
 
-How do you show your clients that you actually care? Is it being a smart allec in your web copy? Maybe it's just getting back to them in a timely manner.
+How do you show your clients that you actually care? Is it being a smart alec in your web copy? Maybe it's just getting back to them in a timely manner.
 
 * Friday updates, just giving people a peek into the production process.
 * 1 hour email response policy (We use this internally)
@@ -136,34 +135,13 @@ How do you show your clients that you actually care? Is it being a smart allec i
 
 ## Pricing.
 
-Every young entrepenuers nightmare. How the heck do you figure out pricing? Me and John went back and forth a couple times between going hourly vs. going per project.
+Every young entrepreneurs nightmare. How the heck do you figure out pricing? Me and John went back and forth a couple times between going hourly vs. going per project.
 
-The more I think about it the more I realize per project is better. We are selling a product. Not our time. I don't work by the hour, I work by what I can get done for you. I spend most of my time througout the day learning and documenting, I don't spend it dedicated to doing "stuff."
+The more I think about it the more I realize per project is better. We are selling a product. Not our time. I don't work by the hour, I work by what I can get done for you. I spend most of my time throughout the day learning and documenting, I don't spend it dedicated to doing "stuff."
 
 In order to sell a product I need to know what product you need and every product is handcrafted, so I can't just say, "Here is the standard."
 
 We also wanted to grow  with our clients. For us, a website isn't just a one and done deal, it's a growing living thing th
-
-### Product 1 - Simple Handcrafted Site - $10,000 (2-month process)
-
-_functionality list_
-
-* Easy to use on the back end
-* Share information with my clients
-* Link to social media and Google Business
-* upload new documents
-* Contact form
-* Fast load speed and testing
-* Mobile responsive on every device
-* website consulting
-* template-based website
-* google analytics set-up
-
-### Product 2 - Small Business Site - $25,000 (6-month process)
-
-* Engaging customer experience
-
-### Product 3 - Pro Agency Site - $50,000 (9-month process)
 
 This is what I built for RESOURCE Commercial Real Estate
 
@@ -251,19 +229,18 @@ This focus on the truth has kept us accountable too. That's why we are completel
 
 ## The struggle is teal.
 
-* Roles and responsiblilties
+* Roles and responsibilities
 * Staying motivated
-* 
 
-We worked for a year without making a dime. We had high points and low points, sometimes we would meet every week, other times we would go a monthing without a SkyDev meeting. It's hard stuff building a company.
+We worked for a year without making a dime. Sometimes we would meet every week, other times we would go a month without a SkyDev meeting. It's hard to build a business.
 
-> The biggest fear is what if I waste my time and this doesn't go anywhere?
+> The biggest fear: What if I waste my time and this doesn't go anywhere?
 
-It's hard to commit and to spend all day after work trying to build a website or make a handout to sell websites. There is a reason businesses don't get started or fail early on or even 6 years later. A lot of the work was building our own stuff. Starting a company from nothing is really hard, building a brand from nothing is even harder.
+It's hard trying to build a website after a full day of work. There is a reason businesses fail early on. A lot of the work was building our own stuff.
 
 We had a couple projects along the way, we built a quick website for John's dad at welch-title.com, which included pictures, a logo,
 
-I built our website off of a custom ordpress theme, and boy was that no fun. I had never built a theme before and I don't look forward to doing it again. There was a lot of stinking code along the way.
+I built our first website off of a custom WordPress theme, and boy was that no fun. I had never built a theme before and I don't look forward to doing it again. There was a lot of terrible code.
 
 ## Apps along the way
 
