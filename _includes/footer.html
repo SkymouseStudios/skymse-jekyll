@@ -3,6 +3,17 @@
 
 
 				<div id="inner-footer" class="cf">
+
+					<nav>
+						
+							
+						
+						{% for section in site.footer %}
+				            <ul>
+				            	<li><a class="nav-btn orange" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+				            </ul>
+	          			{% endfor %}
+					</nav>
 					
 					<div class="footer-links">
 						<p>&copy; 2018&nbsp;{{ site.title }}</p>

@@ -43,6 +43,36 @@ links:
   - title: Pricing
     url: /pricing
 
+# Footer Nav Links
+footer:
+  company:
+    - title: About
+      url: /about
+    - title: Clients
+      url: /clients
+    - title: Careers
+      url: /careers
+    - title: Brand Guide
+      url: /brand-guide
+  services:
+    - title: Why Skymouse
+      url: /why-skymouse
+    - title: What you can do
+      url: /what-you-can-do
+    - title: Process
+      url: /process
+    - title: Pricing
+      url: /pricing
+  resources:
+    - title: Blog
+      url: /blog
+    - title: Book Reports
+      url: /book-reports
+    - title: Downloads
+      url: /downloads
+    - title: Podcast
+      url: /podcast
+
 # Links to Social Media
 socials:
   - name: instagram
