@@ -50,12 +50,15 @@ fields:
   name: author
   config:
     source:
-      type: pages
+      type: simple
       section: profiles
       file: _profiles/patrick-hanus.md
     required: true
+    options:
+    - john
+    - patrick
   label: Author
-  default: _profiles/patrick-hanus.md
+  default: ''
 pages:
 - _posts/2018-07-10-how-to-vet-your-web-development-company.md
 - _posts/2018-07-28-how-the-heck-to-do-social-media.md
