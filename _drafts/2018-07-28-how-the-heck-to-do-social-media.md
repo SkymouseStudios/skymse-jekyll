@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How to actually strategize your social media
+title: How to strategize your social media
 author: _profiles/patrick-hanus.md
 img: ''
-permalink: "/how-to-actually-strategize-your-social-media.html"
+permalink: "/how-to-strategize-your-social-media"
 ttr: 7
 categories:
 - Business
@@ -11,7 +11,7 @@ categories:
 ---
 
 **The problem**  
-Social media is hard to plan
+Social media is hard.
 
 **The plan to solve the problem.**  
 Create things people care about — take these steps to plan your social media
@@ -53,44 +53,45 @@ Jesus had followers because he healed leprosy. He gave people what they needed. 
 
 If you’re going write something, write something people care about. Hone in on your audience. Don’t try to please everyone. It’s impossible. Just ask my girlfriend’s mom.
 
+Content Strategy for the web
+
 ### 1. Sit down and make a plan.
 
 Don't panic. No one wants to do this. Plans take time, and that’s okay. Your social media followers will thank you later. Every organization has its own vibe. This should be evident on your social media.
 
-> Start by discovering what makes you different!
+#### Substance
 
+**Audience**  
 Who your is your audience? What they want and how you can give it to them in a format they understand and love? Do they want to see a beautiful office space or a colorful report with the biggest real estate deals in your area?
 
-#### Social Media Master Plan
+**Purpose**  
+What is the purpose of your social media venture? Is it for recruiting? Is it to reach potential clients?
 
-* Your company.
-  * Who is your perfect customer?
-* Your personal social media accounts.
-* Other companies you manage their social media for.
+**Topics**  
+Your topics are a result of your Audience and your Purpose. What are you going to share. What can you offer your clients that they want to see?
 
-#### Provide Resources
+#### Structure
 
-* Make a list of news resources you want to check on a regular basis for articles that you clients are interested in. This could also include twitter accounts, Facebook accounts or some other social media channel that inspires you:
-* wallstreet journal
-* growINdiana.net
-* GoogleMaps
+**Channels**  
+Where are you going to post? The answer lies in where you audience is. Don't guess. Find out. Twitter, Facebook and Linkedin all have information about the size of their users and their industries.
 
-#### Inside Events
+**Format**  
+Are you going to use video? graphics? Downloadable PDFs? A combination? I recommend starting with something achievable.
 
-People want to peer into your life or the life of your company. What is going on? Any cool team-building events coming up in the future? A big benefit dinner? A group trip to a Dave Matthews concert?
+#### Workflow
 
-* Take pictures
-* Live stream! (FB, Twitter and Insta all allow this)
-* Video Interview other people who are there
-* Use event hashtags and tag other companies or groups that are present.
+**Organization**  
+How will you content be organized? Is your website going to be the focal point of where you information is kept? Or will most of you content be native to the social media platform of your choice? 
 
-#### Solve a problem
+Where will original files be kept? I always keep original files on our server. Any time we want to update a graphic or reuse a post, we know where to find it.
 
-Answer questions, solve problems and give people what they want.
+#### Governance
 
-* new data and statistics that can help them do their job better
-* quarterly reports or graphs showing how things are changing over time
-* Offer a twitter Q&A to help people understand what you do or answer their longtime questions.
+**Roles**  
+Decide who is in charge of content. Make it clear among your team what is expected from each person. If everyone needs make 3 posts a month make sure that is understood. Set deadlines.
+
+**Ownership**  
+I recommend putting someone in charge. It's important for there to be a point-person who oversees the workflow, structure and substance of your plan. If there is no ownership your entire social media strategy will come crumbling down.
 
 ### 2. Use a scheduler like Buffer or Hootsuite.
 
@@ -109,6 +110,23 @@ It lets you:
 Be sure to have things that you can post on a weekly or daily basis as they happen, such as changes in Federal interest rates. (Super boring, but your followers might really dig that kind of stuff.) You also want to have ideas for posts that you can plan and schedule ahead of time, like Christmas or Veteran’s Day. Do you have a blog? Ideally you want to be sharing things YOU create. Not just sharing all the time. Sharing isn’t always caring. This isn’t a Coke commercial.
 
 #### Here are some started ideas:
+
+* Make a list of news resources you want to check on a regular basis for articles that you clients are interested in. This could also include twitter accounts, Facebook accounts or some other social media channel that inspires you:
+* wallstreet journal
+* growINdiana.net
+* GoogleMaps
+
+
+* new data and statistics that can help them do their job better
+* quarterly reports or graphs showing how things are changing over time
+* Offer a twitter Q&A to help people understand what you do or answer their longtime questions.
+
+People want to peer into your life or the life of your company. What is going on? Any cool team-building events coming up in the future? A big benefit dinner? A group trip to a Dave Matthews concert?
+
+* Take pictures
+* Live stream! (FB, Twitter and Insta all allow this)
+* Video Interview other people who are there
+* Use event hashtags and tag other companies or groups that are present.
 
 Post list 
 
