@@ -50,9 +50,10 @@ fields:
   name: author
   config:
     source:
-      type: simple
-      section: profiles
-      file: _profiles/patrick-hanus.md
+      type: documents
+      section: data
+      file: _data/authors.yml
+      path: authors
     required: true
     options:
     - john
