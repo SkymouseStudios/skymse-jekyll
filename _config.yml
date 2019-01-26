@@ -24,6 +24,9 @@ sass:
 include: ["_pages"]
 permalink: /:title/
 
+plugins:
+- jekyll-menus
+
 collections:
   services:
     output: true
