@@ -6,7 +6,7 @@ permalink: "/why-skymouse-studios-got-started"
 ttr: 7
 categories:
 - Business
-author: _profiles/patrick-hanus.md
+author: john
 
 ---
 ## Why did we start Skymouse?
