@@ -2,7 +2,7 @@
 layout: post
 categories:
 - Business
-author: john
+author: patrick
 title: Do great things.
 subtitle: ''
 description: ''
