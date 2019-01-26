@@ -53,13 +53,13 @@ fields:
       type: documents
       section: data
       file: _data/authors.yml
-      path: authors
+      path: ''
     required: true
     options:
     - john
     - patrick
   label: Author
-  default: John
+  default: ''
 pages:
 - _posts/2018-07-10-how-to-vet-your-web-development-company.md
 - _posts/2018-07-28-how-the-heck-to-do-social-media.md
