@@ -16,6 +16,10 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
+- type: textarea
+  name: description
+  label: Description
+  default: ''
 - name: img
   label: Img
   type: file
