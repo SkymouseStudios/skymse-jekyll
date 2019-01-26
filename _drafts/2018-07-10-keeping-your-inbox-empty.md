@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 tips for managing your email.
-author: Patrick
+author: patrick
 img: ''
 permalink: "/6-tips-for-managing-your-email"
 ttr: 7
@@ -10,19 +10,6 @@ categories:
 - Business
 
 ---
-## **Outline**
-
-**The problem**  
-Email is distracting and difficult to manage.
-
-**The plan to solve the problem.**  
-Take these steps to make email better.
-
-**How life looks once the problem is solved.**  
-You will have more time each day, respond to people sooner, and have a more peaceful work-day.
-
-***
-
 Email is the worst. Its messy, confusing and gets out of hand really quick. Are you one of those people with 13,397 unread emails in your inbox? The idea of using email as a to-do list is silly. The best way to shoot your productivity in the foot is "working out of your email."
 
 You wouldn't believe how many people I know who spend 2 hours+ in their email during the work day. It's a businessman's Facebook. It's addicting. It's time to take control of your email.
