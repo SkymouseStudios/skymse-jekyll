@@ -23,7 +23,7 @@ You will have a business that people know what you do, why you do it and they wi
 
 ## Building a business is hard.
 
-Writing how we did it is even harder.
+Writing about how we did it is even harder.
 
 Me and John Welch went to the same school, where we met and realized we wanted to do great things. We didn't know what that meant or how we were going to go about making it a reality, we just knew that we liked working together and we would figure out the rest.
 
