@@ -97,38 +97,27 @@ I recommend putting someone in charge. It's important for there to be a point-pe
 
 ### Make a list of things you can offer and share.
 
-Be sure to have things that you can post on a weekly or daily basis as they happen, such as changes in Federal interest rates. (Super boring, but your followers might really dig that kind of stuff.) Posts for Christmas or Veteran’s Day Plan can be planned ahead of time. 
+Post on a weekly or daily basis as events happen, such as changes in Federal interest rates—super boring, but your followers might really dig that kind of stuff. Posts for Christmas or Veteran’s Day Plan can be planned ahead of time. 
 
-Ideally you want to be sharing things YOU create. Not just re-sharing other posts. Sharing isn’t always caring. This isn’t a Coke commercial.
+Share things YOU create. Don't just re-share other posts. Sharing isn’t always caring. This isn’t a Coke commercial.
 
-#### Here are some started ideas:
+**Post List**  
+Once you know your audience, your platform and your purpose, Open Microsoft Word and write 10-15 actual posts. Feel free to experiment with the tone of your posts. Think about what you’re giving away, or sharing and write something you can copy and paste into Twitter. Boost your confidence in the type of things you can put into your queue.
 
-* Make a list of news resources you want to check on a regular basis for articles that you clients are interested in. This could also include twitter accounts, Facebook accounts or some other social media channel that inspires you:
-* wallstreet journal
-* growINdiana.net
-* GoogleMaps
+**Starter Ideas**
 
-
-* new data and statistics that can help them do their job better
-* quarterly reports or graphs showing how things are changing over time
+* Make a list of resources for articles that you clients are interested in: Twitter accounts, Facebook accounts, blogs, email newsletters.
+* Make a list of items your customers would find helpful: Statistics that help them do their job better, quarterly reports or graphs showing how things are changing over time
 * Offer a twitter Q&A to help people understand what you do or answer their longtime questions.
-
-People want to peer into your life or the life of your company. What is going on? Any cool team-building events coming up in the future? A big benefit dinner? A group trip to a Dave Matthews concert?
-
-* Take pictures
+* If you are using social media for careers, think about what people want to see. new recruits want to peer into the life of your company. What is going on that you could show them? Cool team-building events coming up in the future? A big benefit dinner? A group trip to a Dave Matthews concert?
 * Live stream! (FB, Twitter and Insta all allow this)
 * Video Interview other people who are there
 * Use event hashtags and tag other companies or groups that are present.
-
-Post list  
-Open Microsoft Word and write 10-15 actual posts. Feel free to experiment with the tone and style of your posts. Think about what you’re giving away, or sharing and write something you could actually copy and paste into twitter. This is a huge help and helps boost your confidence in the type of things you can put into your queue. This also helps you find actual articles and resources you can share in the context of a social media post.
 
 **Free Stuff**  
 We all love free stuff. Branded hats and mugs, gift cards, tickets to Dave Mathews (I am not a huge fan, but some people dig that) Offer stuff that only your desired demographic want will ensure you get the followers you want. 
 
 * Local gift cards of you want to keep your following local.
-
-
 * Partner with other companies to help each other reach more people. Teamwork can help everyone.
 * Actual knowledge and new ideas (not just "10 great ways to be just like everyone else.")
 * Read what you post, are you interested? Was it worth your time?
@@ -136,7 +125,7 @@ We all love free stuff. Branded hats and mugs, gift cards, tickets to Dave Mathe
 * Share your own stuff. Real things take work and that’s why not everyone is doing it.
 * Live Events and Streaming. Is something going on that people want to see? Company party, grand opening, a sporting event. Give people the inside scoop.
 
-### Use a scheduler like Buffer or Hootsuite.
+### Use a scheduler like Buffer or HootSuite.
 
 Chances are you don't have time for doing social media every day of the week, not to mention it can quickly become overwhelming. Schedule post ahead of time. You can schedule posts for a full month or more!
 
