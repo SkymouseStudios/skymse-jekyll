@@ -1,5 +1,7 @@
 {% include header.html %}
 
+{% assign author = site.data.authors[page.author] %}
+
 <div id="post">
   
   <section class="blank">
@@ -8,8 +10,8 @@
     
     <div class="post-info-wrapper cf">
       
-    {% if page.author %}
-      <p>By {{ page.author.name }} on {{ page.date | date: "%B %-d, %Y" }}</p>
+    {% if author %}
+      <p>By {{ author.name }} on {{ page.date | date: "%B %-d, %Y" }}</p>
     {% endif %}
 
     {% if page.ttr %}
@@ -27,22 +29,13 @@
     {{ content }}
   </section>
 
- {% if page.author %}
-
-  <section class="centered-quote">
-    <img class="icon-size" src="{{ page.author.img }}" alt="{{ page.author.name }}">
-    <h4>{{ page.author.name }} on {{ page.date | date: "%B %-d, %Y" }}</h4>
-    <p>{{ page.author.title}}</p>
-  </section>
-
- {% endif %}
-
- {% assign author = site.authors[page.author] %}
 {% if author %}
-  <img src="{{ author.image }}">
-  <p>{{ author.name }}</p>
+  <section class="centered-quote">
+    <img class="icon-size" src="{{ author.img }}" alt="{{ author.name }}">
+    <h4>{{ author.name }} on {{ page.date | date: "%B %-d, %Y" }}</h4>
+    <p>{{ author.title}}</p>
+  </section>
 {% endif %}
-
 
 
  <section class="block">
