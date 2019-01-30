@@ -16,13 +16,13 @@ description: You wouldn't believe how many people I know who spend 2 hours+ in t
 ---
 Email is the worst. It's messy. It's confusing. It gets really out of hand quickly. Are you one of those people with 13,397 unread emails in your inbox? The idea of using email as a to-do list is silly. The best way to shoot your productivity in the foot is "working out of your email."
 
-You wouldn't believe how many people I know that spend 2+ hours in their email during the work day. It's a businessman's Facebook. It's addicting. It's time to take control of your email.
+You wouldn't believe how many people I know that spend 2+ hours in their email throughout the work day. It's a businessman's Facebook. It's addicting. It's time to take control of your email.
 
-I do my best to limit distractions in my workday. There is a lot to do. Why should I waste time mucking around in my inbox? Here's what I do:
+I do my best to limit distractions in my workday. There is plenty to accomplish. Why should I waste time mucking around in my inbox? Here's what I do:
 
 ### 1. Create tasks and prioritize.
 
-I use Asana for all my project management at Skymouse. When I get a new email involving a task, I create a task in Asana, copy any important information **over**, and archive that email. Asana has a feature that allows you to forward emails to an Asana email address and a task is created auto-magically. It's wonderful. If you don't use Asana, just use a simple to-do list app or a CRM (if you company has one). Hubspot offers a free CRM that works great. If the email has information I want to keep, I add it to my Evernote. Your email is not a notebook. Stop treating it like one.
+I use Asana for all my project management at Skymouse. When I get a new email involving a task, I create a task in Asana, copy and transfer any important information, and archive that email. Asana has a feature that allows you to forward emails to an Asana email address and a task is created auto-magically. It's wonderful. If you don't use Asana, just use a simple to-do list app or a CRM (if you company has one). Hubspot offers a free CRM that works great. If the email has information I want to keep, I add it to my Evernote. Your email is not a notebook. Stop treating it like one.
 
 ### 2. Schedule for later.
 
