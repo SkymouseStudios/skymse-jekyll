@@ -46,4 +46,4 @@ I've set my alerts to show up in Slack. New leads from the Skymouse website or n
 
 Your life will be better once you get a handle on your email. It takes time to get in a new routine, but it is worth it.
 
-You will spend less time wandering through your inbox. **You will know what you need to work on { You will have a better grasp on the tasks that need your attention}** . You might even have time to get home at 4pm and sit by the pool for a bit.
+You will spend less time wandering through your inbox. You will have a better grasp on the tasks that need your attention. You might even have time to get home at 4 p.m. and relax by the pool for a bit.
