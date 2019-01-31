@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You don't don't need to rebrand.
+title: You Don't Need to Rebrand.
 subtitle: A Guide to Branding
 author: john
 img: "/library/images/headers/header-about.svg"
@@ -66,4 +66,4 @@ Someday, your company may be just like Apple or Nike. If it is, it won’t be be
 
 * Are you providing a service people love? Do you have raving Google reviews?
 * How does your content reflect your business?
-* What is your message? If you are having trouble converting website visitors or closing a deal with your potential clients, 9 times out of 10 its an issue with your message.
+* What is your message? If you are having trouble converting website visitors or closing a deal with your potential clients, 9 times out of 10 it's an issue with your message.
