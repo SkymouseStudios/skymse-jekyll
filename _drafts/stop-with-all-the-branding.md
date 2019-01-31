@@ -24,7 +24,7 @@ You might have noticed that I put the words “brand,” “build,” and “rig
 
 ### What makes an amazing brand?
 
-We hear a lot about what the best brands have in common. We usually hear about it on a commercial or an ad where a company is using the fact that they have a well-known or established brand to tell you how important it is that you buy their product instead of their competitor's. But what are they using as the basis for their brand? What authority are they actually appealing to? Are these brands saying, “my logo is so amazing; you should buy the shoes I sell?” Are they saying, “the typeface I use is so compelling; you should wear my clothes?”
+We hear a lot about what the best brands have in common. We usually hear about it on a commercial or an ad where a company is using a well-known or established brand to tell you how important it is that you buy their product instead of their competitor's. But what are they using as the basis for their brand? What authority are they actually appealing to? Are these brands saying, “my logo is so amazing; you should buy the shoes I sell?” Are they saying, “the typeface I use is so compelling; you should wear my clothes?”
 
 > In case it isn’t obvious, the answer to these questions is no.
 
