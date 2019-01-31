@@ -81,6 +81,29 @@ p {
 	margin-right: 5px;
 }
 
+.arrow-left {
+	position: absolute;
+    width: 75px;
+    bottom: -75px;
+    left: 15%;
+    transform: rotate(-30deg);
+}
+
+.arrow-center {
+	position: absolute;
+    width: 75px;
+    bottom: -75px;
+    right: 45%;
+}
+
+.arrow-right {
+	position: absolute;
+    width: 75px;
+    bottom: -75px;
+    right: 15%;
+    transform: rotate(35deg);
+}
+
 /*********************
 HELPER CLASSES
 *********************/
@@ -353,6 +376,24 @@ section {
 		}
 	}
 }
+
+// the process page
+.process {
+	img.bg {
+		width: 100%;
+		opacity: 0.2;
+	}
+
+	.card {
+		position: absolute;
+    	top: 220px;
+    	left: 0px;
+   		right: 0px;
+    	max-width: 550px;
+   		margin: 0 auto;
+	}
+}
+    
 
 .super-list {
 	position: relative;
