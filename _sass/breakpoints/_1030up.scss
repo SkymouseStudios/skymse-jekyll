@@ -51,7 +51,15 @@ TEMPLATE OBJECTS
 	
 	&#desktop-menu {
 		display: block;
-		float: left;
+
+		ul li:last-child {
+			float: right;
+			
+			a {
+				background-color: $orange;
+			}
+			
+		}
 	}
 
 	&#mobile-menu {
@@ -91,4 +99,14 @@ img.client-site {
 
 .twitter-heading {
 	margin-bottom: 235px;
+}
+
+.footer-links {
+	p:first-child {
+		float: left;
+	}
+
+	p:last-child {
+		float: right;
+	}
 }

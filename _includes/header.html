@@ -116,21 +116,17 @@
 
 			<nav id="desktop-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 				<ul class="cf">
-	          		{% for link in site.links %}
+	          		{% for link in site.data.menus.header %}
 			            <li>
-			              <a class="nav-btn orange" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+			              <a class="nav-btn" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
 			            </li>
 	          		{% endfor %}
 	        	</ul>
 			</nav>
-			
-			<ul style="text-align: right;">
-				<li><a class="nav-btn orange" href="/become-a-client">Become a client</a></li>
-			</ul>
 
-			<a style="float: right;" href="tel:3176431975">
+			<!-- <a style="float: right;" href="tel:3176431975">
 			<img style="width: 30px" src="{{ site.baseurl }}/library/images/icons/icon-phone.svg" alt="">
-			</a>
+			</a> -->
 			
 		</div> 
 		</header>

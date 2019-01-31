@@ -98,10 +98,7 @@ NAVIGATION STYLES
 			a {}
 		}  
 	} 
-
-	&:last-child {
-		float: right;
-	}
+	
 } /* end .nav */
 
 /*********************
@@ -161,20 +158,4 @@ POSTS & CONTENT STYLES
 /*********************
 FOOTER STYLES
 *********************/
-
-footer {
-	.location {
-		float: right;
-	}
-
-	.footer-links {
-		margin-right: 40px;
-		float: left;
-	}
-
-	p {
-		display: inline-block;
-	}
-}
-
 
