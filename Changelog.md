@@ -1,5 +1,11 @@
 # Changelog
 
+### Update 19.01.30
+
+- new footer
+- new, cleaner header
+- cleaned up process page
+
 ### Updates 19.01.23
 - created a new template for case studies
 - filled out info for the exodus 90 case study
