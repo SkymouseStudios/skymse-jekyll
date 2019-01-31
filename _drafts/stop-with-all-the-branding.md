@@ -24,11 +24,11 @@ You might have noticed that I put the words “brand,” “build,” and “rig
 
 ### What makes an amazing brand?
 
-We hear a lot about what the best brands have in common. **We usually hear about it on a commercial or an ad where a company is using the fact that they have a well-known or established brand to tell you how important it is that you buy their product instead of their competitor.** But what are they using as the basis for their brand? What authority are they actually appealing to? Are these brands saying, “my logo is so amazing; you should buy the shoes I sell?” Are they saying, “the typeface I use is so compelling; you should wear my clothes?”
+We hear a lot about what the best brands have in common. We usually hear about it on a commercial or an ad where a company is using the fact that they have a well-known or established brand to tell you how important it is that you buy their product instead of their competitor's. But what are they using as the basis for their brand? What authority are they actually appealing to? Are these brands saying, “my logo is so amazing; you should buy the shoes I sell?” Are they saying, “the typeface I use is so compelling; you should wear my clothes?”
 
 > In case it isn’t obvious, the answer to these questions is no.
 
-What I’m seeing happen to businesses everywhere is that they are being told that in order for them to be relevant in the modern commerce climate, they need to look a certain way, talk a certain way, present a certain image and that will ensure that they remain competitive. **This “branding” is focused 100% on superficial things that have no impact or reflection on a company’s ability to offer products or services in a competitive way and follow through on their commitments to customers.** The real problem is that this idea of branding is the very definition of putting the cart before the horse.
+What I’m seeing happen to businesses everywhere is that they are being told that in order for them to be relevant in the modern commerce climate, they need to look a certain way, talk a certain way, present a certain image and that will ensure that they remain competitive. This “branding” is focused 100% on superficial ideology that has no impact or reflection on a company’s ability to offer products or perform services in a competitive way, or their ability to follow through on their commitments to customers. The real problem is that this idea of branding is the very definition of putting the cart before the horse.
 
 Let’s go back to the brands that have the most impact, recognition, and clout. I’ll pick two: Nike and Apple. These brands are held up constantly by marketing companies when they want to make a point about the impact that brands can make. They use companies like Apple and Nike to sell to businesses that are looking for help standing out in the marketplace and increasing their brand recognition. Marketing companies talk about how Apple and Nike drive their customers decisions: not the other way around. They talk about how customers look to brands like Nike and Apple for direction. They tell businesses that they can bring that same level of engagement from their customers: all it’s going to cost is $100,000.00.
 
@@ -38,7 +38,7 @@ Let me explain.
 
 ### The Golden Apple
 
-When marketing companies hold up Apple as an example, they hold up mature Apple. They hold up the version of Apple that **bloomed** in the mid 2000’s under Steve Jobs’s watch the second time around. What they don’t hold up as an example is early 1990’s Apple, when they were struggling to capture market share and solidify their leadership. That Apple didn’t have a brand. That Apple wasn’t, didn’t deserve a brand. That Apple hadn’t earned their brand.
+When marketing companies hold up Apple as an example, they hold up mature Apple. They hold up the version of Apple that bloomed in the mid 2000’s under Steve Jobs’s watch the second time around. What they don’t hold up as an example is early 1990’s Apple, when they were struggling to capture market share and solidify their leadership. That Apple didn’t have a brand. That Apple wasn’t, didn’t deserve a brand. That Apple hadn’t earned their brand.
 
 > The reality is that a brand is not a logo.
 
