@@ -151,6 +151,12 @@ section {
 	}
 }
 
+.mobile-and-desktop {
+	img:first-child {
+		left: -50px;
+	}
+}
+
 /*********************
 POSTS & CONTENT STYLES
 *********************/
@@ -159,3 +165,6 @@ POSTS & CONTENT STYLES
 FOOTER STYLES
 *********************/
 
+footer #inner-footer #logo {
+	grid-column: span 2;
+}

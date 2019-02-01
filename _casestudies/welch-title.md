@@ -7,7 +7,7 @@ description: Welch title wanted a fresh new look that captured the experience an
 services:
 - SEO
 - Web Development
-permalink: work/welch-title-and-abstract
-website-img: /library/images/our-work/welchtitle/welch-title.jpeg
+
+website-img: /library/images/our-work/welchtitle/welch-title.jpg
 
 ---

@@ -10,7 +10,6 @@ services:
 - Email Marketing
 - Web Development
 - Social Media
-permalink: work/resource-commercial-real-estate
 img: /library/images/our-work/resource/resource-banner.jpg
 website-img: /library/images/our-work/resource/resource.jpg
 
@@ -23,15 +22,15 @@ A-title: Everything you need.
 A-subtitle: All in one place.
 A-p: Resource has many offerings. The challenge was to helps users find what they need and do it with ease. After multiple iterations, we landed on a layout that worked.
 
-A-image-desktop: /library/images/our-work/resource/resource-home-desktop.png
-A-image-mobile: /library/images/our-work/resource/resource-home-mobile.png
+A-image-desktop: /library/images/our-work/resource/resource-home-desktop.jpg
+A-image-mobile: /library/images/our-work/resource/resource-home-mobile.jpg
 
 # Highlight B
 B-title: Sir, We've Made Contact.
 B-subtitle: Making engagement easy.
 B-p: The old website wasn't generating any leads. Many of the site users are in a rush and don't want to bother with contact forms. By incorporating an online chat service known as Drift, we were able to go from no leads to 9 qualified leads a month.
 
-B-image-desktop: /library/images/our-work/resource/resource-home-close.png
+B-image-desktop: /library/images/our-work/resource/resource-home-close.jpg
 
 # Designer Quote
 designer-quote: We really liked the visual brand, so we wanted to hone it and not reinvent the wheel. It was a fun challege to use those design tools in a new and creative way.
@@ -40,14 +39,14 @@ designer-title: Designer
 designer-picture: /library/images/our-work/resource/resource-carrie.jpg
 
 # Highlight Basic
-sales-image: /library/images/our-work/resource/resource-profile-page.png
+sales-image: /library/images/our-work/resource/resource-profile-page.jpg
 
 # Audience
 audience-title: Another goal
 audience-subtitle: Building the team.
 audience-p: Not only is the program geared for men, but we also wanted to target parishes as a whole, getting priests and parish leaders on board so they could transform their community.
 
-audience-image-desktop: /library/images/our-work/resource/resource-about-careers.png
+audience-image-desktop: /library/images/our-work/resource/resource-about-careers.jpg
 
 # Header Artwork
 artwork-title: Looks matter.
@@ -55,8 +54,8 @@ artwork-subtitle: Using Icons and Images.
 artwork-p: One of the best ways to engage is by using images people can understand. We worked with designer Carrie Smith to design some fun, simple designs that supported the copy and the RESOURCE brand.
 
 header-A: /library/images/our-work/resource/resource-industrial-selector.png
-header-B: /library/images/our-work/resource/resource-industrial-collab.png
-header-C: /library/images/our-work/resource/resource-industrial-illustration.png
+header-B: /library/images/our-work/resource/resource-industrial-collab.jpg
+header-C: /library/images/our-work/resource/resource-industrial-illustration.jpg
 header-D: /library/images/our-work/resource/resource-landing-page.jpg
 header-E: /library/images/our-work/resource/resource-landing-page-sent.jpg
 
@@ -71,9 +70,9 @@ C-title: A promise of change.
 C-subtitle: Looking back at the progress.
 C-p: A large part of the website is engaging users, regardless of if they decide to register immediately or just keep an eye on the program. We helped the RESOURCE team capture emails effectly and leverage groups so that their marketing follow-up campaigns would get in front of the right people.
 
-C-image-A: /library/images/our-work/resource/resource-before-1.png
-C-image-B: /library/images/our-work/resource/resource-before-2.png
-C-image-C: /library/images/our-work/resource/resource-before-3.png
+C-image-A: /library/images/our-work/resource/resource-before-1.jpg
+C-image-B: /library/images/our-work/resource/resource-before-2.jpg
+C-image-C: /library/images/our-work/resource/resource-before-3.jpg
 
 ---
 

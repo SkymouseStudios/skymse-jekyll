@@ -1,24 +1,24 @@
 # Header Navigation
 header:
   - title: "Why Skymouse"
-    url: "/why-skymouse"
+    url: "/why-skymouse.html"
   - title: "What you can do"
-    url: "/what-you-can-do"
+    url: "/what-you-can-do.html"
   - title: Our Work
-    url: "/work"
+    url: "/work.html" 
   - title: "Pricing"
-    url: "/pricing"
+    url: "/pricing.html"
   - title: "Become a client"
-    url: "/become-a-client"
+    url: "/become-a-client.html"
 
 # Footer Navigation
 footer:
   - title: Company
     subfolderitems:
       - title: "Our work"
-        url: "/work"
+        url: "/work.html"
       - title: "About"
-        url: "/about"
+        url: "/about.html"
       # - title: "Careers"
       #   url: "/careers"
       # - title: "Brand Guide"
@@ -26,17 +26,17 @@ footer:
   - title: Services
     subfolderitems:
       - title: "Why Skymouse"
-        url: "/why-skymouse"
+        url: "/why-skymouse.html"
       - title: "What you can do"
-        url: "/what-you-can-do"
+        url: "/what-you-can-do.html"
       - title: "Process"
-        url: "/process"
+        url: "/process.html"
       - title: "Pricing"
-        url: "/pricing"
+        url: "/pricing.html"
   - title: Resources
     subfolderitems:
       - title: "All Resources"
-        url: "/resources"
+        url: "/resources.html"
       # - title: "Book Reports"
       #   url: "/book-reports"
       # - title: "Downloads"

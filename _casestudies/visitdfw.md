@@ -9,9 +9,9 @@ description: Search Engine Optimization, Development and team training. We helpe
 services:
 - SEO
 - Web Development
-permalink: work/visitdfw
+
 img: "/library/images/our-work/visitdfw/visitdfw-banner.jpg"
-website-img: "/library/images/our-work/visitdfw/visitdfw.jpeg"
+website-img: "/library/images/our-work/visitdfw/visitdfw.jpg"
 elevator-pitch: Visit DFW is a Dallas-based tourism site, curating events and things
   to do around the entire central Texas region.
 A-title: Everything you need.

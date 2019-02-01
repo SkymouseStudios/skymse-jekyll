@@ -46,24 +46,9 @@ LARGE VIEWING SIZE
 } // end of media query
 
 /*********************
-RETINA (2x RESOLUTION DEVICES)
-*********************/
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
-       only screen and (min--moz-device-pixel-ratio: 1.5),
-       only screen and (min-device-pixel-ratio: 1.5) {
-	// styles in 2x.scss
-	@import "breakpoints/2x";
-} // end of media query
-
-/*********************
 PRINT STYLESHEET
 *********************/
 @media print {
 	// styles in print.scss
 	@import "partials/print";
 }
-
-/*********************
-PAGE SPECIFIC STYLING
-*********************/
-@import "modules/stripe";

@@ -98,7 +98,12 @@
 		<header role="banner" {% if page.layout == 'post' or page.layout == 'landing-page' or page.layout == 'case-study' %} style="background-color: orange;" {% endif %} itemscope itemtype="http://schema.org/WPHeader">
 		
 		<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-			<ul class="cf"> {% for link in site.links %}<li><a class="nav-btn" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>{% endfor %}
+			<ul class="cf">
+          		{% for link in site.data.menus.header %}
+		            <li>
+		              <a class="nav-btn" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+		            </li>
+          		{% endfor %}
         	</ul>
 		</nav>
 
@@ -123,10 +128,6 @@
 	          		{% endfor %}
 	        	</ul>
 			</nav>
-
-			<!-- <a style="float: right;" href="tel:3176431975">
-			<img style="width: 30px" src="{{ site.baseurl }}/library/images/icons/icon-phone.svg" alt="">
-			</a> -->
 			
 		</div> 
 		</header>
