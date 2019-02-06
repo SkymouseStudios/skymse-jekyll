@@ -1,7 +1,5 @@
 {% include header.html %}
 
-{% assign author = site.data.authors[page.author] %}
-
 <div id="post">
   
   <section class="blank">
@@ -9,10 +7,12 @@
     <h1>{{ page.title }}</h1>
     
     <div class="post-info-wrapper cf">
-      
-    {% if author %}
-      <p>By {{ author.name }} on {{ page.date | date: "%B %-d, %Y" }}</p>
-    {% endif %}
+
+    {% for profile in site.data.authors.profiles %}
+      {% if profile.name == page.author %}
+        <p>By {{ profile.name }} on {{ page.date | date: "%B %-d, %Y" }}</p>
+      {% endif %}
+    {% endfor %}
 
     {% if page.ttr %}
       <div class="time-to-read">{{ page.ttr }} Minutes of Quality Reading 👌</div>
@@ -29,14 +29,15 @@
     {{ content }}
   </section>
 
-{% if author %}
-  <section class="centered-quote">
-    <img class="icon-size" src="{{ author.img }}" alt="Photo of {{ author.name }}">
-    <h4>{{ author.name }}</h4>
-    <p>{{ author.title}}</p>
-  </section>
-{% endif %}
-
+{% for profile in site.data.authors.profiles %}
+  {% if profile.name == page.author %}
+    <section class="centered-quote">
+      <img class="icon-size" src="{{ profile.img }}" alt="Photo of {{ profile.name }}">
+      <h4>{{ profile.name }}</h4>
+      <p>{{ profile.title}}</p>
+    </section>
+  {% endif %}
+{% endfor %}
 
  <section class="block">
     <h3>We'd love to send you posts hot off the press.</h3>

@@ -193,6 +193,15 @@ header {
 .home-hero {
 	text-align: left;
 	margin-top: 25px;
+	
+	h1 {
+		text-shadow: -2px 1px 0px #989797;
+	}
+
+	h3, h1 {
+		color: $white;
+		
+	}
 }
 
 /*********************
@@ -955,39 +964,39 @@ footer {
 	margin: 40px;
 	z-index: 999;
 	position: relative;
-	display: block;
+	display: block;	
+}
 
-	#inner-footer {
-		background-color: #f6f6f6;
-		border-radius: 5px;
-		padding: 40px;
-		text-align: center;
+#inner-footer {
+	background-color: #f6f6f6;
+	border-radius: 5px;
+	padding: 40px;
+	text-align: center;
 
-		nav {
-			text-align: left;
+	nav {
+		text-align: left;
+	}
+
+	h4 {
+		margin-top: 0px;
+	}
+
+	li a {
+		color: $gray;
+		border-bottom: 3px solid #f6f6f6;
+
+		&:hover {
+			border-bottom: 3px solid $gray;
 		}
 
-		h4 {
-			margin-top: 0px;
-		}
+	}
 
-		li a {
-			color: $gray;
-			border-bottom: 3px solid #f6f6f6;
+	#logo {
+		grid-column: auto;
+		margin: 0px;
 
-			&:hover {
-				border-bottom: 3px solid $gray;
-			}
-
-		}
-
-		#logo {
-			grid-column: auto;
-			margin: 0px;
-
-			img {
-				width: 85px;
-			}
+		img {
+			width: 85px;
 		}
 	}
 }

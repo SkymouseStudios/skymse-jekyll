@@ -9,9 +9,10 @@ services:
 - Web Development
 - Email Marketing
 
-img: /library/images/our-work/exodus90/exodus90-Banner.jpg
+img: /library/images/our-work/exodus90/exodus90-banner.jpg
 website-img: /library/images/our-work/exodus90/exodus-90.jpg
 
+permalink: work/exodus-90/
 
 # Introduction
 elevator-pitch-title: Beginning the journey

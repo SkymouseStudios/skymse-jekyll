@@ -12,6 +12,7 @@ services:
 - Social Media
 img: /library/images/our-work/resource/resource-banner.jpg
 website-img: /library/images/our-work/resource/resource.jpg
+permalink: work/resource-commercial-real-estate/
 
 # Introduction
 elevator-pitch-title: Love your space.

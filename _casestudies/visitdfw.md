@@ -10,6 +10,8 @@ services:
 - SEO
 - Web Development
 
+permalink: work/visit-dfw/
+
 img: "/library/images/our-work/visitdfw/visitdfw-banner.jpg"
 website-img: "/library/images/our-work/visitdfw/visitdfw.jpg"
 elevator-pitch: Visit DFW is a Dallas-based tourism site, curating events and things
@@ -62,7 +64,7 @@ C-p: A large part of the website is engaging users, regardless of if they decide
 C-image-A: "/library/images/our-work/visitdfw/visitdfw-before-1.png"
 C-image-B: "/library/images/our-work/visitdfw/visitdfw-before-2.png"
 C-image-C: "/library/images/our-work/visitdfw/visitdfw-before-3.png"
-published: false
+published: true
 
 ---
 Those Catholic Men asked us to help redesign and maintain visitdfw.com to make it all clearer.

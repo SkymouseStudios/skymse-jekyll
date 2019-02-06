@@ -3,7 +3,7 @@ title: About our team
 layout: default
 subtitle: Purpose drives passion.
 description: Skymouse Studios is a media company based out of Indianapolis, Indiana. We help people use media to transform their businesses.
-permalink: /about.html
+
 img-front: /library/images/headers/header-about-front.svg
 img-mid: /library/images/headers/header-about-mid.svg
 img-back: /library/images/headers/header-about-back.svg
@@ -112,9 +112,9 @@ img: /library/images/social/social-about.jpg
 		</div>
 
 		<div class="profile-grid">
-		{% for profile in site.profiles %}
+		{% for profile in site.data.authors.profiles %}
 				<div class="twitter-box">
-					<p class="twitter-name">{{profile.name }}</p>
+					<p class="twitter-name">{{ profile.name }}</p>
 					<a class="twitter-handle" href="https://twitter.com/{{ profile.handle }}">{{ profile.handle }}</a>
 					<img class="twitter-profile" src="{{ site.baseurl }}{{ profile.img }}" alt="{{profile.name}}">
 					<div class="twitter-content">
