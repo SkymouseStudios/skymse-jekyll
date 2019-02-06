@@ -13,7 +13,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 		<!-- Icon Info -->
-		<link rel="shortcut icon" href="/favicon.png" type="image/x-icon"/>
+		<link rel="shortcut icon" href="/favicon-32x32.png" type="image/x-icon"/>
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -54,16 +54,9 @@
 			  "founders": [ "John Welch", "Patrick Hanus" ],
 			  "foundingDate": "2016-05-20",
 			  "logo": "{{ site.baseurl }}{{ site.logo }}",
-			  "sameAs": [ 
-			  	{% for social in site.socials %}
-                    {% if forloop.last == true %}
-				        {{ social.url }}
-				    {% else %}
-				        "{{ social.url }}", 
-				    {% endif %}
-
-                    {% endfor %}
-              ]
+			  "sameAs": [{% for social in site.data.menus.socials %}{% if forloop.last == true %}
+			  	"{{ social.url }}"{% else %}
+			  	"{{ social.url }}",{% endif %}{% endfor %}]
 			}
 		</script>
 		

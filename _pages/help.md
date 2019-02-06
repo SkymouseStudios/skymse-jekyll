@@ -3,7 +3,7 @@
 title: Help
 layout: post
 subtitle: Hello, how can we help?
-
+permalink: /help.html
 img: /library/images/social/social-about.jpg
 
 ---

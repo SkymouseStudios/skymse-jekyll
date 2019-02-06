@@ -22,7 +22,7 @@ sass:
   style: compressed
 
 include: ["_pages"]
-permalink: /:title:output_ext
+permalink: /:path:output_ext
 
 plugins:
   - jekyll-menus

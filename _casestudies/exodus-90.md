@@ -5,7 +5,6 @@ subtitle: Exodus 90
 layout: case-study
 quote: 
 description: Exodus 90, a non-profit spiritual program for men, needed help wrangling their digital marketing. Skymouse helped them launch new landing pages quickly, explore new marketing campaigns and improve their website to boost sign-ups and increase donations.
-
 services:
 - Web Development
 - Email Marketing

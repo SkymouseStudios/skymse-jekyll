@@ -313,14 +313,12 @@ NAVIGATION STYLES
 
 		&:before {
 	    	top: 12px;
-	    
 			transform: rotate(45deg);
 			transition: 0.2s;
 		}
 
 		&:after {
 			bottom: -18px;
-
 			transform: rotate(-45deg);
 			transition: 0.2s;
 		}
@@ -385,10 +383,6 @@ section {
 	}
 
 	.card {
-		position: absolute;
-    	top: 220px;
-    	left: 0px;
-   		right: 0px;
     	max-width: 550px;
    		margin: 0 auto;
 	}
