@@ -2,7 +2,7 @@
 layout: post
 title: You Don't Need to Rebrand.
 subtitle: A Guide to Branding
-author: john
+author: John Welch
 img: "/library/images/headers/header-about.svg"
 permalink: "/stop-with-all-the-branding"
 ttr: 8
