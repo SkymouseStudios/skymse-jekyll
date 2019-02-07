@@ -49,14 +49,15 @@ fields:
   name: author
   config:
     source:
-      type: documents
+      type: simple
       section: data
       file: _data/authors.yml
       path: ''
     required: true
     options:
-    - john
-    - patrick
+    - John Welch
+    - Patrick Hanus
+    - Austin Graf
   label: Author
   default: john
 - type: number
