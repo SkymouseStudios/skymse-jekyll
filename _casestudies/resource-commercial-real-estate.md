@@ -41,9 +41,9 @@ designer-picture: "/library/images/our-work/resource/resource-carrie.jpg"
 sales-image: "/library/images/our-work/resource/resource-profile-page.jpg"
 audience-title: Another goal
 audience-subtitle: Building the team.
-audience-p: Not only is the program geared for men, but we also wanted to target parishes
-  as a whole, getting priests and parish leaders on board so they could transform
-  their community.
+audience-p: 'The primary goal of this site was to sell real-estate, but for RESOURCE
+  it also needed to function as a site built to develop relationships with brokers,
+  attract top tier talent and  to expand their reach within the community. '
 audience-image-desktop: "/library/images/our-work/resource/resource-about-careers.jpg"
 artwork-title: Looks matter.
 artwork-subtitle: Using Icons and Images.
