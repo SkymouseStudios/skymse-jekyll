@@ -72,6 +72,6 @@ C-image-C: "/library/images/our-work/resource/resource-before-3.jpg"
 ---
 RESOURCE had recently gotten a new website. The problem was the new site was not engaging, had very little traffic and was on the 3rd page of Google. Much of the site's information was out of date or missing.
 
-As Indianapolis's largest locally owned firm, RESOURCE needed a site that would be easy to find, and help users contact brokers to help them with their needs.
+As Indianapolis's largest locally owned firm, RESOURCE needed a site that would be easy to find and help users contact brokers to help them with their needs.
 
 This required a specialized WordPress Theme that would make rcre.com look and work like it should. The team also requested a custom back-end allowing non-technical folks to make edits.
