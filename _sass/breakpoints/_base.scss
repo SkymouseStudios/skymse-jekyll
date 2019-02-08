@@ -28,7 +28,7 @@ body {
 	background-repeat: repeat;
 }
 
-#page, #inner-header, #product, #Checkout {
+main {
 	margin: 0 20px; // center content in page
 	overflow: hidden; // hide anything that wants to overflow
 }
@@ -188,6 +188,10 @@ header {
 .blog-header {
 	background: linear-gradient(135deg, $orange, #ffc576);
 	border-radius: 5px;
+
+	img {
+		display: block;
+	}
 }
 
 .home-hero {
@@ -526,6 +530,7 @@ POSTS & CONTENT STYLES
     	box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
     	transition: 0.5s;
     	border: 3px solid $gray;
+    	border-radius: 5px;
     }
 
 	h4 {
@@ -541,15 +546,10 @@ POSTS & CONTENT STYLES
 	
 	.picture {
 		position: relative;
-		height: 250px;
+		height: 290px;
 		overflow: hidden;
-		border-radius: 5px 5px 0px 0px;
-		background: linear-gradient(135deg, $orange, #ffc576);
-	}
-
-	img {
-		width: 110%;
-		margin: 0;
+		border-radius: 3px 3px 0px 0px;
+		background: #30373e;
 	}
 }
 
