@@ -205,9 +205,9 @@ We use Buffer for our clients, and I use it for my personal account.
 
 You can now post to instagram automatically! (Previously you could only schedule reminders to post). Now, you can also add emojis straight from buffer.
 
-#### What you might not like
+#### What you might not like:
 
-The social media work is an echo chamber of recycled information. While buffer is a good tool, it's only as good as the content that you're sharing. So be original focus on creating awesome content. That't where the real magic happens.
+The social media work is an echo chamber of recycled information. While buffer is a good tool, it's only as good as the content that you're sharing. So, be original: focus on creating awesome content. That's where the real magic happens.
 
 Buffer also doesn't take the place of live interaction. Engaging with your followers and fans works best when you're in the native medium and can make the difference in how people perceive your brand.
 
