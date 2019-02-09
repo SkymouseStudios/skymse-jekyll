@@ -46,7 +46,7 @@ Evernote is only useful if you use it systematically. It also works way better i
 
 You should also be aware that with the free version of the Evernote app, you can only sync 2 devices at a time, and you can't view notes on the mobile app if you don't have internet.
 
-### Alternates to Evernote
+### Alternates to Evernote:
 
 * [BoostNote](https://boostnote.io/ "Boostnote Website")
 * [Dropbox Paper](https://www.dropbox.com/paper "Dropbox Paper Website")
@@ -76,11 +76,11 @@ The possibilities are endless, and when every moment counts in the business day,
 
 IF/THEN logic allows you to add conditional logic inside of your automations! This is a big deal when you want automations to take place only in certain situations.
 
-#### What you might not like
+#### What you might not like:
 
 The only downside about using Zapier is that it may be a bit confusing if you don't document your automations. I keep track of Automations in Evernote and have no problems related to automations.
 
-### Alternates to Zapier
+### Alternates to Zapier:
 
 * [IFTTT](https://ifttt.com/discover "If This Then That - Website") (completely free)
 * [Tray.io](https://tray.io/ "Tray.io Website")
@@ -111,24 +111,24 @@ Mailchimp is really good about growing their service expanding capabilities. You
 
 If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. Your account might be shut down if you upload a bunch of emails without making sure it's a list of emails that aren't old and outdated.
 
-### Alternates to Mailchimp
+### Alternates to Mailchimp:
 
 * [Active Campaign](https://www.activecampaign.com/)
 * [Campaign Monitor](https://www.campaignmonitor.com/)
 
-## 4. Track your projects like a pro with Asana
+## 4. Track your projects like a pro with Asana.
 
 `Free, Minor Limitations`
 
-I've been using [Asana](https://asana.com/) for about 2 years now and it's great. They've also added some new features, so it's an app that keeps on giving. The free version of the app is highly functional and works well even for very large projects.
+I've been using [Asana](https://asana.com/) for about 2 years now, and it's great. They've also added some new features, so it's an app that keeps on giving. The free version of the app is highly functional and works well even for very large projects.
 
-Asana is a glorified checklist, helping you tackle large projects and collaborate with other team members. It has a lot of flexibility so you can organize projects your way.
+Asana is a glorified checklist helping you tackle large projects and collaborate with other team members. It has a lot of flexibility so you can organize projects your way.
 
 ### How to use Asana in the workplace:
 
-* We've created a **project** for each client and manage a **board view** so we know the status of each client at all times.
-* We have internal projects like our website, social media, and a SkyDev project so we don't fall behind.
-* We can invite clients to their **project** so they can also upload documents, finish their tasks, and see the project status.
+* We've created a **project** for each client and manage a **board view**, so we know the status of each client at all times.
+* We have internal projects like our website, social media, and a SkyDev project, so we don't fall behind.
+* We can invite clients to their **project**, so they can also upload documents, finish their tasks, and see the project status.
 
 ### What's new in Asana 2018?
 
