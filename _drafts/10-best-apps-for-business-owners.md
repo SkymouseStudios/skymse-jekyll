@@ -107,9 +107,9 @@ They've been adding features pretty consistently over the years—they now have 
 
 Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you E-commerce store effortlessly.
 
-#### What you might not like
+#### What you might not like:
 
-If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. You account might be shut down if you upload a bunch of emails without making sure it's a list of emails that aren't old and outdated.
+If you are doing a lot of cold sales emails, Mailchimp is not for you. They are pretty strict about getting your subscribers to sign up for your emails directly. Your account might be shut down if you upload a bunch of emails without making sure it's a list of emails that aren't old and outdated.
 
 ### Alternates to Mailchimp
 
