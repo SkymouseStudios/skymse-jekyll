@@ -22,9 +22,9 @@ That being said, the landscape of apps is changing quickly. Here are the tried a
 
 `Free, Minor/Major Limitations`
 
-As a business owner, you have a lot to track. Evernote can assist you in this task.
+As a business owner you have a lot to track. Evernote can assist you in this task.
 
-Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and "tag" them with labels, providing you with pertinent information at a glance.
+Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and "tag" them with labels providing you with pertinent information at a glance.
 
 ### How to use Evernote in the workplace
 
@@ -175,7 +175,7 @@ We like it a lot, and it's made life easier at Skymouse!
 
 #### What you might not like
 
-Slack can be addicting and distracting, especially when you have a lot of people in your organization. 
+Slack can be addicting and distracting, especially when you have a lot of people in your organization.
 
 I recommend setting times in your day to mute Slack so it doesn't bring you out of work mode and ruin your flow.
 
@@ -189,7 +189,7 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 I've been using [Buffer](https://buffer.com) for almost 2 years now. Not only do I like the app but I've come to appreciate the company it. They have some cool principals and their blog is also pretty great.
 
-I've talked to a lot of people and there are a lot of preferences out there when it comes to social media scheduling. 
+I've talked to a lot of people and there are a lot of preferences out there when it comes to social media scheduling.
 
 We use Buffer for our clients, ourselves and I use it for my personal account.
 
@@ -242,7 +242,7 @@ The paid version has a ton of additional functionality using their `Airtable Blo
 
 #### What you might not like
 
-There really aren't many downsides to Airtable to be honest. 
+There really aren't many downsides to Airtable to be honest.
 
 ### Alternatives to Airtable
 
@@ -277,7 +277,7 @@ This
 
 #### What you might not like
 
-The free version plugs Hubspot on its forms, templates and things like that. 
+The free version plugs Hubspot on its forms, templates and things like that.
 
 ### Alternatives to HubSpot
 
