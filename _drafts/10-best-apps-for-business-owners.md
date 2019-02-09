@@ -26,9 +26,9 @@ As a business owner you have a lot to track. Evernote can assist you in this tas
 
 Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and "tag" them with labels providing you with pertinent information at a glance.
 
-### How to use Evernote in the workplace
+### How to use Evernote in the workplace:
 
-* Organize similar `Notes` in a `Notebook`, and similar notebooks in a `Stack.`
+* Organize similar `Notes` in a `Notebook` and similar notebooks in a `Stack.`
 * Connect similar notes with each other using `Tags.`
 * Sync notes between your computer, web browser, iPad, iPhone, etc.
 * Take notes on the go...I LOVE the **top bar note taker**—I use it every day.
@@ -36,15 +36,15 @@ Keep notes about your business model, customer profiles, and any slogan ideas fo
 
 ### What's new in Evernote 2018?
 
-They just added templates which is a sweet way to get started quickly and standardize some of your information.
+They just added templates which are a sweet way to get started quickly and standardize some of your information.
 
-They also added a dark mode. (finally!)
+They also added a dark mode. (Finally!)
 
-#### What you might not like
+#### What you might not like:
 
-Evernote is only useful if you use it systematically. It also works way better if you use for everything. So for us, we don't use Microsoft Word for typing up drafts or ideas, we put it all in Evernote.
+Evernote is only useful if you use it systematically. It also works way better if you use it for everything. So for us, we don't use Microsoft Word for typing up drafts or ideas, we put it all in Evernote.
 
-You should also be aware that with the free version of the Evernote app you can only sync 2 devices at a time and you can't view notes on the mobile app if you don't have internet.
+You should also be aware that with the free version of the Evernote app, you can only sync 2 devices at a time, and you can't view notes on the mobile app if you don't have internet.
 
 ### Alternates to Evernote
 
