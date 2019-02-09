@@ -309,9 +309,9 @@ If I'm doing business development vs. web development vs. a call with a client, 
 
 Stuff.
 
-#### What you might not like
+#### What you might not like:
 
-The free version is pretty limited, you can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
+The free version is pretty limited. You can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
 
 ### Alternatives to Harvest.
 
