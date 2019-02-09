@@ -249,13 +249,13 @@ There really aren't many downsides to Airtable, to be honest.
 * [Google Sheets](https://www.google.com/sheets/about/)
 * [Quickbase](https://www.quickbase.com/)
 
-## 8. Keep you contacts all in one place and grow your business with HubSpot CRM
+## 8. Keep you contacts all in one place and grow your business with HubSpot CRM.
 
 `Free, Minor Limitations`
 
-A CRM is the best way to track sales and your client life cycle. At Skymouse we track our deals using HubSpot as well a couple other features that make life easier.
+A CRM is the best way to track sales and your client life cycle. At Skymouse, we track our deals using HubSpot, and use a couple other HubSpot features that make life easier.
 
-Many businesses and sale people hate CRMs and spend a lot of time and money on software they never use.
+Many businesses and sales  people hate CRMs and spend a lot of time and money on software they never use.
 
 ### How to use Hubspot in the workplace.
 
