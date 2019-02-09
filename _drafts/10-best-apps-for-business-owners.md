@@ -138,9 +138,9 @@ Timelines are basically a gantt chart view of how long aspects of a project will
 
 Board view is also pretty new, which is my personal favorite.
 
-#### What you might not like
+#### What you might not like:
 
-What I've found in Asana is that it can get confusing really quick. Especially if you have a large project or a couple of large projects. Smaller teams might struggle to make sure projects are updated and that people are using it effectively.
+What I've found in Asana is that it can get confusing really quick: especially if you have a large project or a couple of large projects. Smaller teams might struggle to make sure projects are updated and that people are using it effectively.
 
 I would suggest keeping tasks simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwhelming and unnecessary.
 
