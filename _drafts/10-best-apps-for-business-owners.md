@@ -95,7 +95,7 @@ The main thing Mailchimp is used for is sending email campaigns to your customer
 
 They've been adding features pretty consistently over the years—they now have landing pages to collect email addresses and some other cool functions.
 
-### How to use Mailchimp in the workplace
+### How to use Mailchimp in the workplace:
 
 * Create `Groups` and `Segments` in Mailchimp so your customers get what they need and only what they need.
 * Quickly design your own email templates, so you aren't reinventing the wheel.
