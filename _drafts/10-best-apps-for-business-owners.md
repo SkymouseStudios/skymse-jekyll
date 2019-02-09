@@ -240,11 +240,11 @@ Much of the projects we work on only make so much sense stored as a document. So
 
 The paid version has a ton of additional functionality using their `Airtable Blocks.`
 
-#### What you might not like
+#### What you might not like:
 
-There really aren't many downsides to Airtable to be honest.
+There really aren't many downsides to Airtable, to be honest.
 
-### Alternatives to Airtable
+### Alternatives to Airtable:
 
 * [Google Sheets](https://www.google.com/sheets/about/)
 * [Quickbase](https://www.quickbase.com/)
