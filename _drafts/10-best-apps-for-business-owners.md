@@ -193,17 +193,17 @@ I've talked to a lot of people, and there are a lot of preferences out there whe
 
 We use Buffer for our clients, and I use it for my personal account.
 
-### Using Buffer in the Workplace
+### Using Buffer in the Workplace:
 
-* Schedule social media posts
-* Track new feeds of things
-* All you analytics in one place
-* easily integrate your own short URL for your links(i.e. skymse.com)
+* Schedule social media posts.
+* Track new feeds of things.
+* All your analytics in one place.
+* Easily integrate your own short URL for your links(i.e. skymse.com).
 * The mobile app makes scheduling on the go super easy.
 
 ### What's new in Buffer 2018?
 
-You can now post to instagram automatically! (Previously you could only schedule reminders to post). You can also now add emojis straight from buffer.
+You can now post to instagram automatically! (Previously you could only schedule reminders to post). Now, you can also add emojis straight from buffer.
 
 #### What you might not like
 
