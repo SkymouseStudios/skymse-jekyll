@@ -313,25 +313,25 @@ Stuff.
 
 The free version is pretty limited. You can only have two projects. I upgraded because tracking my time is really important to me and how we serve our clients.
 
-### Alternatives to Harvest.
+### Alternatives to Harvest:
 
 * [Toggl](https://toggl.com "Toggl Website") (The free version of this may be a better start if you have a lot of projects.)
 
-## Bonus: Read things later with Pocket
+## Bonus: Read things later with Pocket.
 
 `Free, Minor Limitations`
 
-Chances are you read a lot. It's not always the best time to read though, the way I solve this: Pocket. I'll get email newsletters with links to new articles, my dad might text me an article he found, our I'll see some interesting blogs on the internet.
+Chances are you read a lot. It's not always the most convenient time to read though. The way I solve this: Pocket. I'll get email newsletters with links to new articles, my dad might text me an article he found, or I'll see some interesting blogs on the internet.
 
-I'll save them quickly with pocket and be on my way. That way I can come back later and do all my reading when I'm ready for it.
+I'll save them quickly with Pocket and be on my way. That way I can come back later and do all my reading when I'm ready for it.
 
 Hopefully I can find a relaxing environment where I can focus and perhaps take some notes if something is particularly useful.
 
-* organize your articles with tags
-* the browser plugin lets you save for later with one click
-* the app on iPad syncs everything I saved on my computer
-* there is an awesome dark mode for reading in the dark without frying your eyes.
-* you can also save videos for later!
+* Organize your articles with tags.
+* The browser plugin lets you save for later with one click.
+* The app on iPad syncs everything you save on your computer
+* There is an awesome dark mode for reading in the dark without frying your eyes.
+* You can also save videos for later!
 
 ## Free apps are awesome, but....
 
