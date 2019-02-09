@@ -87,7 +87,7 @@ The only downside about using Zapier is that it may be a bit confusing if you do
 
 ## 3. Send great looking email to your people with MailChimp.
 
-`Free, up to 2,000 Subscribers`
+`Free, Up to 2,000 Subscribers`
 
 [Mailchimp]() may be one of the more popular apps out there for marketers. I use Mailchimp all the time.
 
@@ -183,15 +183,15 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 * [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/) (included in Office 365 Subscription )
 
-## 6. Post to all your social media with Buffer
+## 6. Post to all your social media with Buffer.
 
 `Free, Up to 3 Social Accounts`
 
-I've been using [Buffer](https://buffer.com) for almost 2 years now. Not only do I like the app but I've come to appreciate the company it. They have some cool principals and their blog is also pretty great.
+I've been using [Buffer](https://buffer.com) for almost 2 years now. Not only do I like the app, but I've come to appreciate the company. They have some cool principals, and their blog is also pretty great.
 
-I've talked to a lot of people and there are a lot of preferences out there when it comes to social media scheduling.
+I've talked to a lot of people, and there are a lot of preferences out there when it comes to social media scheduling.
 
-We use Buffer for our clients, ourselves and I use it for my personal account.
+We use Buffer for our clients, and I use it for my personal account.
 
 ### Using Buffer in the Workplace
 
