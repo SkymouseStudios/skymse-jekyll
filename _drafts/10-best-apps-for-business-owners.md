@@ -57,18 +57,18 @@ You should also be aware that with the free version of the Evernote app, you can
 
 `Free, Limited to 5 "Zaps"`
 
-Zapier may be my favorite app of all. It's really quite amazing. Zapier let you make 5 `Zaps` for free, so it makes getting started easy! I can promise that your life will never be the same.
+Zapier may be my favorite app of all. It's really quite amazing. Zapier allows you to make 5 `Zaps` for free; so, it makes getting started easy! I can promise that your life will never be the same.
 
 Zapier connects different apps with each other. Using what's called APIs it allows you to send information from one app to another app with an easy-to-use interface.
 
-Using Zapier, you can automate pretty much everything in your life besides spending quality time with your kids. (That's something you should probably do in person.)
+Using Zapier, you can automate pretty much everything in your life. The exception: spending quality time with your kids. (That's something you should probably do in person.)
 
-### How to use Zapier in the workplace
+### How to use Zapier in the workplace:
 
-* **_When_** I post a picture to Instagram **_then_** post it as an actual picture in Twitter.
-* **_When_** I get a new subscriber in Mailchimp, _then_ add them to HubSpot as a new contact
-* **_When_** someone fills out a form in Airtable, **_then_** send me an alert in Slack
-* **_When_** someone buys something in Shopify, **_then_** add them to a Google Sheet
+* **_When_** I post a picture to Instagram, **_then_** posts it as an actual picture in Twitter.
+* **_When_** I get a new subscriber in Mailchimp, **_then_** adds them to HubSpot as a new contact.
+* **_When_** someone fills out a form in Airtable, **_then_** sends me an alert in Slack.
+* **_When_** someone buys something in Shopify, **_then_** adds them to a Google Sheet.
 
 The possibilities are endless and when every moment counts in the business day, Zapier helps cut out the busywork.
 
