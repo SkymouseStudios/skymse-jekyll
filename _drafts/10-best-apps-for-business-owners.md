@@ -170,16 +170,16 @@ We like it a lot, and it's made life easier at Skymouse!
 
 ### What's new in Slack 2018?
 
-* Turn your conversations into action (i.e. Create tasks in Asana from Slack)
-* See [more of what's new](https://slackhq.com/in-case-you-missed-it-new-emoji-improved-search-and-more) on the Slack Blog
+* Turn your conversations into action (i.e. Create tasks in Asana from Slack.)
+* See [more of what's new](https://slackhq.com/in-case-you-missed-it-new-emoji-improved-search-and-more) on the Slack Blog.
 
-#### What you might not like
+#### What you might not like:
 
 Slack can be addicting and distracting, especially when you have a lot of people in your organization.
 
 I recommend setting times in your day to mute Slack so it doesn't bring you out of work mode and ruin your flow.
 
-### Alternatives to Slack
+### Alternatives to Slack:
 
 * [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/) (included in Office 365 Subscription )
 
