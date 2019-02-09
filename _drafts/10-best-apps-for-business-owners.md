@@ -257,36 +257,36 @@ A CRM is the best way to track sales and your client life cycle. At Skymouse, we
 
 Many businesses and sales  people hate CRMs and spend a lot of time and money on software they never use.
 
-### How to use Hubspot in the workplace.
+### How to use Hubspot in the workplace:
 
-* A CRM is essential to making sure you're focusing on the right projects at the right time
-* Keep notes on clients and prospects right in the app so you don't repeat yourself and look foolish
-* Know exactly how much money is in your sales pipeline
+* A CRM is essential to making sure you're focusing on the right projects at the right time.
+* Keep notes on clients and prospects right in the app, so you don't repeat yourself and look foolish.
+* Know exactly how much money is in your sales pipeline.
 
-Again, you don't have to go crazy with your information, just keep it up to date, and use it enough so that you know who you are going after and when to go after them.
+Again, you don't have to go crazy with your information. Just keep it up to date and use it enough so that you know who you are going after and when to go after them.
 
-* multiple users can share information and data about your clients, prospects and leads
-* Add a chat window to your websites
-* Send emails directly to clients from without HubSpot
-* Create forms to capture leads on your website
-* Keep track of all your contacts and companies while easily linking them together as needed
+* Multiple users can share information and data about your clients, prospects and leads.
+* Add a chat window to your websites.
+* Send emails directly to clients from without HubSpot.
+* Create forms to capture leads on your website.
+* Keep track of all your contacts and companies while easily linking them together as needed.
 
 ### What's new in HubSpot 2018?
 
-This
+This.
 
-#### What you might not like
+#### What you might not like:
 
 The free version plugs Hubspot on its forms, templates and things like that.
 
-### Alternatives to HubSpot
+### Alternatives to HubSpot:
 
 * Salesforce
 * Drift
 * Pipedrive
 * Airtable
 
-## 9. Track your team's time with Harvest
+## 9. Track your team's time with Harvest.
 
 `Free, Up to 2 projects`
 
@@ -294,20 +294,20 @@ This is also a new one for me, I had been previously using Toggl.
 
 Something Harvest taught me was how to think of my time in terms of the value.
 
-If I'm doing business development, vs. web development vs. a call with a client, I've become way  more conscious of how I spend my time. I'm tracking my time this very moment. So meta.
+If I'm doing business development vs. web development vs. a call with a client, I've become way  more conscious of how I spend my time. I'm tracking my time this very moment. So meta.
 
-### How we use Harvest in the workplace.
+### How we use Harvest in the workplace:
 
-* browser, phone, computer apps to make tracking time accessible
-* apply varied billable rates based on the type of task you're working on.
-* if you've been inactive on your computer for an extended amount of time, Harvest will catch it and ask if you want to stop the timer and roll back the time.
-* generate invoices for your clients from right within harvest
-* integrate with your accounting app (Quickbooks has a native integration, we use Wave for account, so I integrated that via Zapier)
+* Browser, phone, computer apps to make tracking time accessible.
+* Apply varied billable rates based on the type of task you're working on.
+* If you've been inactive on your computer for an extended amount of time, Harvest will catch it and ask if you want to stop the timer and roll back the time.
+* Generate invoices for your clients from right within harvest.
+* Integrate with your accounting app (Quickbooks has a native integration. We use Wave for account, so I integrated that via Zapier.)
 * It also integrates with Asana right in the app!
 
 ### What's new in Harvest 2018?
 
-Stuff
+Stuff.
 
 #### What you might not like
 
