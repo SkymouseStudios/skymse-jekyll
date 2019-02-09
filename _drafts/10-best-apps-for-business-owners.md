@@ -185,7 +185,7 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 ## 6. Post to all your social media with Buffer
 
-`Free, up to 3 social accounts`
+`Free, Up to 3 Social Accounts`
 
 I've been using [Buffer](https://buffer.com) for almost 2 years now. Not only do I like the app but I've come to appreciate the company it. They have some cool principals and their blog is also pretty great.
 
