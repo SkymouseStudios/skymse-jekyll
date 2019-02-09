@@ -337,16 +337,16 @@ Hopefully I can find a relaxing environment where I can focus and perhaps take s
 
 Here are some additional thoughts when working with free apps.
 
-I would really encourage you that if you like an app and can afford it, to pay for the next version. Chances are it will provide value to you and you are also supporting the great developers behind these apps.
+I would really encourage you that if you like an app and can afford it, to pay for the next version. Chances are it will provide value to you, and you are also supporting the great developers behind these apps.
 
-These apps are created by talented teams that rely on people paying for it, so we should support them if we can and once we are really benefiting from their services.
+These apps are created by talented teams that rely on people paying for it, so we should support them if we can and if we are really benefiting from their services.
 
 While I think apps are great for doing business in the business universe of 2018, here are a couple tips to keep things in check:
 
-* Document how YOU use apps. Make it clear to your internal team what is acceptable and what is not
-* Adoption can be slow, so take time to really get used to the app
-* The fewer apps, the better. Don't get too "App Happy" Keep things simple and effective
+* Document how YOU use apps. Make it clear to your internal team what is acceptable and what is not.
+* Adoption can be slow, so take time to really get used to the app.
+* The fewer apps, the better. Don't get too "App Happy" Keep things simple and effective.
 
-I also included some noteworthy alternatives to each app, because not every app is perfect. Sometimes you one app works better for your needs.
+I also included some noteworthy alternatives to each app, because not every app is perfect. Sometimes one app works better for your personal needs.
 
 I am also aware that there are other apps out there, I'd be happy to hear any suggestions if you have any! Just tweet me [@thePatrickHanus](https://www.twitter.com/thepatrickhanus "Patrick's Twitter").
