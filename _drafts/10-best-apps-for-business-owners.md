@@ -211,30 +211,30 @@ The social media work is an echo chamber of recycled information. While buffer i
 
 Buffer also doesn't take the place of live interaction. Engaging with your followers and fans works best when you're in the native medium and can make the difference in how people perceive your brand.
 
-### Alternatives to Buffer for social media
+### Alternatives to Buffer for social media:
 
 * [Sprout Social](https://sproutsocial.com/)
 * [Hootsuite](https://hootsuite.com/)
 * [Falcon](https://www.falcon.io/)
 
-## 7. Organize and view data like never before in Airtable
+## 7. Organize and view data like never before in Airtable.
 
 `Free, Minor Limitations`
 
-[Airtable](https://airtable.com/) is the most recent addition to our arsenal of apps at Skymouse. It's basically google sheets with way more functionality and more simplicity. Counter-intuitive? Nope. They actually did it.
+[Airtable](https://airtable.com/) is the most recent addition to our arsenal of apps at Skymouse. It's basically google sheets with way more functionality and more simplicity. Counterintuitive? Nope. They actually did it.
 
-Much of the projects we work on only make so much sense to be stored as a document. Some information is really more like data and should be treated as such.
+Much of the projects we work on only make so much sense stored as a document. Some information is really more like data and should be treated as such.
 
-* plan your social media calendar
-* track employee or client feedback
-* keep all your client testimonials in one place
+* Plan your social media calendar.
+* Track employee or client feedback.
+* Keep all your client testimonials in one place.
 
-### Some of our favorite qualities about Airtable
+### Some of our favorite qualities about Airtable:
 
-* See record history on your fields! (So if someone deletes something, it's still there)
-* easily manage "base" permissions with clients and other staff
-* embed and share your tables
-* Switch how you see your data with the click of a mouse with the `views` functionality
+* See record history on your fields! (So if someone deletes something, it's still there.)
+* Easily manage "base" permissions with clients and other staff.
+* Embed and share your tables.
+* Switch how you see your data with the click of a mouse with the `views` functionality.
 
 ### What's new in Airtable 2018?
 
