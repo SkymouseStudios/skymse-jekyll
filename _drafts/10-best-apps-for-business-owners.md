@@ -238,7 +238,7 @@ Much of the projects we work on only make so much sense stored as a document. So
 
 ### What's new in Airtable 2018?
 
-The paid version has a ton of additional functionality using their `Airtable Blocks`
+The paid version has a ton of additional functionality using their `Airtable Blocks.`
 
 #### What you might not like
 
