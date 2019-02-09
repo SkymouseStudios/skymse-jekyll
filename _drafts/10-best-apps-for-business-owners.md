@@ -144,7 +144,7 @@ What I've found in Asana is that it can get confusing really quick: especially i
 
 I would suggest keeping tasks simple. As much as you might be tempted to make a task for every single detail of a project, over-planning can be overwhelming and unnecessary.
 
-### Alternates to Asana
+### Alternates to Asana:
 
 * [Monday](https://monday.com/)
 * [Trello](https://trello.com/)
@@ -160,13 +160,13 @@ It's basically a high-powered messenger app helping you organize conversations a
 
 We like it a lot, and it's made life easier at Skymouse!
 
-### How to use Slack in the workplace
+### How to use Slack in the workplace:
 
 * Quickly switch between organizations throughout the day.
 * Create an Evernote from within Slack. Great integration!
 * Create social media alerts that show up in Slack.
 * Establish calendar alerts and create new calendar events.
-* get an alert in Slack when we get a new lead in Salesforce. _(Who is "we." Should it be assumed that your reader knows what this phrase is referring to in general?)_
+* Get an alert in Slack when we get a new lead in Salesforce. _(Who is "we." Should it be assumed that your reader knows what this phrase is referring to in general?)_
 
 ### What's new in Slack 2018?
 
