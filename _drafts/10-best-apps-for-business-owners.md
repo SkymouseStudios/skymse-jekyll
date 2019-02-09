@@ -99,7 +99,7 @@ They've been adding features pretty consistently over the years—they now have 
 
 * Create `Groups` and `Segments` in Mailchimp so your customers get what they need and only what they need.
 * Quickly design your own email templates, so you aren't reinventing the wheel.
-* Automate when people get emails, like when they sign-up, have a birthday, or leave your list.
+* Automate when people get emails like when they sign-up, have a birthday, or leave your list.
 * Design pop-ups and other ways of capturing emails on your website or social media accounts.
 * Add tags to subscribers automatically after they've finished a drip campaign.
 
