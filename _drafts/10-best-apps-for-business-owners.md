@@ -132,7 +132,7 @@ Asana is a glorified checklist helping you tackle large projects and collaborate
 
 ### What's new in Asana 2018?
 
-Portfolios allow you to see the real-time status of projects and whether or not you're on track or not.
+Portfolios allow you to see the real-time status of projects and whether or not you're on track.
 
 Timelines are basically a gantt chart view of how long aspects of a project will last and allow for dependencies.
 
