@@ -60,41 +60,41 @@ Content Strategy for the Web
 
 Don't panic. No one wants to do this. Plans take time, and that’s okay. Your social media followers will thank you later. Every organization has its own vibe. This should be evident on your social media.
 
-If you’re going create something, create something people care about. Hone in on your audience. Don’t try to please everyone. It’s impossible. Just ask my girlfriend’s mom.
+If you’re going to create something, create something people care about. Hone in on your audience. Don’t try to please everyone. It’s impossible. Just ask my girlfriend’s mom.
 
-#### Substance
+#### Substance:
 
-**Audience**  
-Who your is your audience? What they want and how you can give it to them in a format they understand and love? Do they want to see a beautiful office space or a colorful report with the biggest real estate deals in your area?
+**Audience:**  
+Who is your audience? What do they want, and how you can give it to them in a format that they will understand and love? Do they want to see a beautiful office space or a colorful report with the biggest real estate deals in your area?
 
-**Purpose**  
+**Purpose:**  
 What is the purpose of your social media venture? Is it for recruiting? Is it to reach potential clients? Each social media platform can have a different purpose.
 
-**Topics**  
-Your topics are a result of your Audience and your Purpose. What are you going to share. What can you offer your clients that they want to see?
+**Topics:**  
+Your topics are a result of your Audience and your Purpose. What are you going to share? What can you offer your clients that they want to see?
 
-#### Structure
+#### Structure:
 
-**Channels**  
+**Channels:**  
 Where are you going to post? The answer lies in where you audience is. Don't guess. Find out. Twitter, Facebook, Youtube and Linkedin all have information about the size of their users and their industries.
 
-**Format**  
-Are you going to use video? infographics? Downloadable PDFs? Youtube livestreams? Content comes in many shapes and sizes. I recommend starting with something simple and achievable. You don't want to bit off more than you can chew.
+**Format:**  
+Are you going to use video? Infographics? Downloadable PDFs? Youtube livestreams? Content comes in many shapes and sizes. I recommend starting with something simple and achievable. You don't want to bite off more than you can chew.
 
-#### Workflow
+#### Workflow:
 
-**Organization**  
+**Organization:**  
 How will you content be organized? Is your website going to be the focal point of where you information is kept? Or will most of you content be native to the social media platform of your choice?
 
 Where will original files be kept? I always keep original files on our server. Any time we want to update a graphic or reuse a post, we know where to find it.
 
-#### Governance
+#### Governance:
 
-**Roles**  
-Decide who is in charge of content. Make it clear among your team what is expected from each person. If everyone needs make 3 posts a month make sure that is understood. Set deadlines.
+**Roles:**  
+Decide who is in charge of content. Make it clear among your team what is expected from each person. If everyone needs to make 3 posts a month, make sure that is understood. Set deadlines.
 
-**Ownership**  
-I recommend putting someone in charge. It's important for there to be a point-person who oversees the workflow, structure and substance of your plan. If there is no ownership your entire social media strategy will come crumbling down.
+**Ownership:**  
+I recommend putting someone in charge. It's important for there to be a point-person who oversees the workflow, structure and substance of your plan. If there is no ownership, your entire social media strategy will come crumbling down.
 
 ### Make a list of things you can offer and share.
 
