@@ -35,18 +35,19 @@ Create things people care about — take these steps to plan your social media:
   * Ensure you reach your followers.
   * Promote a specific campaign.
 
-**How life looks once the problem is solved.**  
+**How life looks once the problem is solved:**  
 You will have a following that stays engaged and your posts will add value.
 
 ***
 
-## Social media is stupid and I'll show you how to fix it.
+## Social media is stupid, and I'll show you how to fix it.
 
-People post random crap to social media. _They might think "This is better than nothing.”_ But that is dangerous. It’s like dating a girl for 5 years and everyone warns you she's bad news, but you assure your mom “it’s better than nothing.” You’re wrong. People lose respect for you and stop inviting you to family functions. But once you have reputation for posting great content, people will follow you, share your content, and buy what you're selling.
+People post random crap to social media. _They might think, "This is better than nothing.”_ But that is dangerous. It’s like dating a girl for 5 years, and everyone warns you she's bad news, but you assure your mom, “it’s better than nothing.” You’re wrong. People lose respect for you and stop inviting you to family functions. But once you have reputation for posting great content, people will follow you, share your content, and buy what you're selling.
 
-> The goal isn’t to have followers—it’s to have a following. Following (n.) People who care about what you say because it helps them get what they need.
+> The goal isn’t to have followers—it’s to have a following.   
+> Following (n.): People who care about what you say because it helps them get what they need.
 
-Jesus had followers because he healed leprosy. He gave people what they needed. Here are examples of content people love.
+Jesus had followers because he healed leprosy. He gave people what they needed. Here are examples of content people love:
 
 * Gary Vaynerchuck (media and motivation)
 * Adam Dunaway (design, the web and humor)
