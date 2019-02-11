@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to strategize your social media.
+title: How to Strategize Your Social Media.
 subtitle: A Guide to Social Media
 author: patrick
 img: ''
@@ -10,22 +10,21 @@ categories:
 - Business
 
 ---
-
-**The problem**  
+**The problem:**  
 Social media is hard.
 
-**The plan to solve the problem.**  
-Create things people care about — take these steps to plan your social media
+**The plan to solve the problem:**  
+Create things people care about — take these steps to plan your social media:
 
 * Make a plan.
-  * Substance (Audience, purpose, topics)
+  * Substance (audience, purpose, topics)
   * Workflow (organized, formatted, and displayed)
   * Structure (channels and format)
   * Governance (Define ownership and roles. Who is responsible for what?)
 * Schedule your social media.
-  * Find time you audience is online
-  * use analytics to see what types of posts do well
-  * repost the same content in case it get's lost
+  * Find time you audience is online.
+  * Use analytics to see what types of posts do well.
+  * Repost the same content in case it gets lost.
 * Make a content database.
   * Content is the hard part. Commit to a reasonable goal.
   * Blogs are only as good as you make them.
@@ -84,7 +83,7 @@ Are you going to use video? infographics? Downloadable PDFs? Youtube livestreams
 #### Workflow
 
 **Organization**  
-How will you content be organized? Is your website going to be the focal point of where you information is kept? Or will most of you content be native to the social media platform of your choice? 
+How will you content be organized? Is your website going to be the focal point of where you information is kept? Or will most of you content be native to the social media platform of your choice?
 
 Where will original files be kept? I always keep original files on our server. Any time we want to update a graphic or reuse a post, we know where to find it.
 
@@ -98,7 +97,7 @@ I recommend putting someone in charge. It's important for there to be a point-pe
 
 ### Make a list of things you can offer and share.
 
-Post on a weekly or daily basis as events happen, such as changes in Federal interest rates—super boring, but your followers might really dig that kind of stuff. Posts for Christmas or Veteran’s Day Plan can be planned ahead of time. 
+Post on a weekly or daily basis as events happen, such as changes in Federal interest rates—super boring, but your followers might really dig that kind of stuff. Posts for Christmas or Veteran’s Day Plan can be planned ahead of time.
 
 Share things YOU create. Don't just re-share other posts. Sharing isn’t always caring. This isn’t a Coke commercial.
 
@@ -116,7 +115,7 @@ Once you know your audience, your platform and your purpose, Open Microsoft Word
 * Use event hashtags and tag other companies or groups that are present.
 
 **Free Stuff**  
-We all love free stuff. Branded hats and mugs, gift cards, tickets to Dave Mathews (I am not a huge fan, but some people dig that) Offer stuff that only your desired demographic want will ensure you get the followers you want. 
+We all love free stuff. Branded hats and mugs, gift cards, tickets to Dave Mathews (I am not a huge fan, but some people dig that) Offer stuff that only your desired demographic want will ensure you get the followers you want.
 
 * Local gift cards of you want to keep your following local.
 * Partner with other companies to help each other reach more people. Teamwork can help everyone.
