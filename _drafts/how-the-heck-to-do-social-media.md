@@ -118,23 +118,23 @@ Once you know your audience, your platform and your purpose, Open Microsoft Word
 **Free Stuff:**  
 We all love free stuff. Branded hats and mugs, gift cards, tickets to Dave Mathews (some people dig that). Offering stuff that your desired demographic wants will ensure you get the followers you want.
 
-* Local gift cards of you want to keep your following local.
+* Local gift cards if you want to keep your following local.
 * Partner with other companies to help each other reach more people. Teamwork can help everyone.
-* Actual knowledge and new ideas (not just "10 great ways to be just like everyone else.")
-* Read what you post, are you interested? Was it worth your time?
-* Track your metrics. There is not shame in slow, steady growth. It’s better to have followers that care than a bunch of spam accounts following you.
-* Share your own stuff. Real things take work and that’s why not everyone is doing it.
-* Live Events and Streaming. Is something going on that people want to see? Company party, grand opening, a sporting event. Give people the inside scoop.
+* Actual knowledge and new ideas (not just "10 Great Ways to Be Just Like Everyone Else.")
+* Read what you post; are you interested? Was it worth your time?
+* Track your metrics. There is no shame in slow, steady growth. It’s better to have followers that care than a bunch of spam accounts following you.
+* Share your own stuff. Real things take work, and that’s why not everyone is doing it.
+* Participate in Live Events and Streaming. Is something going on that people want to see? Company party, grand opening, a sporting event? Give people the inside scoop.
 
 ### Use a scheduler like Buffer or HootSuite.
 
-Chances are you don't have time for doing social media every day of the week, not to mention it can quickly become overwhelming. Schedule post ahead of time. You can schedule posts for a full month or more!
+Chances are you don't have time for doing social media every day of the week, not to mention it can quickly become overwhelming. Schedule posts ahead of time. You can schedule posts for a full month or more!
 
 I am a fan of [Buffer](https://www.google.com). I like the format and the organization system. Buffer has a free plan that works well. You don’t need a social media scheduling app like this, but it makes life much easier.
 
 Focus on creating and finding good content rather than trying to remember to schedule things at the right times and whatnot.
 
-The analytics tools let you find out what your followers enjoy, which is great reference as your Master Plan evolves.
+The analytics tools let you find out what your followers enjoy, which is a great reference as your Master Plan evolves.
 
 ### So what about promoted advertisements?
 
@@ -142,13 +142,13 @@ Promoted is still only worth it if people see value. You want to seduce them int
 
 You also want to show that the money is making a return, so whether thats getting clicks, getting impressions or getting actual purchases, you should go in with a game plan.
 
-> **Advertisements are a pain**
+> **Advertisements are a pain.**
 >
 > Drive traffic to your website that _converts_ without the hassle.
 >
 > [Try our Skymouse LaunchPad today!](#)
 
-### Everything you need to know
+### Everything you need to know.
 
 > What you need to do is come up with a plan. Posting haphazardly is just going to get you in trouble. And we ain’t going back to prison.
 
