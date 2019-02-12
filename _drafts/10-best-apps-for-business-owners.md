@@ -166,7 +166,7 @@ We like it a lot, and it's made life easier at Skymouse!
 * Create an Evernote from within Slack. Great integration!
 * Create social media alerts that show up in Slack.
 * Establish calendar alerts and create new calendar events.
-* Get an alert in Slack when we get a new lead in Salesforce. _(Who is "we." Should it be assumed that your reader knows what this phrase is referring to in general?)_
+* Get an alert in Slack when you get a new lead in Salesforce. 
 
 ### What's new in Slack 2018?
 
