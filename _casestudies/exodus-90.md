@@ -65,6 +65,9 @@ C-p: A large part of a website is engaging users, whether they decide to registe
 C-image-A: "/library/images/our-work/exodus90/exodus90-mailchimp-1.jpg"
 C-image-B: "/library/images/our-work/exodus90/exodus90-share-email.jpg"
 C-image-C: "/library/images/our-work/exodus90/exodus90-zapier.jpg"
+author: John Welch
+categories:
+- Branding
 
 ---
 Exodus 90 asked us to help redesign, develop and maintain exodus90.com to make it easier to use and reach more users.
