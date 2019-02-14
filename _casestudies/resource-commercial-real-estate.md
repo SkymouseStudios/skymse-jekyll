@@ -1,7 +1,7 @@
 ---
 title: Reclaiming Digital Real Estate
 layout: case-study
-subtitle: Resource Commercial Real Estate
+subtitle: RESOURCE Commercial Real Estate
 quote: 
 description: RESOURCE needed a website that clearly articulated their brand, reached
   their users and converted leads. Skymouse built a custom Wordpress theme, developed
