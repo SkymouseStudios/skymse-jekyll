@@ -68,6 +68,9 @@ C-p: A large part of the website is engaging users, regardless of if they decide
 C-image-A: "/library/images/our-work/resource/resource-before-1.jpg"
 C-image-B: "/library/images/our-work/resource/resource-before-2.jpg"
 C-image-C: "/library/images/our-work/resource/resource-before-3.jpg"
+author: John Welch
+categories:
+- Web Design
 
 ---
 RESOURCE had recently gotten a new website. The problem was the new site was not engaging, had very little traffic and was on the 3rd page of Google. Much of the site's information was out of date or missing.
