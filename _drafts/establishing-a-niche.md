@@ -43,11 +43,13 @@ Imagine you decide to vacuum out your couch. You haven’t done it in months or 
 
 Even amongst giants like Amazon (or in this case the vacuum), a niche survives and thrives with a healthy population of crumbs. Now, imagine the crumbs are web traffic, conversions, and sales. Sure, that vacuum can pull some of those crumbs away from your couch, but ultimately that niche remains strong with plenty of crumbs to spare.
 
-Moral of the story, Etsy is in essence the hard to reach corners of the underbelly of your couch cushion. They have positioned themselves to provide a haven for the creative niche of people who want handmade and wonderful artisan goods such as this handmade soap that looks like sushi. Obviously, they have secured their position in the couch (the world wide web).
+Moral of the story, Etsy is in essence the hard to reach corners of the underbelly of your couch cushion. They have positioned themselves to provide a haven for the creative niche of people who want handmade and wonderful artisan goods such as this handmade soap that looks like sushi which everyone clearly needs to accent their bathroom. Obviously, they have secured their position in the couch (the world wide web).
+
+![](/library/Screen Shot 2019-04-01 at 11.49.54 AM.png)
 
 Amazon started this way as well. Ever wonder why they initially started as a book platform? They wanted to establish themselves as the place for you to find that perfect book without ever leaving your steaming cup of tea and pajamas, and they used that as the base to launch a massive E-Commerce site.
 
-A niche is great for the simple fact that it is so easy to market. Once you identify your company’s niche? It makes targeting and marketing to your intended audience that much easier.
+A niche is great for the simple fact that it is so easy to market. Once you identify your company’s niche? It makes targeting and marketing to your intended audience that much easier. 
 
 **The Difficulties of a Niche:**
 
@@ -68,6 +70,8 @@ Etsy is a thriving company. They have more than doubled annual revenues since th
 Yes, Etsy struggled with pushback from sellers and consumers during their attempts to expand and allow manufactured goods to be listed among their handmade products, but they ultimately moved passed this. The niche they established prior to their IPO was ALL handmade and ALL vintage leaving no room for manufactured goods. They now sell all handmade and vintage items as well as “unique factory-manufactured items”. Notice the very subtle addition?
 
 People still trust them. They still believe in the company. They love and respect their values. Why? Because these “unique factory-manufactured items” are not mainstream corporate products. They are unique, just like Etsy.
+
+![](/library/Screen Shot 2019-04-01 at 11.43.15 AM.png)
 
 Etsy’s biggest mistake in terms of growth was establishing a niche that was just a little too small for them to grow and adopt a corporate business model, but that same niche also grew their company to millions in annual revenue prior to ever going public. Their choice to broaden their niche was purely to appease investors, and it has seen very positive results.
 
