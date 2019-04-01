@@ -47,6 +47,8 @@ Moral of the story, Etsy is in essence the hard to reach corners of the underbel
 
 Amazon started this way as well. Ever wonder why they initially started as a book platform? They wanted to establish themselves as the place for you to find that perfect book without ever leaving your steaming cup of tea and pajamas, and they used that as the base to launch a massive E-Commerce site.
 
+![](/library/mitchell-gaiser-1143507-unsplash (1).jpg)
+
 A niche is great for the simple fact that it is so easy to market. Once you identify your company’s niche? It makes targeting and marketing to your intended audience that much easier.
 
 **The Difficulties of a Niche:**
