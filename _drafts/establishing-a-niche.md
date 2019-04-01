@@ -61,7 +61,9 @@ Shockingly, the investors were more interested in profit margins than providing 
 
 **Finding the Right Balance:**
 
-Etsy is a thriving company. As of 2018 they have more than doubled annual revenues since their IPO date back in 2015, and their stock value has doubled as well. Their company is booming, and they are still operating within that same niche. The key? Finding that niche that allows for plenty of growth and potential.
+Etsy is a thriving company. They have more than doubled annual revenues since their IPO date back in 2015, and their stock value has doubled as well. Their company is booming, and they are still operating within that same niche. The key? Finding that niche that allows for plenty of growth and potential.
+
+![](/library/Screen Shot 2019-04-01 at 11.36.50 AM.png)
 
 Yes, Etsy struggled with pushback from sellers and consumers during their attempts to expand and allow manufactured goods to be listed among their handmade products, but they ultimately moved passed this. The niche they established prior to their IPO was ALL handmade and ALL vintage leaving no room for manufactured goods. They now sell all handmade and vintage items as well as “unique factory-manufactured items”. Notice the very subtle addition?
 
