@@ -17,7 +17,7 @@ Etsy. Yeah, let’s talk Etsy.
 
 We know you have heard of it. We know you love it. Don’t pretend that you haven’t purchased questionable amounts of self-indulgent smelly good candles that are poetically named "Hemingway" and scented like pipe tobacco and bourbon. You love it, or if you don’t? Someone you know does. Why? Because Etsy has built a platform that they know you will love. They know you’ll indulge. Because the very second that you open that homepage, you are welcomed into a community of artisans creating trendy products that you feel the need to support. Getting cool products? That’s just a bonus, right? Etsy makes you want to buy because they understand the power of their niche.
 
-[hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=candles+book&ref=sr_gallery-1-10&organic_search_click=1](https://www.etsy.com/listing/663718798/hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=candles+book&ref=sr_gallery-1-10&organic_search_click=1 "hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=candles+book&ref=sr_gallery-1-10&organic_search_click=1")
+![](/library/il_fullxfull.1804303293_njbg (1).jpg)
 
 **WHAT is Etsy?**
 
