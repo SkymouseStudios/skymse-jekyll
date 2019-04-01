@@ -22,7 +22,7 @@ Create things people care about — take these steps to plan your social media:
   * Structure (channels and format)
   * Governance (Define ownership and roles. Who is responsible for what?)
 * Schedule your social media.
-  * Find time you audience is online.
+  * Find the time your audience is online.
   * Use analytics to see what types of posts do well.
   * Repost the same content in case it gets lost.
 * Make a content database.
@@ -42,25 +42,26 @@ You will have a following that stays engaged and your posts will add value.
 
 ## Social media is stupid, and I'll show you how to fix it.
 
-People post random crap to social media. _They might think, "This is better than nothing.”_ But that is dangerous. It’s like dating a girl for 5 years, and everyone warns you she's bad news, but you assure your mom, “it’s better than nothing.” You’re wrong. People lose respect for you and stop inviting you to family functions. But once you have reputation for posting great content, people will follow you, share your content, and buy what you're selling.
+People post random crap to social media. _They might think, "This is better than nothing.”_ But that is dangerous. It’s like dating someone for 5 years, and everyone warns you that they're bad news, but you assure everyone, “it’s better than nothing.” You’re wrong. People lose respect for you and stop inviting you to family functions. But once you have reputation for posting great content, people will follow you, share your content, and buy what you're selling. Just like mom will buy "She's the one." if she starts bringing the world's best baked goods to family functions.
 
-> The goal isn’t to have followers—it’s to have a following.   
+> The goal isn’t to have followers—it’s to have a following.  
 > Following (n.): People who care about what you say because it helps them get what they need.
 
-Jesus had followers because he healed leprosy. He gave people what they needed. Here are examples of content people love:
+Here are examples of content people love:
 
 * Gary Vaynerchuck (media and motivation)
 * Adam Dunaway (design, the web and humor)
 * Andrew Kramer (motion graphics and animation)
 * Invision App (freelancing, design, productivity)
+* Jesus ( ever heard of a little thing we call the Bible?)
 
-Content Strategy for the Web
+Content Strategy for the Web.
 
 ### Sit down and make a plan.
 
 Don't panic. No one wants to do this. Plans take time, and that’s okay. Your social media followers will thank you later. Every organization has its own vibe. This should be evident on your social media.
 
-If you’re going to create something, create something people care about. Hone in on your audience. Don’t try to please everyone. It’s impossible. Just ask my girlfriend’s mom.
+If you’re going to create something, create something people care about. Hone in on your audience. Don’t try to please everyone. It’s impossible. Just try and bring the best possible baked goods to that family function of yours.
 
 #### Substance:
 
