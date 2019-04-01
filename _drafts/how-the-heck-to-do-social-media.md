@@ -77,7 +77,7 @@ Your topics are a result of your Audience and your Purpose. What are you going t
 #### Structure:
 
 **Channels:**  
-Where are you going to post? The answer lies in where you audience is. Don't guess. Find out. Twitter, Facebook, Youtube and Linkedin all have information about the size of their users and their industries.
+Where are you going to post? The answer lies in where your audience is. Don't guess. Find out. Twitter, Facebook, Youtube, and LinkedIn all have information about the size of their users and their industries.
 
 **Format:**  
 Are you going to use video? Infographics? Downloadable PDFs? Youtube livestreams? Content comes in many shapes and sizes. I recommend starting with something simple and achievable. You don't want to bite off more than you can chew.
@@ -85,7 +85,7 @@ Are you going to use video? Infographics? Downloadable PDFs? Youtube livestreams
 #### Workflow:
 
 **Organization:**  
-How will you content be organized? Is your website going to be the focal point of where you information is kept? Or will most of you content be native to the social media platform of your choice?
+How will your content be organized? Is your website going to be the focal point of where your information is kept? Or will most of you content be native to the social media platform of your choice?
 
 Where will original files be kept? I always keep original files on our server. Any time we want to update a graphic or reuse a post, we know where to find it.
 
@@ -104,7 +104,7 @@ Post on a weekly or daily basis as events happen. Changes in Federal interest ra
 Share things YOU create. Don't just re-share other posts. Sharing isn’t always caring. This isn’t a Coke commercial.
 
 **Post List:**  
-Once you know your audience, your platform and your purpose, Open Microsoft Word and write 10-15 actual posts. Feel free to experiment with the tone of your posts. Think about what you’re giving away, or sharing, and write something you can copy and paste into Twitter. Boost your confidence in the type of things you can put into your queue.
+Once you know your audience, your platform and your purpose, open Microsoft Word and write 10-15 actual posts. Feel free to experiment with the tone of your posts. Think about what you’re giving away or sharing, and write something you can copy and paste into Twitter. Boost your confidence in the type of things you can put into your queue.
 
 **Starter Ideas:**
 
@@ -151,6 +151,6 @@ You also want to show that the money is making a return, so whether thats gettin
 
 ### Everything you need to know.
 
-> What you need to do is come up with a plan. Posting haphazardly is just going to get you in trouble. And we ain’t going back to prison.
+> What you need to do is come up with a plan. Posting haphazardly is just going to get you in trouble. 
 
 Social media takes work. It’s not easy. We want to share someone else’s stuff and pretend like we are contributing to internet society. But this is important: Sharing just anything doesn't do anyone any good. People follow you if you are providing value and helping them get a little bit closer to what they want. This isn’t about you.
