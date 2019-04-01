@@ -39,15 +39,13 @@ If you’re still unsure of what a niche is, let me explain it in terms that I k
 
 Imagine you decide to vacuum out your couch. You haven’t done it in months or maybe years, because let’s face it…. life is too short to clean under the couch cushions. BUT in a sudden burst of energy, you elect to prove to the world (and yourself) that you are, in fact, the most “put together” individual on this planet. You’re vacuuming and vacuuming, but no matter what you do? You can’t seem to get those crumbs and questionable weird things that are down in those hard to reach corners. You try, and you try, but no matter what? While you can get some of those crumbs, there is always going to be tons of crumbs in the corner. Or niche.
 
-That’s a niche market.
+![](/library/mitchell-gaiser-1143507-unsplash (1).jpg)That’s a niche market.
 
 Even amongst giants like Amazon (or in this case the vacuum), a niche survives and thrives with a healthy population of crumbs. Now, imagine the crumbs are web traffic, conversions, and sales. Sure, that vacuum can pull some of those crumbs away from your couch, but ultimately that niche remains strong with plenty of crumbs to spare.
 
 Moral of the story, Etsy is in essence the hard to reach corners of the underbelly of your couch cushion. They have positioned themselves to provide a haven for the creative niche of people who want handmade and wonderful artisan goods such as this handmade soap that looks like sushi. Obviously, they have secured their position in the couch (the world wide web).
 
 Amazon started this way as well. Ever wonder why they initially started as a book platform? They wanted to establish themselves as the place for you to find that perfect book without ever leaving your steaming cup of tea and pajamas, and they used that as the base to launch a massive E-Commerce site.
-
-![](/library/mitchell-gaiser-1143507-unsplash (1).jpg)
 
 A niche is great for the simple fact that it is so easy to market. Once you identify your company’s niche? It makes targeting and marketing to your intended audience that much easier.
 
