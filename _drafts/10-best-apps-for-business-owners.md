@@ -22,7 +22,7 @@ That being said, the landscape of apps is changing quickly. Here are the tried a
 
 ## 1. Use Notion for keeping all of your information accessible.
 
-`Free Up to 1000 Blocks, Minor/Major Limitations`
+`Free, Limited to 1000 Blocks, `
 
 As a business owner you have a lot to track. Notion can assist you in this task.
 
