@@ -53,7 +53,7 @@ You should also be aware that with the free version of the Evernote app, you can
 * [Onenote](https://products.office.com/en-us/onenote/digital-note-taking-app "Onenote Website")
 * [Google Keep](https://keep.google.com/ "Google Keep")
 
-![](/library/da37bf1ea282413139a57c1c911e7c4b_2.png)
+[![](/library/da37bf1ea282413139a57c1c911e7c4b_2.png)](https://zapier.com/help/what-is-zapier/)
 
 ## 2. Automate all your repetitive tasks with Zapier.
 
@@ -87,6 +87,8 @@ The only downside about using Zapier is that it may be a bit confusing if you do
 * [IFTTT](https://ifttt.com/discover "If This Then That - Website") (completely free)
 * [Tray.io](https://tray.io/ "Tray.io Website")
 
+[![](/library/MC-Horizontal.png)](https://mailchimp.com/)
+
 ## 3. Send great looking email to your people with MailChimp.
 
 `Free, Up to 2,000 Subscribers`
@@ -117,6 +119,8 @@ If you are doing a lot of cold sales emails, Mailchimp is not for you. They are 
 
 * [Active Campaign](https://www.activecampaign.com/)
 * [Campaign Monitor](https://www.campaignmonitor.com/)
+
+[![](/library/logo_horiz1.png)](https://blog.asana.com/2015/09/the-new-asana/)
 
 ## 4. Track your projects like a pro with Asana.
 
@@ -152,6 +156,8 @@ I would suggest keeping tasks simple. As much as you might be tempted to make a 
 * [Trello](https://trello.com/)
 * [Airtable](https://airtable.com)
 
+[![](/library/Unfurl-Why-Slack.jpg)](https://slack.com/features)
+
 ## 5. Communicate sans-email with your team on Slack.
 
 `Free, Minor Limitations`
@@ -183,7 +189,9 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 ### Alternatives to Slack:
 
-* [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/) (included in Office 365 Subscription )
+* [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/) (included in Office 365 Subscription)
+
+[![](/library/homepage-hero.svg)](https://buffer.com/)
 
 ## 6. Post to all your social media with Buffer.
 
