@@ -38,7 +38,7 @@ Let me explain.
 
 ### The Golden Apple
 
-When marketing companies hold up Apple as an example, they hold up mature Apple. They hold up the version of Apple that bloomed in the mid 2000’s under Steve Jobs’s watch the second time around. What they don’t hold up as an example is early 1990’s Apple, when they were struggling to capture market share and solidify their leadership. That Apple didn’t have a brand. That Apple wasn’t, didn’t deserve a brand. That Apple hadn’t earned their brand.
+When marketing companies hold up Apple as an example, they hold up mature Apple. They hold up the version of Apple that bloomed in the mid 2000’s under Steve Jobs’s watch the second time around. What they don’t hold up as an example is early 1990’s Apple, when they were struggling to capture market share and solidify their leadership. That Apple didn’t have a brand. That Apple wasn’t a... didn’t deserve a brand. That Apple hadn’t earned their brand.
 
 > The reality is that a brand is not a logo.
 
