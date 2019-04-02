@@ -50,11 +50,11 @@ You should also be aware that with the free version of the Evernote app, you can
 
 ### Alternates to Evernote:
 
+* [Evernote](https://evernote.com/)
 * [BoostNote](https://boostnote.io/ "Boostnote Website")
 * [Dropbox Paper](https://www.dropbox.com/paper "Dropbox Paper Website")
 * [Onenote](https://products.office.com/en-us/onenote/digital-note-taking-app "Onenote Website")
 * [Google Keep](https://keep.google.com/ "Google Keep")
-* [Evernote](https://www.evernote.com/Login.action?targetUrl=%2Fclient%2Fweb%23%3Fswm%3Dtrue%26)
 
 [![](/library/da37bf1ea282413139a57c1c911e7c4b_2.png)](https://zapier.com/help/what-is-zapier/)
 
