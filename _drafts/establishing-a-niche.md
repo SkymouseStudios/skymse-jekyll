@@ -12,6 +12,7 @@ description: How to establish a niche market and the benefits and limitations of
 img: ''
 ttr: ''
 date: 2019-04-01 15:50:37 +0000
+permalink: "/establishing-a-niche-a-look-at-etsy"
 
 ---
 ESTABLISHING A NICHE: A Look at Etsy
