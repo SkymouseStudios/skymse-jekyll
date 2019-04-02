@@ -26,29 +26,25 @@ That being said, the landscape of apps is changing quickly. Here are the tried a
 
 As a business owner you have a lot to track. Notion can assist you in this task.
 
-Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Notion helps you keep track of  your projects and your teams projects allowing you to store documents in various workspaces as well as in private pages.
+Keep everything all in one place: business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Notion helps you keep track of  your projects and your teams projects allowing you to store documents in various workspaces as well as in private pages with infinite nesting pages.
 
 ### How to use Notion in the workplace:
 
-* Organize similar `Notes` in a `Notebook` and similar notebooks in a `Stack.`
-* Connect similar notes with each other using `Tags.`
-* Sync notes between your computer, web browser, iPad, iPhone, etc.
-* Take notes on the go...I LOVE the **top bar note taker**—I use it every day.
-* Share notes and notebooks with other members of your team or with your clients.
+* Use one workspace to store your calendar, notes, task, lists, etc.
+* Pages within pages. Drag and drop features mean your business can function hyper efficiently by being hyper organized.
+* Manage and share your teams projects with "Workspace" pages and keep your personal tasks in the same place with "Private" pages.
+* Use Notion "blocks" to edit and move content in a way like never never before.
+* Create lists and databases with the fully customizable table feature.
 
-### What's new in Evernote 2018?
+### What's new in Notion 2019?
 
-They just added templates which are a sweet way to get started quickly and standardize some of your information.
-
-They also added a dark mode. (Finally!)
+Quickly import data from Evernote with a few easy clicks. They also added a handy search feature that allows you to easily search for specific documents.
 
 #### What you might not like:
 
-Evernote is only useful if you use it systematically. It also works way better if you use it for everything. So for us, we don't use Microsoft Word for typing up drafts or ideas, we put it all in Evernote.
+Notion creates a minimalistic space that allows you to build your blocks in whatever form or fashion that you find most useful. For those businesses and individuals that do not necessarily have custom processes, it does not provide much structure. You really have to be creative and have an idea of how you want to utilize Notion, otherwise the possibilities and options could be a bit overwhelming. 
 
-You should also be aware that with the free version of the Evernote app, you can only sync 2 devices at a time, and you can't view notes on the mobile app if you don't have internet.
-
-### Alternates to Evernote:
+### Alternates to Notion:
 
 * [Evernote](https://evernote.com/)
 * [BoostNote](https://boostnote.io/ "Boostnote Website")
