@@ -42,7 +42,7 @@ Quickly import data from Evernote with a few easy clicks. They also added a hand
 
 #### What you might not like:
 
-Notion creates a minimalistic space that allows you to build your blocks in whatever form or fashion that you find most useful. For those businesses and individuals that do not necessarily have custom processes, it does not provide much structure. You really have to be creative and have an idea of how you want to utilize Notion, otherwise the possibilities and options could be a bit overwhelming. 
+Notion creates a minimalistic space that allows you to build your blocks in whatever form or fashion that you find most useful. For those businesses and individuals that do not necessarily have custom processes, it does not provide much structure. You really have to be creative and have an idea of how you want to utilize Notion, otherwise the possibilities and options could be a bit overwhelming.
 
 ### Alternates to Notion:
 
@@ -358,7 +358,7 @@ I would really encourage you that if you like an app and can afford it, to pay f
 
 These apps are created by talented teams that rely on people paying for it, so we should support them if we can and if we are really benefiting from their services.
 
-While I think apps are great for doing business in the business universe of 2018, here are a couple tips to keep things in check:
+While I think apps are great for doing business in the business universe of 2019, here are a couple tips to keep things in check:
 
 * Document how YOU use apps. Make it clear to your internal team what is acceptable and what is not.
 * Adoption can be slow, so take time to really get used to the app.
