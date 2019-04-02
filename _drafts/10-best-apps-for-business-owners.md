@@ -227,6 +227,8 @@ Buffer also doesn't take the place of live interaction. Engaging with your follo
 * [Hootsuite](https://hootsuite.com/)
 * [Falcon](https://www.falcon.io/)
 
+[![](/library/airtable.png)](https://airtable.com/)
+
 ## 7. Organize and view data like never before in Airtable.
 
 `Free, Minor Limitations`
@@ -258,6 +260,8 @@ There really aren't many downsides to Airtable, to be honest.
 
 * [Google Sheets](https://www.google.com/sheets/about/)
 * [Quickbase](https://www.quickbase.com/)
+
+[![](/library/guidelines_the-logo.svg)](https://www.hubspot.com/style-guide)
 
 ## 8. Keep you contacts all in one place and grow your business with HubSpot CRM.
 
@@ -296,6 +300,8 @@ The free version plugs Hubspot on its forms, templates and things like that.
 * Pipedrive
 * Airtable
 
+[![](/library/timesheets-day-50cb6a94271b865ff1e47488d5d8b20579abc5f7aeacab2e86d33eb15ee5f244.png)](https://www.getharvest.com/features/time-tracking)
+
 ## 9. Track your team's time with Harvest.
 
 `Free, Up to 2 projects`
@@ -326,6 +332,8 @@ The free version is pretty limited. You can only have two projects. I upgraded b
 ### Alternatives to Harvest:
 
 * [Toggl](https://toggl.com "Toggl Website") (The free version of this may be a better start if you have a lot of projects.)
+
+![](/library/PKTBlog_Graphics_0000_Lineup.png)
 
 ## Bonus: Read things later with Pocket.
 
