@@ -32,11 +32,11 @@ Your email is not a notebook. Stop treating it like one.
 
 ### 2. Schedule for later.
 
-I use an app called Spark as my email client. It's great for scheduling emails. This way I can send emails throughout the day without having to stop my current project. 
+I use an app called [Spark](https://sparkmailapp.com/) as my email client. It's great for scheduling emails. This way I can send emails throughout the day without having to stop my current project. 
 
 ![Animation of scheduling email for later](/library/images/blog/blog-schedule-later.gif "Schedule email for later")
 
-There are plugins for Gmail that help you schedule emails for later.
+There are also plugins for Gmail that help you schedule emails for later.
 
 ### 3. Archive everything.
 
@@ -56,7 +56,7 @@ I can't believe that I still get emails that I don't care about. I now unsubscri
 
 ![Animation of unsubscribing from email](/library/images/blog/blog-unsubscribe-from-emails.gif "Unsubscribe")
 
-If I want to read that blog post later, I add it to my Pocket app. Pocket helps me postpone all the reading that I want to get around to in one place.
+If I want to read that blog post later, I add it to my Pocket app. [Pocket](https://getpocket.com/) helps me postpone all the reading that I want to get around to in one place.
 
 ### 6. Put alerts somewhere else.
 
