@@ -22,13 +22,13 @@ That being said, the landscape of apps is changing quickly. Here are the tried a
 
 ## 1. Use Notion for keeping all of your information accessible.
 
-`Free, Minor/Major Limitations`
+`Free Up to 1000 Blocks, Minor/Major Limitations`
 
 As a business owner you have a lot to track. Notion can assist you in this task.
 
-Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Notion helps you keep track of people who might want to invest in your business and "tag" them with labels providing you with pertinent information at a glance.
+Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Notion helps you keep track of  your projects and your teams projects allowing you to store documents in various workspaces as well as in private pages.
 
-### How to use Evernote in the workplace:
+### How to use Notion in the workplace:
 
 * Organize similar `Notes` in a `Notebook` and similar notebooks in a `Stack.`
 * Connect similar notes with each other using `Tags.`
@@ -54,6 +54,7 @@ You should also be aware that with the free version of the Evernote app, you can
 * [Dropbox Paper](https://www.dropbox.com/paper "Dropbox Paper Website")
 * [Onenote](https://products.office.com/en-us/onenote/digital-note-taking-app "Onenote Website")
 * [Google Keep](https://keep.google.com/ "Google Keep")
+* [Evernote](https://www.evernote.com/Login.action?targetUrl=%2Fclient%2Fweb%23%3Fswm%3Dtrue%26)
 
 [![](/library/da37bf1ea282413139a57c1c911e7c4b_2.png)](https://zapier.com/help/what-is-zapier/)
 
