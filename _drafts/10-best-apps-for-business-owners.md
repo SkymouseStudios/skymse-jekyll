@@ -333,7 +333,7 @@ The free version is pretty limited. You can only have two projects. I upgraded b
 
 * [Toggl](https://toggl.com "Toggl Website") (The free version of this may be a better start if you have a lot of projects.)
 
-![](/library/PKTBlog_Graphics_0000_Lineup.png)
+[![](/library/PKTBlog_Graphics_0000_Lineup.png)](https://blog.getpocket.com/2012/04/introducing-the-all-new-read-it-later-now-called-pocket/)
 
 ## Bonus: Read things later with Pocket.
 
