@@ -18,13 +18,13 @@ Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set wo
 
 That being said, the landscape of apps is changing quickly. Here are the tried and true apps we like to use at Skymouse. I've also suggested some alternatives if you are looking for something new or different.
 
-## 1. Use Evernote for keeping all of your information accessible.
+## 1. Use Notion for keeping all of your information accessible.
 
 `Free, Minor/Major Limitations`
 
-As a business owner you have a lot to track. Evernote can assist you in this task.
+As a business owner you have a lot to track. Notion can assist you in this task.
 
-Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Evernote helps you keep track of people who might want to invest in your business and "tag" them with labels providing you with pertinent information at a glance.
+Keep notes about your business model, customer profiles, and any slogan ideas for cups, mugs, shirts and futons with your logo on it. Notion helps you keep track of people who might want to invest in your business and "tag" them with labels providing you with pertinent information at a glance.
 
 ### How to use Evernote in the workplace:
 
@@ -52,6 +52,8 @@ You should also be aware that with the free version of the Evernote app, you can
 * [Dropbox Paper](https://www.dropbox.com/paper "Dropbox Paper Website")
 * [Onenote](https://products.office.com/en-us/onenote/digital-note-taking-app "Onenote Website")
 * [Google Keep](https://keep.google.com/ "Google Keep")
+
+![](/library/da37bf1ea282413139a57c1c911e7c4b_2.png)
 
 ## 2. Automate all your repetitive tasks with Zapier.
 
@@ -166,7 +168,7 @@ We like it a lot, and it's made life easier at Skymouse!
 * Create an Evernote from within Slack. Great integration!
 * Create social media alerts that show up in Slack.
 * Establish calendar alerts and create new calendar events.
-* Get an alert in Slack when you get a new lead in Salesforce. 
+* Get an alert in Slack when you get a new lead in Salesforce.
 
 ### What's new in Slack 2018?
 
