@@ -17,6 +17,8 @@ My dad ran a 4:29 mile as a freshman in high-school. That’s pretty fast when y
 
 ### Just do it.
 
+![](/library/hermes-rivera-265431-unsplash (1) (1).jpg)
+
 When I got into sports, my dad would tell me stories to motivate me. Sometimes those stories were about how hard he worked to become a varsity runner his first year in high-school. My dad told me about how he used to run 10 miles every morning and then 10 more miles at track practice that day. 20 miles a day. That’s a big number. The other thing he would always tell me was the fact that he was wearing his Nike running shoes. My dad wore Nike, back in the day, when no one knew how to pronounce the name. He loved Nike running shoes.
 
 For a while now, I’ve been surprised at the major focus that has been placed on companies trying to build their “brand.” For around 5 or 6 years now, the push from marketing companies and web developers has been heavily centered around convincing companies that if they can “build” their “brand” the “right” way, then they’ll be able to massively increase their traffic, clicks, sales conversions, credibility, etc…
@@ -40,6 +42,8 @@ Let me explain.
 
 When marketing companies hold up Apple as an example, they hold up mature Apple. They hold up the version of Apple that bloomed in the mid 2000’s under Steve Jobs’s watch the second time around. What they don’t hold up as an example is early 1990’s Apple, when they were struggling to capture market share and solidify their leadership. That Apple didn’t have a brand. That Apple wasn’t a... didn’t deserve a brand. That Apple hadn’t earned their brand.
 
+![](/library/medhat-dawoud-353792-unsplash (1).jpg)
+
 > The reality is that a brand is not a logo.
 
 A brand is not a typeface. A brand is not a slogan. It’s not a color scheme or a metaphor. A brand is an emotion: either a good or a bad one. Emotions can only be built on experiences: either a good one or a bad one. This is the cat that the marketing companies and gurus don’t want out of the bag. Before a company has a brand (and in order to have a brand), they first need to offer something that is hard to find these days: value.
@@ -57,6 +61,8 @@ I’ll wrap this up and cut right to the chase because I’m getting long winded
 3. Message
 
 Through consistent application of these three things, the brand will take care of itself. It may be needed at some point to refresh or re-valuate a brand. It may be necessary to explore new ideas; however, the simple truth is that a brand is an experience. It always has been. That experience can exist completely removed from a logo, slogan, color-scheme, or typeface.
+
+![](/library/aleks-dorohovich-26-unsplash (1).jpg)
 
 Someday, your company may be just like Apple or Nike. If it is, it won’t be because you hired a marketing company to help you “rebrand.” It will be because you provided value, day in and day out, until that value took the shape of your company. That is real branding.
 
