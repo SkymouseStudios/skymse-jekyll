@@ -8,7 +8,7 @@ subtitle: A look at Etsy
 description: ''
 img: ''
 ttr: ''
-date: 2019-04-01 10:50:37 -0500
+date: 2019-04-01 15:50:37 +0000
 
 ---
 ESTABLISHING A NICHE: A Look at Etsy
@@ -17,7 +17,7 @@ Etsy. Yeah, let’s talk Etsy.
 
 We know you have heard of it. We know you love it. Don’t pretend that you haven’t purchased questionable amounts of self-indulgent smelly good candles that are poetically named "Hemingway" and scented like pipe tobacco and bourbon. You love it, or if you don’t? Someone you know does. Why? Because Etsy has built a platform that they know you will love. They know you’ll indulge. Because the very second that you open that homepage, you are welcomed into a community of artisans creating trendy products that you feel the need to support. Getting cool products? That’s just a bonus, right? Etsy makes you want to buy because they understand the power of their niche.
 
-![](/library/il_fullxfull.1804303293_njbg (1).jpg)
+[![](/library/il_fullxfull.1804303293_njbg (1).jpg)](https://www.etsy.com/listing/663718798/hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=candle+hemingway&ref=sr_gallery-1-1&organic_search_click=1)
 
 **WHAT is Etsy?**
 
@@ -49,7 +49,7 @@ Moral of the story, Etsy is in essence the hard to reach corners of the underbel
 
 Amazon started this way as well. Ever wonder why they initially started as a book platform? They wanted to establish themselves as the place for you to find that perfect book without ever leaving your steaming cup of tea and pajamas, and they used that as the base to launch a massive E-Commerce site.
 
-A niche is great for the simple fact that it is so easy to market. Once you identify your company’s niche? It makes targeting and marketing to your intended audience that much easier. 
+A niche is great for the simple fact that it is so easy to market. Once you identify your company’s niche? It makes targeting and marketing to your intended audience that much easier.
 
 **The Difficulties of a Niche:**
 
