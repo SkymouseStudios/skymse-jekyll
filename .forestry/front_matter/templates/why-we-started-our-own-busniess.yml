@@ -67,8 +67,8 @@ fields:
   name: ttr
   description: About how long does it take to read this post?
 pages:
-- _posts/establishing-a-niche.md
 - _posts/do-great-things.md
+- _posts/establishing-a-niche.md
 - _posts/how-to-make-project-management-work-for-you.md
 - _posts/evernote-review-for-small-business-owners.md
 - _posts/how-to-rebrand-your-business.md

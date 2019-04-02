@@ -2,13 +2,13 @@
 layout: post
 categories:
 - Business
-author: patrick
+author: John Welch
 title: Do great things.
 subtitle: ''
 description: ''
 img: ''
 ttr: ''
-date: 2019-01-26 17:57:05 -0600
+date: 2019-01-26 23:57:05 +0000
 
 ---
 **# What you lack in talent, you can make up for in time**
