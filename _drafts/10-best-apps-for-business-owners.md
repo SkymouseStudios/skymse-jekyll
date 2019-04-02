@@ -73,7 +73,7 @@ Using Zapier, you can automate pretty much everything in your life. The exceptio
 
 The possibilities are endless, and when every moment counts in the business day, Zapier helps cut out the busywork.
 
-### What's new in Zapier 2018?
+### What's new in Zapier 2019?
 
 IF/THEN logic allows you to add conditional logic inside of your automations! This is a big deal when you want automations to take place only in certain situations.
 
@@ -106,7 +106,7 @@ They've been adding features pretty consistently over the years—they now have 
 * Design pop-ups and other ways of capturing emails on your website or social media accounts.
 * Add tags to subscribers automatically after they've finished a drip campaign.
 
-### What's new in MailChimp 2018?
+### What's new in MailChimp 2019?
 
 Mailchimp is really good about growing their service expanding capabilities. You can now create landing pages in MailChimp, organize your contacts with Tags, and connect you E-commerce store effortlessly.
 
@@ -135,7 +135,7 @@ Asana is a glorified checklist helping you tackle large projects and collaborate
 * We have internal projects like our website, social media, and a SkyDev project, so we don't fall behind.
 * We can invite clients to their **project**, so they can also upload documents, finish their tasks, and see the project status.
 
-### What's new in Asana 2018?
+### What's new in Asana 2019?
 
 Portfolios allow you to see the real-time status of projects and whether or not you're on track.
 
@@ -175,7 +175,7 @@ We like it a lot, and it's made life easier at Skymouse!
 * Establish calendar alerts and create new calendar events.
 * Get an alert in Slack when you get a new lead in Salesforce.
 
-### What's new in Slack 2018?
+### What's new in Slack 2019?
 
 * Turn your conversations into action (i.e. Create tasks in Asana from Slack.)
 * See [more of what's new](https://slackhq.com/in-case-you-missed-it-new-emoji-improved-search-and-more) on the Slack Blog.
@@ -210,7 +210,7 @@ We use Buffer for our clients, and I use it for my personal account.
 * Easily integrate your own short URL for your links(i.e. skymse.com).
 * The mobile app makes scheduling on the go super easy.
 
-### What's new in Buffer 2018?
+### What's new in Buffer 2019?
 
 You can now post to instagram automatically! (Previously you could only schedule reminders to post). Now, you can also add emojis straight from buffer.
 
@@ -247,7 +247,7 @@ Much of the projects we work on only make so much sense stored as a document. So
 * Embed and share your tables.
 * Switch how you see your data with the click of a mouse with the `views` functionality.
 
-### What's new in Airtable 2018?
+### What's new in Airtable 2019?
 
 The paid version has a ton of additional functionality using their `Airtable Blocks.`
 
@@ -284,7 +284,7 @@ Again, you don't have to go crazy with your information. Just keep it up to date
 * Create forms to capture leads on your website.
 * Keep track of all your contacts and companies while easily linking them together as needed.
 
-### What's new in HubSpot 2018?
+### What's new in HubSpot 2019?
 
 This.
 
@@ -320,7 +320,7 @@ If I'm doing business development vs. web development vs. a call with a client, 
 * Integrate with your accounting app (Quickbooks has a native integration. We use Wave for account, so I integrated that via Zapier.)
 * It also integrates with Asana right in the app!
 
-### What's new in Harvest 2018?
+### What's new in Harvest 2019?
 
 Stuff.
 
