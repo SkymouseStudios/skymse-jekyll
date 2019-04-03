@@ -67,6 +67,7 @@ fields:
   name: ttr
   description: About how long does it take to read this post?
 pages:
+- _posts/2019-04-03-stop-with-all-the-branding.md
 - _posts/do-great-things.md
 - _posts/2019-04-01-establishing-a-niche.md
 - _posts/how-to-make-project-management-work-for-you.md
