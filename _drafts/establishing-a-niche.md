@@ -17,17 +17,17 @@ permalink: "/establishing-a-niche-a-look-at-etsy"
 ---
 Establishing a Niche: A Look at Etsy
 
-Etsy. Yeah, let’s talk Etsy.
+## Etsy. Yeah, let’s talk Etsy.
 
 We know you have heard of it. We know you love it. Don’t pretend that you haven’t purchased questionable amounts of self-indulgent smelly good candles that are poetically named "Hemingway" and scented like pipe tobacco and bourbon. You love it, or if you don’t? Someone you know does. Why? Because Etsy has built a platform that they know you will love. They know you’ll indulge. Because the very second that you open that homepage, you are welcomed into a community of artisans creating trendy products that you feel the need to support. Getting cool products? That’s just a bonus, right? Etsy makes you want to buy because they understand the power of their niche.
 
 [![](/library/il_fullxfull.1804303293_njbg (1).jpg)](https://www.etsy.com/listing/663718798/hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=candle+hemingway&ref=sr_gallery-1-1&organic_search_click=1)
 
-**WHAT is Etsy?**
+### WHAT is Etsy?
 
 Esty is an E-Commerce marketplace that functions similarly to Amazon. Etsy produces income on a commission structure. It provides the platform for artisans to set up a virtual shop to sell their handmade products. Etsy collects a fee for every item sold and listed. Artisans make their products, craft their listing, produce their product image. Etsy drives traffic to sellers without the difficultly of building a website or intense marketing strategies.
 
-**HOW Etsy Found Its Piece of the Pie:**
+### HOW Etsy Found Its Piece of the Pie:
 
 When it comes to E-Commerce, I must admit that I am an avid fan of Etsy. Etsy is the perfect example of niche marketing. If you don’t understand niche markets, then honestly you’re a lost cause already. Alright, maybe you aren’t but let’s get you informed. Let’s start here… ask yourself this: “How did Etsy establish itself in the same marketplace as the giant, Amazon?”. This is a pretty common concern of many E-Commerce businesses. How on Earth can they survive when Amazon and other large sites commands so much traffic in that space. We all know in the E-Comm world Amazon is the king, so how does a platform like Etsy stay afloat? They define their niche, and they absolutely crush it.
 
@@ -37,7 +37,7 @@ Enter Etsy. With the local movement booming, people adore having the opportunity
 
 That’s why Etsy filled that niche.
 
-**WHAT is a Niche?**
+### WHAT is a Niche?
 
 If you’re still unsure of what a niche is, let me explain it in terms that I know you’ll understand:
 
@@ -55,7 +55,7 @@ Amazon started this way as well. Ever wonder why they initially started as a boo
 
 A niche is great for the simple fact that it is so easy to market. Once you identify your company’s niche? It makes targeting and marketing to your intended audience that much easier.
 
-**The Difficulties of a Niche:**
+### The Difficulties of a Niche:
 
 Your consumers WILL hold you accountable.
 
@@ -65,7 +65,7 @@ The problems started after their IPO. Turns out, having a company that focuses o
 
 Shockingly, the investors were more interested in profit margins than providing free yoga and meditation classes. Investor pressure prompted Etsy to makes some difficult decisions. They started allowing more manufactured products in their line-up to increase sales and profit margins. This, of course, received a great deal of push back. The brand was stepping outside its niche and people felt by doing so, the company was abandoning their values. Corporate sellouts. How can a marketplace dedicated to giving the little guy a fighting chance allow these big corporate manufacturers to sell in the same ring? Naturally, a bit of the Etsy brand identity was lost. Those additional profits? Well, say goodbye to those. People left the marketplace. People stopped shopping on Etsy. It was an issue of principle.
 
-**Finding the Right Balance:**
+### Finding the Right Balance:
 
 Etsy is a thriving company. They have more than doubled annual revenues since their IPO date back in 2015, and their stock value has doubled as well. Their company is booming, and they are still operating within that same niche. The key? Finding that niche that allows for plenty of growth and potential.
 
