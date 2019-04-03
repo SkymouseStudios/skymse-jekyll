@@ -10,8 +10,8 @@ categories:
 - Business
 - Branding
 description: We all admire the Apples, the Amazons and other "big dogs" of branding.
-  But can your small business become a brand that people love? Some marketing agencies
-  might say it starts with a logo or some colors. We think otherwise.
+  Can *your* business become a brand people love? Some marketing agencies might say
+  it starts with a logo or some colors. We think otherwise.
 
 ---
 ### I come from a family of athletes.
