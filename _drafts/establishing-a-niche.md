@@ -4,7 +4,7 @@ categories:
 - Branding
 - Business
 author: Austin Graf
-title: 'ESTABLISHING A NICHE: '
+title: 'Establishing a Niche: '
 subtitle: A Look at Etsy
 description: How to establish a niche market and the benefits and limitations of securing
   a niche. A review of Etsy, their marketing strategy, and their intended audience.
@@ -15,7 +15,7 @@ date: 2019-04-01 15:50:37 +0000
 permalink: "/establishing-a-niche-a-look-at-etsy"
 
 ---
-ESTABLISHING A NICHE: A Look at Etsy
+Establishing a Niche: A Look at Etsy
 
 Etsy. Yeah, let’s talk Etsy.
 
