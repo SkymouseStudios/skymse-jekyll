@@ -10,8 +10,8 @@ categories:
 - Business
 - Branding
 description: We all admire the Apples, the Amazons and other "big dogs" of branding.
-  Can *your* business become a brand people love? Some marketing agencies might say
-  it starts with a logo or some colors. We think otherwise.
+  Can *your* business become a brand people love? Marketing agencies might say
+  it starts with a logo or color. We think otherwise.
 
 ---
 ### I come from a family of athletes.
@@ -20,7 +20,7 @@ My dad ran a 4:29 mile as a freshman in high-school. That’s pretty fast when y
 
 ### Just do it.
 
-![](/library/hermes-rivera-265431-unsplash (1) (1).jpg)
+![](/library/hermes-rivera-265431-unsplash.jpg)
 
 When I got into sports, my dad would tell me stories to motivate me. Sometimes those stories were about how hard he worked to become a varsity runner his first year in high-school. My dad told me about how he used to run 10 miles every morning and then 10 more miles at track practice that day. 20 miles a day. That’s a big number. The other thing he would always tell me was the fact that he was wearing his Nike running shoes. My dad wore Nike, back in the day, when no one knew how to pronounce the name. He loved Nike running shoes.
 
@@ -45,7 +45,7 @@ Let me explain.
 
 When marketing companies hold up Apple as an example, they hold up mature Apple. They hold up the version of Apple that bloomed in the mid 2000’s under Steve Jobs’s watch the second time around. What they don’t hold up as an example is early 1990’s Apple, when they were struggling to capture market share and solidify their leadership. That Apple didn’t have a brand. That Apple wasn’t a... didn’t deserve a brand. That Apple hadn’t earned their brand.
 
-![](/library/medhat-dawoud-353792-unsplash (1).jpg)
+![](/library/medhat-dawoud-353792-unsplash.jpg)
 
 > The reality is that a brand is not a logo.
 
@@ -65,7 +65,7 @@ I’ll wrap this up and cut right to the chase because I’m getting long winded
 
 Through consistent application of these three things, the brand will take care of itself. It may be needed at some point to refresh or re-valuate a brand. It may be necessary to explore new ideas; however, the simple truth is that a brand is an experience. It always has been. That experience can exist completely removed from a logo, slogan, color-scheme, or typeface.
 
-![](/library/aleks-dorohovich-26-unsplash (1).jpg)
+![](/library/aleks-dorohovich-26-unsplash.jpg)
 
 Someday, your company may be just like Apple or Nike. If it is, it won’t be because you hired a marketing company to help you “rebrand.” It will be because you provided value, day in and day out, until that value took the shape of your company. That is real branding.
 

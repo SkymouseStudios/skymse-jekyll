@@ -4,10 +4,10 @@ title: Best Free Apps For Business Owners in 2019
 subtitle: Apps in the Workplace
 description: Good free apps are hard to find. Take your productivity to the next level
   with this complete rundown of the best apps in 2019 for people who are on the go.
-  From Notion, Zapier and Mailchimp, here's what we recommend.
+  From Notion to Mailchimp, here's what we recommend.
 keyword: 2019 Apps
 author: Patrick Hanus
-img: "/library/images/our-work/website-ams.jpg"
+img: "/library/images/blog/blog-top-apps-for-2019.png"
 permalink: "/best-free-apps-for-business-owners-in-2019.html"
 ttr: 7
 

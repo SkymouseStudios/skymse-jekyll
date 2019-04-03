@@ -3,7 +3,7 @@ layout: post
 title: 6 Tips for Managing Your Email.
 subtitle: A Productivity Tip
 author: Patrick Hanus
-img: "/library/images/blog/blog-satellite-dishes.png"
+img: "/library/images/blog/scene-satellites-beach.png"
 permalink: "/6-tips-for-managing-your-email"
 ttr: 7
 categories:

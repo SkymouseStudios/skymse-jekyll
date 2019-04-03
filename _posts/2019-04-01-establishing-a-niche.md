@@ -9,7 +9,7 @@ subtitle: Etsy has built a platform that they know you will love.
 description: How to establish a niche market and the benefits and limitations of securing
   a niche. A review of Etsy, their marketing strategy, and their intended audience.
   Embracing niche markets to secure company success.
-img: ''
+img: '/library/images/blog/blog-etsy.png'
 ttr: 6
 date: 2019-04-01 15:50:37 +0000
 permalink: "/establishing-a-niche-a-look-at-etsy"
