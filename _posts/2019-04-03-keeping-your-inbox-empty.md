@@ -22,17 +22,17 @@ I do my best to limit distractions in my workday. There is plenty to accomplish.
 
 ### 1. Create tasks and prioritize.
 
-I use Asana for all my project management at Skymouse. When I get a new email involving a task, I create a task in Asana, copy and transfer any important information, and archive that email. Asana has a feature that allows you to forward emails to an Asana email address and a task is created auto-magically. It's wonderful. 
+I use Asana for all my project management at Skymouse. When I get a new email involving a task, I create a task in Asana, copy and transfer any important information, and archive that email. Asana has a feature that allows you to forward emails to an Asana email address and a task is created auto-magically. It's wonderful.
 
 ![Animation of using Asana and Email](/library/images/blog/blog-email-to-asana.gif "Sending Email to Asana")
 
-If you don't use Asana, just use a simple to-do list app or a CRM (if your company has one). Hubspot offers a free CRM that works great. If the email has information that I want to keep, I add it to my Evernote. 
+If you don't use Asana, just use a simple to-do list app or a CRM (if your company has one). Hubspot offers a free CRM that works great. If the email has information that I want to keep, I add it to my Evernote.
 
 Your email is not a notebook. Stop treating it like one.
 
 ### 2. Schedule for later.
 
-I use an app called [Spark](https://sparkmailapp.com/) as my email client. It's great for scheduling emails. This way I can send emails throughout the day without having to stop my current project. 
+I use an app called [Spark](https://sparkmailapp.com/) as my email client. It's great for scheduling emails. This way I can send emails throughout the day without having to stop my current project.
 
 ![Animation of scheduling email for later](/library/images/blog/blog-schedule-later.gif "Schedule email for later")
 
@@ -52,7 +52,7 @@ I check my email as infrequently as possible. If I must do it, I do it at a desi
 
 ### 5. Unsubscribe from things you don't need.
 
-I can't believe that I still get emails that I don't care about. I now unsubscribe from emails that I don't read. Now, I don't have to delete them every week. 
+I can't believe that I still get emails that I don't care about. I now unsubscribe from emails that I don't read. Now, I don't have to delete them every week.
 
 ![Animation of unsubscribing from email](/library/images/blog/blog-unsubscribe-from-emails.gif "Unsubscribe")
 
