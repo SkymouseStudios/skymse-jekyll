@@ -65,7 +65,7 @@ I’ll wrap this up and cut right to the chase because I’m getting long winded
 
 Through consistent application of these three things, the brand will take care of itself. It may be needed at some point to refresh or re-valuate a brand. It may be necessary to explore new ideas; however, the simple truth is that a brand is an experience. It always has been. That experience can exist completely removed from a logo, slogan, color-scheme, or typeface.
 
-![](/library/aleks-dorohovich-26-unsplash.jpg)
+![overview of a desk with mac and iphone and tools  to draw logos](/library/officespace-with-mac-iphone-books-and-tools.jpg "officespace-with-mac-iphone-books-and-tools")
 
 Someday, your company may be just like Apple or Nike. If it is, it won’t be because you hired a marketing company to help you “rebrand.” It will be because you provided value, day in and day out, until that value took the shape of your company. That is real branding.
 
