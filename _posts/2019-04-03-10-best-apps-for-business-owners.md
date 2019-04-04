@@ -50,7 +50,7 @@ Notion creates a minimalistic space that allows you to build your blocks in what
 * [Onenote](https://products.office.com/en-us/onenote/digital-note-taking-app "Onenote Website")
 * [Google Keep](https://keep.google.com/ "Google Keep")
 
-[![](/library/da37bf1ea282413139a57c1c911e7c4b_2.png)](https://zapier.com/help/what-is-zapier/)
+[![](/library/zapier-logo-graphic.jpg)](https://zapier.com/help/what-is-zapier/ "zapier-logo-graphic")
 
 ## 2. Automate all your repetitive tasks with Zapier.
 
@@ -84,7 +84,7 @@ The only downside about using Zapier is that it may be a bit confusing if you do
 * [IFTTT](https://ifttt.com/discover "If This Then That - Website") (completely free)
 * [Tray.io](https://tray.io/ "Tray.io Website")
 
-[![](/library/MC-Horizontal.png)](https://mailchimp.com/)
+[![](/library/mailchimp-logo.jpg)](https://mailchimp.com/ "mailchimp-logo")
 
 ## 3. Send great looking email to your people with MailChimp.
 
@@ -117,7 +117,7 @@ If you are doing a lot of cold sales emails, Mailchimp is not for you. They are 
 * [Active Campaign](https://www.activecampaign.com/)
 * [Campaign Monitor](https://www.campaignmonitor.com/)
 
-[![](/library/logo_horiz1.png)](https://blog.asana.com/2015/09/the-new-asana/)
+[![](/library/asana-logo.jpg)](https://blog.asana.com/2015/09/the-new-asana/ "asana-logo")
 
 ## 4. Track your projects like a pro with Asana.
 
