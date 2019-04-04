@@ -224,7 +224,7 @@ Buffer also doesn't take the place of live interaction. Engaging with your follo
 * [Hootsuite](https://hootsuite.com/)
 * [Falcon](https://www.falcon.io/)
 
-[![](/library/airtable.png)](https://airtable.com/)
+[![airtable application logo ](/library/airtable-logo.jpg "airtable-logo")](https://airtable.com/)
 
 ## 7. Organize and view data like never before in Airtable.
 
@@ -258,7 +258,7 @@ There really aren't many downsides to Airtable, to be honest.
 * [Google Sheets](https://www.google.com/sheets/about/)
 * [Quickbase](https://www.quickbase.com/)
 
-[![](/library/guidelines_the-logo.svg)](https://www.hubspot.com/style-guide)
+[![](/library/hubspot-logo.jpg)](https://www.hubspot.com/products/video-tour "hubspot-logo")
 
 ## 8. Keep you contacts all in one place and grow your business with HubSpot CRM.
 
