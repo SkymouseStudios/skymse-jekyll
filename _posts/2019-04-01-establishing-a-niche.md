@@ -21,7 +21,7 @@ Establishing a Niche: A Look at Etsy
 
 We know you have heard of it. We know you love it. Don’t pretend that you haven’t purchased questionable amounts of self-indulgent smelly good candles that are poetically named "Hemingway" and scented like pipe tobacco and bourbon. You love it, or if you don’t? Someone you know does. Why? Because Etsy has built a platform that they know you will love. They know you’ll indulge. Because the very second that you open that homepage, you are welcomed into a community of artisans creating trendy products that you feel the need to support. Getting cool products? That’s just a bonus, right? Etsy makes you want to buy because they understand the power of their niche.
 
-[![](/library/il_fullxfull.1804303293_njbg (1).jpg)](https://www.etsy.com/listing/663718798/hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=candle+hemingway&ref=sr_gallery-1-1&organic_search_click=1)
+[![hemingway etsy candle with pipe tobacco and bourbon scent](/library/hemingway-candle-pipe-tobacco-bourbon-scent.jpg "hemingway-candle-pipe-tobacco-burbon-scented-from-etsy")](https://www.etsy.com/listing/663718798/hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=hemingway+candle&ref=sr_gallery-1-1)
 
 ### WHAT is Etsy?
 
@@ -49,7 +49,7 @@ Even amongst giants like Amazon (or in this case the vacuum), a niche survives a
 
 Moral of the story, Etsy is in essence the hard to reach corners of the underbelly of your couch cushion. They have positioned themselves to provide a haven for the creative niche of people who want handmade and wonderful artisan goods such as this handmade soap that looks like sushi which everyone clearly needs to accent their bathroom. Obviously, they have secured their position in the couch (the world wide web).
 
-![](/library/Screen Shot 2019-04-01 at 11.49.54 AM.png)
+[![etsy handmade sushi soap ](/library/etsy-screenshot-sushi-soap-handmade.jpg "handmade-soap-sushi-etsy")](https://www.etsy.com/listing/81625462/sushi-soap-gift-set-fake-food-soap?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=sushi+soap&ref=sr_gallery-1-1&organic_search_click=1&ep_click=1&cns=1)
 
 Amazon started this way as well. Ever wonder why they initially started as a book platform? They wanted to establish themselves as the place for you to find that perfect book without ever leaving your steaming cup of tea and pajamas, and they used that as the base to launch a massive E-Commerce site.
 
