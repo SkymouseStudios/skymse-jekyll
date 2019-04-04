@@ -9,7 +9,7 @@ subtitle: Etsy has built a platform that they know you will love.
 description: How to establish a niche market and the benefits and limitations of securing
   a niche. A review of Etsy, their marketing strategy, and their intended audience.
   Embracing niche markets to secure company success.
-img: '/library/images/blog/blog-etsy.png'
+img: "/library/images/blog/blog-etsy.png"
 ttr: 6
 date: 2019-04-01 15:50:37 +0000
 permalink: "/establishing-a-niche-a-look-at-etsy"
@@ -69,13 +69,13 @@ Shockingly, the investors were more interested in profit margins than providing 
 
 Etsy is a thriving company. They have more than doubled annual revenues since their IPO date back in 2015, and their stock value has doubled as well. Their company is booming, and they are still operating within that same niche. The key? Finding that niche that allows for plenty of growth and potential.
 
-![](/library/Screen Shot 2019-04-01 at 11.36.50 AM.png)
+[![Esty market stock summary in April 1, 2019](/library/etsy-stock-summary-april-2019.jpg "etsy-market-stock-summary-april-2019")](https://www.google.com/search?tbm=fin&q=NASDAQ:+ETSY&stick=H4sIAAAAAAAAAONgecRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uXj10_UNDZOSzY3SkwxMeBax8vg5Brs4BlopuIYERwIA9pfbSkwAAAA&biw=1440&bih=821#scso=_RjamXKu6K46y0wKIm7WQDA2:0)
 
 Yes, Etsy struggled with pushback from sellers and consumers during their attempts to expand and allow manufactured goods to be listed among their handmade products, but they ultimately moved passed this. The niche they established prior to their IPO was ALL handmade and ALL vintage leaving no room for manufactured goods. They now sell all handmade and vintage items as well as “unique factory-manufactured items”. Notice the very subtle addition?
 
 People still trust them. They still believe in the company. They love and respect their values. Why? Because these “unique factory-manufactured items” are not mainstream corporate products. They are unique, just like Etsy.
 
-![](/library/Screen Shot 2019-04-01 at 11.43.15 AM.png)
+[![Etsy homepage view with dropdown menus](/library/Etsy-homepage-view-.jpg "etsy-homepage-view-dropdown-menus")](https://www.etsy.com/)
 
 Etsy’s biggest mistake in terms of growth was establishing a niche that was just a little too small for them to grow and adopt a corporate business model, but that same niche also grew their company to millions in annual revenue prior to ever going public. Their choice to broaden their niche was purely to appease investors, and it has seen very positive results.
 
