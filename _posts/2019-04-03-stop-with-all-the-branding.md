@@ -10,8 +10,8 @@ categories:
 - Business
 - Branding
 description: We all admire the Apples, the Amazons and other "big dogs" of branding.
-  Can *your* business become a brand people love? Marketing agencies might say
-  it starts with a logo or color. We think otherwise.
+  Can *your* business become a brand people love? Marketing agencies might say it
+  starts with a logo or color. We think otherwise.
 
 ---
 ### I come from a family of athletes.
@@ -20,7 +20,7 @@ My dad ran a 4:29 mile as a freshman in high-school. That’s pretty fast when y
 
 ### Just do it.
 
-![](/library/hermes-rivera-265431-unsplash.jpg)
+![Black nike sneakers on the floor of a gym](/library/black-nike-sneakers-in-a-gym.jpg "black-nike-sneakers-in-a-gym")
 
 When I got into sports, my dad would tell me stories to motivate me. Sometimes those stories were about how hard he worked to become a varsity runner his first year in high-school. My dad told me about how he used to run 10 miles every morning and then 10 more miles at track practice that day. 20 miles a day. That’s a big number. The other thing he would always tell me was the fact that he was wearing his Nike running shoes. My dad wore Nike, back in the day, when no one knew how to pronounce the name. He loved Nike running shoes.
 
@@ -45,7 +45,7 @@ Let me explain.
 
 When marketing companies hold up Apple as an example, they hold up mature Apple. They hold up the version of Apple that bloomed in the mid 2000’s under Steve Jobs’s watch the second time around. What they don’t hold up as an example is early 1990’s Apple, when they were struggling to capture market share and solidify their leadership. That Apple didn’t have a brand. That Apple wasn’t a... didn’t deserve a brand. That Apple hadn’t earned their brand.
 
-![](/library/medhat-dawoud-353792-unsplash.jpg)
+![Apple Logo on the side of a building with a sky background](/library/apple-logo-on-the-street-with-building-in-the-background.jpg "apple-logo-on-the-street-with-building-in-the-background")
 
 > The reality is that a brand is not a logo.
 
