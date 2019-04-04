@@ -18,6 +18,8 @@ Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set wo
 
 That being said, the landscape of apps is changing quickly. Here are the tried and true apps we like to use at Skymouse. I've also suggested some alternatives if you are looking for something new or different.
 
+[![](/library/notion-screenshot-database.gif)](https://www.notion.so "gif-notion-application-database")
+
 ## 1. Use Notion for keeping all of your information accessible.
 
 `Free, Limited to 1000 Blocks,`
