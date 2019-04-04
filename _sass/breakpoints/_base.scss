@@ -186,10 +186,10 @@ header {
 }
 
 .blog-header {
-	border-radius: 5px;
-
+	
 	img {
 		display: block;
+		border-radius: 5px;
 	}
 }
 
@@ -549,10 +549,10 @@ POSTS & CONTENT STYLES
 	
 	.picture {
 		position: relative;
-		height: 290px;
+		//height: 290px;
 		overflow: hidden;
 		border-radius: 3px 3px 0px 0px;
-		background: #30373e;
+		//background: #30373e;	 
 	}
 }
 

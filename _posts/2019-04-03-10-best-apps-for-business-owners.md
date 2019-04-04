@@ -8,7 +8,7 @@ description: Good free apps are hard to find. Take your productivity to the next
 keyword: 2019 Apps
 author: Patrick Hanus
 img: "/library/images/blog/blog-top-apps-for-2019.png"
-permalink: "/best-free-apps-for-business-owners-in-2019.html"
+permalink: "/best-free-apps-for-business-owners-in-2019"
 ttr: 7
 
 ---
@@ -18,7 +18,7 @@ Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set wo
 
 That being said, the landscape of apps is changing quickly. Here are the tried and true apps we like to use at Skymouse. I've also suggested some alternatives if you are looking for something new or different.
 
-[![gif of notion application database](/library/notion-screenshot-database.gif)](https://www.notion.so "gif-notion-application-database")
+[![gif of notion application database](/uploads/notion-screenshot-database.gif)](https://www.notion.so "gif-notion-application-database")
 
 ## 1. Use Notion for keeping all of your information accessible.
 
@@ -52,7 +52,7 @@ Notion creates a minimalistic space that allows you to build your blocks in what
 * [Onenote](https://products.office.com/en-us/onenote/digital-note-taking-app "Onenote Website")
 * [Google Keep](https://keep.google.com/ "Google Keep")
 
-[![zapier logo graphic with orange background](/library/zapier-logo-graphic.jpg)](https://zapier.com/help/what-is-zapier/ "zapier-logo-graphic")
+[![zapier logo graphic with orange background](/uploads/zapier-logo-graphic.jpg)](https://zapier.com/help/what-is-zapier/ "zapier-logo-graphic")
 
 ## 2. Automate all your repetitive tasks with Zapier.
 
@@ -86,7 +86,7 @@ The only downside about using Zapier is that it may be a bit confusing if you do
 * [IFTTT](https://ifttt.com/discover "If This Then That - Website") (completely free)
 * [Tray.io](https://tray.io/ "Tray.io Website")
 
-[![](/library/mailchimp-logo.jpg)](https://mailchimp.com/ "mailchimp-logo")
+[![](/uploads/mailchimp-logo.jpg)](https://mailchimp.com/ "mailchimp-logo")
 
 ## 3. Send great looking email to your people with MailChimp.
 
@@ -119,7 +119,7 @@ If you are doing a lot of cold sales emails, Mailchimp is not for you. They are 
 * [Active Campaign](https://www.activecampaign.com/)
 * [Campaign Monitor](https://www.campaignmonitor.com/)
 
-[![asana application logo](/library/asana-logo.jpg)](https://blog.asana.com/2015/09/the-new-asana/ "asana-logo")
+[![asana application logo](/uploads/asana-logo.jpg)](https://blog.asana.com/2015/09/the-new-asana/ "asana-logo")
 
 ## 4. Track your projects like a pro with Asana.
 
@@ -155,7 +155,7 @@ I would suggest keeping tasks simple. As much as you might be tempted to make a 
 * [Trello](https://trello.com/)
 * [Airtable](https://airtable.com)
 
-[![ slack logo with computer view and mobile view](/library/slack-logo-computer-view-mobile-view.jpg)](https://slack.com/features)
+[![ slack logo with computer view and mobile view](/uploads/slack-logo-computer-view-mobile-view.jpg)](https://slack.com/features)
 
 ## 5. Communicate sans-email with your team on Slack.
 
@@ -190,7 +190,7 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 * [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/) (included in Office 365 Subscription)
 
-[![buffer application graphic featuring mobile application](/library/buffer-feature-graphic-moble-application.jpg)](https://buffer.com/resources/new-web "buffer-mobile-application")
+[![buffer application graphic featuring mobile application](/uploads/buffer-feature-graphic-moble-application.jpg)](https://buffer.com/resources/new-web "buffer-mobile-application")
 
 ## 6. Post to all your social media with Buffer.
 
@@ -226,7 +226,7 @@ Buffer also doesn't take the place of live interaction. Engaging with your follo
 * [Hootsuite](https://hootsuite.com/)
 * [Falcon](https://www.falcon.io/)
 
-[![airtable application logo ](/library/airtable-logo.jpg "airtable-logo")](https://airtable.com/ "airtable-application-logo")
+[![airtable application logo ](/uploads/airtable-logo.jpg "airtable-logo")](https://airtable.com/ "airtable-application-logo")
 
 ## 7. Organize and view data like never before in Airtable.
 
@@ -260,7 +260,7 @@ There really aren't many downsides to Airtable, to be honest.
 * [Google Sheets](https://www.google.com/sheets/about/)
 * [Quickbase](https://www.quickbase.com/)
 
-[![ hubspot application orange logo](/library/hubspot-logo.jpg)](https://www.hubspot.com/products/video-tour "hubspot-logo")
+[![ hubspot application orange logo](/uploads/hubspot-logo.jpg)](https://www.hubspot.com/products/video-tour "hubspot-logo")
 
 ## 8. Keep you contacts all in one place and grow your business with HubSpot CRM.
 
@@ -299,7 +299,7 @@ The free version plugs Hubspot on its forms, templates and things like that.
 * Pipedrive
 * Airtable
 
-[![harvest application timesheet for time tracking](/library/harvest_timesheet_app_example.jpg)](https://www.getharvest.com/features/time-tracking "harvest-timesheet-app-example")
+[![harvest application timesheet for time tracking](/uploads/harvest_timesheet_app_example.jpg)](https://www.getharvest.com/features/time-tracking "harvest-timesheet-app-example")
 
 ## 9. Track your team's time with Harvest.
 
@@ -332,7 +332,7 @@ The free version is pretty limited. You can only have two projects. I upgraded b
 
 * [Toggl](https://toggl.com "Toggl Website") (The free version of this may be a better start if you have a lot of projects.)
 
-[![pocket application graphics lineup of mobile app and computer view](/library/Pocket_Blog_Graphics_Lineup.jpg)](https://help.getpocket.com/article/963-options-for-read-later-app-users "pocket_app_image_logo_mobileapp")
+[![pocket application graphics lineup of mobile app and computer view](/uploads/Pocket_Blog_Graphics_Lineup.jpg)](https://help.getpocket.com/article/963-options-for-read-later-app-users "pocket_app_image_logo_mobileapp")
 
 ## Bonus: Read things later with Pocket.
 
@@ -366,4 +366,4 @@ While I think apps are great for doing business in the business universe of 2019
 
 I also included some noteworthy alternatives to each app, because not every app is perfect. Sometimes one app works better for your personal needs.
 
-I am also aware that there are other apps out there, I'd be happy to hear any suggestions if you have any! Just tweet me [@thePatrickHanus](https://www.twitter.com/thepatrickhanus "Patrick's Twitter").
+I am aware that other apps are out there, I'd be happy to hear any suggestions if you have any! Just tweet me [@thePatrickHanus](https://www.twitter.com/thepatrickhanus "Patrick's Twitter").

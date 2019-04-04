@@ -21,7 +21,7 @@ Establishing a Niche: A Look at Etsy
 
 We know you have heard of it. We know you love it. Don’t pretend that you haven’t purchased questionable amounts of self-indulgent smelly good candles that are poetically named "Hemingway" and scented like pipe tobacco and bourbon. You love it, or if you don’t? Someone you know does. Why? Because Etsy has built a platform that they know you will love. They know you’ll indulge. Because the very second that you open that homepage, you are welcomed into a community of artisans creating trendy products that you feel the need to support. Getting cool products? That’s just a bonus, right? Etsy makes you want to buy because they understand the power of their niche.
 
-[![hemingway etsy candle with pipe tobacco and bourbon scent](/library/hemingway-candle-pipe-tobacco-bourbon-scent.jpg "hemingway-candle-pipe-tobacco-burbon-scented-from-etsy")](https://www.etsy.com/listing/663718798/hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=hemingway+candle&ref=sr_gallery-1-1)
+[![hemingway etsy candle with pipe tobacco and bourbon scent](/uploads/hemingway-candle-pipe-tobacco-bourbon-scent.jpg "hemingway-candle-pipe-tobacco-burbon-scented-from-etsy")](https://www.etsy.com/listing/663718798/hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=hemingway+candle&ref=sr_gallery-1-1)
 
 ### WHAT is Etsy?
 
@@ -43,13 +43,13 @@ If you’re still unsure of what a niche is, let me explain it in terms that I k
 
 Imagine you decide to vacuum out your couch. You haven’t done it in months or maybe years, because let’s face it…. life is too short to clean under the couch cushions. BUT in a sudden burst of energy, you elect to prove to the world (and yourself) that you are, in fact, the most “put together” individual on this planet. You’re vacuuming and vacuuming, but no matter what you do? You can’t seem to get those crumbs and questionable weird things that are down in those hard to reach corners. You try, and you try, but no matter what? While you can get some of those crumbs, there is always going to be tons of crumbs in the corner. Or niche.
 
-![](/library/mitchell-gaiser-1143507-unsplash (1).jpg)That’s a niche market.
+![](/uploads/mitchell-gaiser-1143507-unsplash.jpg)That’s a niche market.
 
 Even amongst giants like Amazon (or in this case the vacuum), a niche survives and thrives with a healthy population of crumbs. Now, imagine the crumbs are web traffic, conversions, and sales. Sure, that vacuum can pull some of those crumbs away from your couch, but ultimately that niche remains strong with plenty of crumbs to spare.
 
 Moral of the story, Etsy is in essence the hard to reach corners of the underbelly of your couch cushion. They have positioned themselves to provide a haven for the creative niche of people who want handmade and wonderful artisan goods such as this handmade soap that looks like sushi which everyone clearly needs to accent their bathroom. Obviously, they have secured their position in the couch (the world wide web).
 
-[![etsy handmade sushi soap ](/library/etsy-screenshot-sushi-soap-handmade.jpg "handmade-soap-sushi-etsy")](https://www.etsy.com/listing/81625462/sushi-soap-gift-set-fake-food-soap?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=sushi+soap&ref=sr_gallery-1-1&organic_search_click=1&ep_click=1&cns=1)
+[![etsy handmade sushi soap ](/uploads/etsy-screenshot-sushi-soap-handmade.jpg "handmade-soap-sushi-etsy")](https://www.etsy.com/listing/81625462/sushi-soap-gift-set-fake-food-soap?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=sushi+soap&ref=sr_gallery-1-1&organic_search_click=1&ep_click=1&cns=1)
 
 Amazon started this way as well. Ever wonder why they initially started as a book platform? They wanted to establish themselves as the place for you to find that perfect book without ever leaving your steaming cup of tea and pajamas, and they used that as the base to launch a massive E-Commerce site.
 
@@ -69,13 +69,13 @@ Shockingly, the investors were more interested in profit margins than providing 
 
 Etsy is a thriving company. They have more than doubled annual revenues since their IPO date back in 2015, and their stock value has doubled as well. Their company is booming, and they are still operating within that same niche. The key? Finding that niche that allows for plenty of growth and potential.
 
-[![Esty market stock summary in April 1, 2019](/library/etsy-stock-summary-april-2019.jpg "etsy-market-stock-summary-april-2019")](https://www.google.com/search?tbm=fin&q=NASDAQ:+ETSY&stick=H4sIAAAAAAAAAONgecRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uXj10_UNDZOSzY3SkwxMeBax8vg5Brs4BlopuIYERwIA9pfbSkwAAAA&biw=1440&bih=821#scso=_RjamXKu6K46y0wKIm7WQDA2:0)
+[![Esty market stock summary in April 1, 2019](/uploads/etsy-stock-summary-april-2019.jpg "etsy-market-stock-summary-april-2019")](https://www.google.com/search?tbm=fin&q=NASDAQ:+ETSY&stick=H4sIAAAAAAAAAONgecRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uXj10_UNDZOSzY3SkwxMeBax8vg5Brs4BlopuIYERwIA9pfbSkwAAAA&biw=1440&bih=821#scso=_RjamXKu6K46y0wKIm7WQDA2:0)
 
 Yes, Etsy struggled with pushback from sellers and consumers during their attempts to expand and allow manufactured goods to be listed among their handmade products, but they ultimately moved passed this. The niche they established prior to their IPO was ALL handmade and ALL vintage leaving no room for manufactured goods. They now sell all handmade and vintage items as well as “unique factory-manufactured items”. Notice the very subtle addition?
 
 People still trust them. They still believe in the company. They love and respect their values. Why? Because these “unique factory-manufactured items” are not mainstream corporate products. They are unique, just like Etsy.
 
-[![Etsy homepage view with dropdown menus](/library/Etsy-homepage-view-.jpg "etsy-homepage-view-dropdown-menus")](https://www.etsy.com/)
+[![Etsy homepage view with dropdown menus](/uploads/Etsy-homepage-view-.jpg "etsy-homepage-view-dropdown-menus")](https://www.etsy.com/)
 
 Etsy’s biggest mistake in terms of growth was establishing a niche that was just a little too small for them to grow and adopt a corporate business model, but that same niche also grew their company to millions in annual revenue prior to ever going public. Their choice to broaden their niche was purely to appease investors, and it has seen very positive results.
 
