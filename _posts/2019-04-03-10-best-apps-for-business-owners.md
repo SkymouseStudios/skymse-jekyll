@@ -18,11 +18,9 @@ Much like the 10pc Mauviel 6530.06 M'Heritage M250C 2.5mm Copper Cookware Set wo
 
 That being said, the landscape of apps is changing quickly. Here are the tried and true apps we like to use at Skymouse. I've also suggested some alternatives if you are looking for something new or different.
 
-[![](/library/use-case-screenshot-database.gif)](https://www.notion.so/skymouse/Team-Home-051ddab5c5f24df2a52fc072adc2e863)
-
 ## 1. Use Notion for keeping all of your information accessible.
 
-`Free, Limited to 1000 Blocks, `
+`Free, Limited to 1000 Blocks,`
 
 As a business owner you have a lot to track. Notion can assist you in this task.
 
@@ -299,7 +297,7 @@ The free version plugs Hubspot on its forms, templates and things like that.
 * Pipedrive
 * Airtable
 
-[![](/library/timesheets-day-50cb6a94271b865ff1e47488d5d8b20579abc5f7aeacab2e86d33eb15ee5f244.png)](https://www.getharvest.com/features/time-tracking)
+[![](/library/harvest_timesheet_app_example.jpg)](https://www.getharvest.com/features/time-tracking "harvest-timesheet-app-example")
 
 ## 9. Track your team's time with Harvest.
 
@@ -332,7 +330,7 @@ The free version is pretty limited. You can only have two projects. I upgraded b
 
 * [Toggl](https://toggl.com "Toggl Website") (The free version of this may be a better start if you have a lot of projects.)
 
-[![](/library/PKTBlog_Graphics_0000_Lineup.png)](https://blog.getpocket.com/2012/04/introducing-the-all-new-read-it-later-now-called-pocket/)
+[![](/library/Pocket_Blog_Graphics_Lineup.jpg)](https://help.getpocket.com/article/963-options-for-read-later-app-users "pocket_app_image_logo_mobileapp")
 
 ## Bonus: Read things later with Pocket.
 
