@@ -153,7 +153,7 @@ I would suggest keeping tasks simple. As much as you might be tempted to make a 
 * [Trello](https://trello.com/)
 * [Airtable](https://airtable.com)
 
-[![](/library/Unfurl-Why-Slack.jpg)](https://slack.com/features)
+[![](/library/slack-logo-computer-view-mobile-view.jpg)](https://slack.com/features)
 
 ## 5. Communicate sans-email with your team on Slack.
 
@@ -188,7 +188,7 @@ I recommend setting times in your day to mute Slack so it doesn't bring you out 
 
 * [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/) (included in Office 365 Subscription)
 
-[![](/library/homepage-hero.svg)](https://buffer.com/)
+[![](/library/buffer-feature-graphic-moble-application.jpg)](https://buffer.com/resources/new-web "buffer-mobile-application")
 
 ## 6. Post to all your social media with Buffer.
 
@@ -224,7 +224,7 @@ Buffer also doesn't take the place of live interaction. Engaging with your follo
 * [Hootsuite](https://hootsuite.com/)
 * [Falcon](https://www.falcon.io/)
 
-[![airtable application logo ](/library/airtable-logo.jpg "airtable-logo")](https://airtable.com/)
+[![airtable application logo ](/library/airtable-logo.jpg "airtable-logo")](https://airtable.com/ "airtable-application-logo")
 
 ## 7. Organize and view data like never before in Airtable.
 
