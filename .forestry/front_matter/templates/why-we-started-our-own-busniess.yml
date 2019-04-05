@@ -31,21 +31,22 @@ fields:
   default: ''
 - type: list
   config:
-    max: '3'
+    max: '1'
     min: '1'
     use_select: true
     source:
       type: documents
-      section: data
+      section: ''
       file: _data/menus.yml
     options:
     - Branding
     - Business
     - Web Design
     - Productivity
-  label: Categories
+  label: Series
   name: categories
   default: []
+  description: This is the series the Blog post belongs to
 - type: select
   name: author
   config:
