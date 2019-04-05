@@ -35,7 +35,9 @@ fields:
     min: '1'
     use_select: true
     source:
-      type: simple
+      type: documents
+      section: data
+      file: _data/menus.yml
     options:
     - Branding
     - Business
@@ -58,7 +60,7 @@ fields:
     - Patrick Hanus
     - Austin Graf
   label: Author
-  default: john
+  default: John Welch
 - type: number
   config:
     min: '3'
