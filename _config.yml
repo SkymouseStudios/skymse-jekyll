@@ -1,7 +1,7 @@
 # Site settings
 title: "Skymouse Studios"
 description: "A digital ad agency that helps you grow your business. No nonsense."
-baseurl: "https://skymousestudios.com"
+baseurl: #"https://skymousestudios.com"
 url: "skymousestudios.com"
 cover: "/library/cover.png"
 logo: "/library/images/logos/skymse-logo-circle.png"
@@ -29,14 +29,3 @@ collections:
   pages:
     output: true
     permalink: /:name
-
-# Descriptions for Blog Categories
-series:
-  - cat: New To Branding
-    desc: "How to get started, from square one."
-  - cat: Business Spotlight
-    desc: "A look at businesses, and how they work."
-  - cat: Tips and Tricks
-    desc: "The best of the best for doing better work."
-  - cat: Apps in the Workplace
-    desc: "How to make the most of apps in your business."

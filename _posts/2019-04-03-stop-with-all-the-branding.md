@@ -4,7 +4,7 @@ title: You Don't Need to Rebrand.
 subtitle: A Guide to Branding
 author: John Welch
 img: "/library/images/headers/header-about.svg"
-permalink: "/stop-with-all-the-branding"
+permalink: "/stop-with-all-the-branding/"
 ttr: 8
 categories:
 - Business
