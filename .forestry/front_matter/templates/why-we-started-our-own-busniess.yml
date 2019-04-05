@@ -36,8 +36,8 @@ fields:
     use_select: true
     source:
       type: documents
-      section: ''
-      file: _data/menus.yml
+      section: data
+      file: 
     options:
     - Branding
     - Business
