@@ -37,7 +37,7 @@ fields:
     source:
       type: documents
       section: data
-      file: 
+      file: _data/authors.yml
     options:
     - Branding
     - Business
