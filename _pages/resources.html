@@ -30,9 +30,9 @@ img-back: /library/images/headers/header-blog-back.svg
 		</div>
 
 		<div class="blog-grid">
-		{% for type in site.series %}
-			<a class="blank" href="{{ cat.url }}">
-				<h5>{{ type.cat }}</h5>
+		{% for type in site.data.menus.series %}
+			<a class="blank" href="{{ type.url }}">
+				<h5>{{ type.title }}</h5>
 				<p>{{ type.desc }}</p>
 			</a>
 		{% endfor %}

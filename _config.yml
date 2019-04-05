@@ -29,3 +29,6 @@ collections:
   pages:
     output: true
     permalink: /:name
+  series:
+    output: true
+    permalink: /:name
