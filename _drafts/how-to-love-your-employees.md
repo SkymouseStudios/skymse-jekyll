@@ -27,9 +27,11 @@ I’ve spent some time as an employee, and I don't think any of my employers wou
 
 Employers love to complain about the work ethic problems of millennials, and they are always trying to figure out how to capture good talent and convert good talent to great talent.
 
-The problem really? The older generation of the corporate world hates that we know how things should be done. We aren’t just some lazy demographic. We are a demographic that values balance, and we are sick of the corporate closed-mindedness. We want to get things done. We want to change the world. We want to rock business, but we want to be happy while we doing  it. We spend so much of our lives working. It's time to step up your amenities guys. Happy employees are productive employees.
+The problem really? The older generation of the corporate world hates that we know how things should be done. We aren’t just some lazy demographic. We are a demographic that values balance, and we are sick of the corporate closed-mindedness. We want to get things done. We want to change the world. We want to rock business, but we want to be happy while we doing  it. We spend so much of our lives working. It's time to step up your amenities guys. Happy employees are productive employees. Don't loose them because they are unhappy.
 
-**Embrace Flexible:**
+Below is a few ways to create a company worth working for, and to prevent those valued employees from leaving you.
+
+**You Never Made Time for Me:**
 
 There were a couple cool things that I liked about working as an employee at my company, but for every "cool" aspect, there were dozens of maybe "not so cool" aspects.
 
@@ -64,7 +66,7 @@ If your employees had a really rough day? Realize that. Letting your employees g
 
 Wednesdays are rough. Wine Wednesday anyone? We aren't saying you need to condone drinking in the workplace, but we do love the mentality of encouraging little midweek treats that give employees something tangible to destress and enjoy their week just a little more. Break-room donuts are overplayed. Be original and 
 
-**I'm Only With You For The Money:**
+**They're with You For The Money:**
 
 Be upfront with how much you are willing to pay.
 
