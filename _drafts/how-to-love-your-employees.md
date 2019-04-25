@@ -48,25 +48,23 @@ Millennials want to work harder for shorter periods of time. It's basically like
 There are so many options that a company can embrace to achieve flexible schedules:
 
 * Let your employees work remotely. In an age of technology, more companies than ever have the ability to have their employees work remotely. The digital commute is wildly appealing to millennials that love the flexibility of being able to travel. If they are capable of working where they are most comfortable, the quality of their work will shine through, and employers are much less likely to suffer from the restlessness of millennials that are always looking to relocate to the next "hot city". If they aren't cut out for work-at-home? They likely aren't the world's best employee anyways.
-* Companies like Google famously embrace 20% time. Basically employees work the standard five day work week, but Friday is a free day (20% of their week) in which they can spend their time working on whatever company related passion project they choose. They have the freedom to choose. That flexible freedom reduces stress and encourages creativity. 
-
-
+* Companies like Google famously embrace 20% time. Basically employees work the standard five day work week, but Friday is a free day (20% of their week) in which they can spend their time working on whatever company related passion project they choose. They have the freedom to choose. That flexible freedom reduces stress and encourages creativity.
 * Embrace the "Four-Day Week". That's right. Every single weekend is a three day weekend for employees. A recent study, which you can read [here](), proves that cutting an entire day of the week maintains the job performance and productivity of five full days, lowers employee stress levels, and increases work life balance. If a company can accomplish the exact same objectives in four days as five, while increasing the quality of life for their employees? Isn't it just cruel not to embrace that?
 * 
 
 Overall, employees love the power to choose. Let them choose, or even if you don't let them choose, let things be a little slack and loose. Companies, like VaynerMedia, offer salary employees unlimited paid vacation. Reward hard work, and allow your employees to indulge in a life outside of the workplace.
 
-**Let's Talk About Our Feeling:**
+**Let's Talk About Our Feelings:**
 
-Make sure your employees know your vision. Keep them updated, ask their opinions, and perhaps more importantly? Value them. 
+Make sure your employees know your vision. Keep them updated, ask their opinions, and perhaps more importantly? Value them.
 
-People don't like being invisible, or if they do? Maybe you should be hiring more "go getters". If you value the opinion of your employees, if their ideas are being taken seriously, if they have invested interest in the company, they are going to work harder and become less restless. Employees that feel like their position is critical to the success of a company are probably less likely to just leave without a significant notice. If they are valued and feel that, then in my experience, they will in turn value that company. 
+People don't like being invisible, or if they do? Maybe you should be hiring more "go getters". If you value the opinion of your employees, if their ideas are being taken seriously, if they have invested interest in the company, they are going to work harder and become less restless. Employees that feel like their position is critical to the success of a company are probably less likely to just leave without a significant notice. If they are valued and feel that, then in my experience, they will in turn value that company.
 
 If your employees had a really rough day? Realize that. Letting your employees go home early after a really tough day could be the tiny little difference that makes them actually come back in to work the next day. Make sure employees leave your office happy more often than not, and assign a few awesome tasks instead of just crap jobs constantly.
 
-Wednesdays are rough. Wine Wednesday anyone? We aren't saying you need to condone drinking in the workplace, but we do love the mentality of encouraging little midweek treats that give employees something tangible to destress and enjoy their week just a little more. Break-room donuts are overplayed. Be original and 
+Wednesdays are rough. Wine Wednesday anyone? We aren't saying you need to condone drinking in the workplace, but we do love the mentality of encouraging little midweek treats that give employees something tangible to destress and enjoy their week just a little more. Break-room donuts are overplayed. Be original and
 
-**They're with You For The Money:**
+**I'm with You For The Money:**
 
 Be upfront with how much you are willing to pay.
 
