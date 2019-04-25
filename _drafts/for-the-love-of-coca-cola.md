@@ -17,6 +17,24 @@ Coca-Cola is a long standing company, and it is by no means one of those new-age
 
 Coke started way back in 1886 when a pharmacist created a tonic concoction that would change the world forever. According to the World of Coca-Cola website, during that first year of sales, only around 9 servings (what ever size those may have been) were sold a day in Atlanta. Now? More than 1.9 billion servings are sold every single day across the globe. ([Source](https://www.worldofcoca-cola.com/about-us/coca-cola-history/ "about-us-coca-cola-history"))
 
-So, how does a drink that
+So, how does a drink that has been labeled as "liquid obesity" that causes "tooth rot" and "premature death" (alright, thats a little heavy-handed) still command such a huge following in the marketplace? 
 
-Coca-Cola really started as a medicine of sorts. While it didn't really appear to do much of anything it had a cult following? Why? It simply made people feel better (or it could've been cocaine, but Coca-Cola denies this bit). In fact, it made people feel so insanely good that "Coke" became a staple good for just about everyone. It was so popular that soldiers in WWI literally wrote to the Coca-Cola factory in Waco, Texas asking for them to supply Coca-Cola as they would certainly be defeated unless that had an amble supply to help them survive the heat. If you want to read the actually letter, you can check it out [here](https://www.thedailymeal.com/read-letter-wwi-troops-calling-coca-cola "read-letter-wwi-troops-calling-coca-cola"). Warning: It's really cool.
+Simple. They are a brand that does so much good in the world, that people refuse to acknowledge the bad. "Sure, Coca-Cola will give my a questionably round body shape, but when I drink a Coca-Cola...I am supporting a company that supports the world and doesn't simply line it's own pockets. Getting obesity is really a statement that I too support the world."
+
+So let's start from the beginning:
+
+**WWI**
+
+Coca-Cola really started as a medicine of sorts. While it didn't really appear to do much of anything it had a cult following? Why? It simply made people feel better (or it could've been cocaine, but Coca-Cola denies this bit). In fact, it made people feel so insanely good that "Coke" became a staple good for just about everyone. It was so popular that soldiers in WWI literally wrote to the Coca-Cola factory in Waco, Texas asking for them to supply Coca-Cola as they would certainly be defeated unless they had an amble supply to help them survive the heat and defeat their enemy. Coca-Cola literally won World War I. If you want to read the actually letter, you can check it out [here](https://www.thedailymeal.com/read-letter-wwi-troops-calling-coca-cola "read-letter-wwi-troops-calling-coca-cola"). Warning: It's really cool.
+
+**WWII**
+
+Coca-Cola didn't stop with World War I. They fought in WWII as well. During WWII Coca-Cola distributed over 5 billion Coca-Colas to men and women in uniform. 5 billion! Coca-Cola was so involved in the war effort that they created what is called the "jungle fountain" which was the combination of an ice machine and a dispensing machine. Over 1,100 jungle fountains were bring "fountain drinks" to the South Pacific during the war. The Coca-Cola President Robert Woodruff simply did not care. Coca-Cola products were going to win the war, and they did. ([Source](https://www.coca-colacompany.com/stories/coke-and-the-us "stories-coke-and-the-us")).
+
+Prior to WWII, Coca-Cola had about 44 international plants. During WWII that number grew by half again, up to 64 international plants total. Most of which were converted to standard production factories after the war ended.
+
+**The 60s**
+
+In the 1960s, Coca-Cola made their position on health and nourishment clear by realizing what they called the "Nourishment Project". Partnering with scientists, nutritionists, and food technologists, Coca-Cola worked towards creating another medicine of sorts. The goal? To create a protein rich beverage for undeveloped nations suffering from impoverishment. Several of these style drinks released in poor Latin- American nations. Yet another drink to make people gain weight, only this time is was constructive weight gain for a cause.
+
+**The 80s**
