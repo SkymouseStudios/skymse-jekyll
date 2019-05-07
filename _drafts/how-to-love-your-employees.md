@@ -31,6 +31,8 @@ The problem really? The older generation of the corporate world hates that we kn
 
 Below is a few ways to create a company worth working for, and to prevent those valued employees from leaving you.
 
+![laptops-work-remotework-computers-coworking](/uploads/marvin-meyer-571072-unsplash.jpg "laptop-workspace-technology-desk")
+
 **You Never Made Time for Me:**
 
 There were a couple cool things that I liked about working as an employee at my company, but for every "cool" aspect, there were dozens of maybe "not so cool" aspects.
@@ -66,6 +68,8 @@ If your employees had a really rough day? Realize that. Letting your employees g
 Wednesdays are rough. Wine Wednesday anyone? We aren't saying you need to condone drinking in the workplace, but we do love the mentality of encouraging little midweek treats that give employees something tangible to destress and enjoy their week just a little more. Break-room donuts are overplayed. Be original and fun.
 
 But make the company voice a voice that values all the individual voices rather than just one.
+
+![](/uploads/sam-truong-dan-627874-unsplash.jpg)
 
 **I'm with You For The Money:**
 
