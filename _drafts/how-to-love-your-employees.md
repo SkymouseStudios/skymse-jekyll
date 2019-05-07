@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Encourage "Brand Consideration" Among Prospective Employees
-subtitle: A guide to catching the brilliant, but illusive millennial.
+title: A Practical Guide to Catching the Brilliant, but Illusive Millennial.
+subtitle: Branding Your Work Environment to Keep HR in the Resumes
 author: patrick (but really austin if we are being honest)
 img: ''
 permalink: "/how-to-find-and-keep-hardworking-millenial-employees"
@@ -57,6 +57,8 @@ Overall, employees love the power to choose. Let them choose, or even if you don
 
 However you approach the work/ balance, brand your company as a company that values that balance and understands that balance.
 
+![coffee-mug-opinion-side-table-with-phone](/uploads/steve-johnson-609098-unsplash.jpg "opinion-coffee-cup-mug-my-opinion")
+
 **Let's Talk About Our Feelings:**
 
 Make sure your employees know your vision. Keep them updated, ask their opinions, and perhaps more importantly? Value them.
@@ -69,7 +71,7 @@ Wednesdays are rough. Wine Wednesday anyone? We aren't saying you need to condon
 
 But make the company voice a voice that values all the individual voices rather than just one.
 
-![](/uploads/sam-truong-dan-627874-unsplash.jpg)
+![tip-jar-with-money-inside-on-a-counter](/uploads/sam-truong-dan-627874-unsplash.jpg "tip-jar-on-counter-with-money")
 
 **I'm with You For The Money:**
 
