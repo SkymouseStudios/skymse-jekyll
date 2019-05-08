@@ -11,7 +11,7 @@ categories:
 - Business
 
 ---
-**Let's Talk About Your EX...** (Employee Experience)
+### **Let's Talk About Your EX...** (Employee Experience)
 
 In a world where User Experience, Client Experience and the IMAX Experience are so important, what about the way we treat our employees as business owners? That's right. We are talking about Employee Experience.
 
