@@ -13,15 +13,15 @@ categories:
 ---
 **Let's Talk About Your EX...** (Employee Experience)
 
-In a world where User Experience, Client Experience and Whatnot are so important, what about the way we treat our employees as business owners? That's right. We are talking about Employee Experience.
+In a world where User Experience, Client Experience and the IMAX Experience are so important, what about the way we treat our employees as business owners? That's right. We are talking about Employee Experience.
 
-Unemployment is insanely low right now. Seriously, in September of 2018, unemployment was the lowest it has been since 1969 and Nixon. What does that mean for employers? People have options. The economy is booming, and employees simply do NOT have to take whatever they can find. There is skilled labor shortages running rampant, and employees have the upper-hand in this current market.
+Unemployment is insanely low right now. Seriously, in September of 2018, unemployment was the lowest it has been since 1969 and Nixon. What does that mean for employers? People have options. The economy is booming, and employees simply do NOT have to take whatever they can find. There are skilled labor shortages running rampant, and employees have the upper-hand in this current market.
 
 When employees can see greener grass and brighter pastures, how can a company retain quality employees and attract the right new hires?
 
-Internal branding. Yeah, in a market where employers are competing for their workforce, it becomes critical now more than ever to brand your company to attract hardworking millennials.
+Internal branding. In a market where employers are competing for their workforce, it becomes critical to brand your company to attract hardworking millennials.
 
-I know what you may be thinking: Are millennials even worth the time? Yes. There is this stereotype that millennials tend to be lazy and flaky and yadda yadda, and we are. We love tacos. We love sriracha. But a lot of us? A lot of us love creating, innovating, challenging, and reimagining the world. We are visionaries, and you would be wrong if you felt that your company couldn't use a healthy dose of millennial.
+There is this stereotype that millennials tend to be lazy and flaky and yadda yadda, and we are. We love tacos. We love sriracha. But a lot of us? A lot of us love creating, innovating, challenging, and reimagining the world. We are visionaries, and you would be wrong if you felt that your company couldn't use a healthy dose of millennial.
 
 I’ve spent some time as an employee, and I don't think any of my employers would have a single bad thing to say about me.
 
@@ -29,17 +29,17 @@ Employers love to complain about the work ethic problems of millennials, and the
 
 The problem really? The older generation of the corporate world hates that we know how things should be done. We aren’t just some lazy demographic. We are a demographic that values balance, and we are sick of the corporate closed-mindedness. We want to get things done. We want to change the world. We want to rock business, but we want to be happy while doing  it. We spend so much of our lives working. It's time to step up your amenities guys. Happy employees are productive employees. Don't lose them because they are unhappy.
 
-Below is a few ways to create a company worth working for, and to prevent those valued employees from leaving you.
+Below are a few ways to create a company worth working for, and to prevent  valued employees from leaving you.
 
 ![laptops-work-remotework-computers-coworking](/uploads/marvin-meyer-571072-unsplash.jpg "laptop-workspace-technology-desk")
 
-**You Never Made Time for Me:**
+### **You Never Made Time for Me**
 
 There were a couple cool things that I liked about working as an employee at my company, but for every "cool" aspect, there were dozens of maybe "not so cool" aspects.
 
 The biggest of which: Companies expect you to be flexible (work overtime), but they are rarely flexible with you.
 
-Millennials value their time. Shocking I know, but there are places we would rather be. We like work, but working is not necessarily living. Is it?
+Millennials value their time. There are places we would rather be. We like work, but we work to live, we don't live to work.
 
 Flexibility is huge for millennials.
 
