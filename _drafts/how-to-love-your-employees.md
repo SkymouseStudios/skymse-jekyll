@@ -51,15 +51,15 @@ There are so many options that a company can embrace to achieve flexible schedul
 
 * Let your employees work remotely. In an age of technology, more companies than ever have the ability to have their employees work remotely. The digital commute is wildly appealing to millennials that love the flexibility of being able to travel. If they are capable of working where they are most comfortable, the quality of their work will shine through, and employers are much less likely to suffer from the restlessness of millennials that are always looking to relocate to the next "hot city". If they aren't cut out for work-at-home? They likely aren't the world's best employee anyways.
 * Companies like Google famously embrace 20% time. Basically employees work the standard five day work week, but Friday is a free day (20% of their week) in which they can spend their time working on whatever company related passion project they choose. They have the freedom to choose. That flexible freedom reduces stress and encourages creativity.
-* Embrace the "Four-Day Week". That's right. Every single weekend is a three day weekend for employees. A recent study, which you can read [here](), proves that cutting an entire day off the week maintains the job performance and productivity of five full days, lowers employee stress levels, and increases work life balance. If a company can accomplish the exact same objectives in four days as five, while increasing the quality of life for their employees? Isn't it just cruel not to embrace that?
+* Embrace the "Four-Day Week". Every single weekend is a three day weekend for employees. A recent study, which you can read [here](), shows that cutting an entire day off the week maintains the job performance and productivity of five full days, lowers employee stress levels, and increases work life balance. If a company can accomplish the exact same objectives in four days as five, while increasing the quality of life for their employees? Isn't it just cruel not to embrace that?
 
 Overall, employees love the power to choose. Let them choose, or even if you don't let them choose, let things be a little slack and loose. Not feeling well today? No problem. Just work at home.
 
-However you approach the work/ balance, brand your company as a company that values that balance and understands that balance.
+However you approach the work/ balance, brand your company as a company that values and understands balance.
 
 ![coffee-mug-opinion-side-table-with-phone](/uploads/steve-johnson-609098-unsplash.jpg "opinion-coffee-cup-mug-my-opinion")
 
-**Let's Talk About Our Feelings:**
+### **Let's Talk About Our Feelings**
 
 Make sure your employees know your vision. Keep them updated, ask their opinions, and perhaps more importantly? Value them.
 
