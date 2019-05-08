@@ -61,11 +61,11 @@ However you approach the work/ balance, brand your company as a company that val
 
 ### **Let's Talk About Our Feelings**
 
-Make sure your employees know your vision. Keep them updated, ask their opinions, and perhaps more importantly? Value them.
+Make sure your employees know your vision. Keep them updated, ask their opinions, and perhaps more importantly: Value them.
 
 People don't like being invisible, or if they do? Maybe you should be hiring more "go getters". If you value the opinions of your employees, if their ideas are being taken seriously, if they have invested interest in the company, they are going to work harder and become less restless. Employees that feel like their position is critical to the success of a company are probably less likely to just leave without a significant notice. If they are valued and feel that, then in my experience, they will in turn value that company.
 
-If your employees had a really rough day? Realize that. Letting your employees go home early after a really tough day could be the tiny little difference that makes them actually come back in to work the next day. Make sure employees leave your office happy more often than not, and assign a few awesome tasks instead of just crap jobs constantly.
+If your employees had a really rough day? Acknowledge it. Letting your employees go home early after a really tough day could be the difference that makes them come back happy the next day. Make sure employees leave your office happy more often than not, and assign a few awesome tasks instead of just crap jobs constantly.
 
 Wednesdays are rough. Wine Wednesday anyone? We aren't saying you need to condone drinking in the workplace, but we do love the mentality of encouraging little midweek treats that give employees something tangible to destress and enjoy their week just a little more. Break-room donuts are overplayed. Be original and fun.
 
@@ -73,16 +73,16 @@ But make the company voice a voice that values all the individual voices rather 
 
 ![tip-jar-with-money-inside-on-a-counter](/uploads/sam-truong-dan-627874-unsplash.jpg "tip-jar-on-counter-with-money")
 
-**I'm with You For The Money:**
+### **I'm with You For The Money**
 
 Be upfront with how much you are willing to pay.
 
 I think it’s ridiculous. Salary negotiation shouldn't be a game of poker. I experienced the agony once, and I really didn’t know what was going on. Should I show my hand first? Should I try and get them to show me? I read that supposedly $1 million in salary is left on the table during a person’s lifetime due to poor salary negotiation.
 
-Companies offering their "bottom dollar" are companies not willing to invest in their employees. Pay an employee what they are worth.. not what minimum wage says they could "survive" on. How can an employee work effectively if they are constantly worrying about their next meal? Stop haggling, and don't let them haggle you. Determine what is fair based on the industry and the workforce available to you, and BE FAIR. Employees will respect reasonable offers without insult, and while they may try to negotiate? Odds are, if your dollar amounts are super different, you're not a good employee/ employer match anyways.
+Companies offering their "bottom dollar" are companies not willing to invest in their employees. Pay an employee what they are worth.. not what minimum wage says they could "survive" on. How can an employee work effectively if they are constantly worrying about their next meal? Stop haggling, and don't let them haggle you. Determine what is fair based on the industry and the workforce available to you, and BE FAIR. Employees will respect reasonable offers without insult. If they know they were low-balled they might take the job but start the job looking for a new one immediately. They know what they are worth, even if you think you got one over on them.
 
-**It's Over:**
+### **It's Over**
 
-Overall, millennials just value jobs that offer some sort of flexibility, decent pay and benefits, and bosses that actual care about them. I don't think that's ridiculous, far-fetched, or outlandish.
+Overall, millennials value jobs that offer some sort of flexibility, decent pay and benefits, and bosses that actual care about them. I don't think that's ridiculous, far-fetched, or outlandish.
 
 Creating flexible options, leveraging little details that say "I care", and paying people fairly will be more than enough to create the foundation of your companies brand. Employees love the details. "Oh Ginny! You should come work for BLAH BLAH. They let you bring your dog to the office!". Making your job and company something that your employees want to tell the world about is all the marketing you really need to keep HR flooded with brilliant resumes.
