@@ -20,7 +20,7 @@ Massive companies go broke with one turn of the economy. Just look at companies 
 
 Now, full disclaimer: typically the team at Skymouse Studios does NOT suggest skimping on marketing. We just don't. That's not because we want your business (we do, but that is NOT the reason). We don't advise skimping on the marketing budget because we want your business to be successful. Marketing is an investment in your product or service that should be translating into greater sales and revenue volume. Marketing is an investment in company success. You get what you pay for. Skimping on that website can look unprofessional. Waiting on "word of mouth" can take so long that your company depletes all of its capital. Marketing is not something to cheap out on if you're serious about business growth.
 
-![](/uploads/coins-change-euros-dime-nickel.jpg)
+![dimes-nickles-euros-coins-stacked](/uploads/coins-change-euros-dime-nickel.jpg "coins-currency-euros-chang-pennies")
 
 BUT in the case that you just really cannot spare much else, below you will find 5 marketing ideas that if executed well can gain you traction in a saturated marketplace with very little financial overhead.
 
@@ -38,7 +38,7 @@ BUT in the case that you just really cannot spare much else, below you will find
 
    Don't forget the comment section. Comment on blog posts. Comment on yours and others to generate interest in your company. Every time you put your name into the world is another chance someone may call upon it when in need of a good or service.
 
-   ![](/uploads/calendar-social-planning-idea-board.jpg)
+   ![social-calendar-with-sticky-notes](/uploads/calendar-social-planning-idea-board.jpg "social-calendar-grid")
 2. **Network.**
 
    This one is so easy, and no offense to blog posts, but sooooo much more fun. If you are truly shoestring budgeting, go out into the world and network. Yupp, that's right. The only thing required is a few elbow rubs and a healthy dose of talking about yourself (or your company rather). Networking events are often free. Yupp. Free. I'm not suggesting you go to fancy galas or high ticket priced events. Nope. I am suggesting grabbing coffee with the local chamber of commerce on that obscure Mid-Monday meeting that nobody could possibly ever make, but that people somehow find time to go to.
@@ -49,7 +49,7 @@ BUT in the case that you just really cannot spare much else, below you will find
 
    Sidebar, have you ever heard of MeetUp by chance? There are tons of Networking and event groups that are just the ticket to get your name out there. Even if you don't meet the right people? Maybe the people you meet know the right people.
 
-   ![](/uploads/social-media-scrabble-pieces-iphone-facebook.jpg)
+   ![social-media-spelled-with-scrabble-pieces-and-the-facebook-app](/uploads/social-media-scrabble-pieces-iphone-facebook.jpg "facebook-app-social-media")
 3. **Social Media.**
 
    This is probably one that most of you are familiar with. Social Media. Social media is an incredibly strong and cheap form of engagement. According to Facebook Blueprint, one out of every five minutes spent on the internet is spent on Facebook or Instagram. So, obviously you might start with those two categories. Social media can be as easy or difficult as you would like.
@@ -61,7 +61,7 @@ BUT in the case that you just really cannot spare much else, below you will find
 
    If you are a small business, you may not take email marketing seriously yet. That's okay. I forgive you, but I encourage you to reconsider.
 
-   Sure. Nobody likes their email filled with spam and cluttered with useless bits of this and that. People simply do not like that, but evidently it still works. Collect emails. Create a free download to create an email capture. Ask for email at checkout. Whatever you do, get their email. 
+   Sure. Nobody likes their email filled with spam and cluttered with useless bits of this and that. People simply do not like that, but evidently it still works. Collect emails. Create a free download to create an email capture. Ask for email at checkout. Whatever you do, get their email.
 
    Why? Email is an incredibly easy way to get yourself back into the minds-eye of your audience. Even if they are just going to delete your emails, odds are if you send them that 10% off code for a product they sorta wanted anyways? They are going to consider it more seriously. Email is a great way to reengage and reiterate your presence. Remember, every single time you get your name in front of someone, is another chance for them to call upon it when in need of a good or a service.
 
