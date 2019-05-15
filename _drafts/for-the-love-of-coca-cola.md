@@ -27,7 +27,7 @@ So let's start from the beginning:
 
 **WWI**
 
-This cola really started as a medicine of sorts. While it didn't really appear to do much of anything it had a cult following? Why? It simply made people feel better (or it could've been cocaine, but a certain cola company denies this bit). In fact, it made people feel so insanely good that this liquid elixir became a staple good for just about everyone. It was so popular that soldiers in WWI literally wrote to the factory in Waco, Texas asking for them to supply their troops with this bottled task of home as they would certainly be defeated unless they had an amble supply to help them survive the heat and defeat their enemy. Cola literally won World War I. If you want to read the actually letter, you can check it out [here](https://www.thedailymeal.com/read-letter-wwi-troops-calling-coca-cola "read-letter-wwi-troops-calling-coca-cola"). Warning: It's really cool.
+This cola really started as a medicine of sorts. While it didn't really appear to do much of anything it had a cult following? Why? It simply made people feel better (or it could've been cocaine, but a certain cola company denies this bit). In fact, it made people feel so insanely good that this liquid elixir became a staple good for just about everyone. It was so popular that soldiers in WWI literally wrote to the factory in Waco, Texas asking for them to supply their troops with this bottled taste of home as they would certainly be defeated unless they had an amble supply to help them survive the heat and defeat their enemy. Cola literally won World War I. If you want to read the actual letter, you can check it out [here](https://www.thedailymeal.com/read-letter-wwi-troops-calling-coca-cola "read-letter-wwi-troops-calling-coca-cola"). Warning: It's really cool.
 
 **WWII**
 
@@ -37,7 +37,7 @@ Prior to WWII, the company had about 44 international plants. During WWII that n
 
 **The 60s**
 
-In the 1960s, Cola made their position on health and nourishment clear by creating what they called the "Nourishment Project". Partnering with scientists, nutritionists, and food technologists, they worked towards creating another medicine of sorts. The goal? To create a protein rich beverage for undeveloped nations suffering from impoverishment. Several of these style drinks released in poor Latin- American nations. Yet another drink to make people gain weight, only this time is was constructive weight gain for a cause.
+In the 1960s, Cola made their position on health and nourishment clear by creating what they called the "Nourishment Project". Partnering with scientists, nutritionists, and food technologists, they worked towards creating another medicine of sorts. The goal? To create a protein rich beverage for undeveloped nations suffering from impoverishment. Several of these style drinks released in poor Latin- American nations. Yet another drink to make people gain weight, only this time is was constructive weight gain, for a cause.
 
 **The 80s**
 
@@ -45,12 +45,12 @@ In the 1980s they launched something pretty amazing, a wonderful and charitable 
 
 **The 2000s**
 
-The 2000s have been no exception to the great generosity and philanthropy demonstrated by such an amazing brand . They created yet another Foundation works towards preventing and treating HIV/AIDs in Africa. They introduced PlantBottle Packaging which was made of 30% plant matter, and then later developed the PET bottle prototype made ENTIRELY of plant material. And perhaps best of all? They capture the spirit of the holidays with those insanely adorable polar bear ads, and bring joy to the world. I mean thats basically the best form of philanthropy know to mankind right?
+The 2000s have been no exception to the great generosity and philanthropy demonstrated by such an amazing brand . They created yet another Foundation that works towards preventing and treating HIV/AIDs in Africa. 
+
+They introduced PlantBottle Packaging which was made of 30% plant matter, and then later developed the PET bottle prototype made ENTIRELY of plant material. And perhaps best of all? They capture the spirit of the holidays with those insanely adorable polar bear ads, and bring joy to the world. I mean that's basically the best form of philanthropy known to mankind right?
 
 So in conclusion, a certain Cola company is just an insanely amazing company. They care. Isn't that a funny thought? They actually care. They carried us through two world wars. They spread clean water across the world. They spread healthy too, and they focus on green initiatives. And perhaps even more important than anything else, they have the wonderful ability to boost spirits and spread joy. They even had a marketing campaign dedicated to sharing.
 
 They are a company so rooted in our culture that I never once utilized their actual brand name, yet you still know the exact company I am referring to.
 
-So, I'm not saying that I condone high-fructose corn syrup. I'm not saying that I'm a soda advocate, but I am an advocate for companies that give back to the world. Generosity and community engagement can make your brand. If you can position your business so that it contributes to world culture and gives back to the community, the community is much more likely to show continued support even in light of bad PR. 
-
-So when you go to create your brand image, make sure that it is the right image. Make sure that you position yourself as a company that cares about the world, a company that loves its consumers, and everyone else too. Make sure your company makes people want to snag a "Coke" even 
+So, I'm not saying that I condone high-fructose corn syrup. I'm not saying that I'm a soda advocate, but I am an advocate for companies that give back to the world. Generosity and community engagement can make your brand. If you can position your business so that it contributes to world culture and gives back to the community, the community is much more likely to show continued support even in light of bad PR. So when you go to create your brand image, make sure that it is the right image. Make sure that you position yourself as a company that cares about the world, a company that loves its consumers, and everyone else too. " even 
