@@ -34,7 +34,9 @@ BUT in the case that you just really cannot spare much else, below you will find
 
    Don't forget to capitalize on other blogs. Guest post for other companies in similar fields. This establishes you as an authority in your industry and drives traffic back to your site.
 
-   Don't forget the comment section. Comment on blog posts. Comment on yours and others to generate interest in your company. Every time you put your name into the world is another chance someone may call upon it when in need of a good or service.![](/uploads/calendar-social-planning-idea-board.jpg)
+   Don't forget the comment section. Comment on blog posts. Comment on yours and others to generate interest in your company. Every time you put your name into the world is another chance someone may call upon it when in need of a good or service.
+
+   ![](/uploads/calendar-social-planning-idea-board.jpg)
 2. **Network.**
 
    This one is so easy, and no offense to blog posts, but sooooo much more fun. If you are truly shoestring budgeting, go out into the world and network. Yupp, that's right. The only thing required is a few elbow rubs and a healthy dose of talking about yourself (or your company rather). Networking events are often free. Yupp. Free. I'm not suggesting you go to fancy galas or high ticket priced events. Nope. I am suggesting grabbing coffee with the local chamber of commerce on that obscure Mid-Monday meeting that nobody could possibly ever make, but that people somehow find time to go to.
@@ -57,7 +59,9 @@ BUT in the case that you just really cannot spare much else, below you will find
 
    If you are a small business, you may not take email marketing seriously yet. That's okay. I forgive you, but I encourage you to reconsider.
 
-   Sure. Nobody likes their email filled with spam and cluttered with useless bits of this and that. People simply do not like that, but evidently it still works. Collect emails. Create a free download to create an email capture. Ask for email at checkout. Whatever you do, get their email. Why? Email is an incredibly easy way to get yourself back into the minds-eye of your audience. Even if they are just going to delete your emails, odds are if you send them that 10% off code for a product they sorta wanted anyways? They are going to consider it more seriously. Email is a great way to reengage and reiterate your presence. Remember, every single time you get your name in front of someone, is another chance for them to call upon it when in need of a good or a service.
+   Sure. Nobody likes their email filled with spam and cluttered with useless bits of this and that. People simply do not like that, but evidently it still works. Collect emails. Create a free download to create an email capture. Ask for email at checkout. Whatever you do, get their email. 
+
+   Why? Email is an incredibly easy way to get yourself back into the minds-eye of your audience. Even if they are just going to delete your emails, odds are if you send them that 10% off code for a product they sorta wanted anyways? They are going to consider it more seriously. Email is a great way to reengage and reiterate your presence. Remember, every single time you get your name in front of someone, is another chance for them to call upon it when in need of a good or a service.
 
    Companies like MailChimp even offer free email campaign management software up to 2000 email addresses. You spend a bit of time carefully crafting and curating your emails and then you can set up and automate the rest of the process. Brilliant. Easy. Wonderful.
 5. **Develop Partnerships.**
