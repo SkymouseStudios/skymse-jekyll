@@ -53,8 +53,6 @@ BUT in the case that you just really cannot spare much else, below you will find
    What is great about social media is that these are free platforms in which you can share and engage your current clientele and your future. You can post pictures, share those blog posts, use gifs and memes, you can even host live events on Facebook. Slowly build up your audience and then when the time seems right? Remind them of the goods and services that your company provides, and that they should be indulging in.
 
    You can even create exclusive Facebook groups for your most "exclusive" patrons. Social media is great in that way. You can truly build a sense of community around your services and products which prompts reviews, discussion, and a genuine camaraderie among people procuring your same goods and services.
-
-   ![](/uploads/laptops-headphones-group-work-on-desk.jpg)
 4. **Email Marketing Campaigns.**
 
    If you are a small business, you may not take email marketing seriously yet. That's okay. I forgive you, but I encourage you to reconsider.
