@@ -61,17 +61,17 @@ However you approach the work/ balance, brand your company as a company that val
 
 ### **Let's Talk About Our Feelings**
 
-Make sure your employees know your vision. Keep them updated, ask their opinions, and perhaps more importantly: Value them.
+Make sure your employees know your vision. Keep them updated, ask their opinions, and perhaps more importantly: VALUE THEM.
 
 People don't like being invisible, or if they do? Maybe you should be hiring more "go getters". If you value the opinions of your employees, if their ideas are being taken seriously, if they have invested interest in the company, they are going to work harder and become less restless. Employees that feel like their position is critical to the success of a company are probably less likely to just leave without a significant notice. If they are valued and feel that, then in my experience, they will in turn value that company.
 
-If your employees had a really rough day? Acknowledge it. Letting your employees go home early after a really tough day could be the difference that makes them come back happy the next day. Make sure employees leave your office happy more often than not, and assign a few awesome tasks instead of just crap jobs constantly.
+If your employees have had a really rough day? Acknowledge it. Letting your employees go home early after a really tough day could be the difference that makes them come back happy the next day. Make sure employees leave your office happy more often than not, and assign a few awesome tasks instead of just crap jobs constantly.
 
 Wednesdays are rough. Wine Wednesday anyone? We aren't saying you need to condone drinking in the workplace, but we do love the mentality of encouraging little midweek treats that give employees something tangible to destress and enjoy their week just a little more. Break-room donuts are overplayed. Be original and fun.
 
-But make the company voice a voice that values all the individual voices rather than just one.
+But no matter what you do, make the company voice a voice that values all the individual voices rather than just one.
 
-![tip-jar-with-money-inside-on-a-counter](/uploads/sam-truong-dan-627874-unsplash.jpg "tip-jar-on-counter-with-money")
+![](/uploads/sam-truong-dan-627874-unsplash-1.jpg)
 
 ### **I'm with You For The Money**
 
@@ -85,4 +85,4 @@ Companies offering their "bottom dollar" are companies not willing to invest in 
 
 Overall, millennials value jobs that offer some sort of flexibility, decent pay and benefits, and bosses that actual care about them. I don't think that's ridiculous, far-fetched, or outlandish.
 
-Creating flexible options, leveraging little details that say "I care", and paying people fairly will be more than enough to create the foundation of your companies brand. Employees love the details. "Oh Ginny! You should come work for BLAH BLAH. They let you bring your dog to the office!". Making your job and company something that your employees want to tell the world about is all the marketing you really need to keep HR flooded with brilliant resumes.
+Creating flexible options, leveraging little details that say "I care", and paying people fairly will be more than enough to create the foundation of your company's brand. Employees love the details. "Oh Ginny! You should come work for BLAH BLAH. They let you bring your dog to the office!". Making your job and company something that your employees want to tell the world about is all the marketing you really need to keep HR flooded with brilliant resumes.
