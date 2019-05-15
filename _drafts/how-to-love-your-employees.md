@@ -31,7 +31,7 @@ The problem really? The older generation of the corporate world hates that we kn
 
 Below are a few ways to create a company worth working for, and to prevent  valued employees from leaving you.
 
-![](/uploads/curtis-macnewton-317636-unsplash.jpg)
+![sidewalk-calendar-with-people-walking-across-the-days-of-the-week](/uploads/curtis-macnewton-317636-unsplash.jpg "calendar-sidewalk-with-days-of-the-week")
 
 ### **You Never Made Time for Me**
 
@@ -71,7 +71,7 @@ Wednesdays are rough. Wine Wednesday anyone? We aren't saying you need to condon
 
 But no matter what you do, make the company voice a voice that values all the individual voices rather than just one.
 
-![](/uploads/sam-truong-dan-627874-unsplash-1.jpg)
+![a-tip-jar-with-coins-and-dollars-on-a-counter-with-a-heart](/uploads/sam-truong-dan-627874-unsplash-1.jpg "tip-jar-on-a-counter")
 
 ### **I'm with You For The Money**
 
