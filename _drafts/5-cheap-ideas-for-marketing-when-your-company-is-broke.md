@@ -34,20 +34,18 @@ BUT in the case that you just really cannot spare much else, below you will find
 
    Don't forget to capitalize on other blogs. Guest post for other companies in similar fields. This establishes you as an authority in your industry and drives traffic back to your site.
 
-   Don't forget the comment section. Comment on blog posts. Comment on yours and others to generate interest in your company. Every time you put your name into the world is another chance someone may call upon it when in need of a good or service.
-
-   ![](/uploads/daniele-riggi-635135-unsplash.jpg)
+   Don't forget the comment section. Comment on blog posts. Comment on yours and others to generate interest in your company. Every time you put your name into the world is another chance someone may call upon it when in need of a good or service.![](/uploads/calendar-social-planning-idea-board.jpg)
 2. **Network.**
 
    This one is so easy, and no offense to blog posts, but sooooo much more fun. If you are truly shoestring budgeting, go out into the world and network. Yupp, that's right. The only thing required is a few elbow rubs and a healthy dose of talking about yourself (or your company rather). Networking events are often free. Yupp. Free. I'm not suggesting you go to fancy galas or high ticket priced events. Nope. I am suggesting grabbing coffee with the local chamber of commerce on that obscure Mid-Monday meeting that nobody could possibly ever make, but that people somehow find time to go to.
 
-   Any free event that gives you an excuse to meet new people. I honestly do not even care if it is a free pottery class at the local community college. 
+   Any free event that gives you an excuse to meet new people. I honestly do not even care if it is a free pottery class at the local community college.
 
    Word of mouth is a tool for the broke marketer. Talk and talk and talk (in a very tasteful manner) about your company and what you do. Introduce yourself to everyone. People know other people and therefore talk to other people. Introduce yourself. If you own a coffee shop and there are four others in town, all of which are equally delicious and conveniently located, where will the clients go? They will go wherever they have a personal connection. If they know you own that coffee shop over there? That's probably where they will go.
 
    Sidebar, have you ever heard of MeetUp by chance? There are tons of Networking and event groups that are just the ticket to get your name out there. Even if you don't meet the right people? Maybe the people you meet know the right people.
 
-   ![](/uploads/william-iven-19844-unsplash.jpg)
+   ![](/uploads/social-media-scrabble-pieces-iphone-facebook.jpg)
 3. **Social Media.**
 
    This is probably one that most of you are familiar with. Social Media. Social media is an incredibly strong and cheap form of engagement. According to Facebook Blueprint, one out of every five minutes spent on the internet is spent on Facebook or Instagram. So, obviously you might start with those two categories. Social media can be as easy or difficult as you would like.
@@ -55,6 +53,8 @@ BUT in the case that you just really cannot spare much else, below you will find
    What is great about social media is that these are free platforms in which you can share and engage your current clientele and your future. You can post pictures, share those blog posts, use gifs and memes, you can even host live events on Facebook. Slowly build up your audience and then when the time seems right? Remind them of the goods and services that your company provides, and that they should be indulging in.
 
    You can even create exclusive Facebook groups for your most "exclusive" patrons. Social media is great in that way. You can truly build a sense of community around your services and products which prompts reviews, discussion, and a genuine camaraderie among people procuring your same goods and services.
+
+   ![](/uploads/laptops-headphones-group-work-on-desk.jpg)
 4. **Email Marketing Campaigns.**
 
    If you are a small business, you may not take email marketing seriously yet. That's okay. I forgive you, but I encourage you to reconsider.
