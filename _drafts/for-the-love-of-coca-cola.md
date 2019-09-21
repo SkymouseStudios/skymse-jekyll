@@ -3,7 +3,7 @@ layout: post
 categories:
 - profiles
 author: Austin Graf
-title: 'Liquid Obesity: Making the World a Better Place'
+title: 'Liquid Obesity: Cola is Making the World a Better Place'
 subtitle: ''
 description: ''
 img: ''
