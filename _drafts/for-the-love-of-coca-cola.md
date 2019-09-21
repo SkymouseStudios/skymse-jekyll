@@ -4,7 +4,7 @@ categories:
 - profiles
 author: Austin Graf
 title: 'Liquid Obesity: Cola is Making the World a Better Place'
-subtitle: ''
+subtitle: How businesses use branding to warp reality
 description: ''
 img: ''
 ttr: 
