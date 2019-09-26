@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You Don't Need to Rebrand.
-subtitle: A Guide to Branding
+title: You Don't Need to Rebrand Your Small Business.
+subtitle: A Guide to Branding and Not Branding
 author: John Welch
 img: "/library/images/headers/header-about.svg"
 permalink: "/stop-with-all-the-branding/"

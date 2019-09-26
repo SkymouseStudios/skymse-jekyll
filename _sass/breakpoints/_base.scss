@@ -108,6 +108,9 @@ p {
 HELPER CLASSES
 *********************/
 
+.bg-yellow {
+	background-color: #f9f9f9;
+}
 
 /*********************
 HEADER STYLES
@@ -196,14 +199,26 @@ header {
 .home-hero {
 	text-align: left;
 	margin-top: 25px;
+
+	span {
+		font-weight: 500;
+		text-shadow: -2px 1px 0px #F99C1C;
+	}
 	
 	h1 {
+		font-weight: 300;
 		text-shadow: -2px 1px 0px #989797;
+		color: $white;
 	}
 
-	h3, h1 {
+	p, h1 {
 		color: $white;
-		
+	}
+
+	p {
+		font-size: 1.5em;
+		line-height: 1.5em;
+		margin: 0px;
 	}
 }
 
@@ -342,7 +357,7 @@ SECTIONS
 *********************/
 
 section {
-	padding: 2em; // mobile padding?
+	padding: 1em; // mobile padding?
 	position: relative;
     border-radius: 5px;
     margin: 20px 0;
@@ -441,6 +456,27 @@ section {
 	right: 0;
 }
 
+.clean-grid {
+	max-width: 400px;
+	margin: 0 auto;
+
+	.content {
+		background-color: #f9f9f9;
+		padding: 10px 15px;
+
+		h4 {
+			margin: 0;
+		}
+
+		p {
+			margin: 10px 0 0 0;
+		}
+
+		&:hover {
+		}
+	}
+}
+
 /*********************
 TEMPLATE OBJECTS
 *********************/
@@ -488,6 +524,8 @@ TEMPLATE OBJECTS
 /*********************
 POSTS & CONTENT STYLES
 *********************/
+
+
 
 .hentry {
 	background-color: $white;
@@ -1004,6 +1042,30 @@ footer {
 		img {
 			width: 85px;
 		}
+	}
+}
+
+.webinar-panel {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+
+	.content {
+		text-align: left;
+		padding-left: 20px;
+	}
+
+	.tag {
+		margin: 30px 0 0 0;
+	}
+
+	h3, h4 {
+		background: none;
+		text-align: left;
+		margin: 0px;
+	}
+
+	p {
+		margin: 0px;
 	}
 }
 

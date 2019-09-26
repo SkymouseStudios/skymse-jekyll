@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why your website isn't making you money.
+title: Why your small business's website isn't making you money.
 subtitle: A Guide to Websites
 author: john
 img: "/library/images/headers/header-about.svg"
@@ -11,7 +11,7 @@ categories:
 - Business
 
 ---
-A business owner, his name was Ted, decided that he needed a new website. His current site had been built in the mid 2000’s and he was pretty sure it wasn’t screaming “sophisticated” anymore. He had one problem though: he had no idea what a new website would cost him. 
+A small business owner, his name was Ted, decided that he needed a new website. His current site had been built in the mid 2000’s and he was pretty sure it wasn’t screaming “sophisticated” anymore. He had one problem though: he had no idea what a new website would cost him. 
 
 ### A Story About Ted
 So Ted did the sensible thing, he went to Google. He typed in “web developers in my city” and hit enter. What returned was a massive list of oddly named companies whose Google reviews ranged from 1 to 5 stars with an average of 2.8. The reviews were surprisingly mixed, even for the same company. One user wrote, “this web development agency is amazing!!! They got my website done in half the time they quoted and under budget!” Another user, reviewing the same company, wrote, “If I could give this agency less than 1 start I would. I would give them a negative star! Unresponsive, exorbitant fees, no explanations for what they were doing or why it took twice as long as they said it would. NEVER use this agency.” 

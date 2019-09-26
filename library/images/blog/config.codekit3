@@ -7,7 +7,7 @@
 		"uuidString": "67FA55A9-13E8-48F0-AAE6-5FD56989958E"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "31491",
 "files": {
 	"/blog-archive-inbox-zero.gif": {
 		"ft": 4194304,
@@ -25,22 +25,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"/blog-satellite-dishes-2.png": {
+	"/blog-etsy.png": {
 		"ft": 32768,
-		"iS": 335875,
+		"iS": 242885,
 		"oA": 0,
-		"oAP": "/blog-satellite-dishes-2.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/blog-satellite-dishes.png": {
-		"ft": 32768,
-		"iS": 237419,
-		"oA": 0,
-		"oAP": "/blog-satellite-dishes.png",
+		"oAP": "/blog-etsy.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -55,6 +44,17 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"/blog-top-apps-for-2019.png": {
+		"ft": 32768,
+		"iS": 211603,
+		"oA": 0,
+		"oAP": "/blog-top-apps-for-2019.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/blog-unsubscribe-from-emails.gif": {
 		"ft": 4194304,
 		"iS": 6954779,
@@ -62,6 +62,17 @@
 		"oAP": "/blog-unsubscribe-from-emails.gif",
 		"oF": 0,
 		"opt": 0
+		},
+	"/scene-satellites-beach.png": {
+		"ft": 32768,
+		"iS": 167044,
+		"oA": 0,
+		"oAP": "/scene-satellites-beach.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		}
 	},
 "hooks": [
@@ -77,6 +88,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -88,6 +100,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -227,6 +240,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -258,6 +274,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -352,11 +371,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -1361,6 +1379,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -2114,6 +2136,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",

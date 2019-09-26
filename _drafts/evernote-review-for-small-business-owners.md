@@ -13,19 +13,19 @@ date: 2019-01-26 17:51:06 -0600
 ---
 Evernote review for small business owners
 
-\# How we used Evernote.
+# How we used Evernote.
 
 Evernote is not flawless. In fact, we are kind of in a rough spot here.
 
-**## It works and it works well.**
+## It works and it works well.
 
 People are often not open to the investment of time that comes with a new piece of software. Evernote is a solid program, that I think is work using, unless someone has a better suggestion, which I would be interested to see if anyone else has some input. (OneNote and others have yet to capture my attention.)
 
-**## When to use it.**
+## When to use it.
 
 I think you are better off using Apple’s default note taking app if its just a couple notes here and there, but if you have a large number of notes, on different topics and you need to take notes on a regular basis, I would say Evernote is right up your ally.
 
-\## **History** (you can skip this if you’re bored)
+## History (you can skip this if you’re bored)
 
 I would like to explain my relationship with Evernote. In my freshman year of college, I gave it a shot, I downloaded it on my phone and my Mac, but it really didn't do quite what I was looking for. It was confusing, I didn’t really think it was worth my time, I was really just looking for a place to put the occasional idea here and there.
 
@@ -83,15 +83,15 @@ However.
 
 With the recent change in their tier system, I have been forced to reconsider how I feel about them. It brought back a ton of childhood memories.
 
-**## Going back on their word.**
+## Going back on their word.
 
 limited devices. YOUR SAID I COULD GO TO THE PROM! Well we said you could, but we changed our mind because…Well just because. Hey, can you clean your room? It’s looking pretty dirty.
 
-**## I don’t feel like they love me.**
+## I don’t feel like they love me.
 
 I am sure Evernote is a cool company, but I honestly don’t feel the love. I used MailChimp daily and I feel loved. I use Asana and I feel loved. I use Evernote and I feel betrayed. I can’t look them in the eye and after every email reminding me I will only have 2 devices I run into my bedroom, slam the door and scream “I HATE YOUUUUU!” 
 
-**## They love stupid stuff.**
+## They love stupid stuff.
 
 I see them waste money on crap why they could be helping me. -Stupid scanners -$30 notebooks that aren’t actually cool.
 

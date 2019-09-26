@@ -1,13 +1,13 @@
 # Site settings
 title: "Skymouse Studios"
-description: "A digital ad agency that helps you grow your business. No nonsense."
-baseurl: "https://skymousestudios.com"
+description: "A digital marketing system that helps grow small businesses. No nonsense."
+#baseurl: "https://skymousestudios.com"
 url: "skymousestudios.com"
 cover: "/library/cover.png"
 logo: "/library/images/logos/skymse-logo-circle.png"
 username: "@skymousestudios"
 email: "sos@skymousestudios.com"
-location: "Indianapolis, IN • Nashville, TN"
+location: "Indianapolis, IN • Chattanooga, TN"
 color: "#F99C1C"
 
 # sass/css minify

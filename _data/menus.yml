@@ -5,11 +5,9 @@ header:
   - title: "What you can do"
     url: "/what-you-can-do"
   - title: Our Work
-    url: "/work" 
-  - title: "Pricing"
-    url: "/pricing"
-  - title: "Become a client"
-    url: "/become-a-client"
+    url: "/work"
+  - title: "Resources"
+    url: "/resources"
 
 # Footer Navigation
 footer:
@@ -29,8 +27,8 @@ footer:
         url: "/why-skymouse"
       - title: "What you can do"
         url: "/what-you-can-do"
-      - title: "Process"
-        url: "/process"
+      # - title: "Process"
+      #   url: "/process"
       - title: "Pricing"
         url: "/pricing"
   - title: Resources

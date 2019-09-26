@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Free Apps For Business Owners in 2019
+title: Best Free Apps For Small Business Owners in 2019
 subtitle: Apps in the Workplace
 description: Good free apps are hard to find. Take your productivity to the next level
   with this complete rundown of the best apps in 2019 for people who are on the go.

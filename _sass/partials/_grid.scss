@@ -79,6 +79,12 @@ Stylesheet: Grid Stylesheet
   grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
 }
 
+.clean-grid {
+  grid-template-columns: 1;
+  display: grid;
+  grid-gap: 40px;
+}
+
 .blog-grid {
   width: 100%;
   padding: 0 20px;

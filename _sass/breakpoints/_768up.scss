@@ -34,7 +34,6 @@ body {
 	}
 }
 
-
 p {
 	font-size: 1em;
 }
@@ -53,10 +52,9 @@ HEADER STYLES
 }
 
 .home-hero {
-	width: 700px;
-	margin: 50px auto;
-	margin-top: 170px;
-	width: 700px;
+	max-width: 650px;
+	margin-left: 100px;
+	margin-top: 150px;
 }
 
 #scene {

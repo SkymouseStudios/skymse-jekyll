@@ -18,9 +18,9 @@ select,
 textarea,
 .field {
   display: inline-block;
-  height: 50px;
+  height: 40px;
   line-height: 1em;
-  padding: 8px;
+  padding: 6px;
   margin: 0px 0px 2% 0px;
   width: 100%;
   font-size: 1em;
@@ -167,7 +167,7 @@ form#searchbar #searchbar-submit {
 
 #mc_embed_signup label {
     display: block;
-    font-size: 16px;
+    font-size: 14px;
     text-align: left;
     color: $gray;
 }
@@ -274,7 +274,7 @@ form {
     display: block;
     margin-top: 20px;
     font-family: $sans-serif;
-    font-size: 1em;
+    font-size: 0.8em;
     color: $black;
 
     span {
@@ -286,6 +286,7 @@ form {
   input[type="text"] {
     -webkit-appearance: none;
     display: block;
+    margin-bottom: 20px;
   }
 
    input[type="checkbox"] {
