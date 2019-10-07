@@ -1,13 +1,12 @@
 ---
 layout: post
-title: You Don't Need to Rebrand Your Small Business.
-subtitle: A Guide to Branding and Not Branding
+title: How To Create a Brand for a Small Business in 2019
+subtitle: Small Business Guide to Branding in 2019
 author: John Welch
 img: "/library/images/headers/header-about.svg"
 permalink: "/stop-with-all-the-branding/"
 ttr: 8
 categories:
-- Business
 - Branding
 description: We all admire the Apples, the Amazons and other "big dogs" of branding.
   Can *your* business become a brand people love? Marketing agencies might say it
@@ -22,10 +21,9 @@ My dad ran a 4:29 mile as a freshman in high-school. That’s pretty fast when y
 
 ![Black nike sneakers on the floor of a gym](/uploads/black-nike-sneakers-in-a-gym.jpg "black-nike-sneakers-in-a-gym")
 
-When I got into sports, my dad would tell me stories to motivate me. Sometimes those stories were about how hard he worked to become a varsity runner his first year in high-school. My dad told me about how he used to run 10 miles every morning and then 10 more miles at track practice that day. 20 miles a day. That’s a big number. The other thing he would always tell me was the fact that he was wearing his Nike running shoes. My dad wore Nike, back in the day, when no one knew how to pronounce the name. He loved Nike running shoes.
+When I got into sports, my dad would tell me stories to motivate me. Sometimes those stories were about how hard he worked to become a varsity runner his first year in high-school. My dad told me about how he used to run 10 miles every morning and then 10 more miles at track practice that day. 20 miles a day. That’s a big number. The other thing he would always tell me was the fact that he was wearing his Nike running shoes. My dad wore Nike, back in the day, when no one even knew how to pronounce the name. He loved Nike running shoes.
 
-For a while now, I’ve been surprised at the major focus that has been placed on companies trying to build their “brand.” For around 5 or 6 years now, the push from marketing companies and web developers has been heavily centered around convincing companies that if they can “build” their “brand” the “right” way, then they’ll be able to massively increase their traffic, clicks, sales conversions, credibility, etc…
-You might have noticed that I put the words “brand,” “build,” and “right” in quotations. That’s because I would like to call into question the validity of a bill of goods that is being sold left and right to unsuspecting companies.
+For a while, I’ve been surprised at the major focus that has been placed on companies trying to build their “brand.” For around 5 or 6 years now, the push from marketing companies and web developers has been heavily centered around convincing companies that if they can “build” their “brand” the “right” way, then they’ll be able to massively increase their traffic, clicks, sales conversions, credibility, etc… You might have noticed that I put the words “brand,” “build,” and “right” in quotations. That’s because I would like to call into question the validity of a bill of goods that is being sold left and right to unsuspecting companies.
 
 ### What makes an amazing brand?
 
