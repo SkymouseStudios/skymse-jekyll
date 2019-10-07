@@ -119,7 +119,7 @@ The third reason why this strategy works is that the likelihood of a customer bu
 
 The last reason why this strategy works is because it is both cheap enough, and simple enough that a small businesses can realistically sustain it for 9-12 months without needing to see results. This is perhaps the most important element of this marketing strategy. Without time, no marketing efforts will succeed. Again, content creation and cost are the two main reasons marketing campaigns fail. This marketing strategy fixes both of those problems.
 
-## Wrapping It Up
+## **Wrapping It Up**
 
 If you're a small business that is engaging with a marketing consultant and you're starting to wonder how much longer you can keep paying them, stop working with them. In order for marketing to see results, it needs to be consistent and have enough time to start working. If you know, right now, that you can't maintain the monthly cost for 9-12 months, then stop immediately. You are literally wasting your money.
 
