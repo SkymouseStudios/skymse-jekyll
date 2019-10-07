@@ -29,7 +29,7 @@ For a while, I’ve been surprised at the major focus that has been placed on co
 
 We hear a lot about what the best brands have in common. We usually hear about it on a commercial or an ad where a company is using a well-known or established brand to tell you how important it is that you buy their product instead of their competitor's. But what are they using as the basis for their brand? What authority are they actually appealing to? Are these brands saying, “my logo is so amazing; you should buy the shoes I sell?” Are they saying, “the typeface I use is so compelling; you should wear my clothes?”
 
-> In case it isn’t obvious, the answer to these questions is no.
+> In case it isn’t obvious, the answer to these questions is **no**.
 
 What I’m seeing happen to businesses everywhere is that they are being told that in order for them to be relevant in the modern commerce climate, they need to look a certain way, talk a certain way, present a certain image and that will ensure that they remain competitive. This “branding” is focused 100% on superficial ideology that has no impact or reflection on a company’s ability to offer products or perform services in a competitive way, or their ability to follow through on their commitments to customers. The real problem is that this idea of branding is the very definition of putting the cart before the horse.
 
