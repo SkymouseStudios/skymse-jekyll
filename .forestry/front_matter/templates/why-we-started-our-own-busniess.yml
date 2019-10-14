@@ -37,7 +37,7 @@ fields:
     source:
       type: documents
       section: data
-      file: _data/menus.yml
+      file: _data/series.yml
     options:
     - Branding
     - Business
