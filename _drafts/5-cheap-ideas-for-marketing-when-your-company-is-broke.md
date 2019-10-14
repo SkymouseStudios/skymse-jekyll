@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-- profiles
+- series
 author: Austin Graf
 title: 5 Cheap Ideas for Marketing When Your Company is Broke.
 subtitle: A quick guide to make the most out of what you have.
@@ -10,6 +10,7 @@ description: The start-up life can be hard. Or even if you have been in business
 img: ''
 ttr: 6
 date: '2019-04-24T12:58:47-05:00'
+permalink: "/cheap-ways-to-market-your-small-business"
 
 ---
 **Broke. Broke. Broke.**
