@@ -1,13 +1,18 @@
-# Descriptions for Blog Categories
-- title: "New To Branding"
-  desc: "How to get started, from square one."
-  url: /new-to-branding
-- title: "Business Spotlight"
-  desc: "A look at businesses, and how they work."
-  url: /business-spotlight
-- title: "Tips and Tricks"
-  desc: "The best of the best for doing better work."
-  url: /tips-and-tricks
-- title: "Apps in the Workplace"
-  desc: "How to make the most of apps in your business."
-  url: /apps-in-the-workplace
+---
+
+series:
+    # Descriptions for Blog Categories
+    - title: "New To Branding"
+      desc: "How to get started, from square one."
+      url: /new-to-branding
+    - title: "Business Spotlight"
+      desc: "A look at businesses, and how they work."
+      url: /business-spotlight
+    - title: "Tips and Tricks"
+      desc: "The best of the best for doing better work."
+      url: /tips-and-tricks
+    - title: "Apps in the Workplace"
+      desc: "How to make the most of apps in your business."
+      url: /apps-in-the-workplace
+
+---
