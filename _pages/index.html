@@ -30,39 +30,48 @@ categories:
 </div>
 		
 <main id="page">
-	
+
+	<div class="section-heading">
+		<h4>What you get.</h4>
+		<h3>Hands-off marketing for your small business.</h3>
+	</div>
+
+	<section class="grid-half">
+		<img class="ani-shake" src="/library/images/icons/art-rocket.png" alt="">
+		
+		<div class="content">
+			<div class="tag">Essentials</div>
+			<h3>Stop wasting money on marketing firms. Focus on what <code>you need.</code></h3>
+			
+			<p>No need to hire a college marketing intern. No need to worry about how much to spend on your marketing. Our monthly flat rate makes it easy to maximize your marketing budget.</p>
+		</div>
+	</section>
+
+	<section class="grid-half">
+		<img style="animation-delay: 2s;" class="ani-shake" src="/library/images/icons/art-plane.png" alt="">
+		<div class="content">
+			<div class="tag">System</div>
+			<h3>A <code>crystal-clear system</code> for finding more leads and more customers.</h3>
+			
+			<p>We adapt our marketing system to your business and get right to work. You don't have to do anything. We take care of it all, start to finish, every month.</p>
+		</div>
+	</section>
+
+	<section class="grid-half">
+		<img style="animation-delay: 6s;" class="ani-shake" class="ani-shake" src="/library/images/icons/art-blimp.png" alt="">
+		<div class="content">
+			<div class="tag">Content</div>
+			<h3>An ever-growing library of original content that you get to keep <code>forever.</code></h3>
+			
+			<p>We create original blog posts, resources and downloads that you potential customers will love. Plus—it's all yours to use for the rest of eternity.</p>
+		</div>
+	</section>
 	<section class="">
 		
 		<div class="section-heading">
-			<h4>How it works</h4>
-			<h3>The anatomy of a Marketing System.</h3>
+			<h4>How it works.</h4>
+			<h3>A simple solution, to ensure you flourish.</h3>
 			<p>Stop worrying about the things that don't matter <br>and start building value that your future customers can taste.</p>
-		</div>
-		
-		<div class="clean-grid">
-		
-			<div class="content">
-				
-				<h4>Website visitors.</h4>
-				<p>People find your website through search, social media, or direct traffic.</p>
-			</div>
-			
-			<div class="content">
-				
-				<h4>Email capture.</h4>
-				<p>Open a line of communication between you and your customer. </p>
-			</div>
-
-			<div class="content">
-				
-				<h4>Helpful content.</h4>
-				<p>Providing free, valuable solutions to the problems they have.</p>
-			</div>
-
-			<div class="content">
-				<h4>Trust.</h4>
-				<p>Rich website content that educates your visitors on how to solve their problems.</p>
-			</div>
 		</div>
 	</section>
 
@@ -71,40 +80,41 @@ categories:
 		<div class="content">
 			<div class="tag">New!</div>
 			<h3>We're giving away our <br>Small Business Marketing System <br> <strong>for free.</strong></h3>
-			<h4>No gimmicks. No take-backsies. Learn exactly how you can do it by yourself on our weekly livestream.</p>
+			<h4>No gimmicks. No take-backsies. Learn how you can <code>do it by yourself</code> on our weekly livestream.</p>
 		</div>
 
 		<div class="content bg-yellow">
-			{% include mailchimp-boosting-brand.html %}
+			{% include mailchimp-webinar-sign-up.html %}
 		
 		</div>
 		
 	</section>
 
-	<section class="block">
+	<section class="panel">
 		<div class="section-heading">
 			<h4>What to expect.</h4>
-			<h3>Everything in plain site.</h3>
+			<h3>Everything in plain "site."</h3>
 		</div>
 
 		<div class="grid-half grid-gap">
 			<div class="card">
-				<p>A concrete small business marketing system that we adapt to your business, and we execute for you.</p>
+				<h3>Yep, we got it.</h3>
 				<ul>
-					<li>Monthly email campaigns.</li>
-					<li>Website optimization.</li>
-					<li>Custom Backend.</li>
-					<li>Original content.</li>
+					<li><i class="fa fa-check-circle"></i> We write and manage your monthly email campaigns.</li>
+					<li><i class="fa fa-check-circle"></i> We optimize your website.</li>
+					<li><i class="fa fa-check-circle"></i> We create AND run your marketing plan.</li>
+					<li><i class="fa fa-check-circle"></i> We create original content.</li>
 				</ul>
 			</div>
 
 			<div class="card">
-				<p>Most marketing companies will consult and then add on different suggestions of what to do and then charge you for that.</p>
+				<h3>Nope, not found here.</h3>
+				
 				<ul>
-					<li>Random pick-your-own marketing services.</li>
-					<li>One-off marketing projects.</li>
-					<li>Social media ads.</li>
-					<li>Regurgitating mediocre blogs.</li>
+					<li><i class="fa fa-times-circle"></i> Random pick-your-own marketing services.</li>
+					<li><i class="fa fa-times-circle"></i> One-off marketing projects.</li>
+					<li><i class="fa fa-times-circle"></i> Social media ads.</li>
+					<li><i class="fa fa-times-circle"></i> Regurgitating mediocre blogs.</li>
 				</ul>
 			</div>
 		</div>
@@ -123,6 +133,27 @@ categories:
 		<img src="/library/images/our-work/exodus90/james-profile.jpg" class="client-pic" alt="Picture of a James Baxter smiling">
 	</section>
 
+	<div class="section-heading">
+		<h4>Learn something new.</h4>
+		<h3>New from our team.</h3>
+	</div>
+
+	<div class="clean-grid">
+		{% for post in site.posts limit:1 %}
+		<a class="blank" href="{{ post.url }}">
+			<div class="blog-post">
+				<div class="picture">
+					<div class="time-to-read"> {{ post.ttr }} Minutes of Quality Reading 👌</div>
+					<img src="{{ post.img }}" alt="{{ post.title }}">
+				</div>
+				<h4>{{ post.title }}</h4>
+				<p>{{ post.description }}</p>
+			</div>
+		</a>
+		{% endfor %}
+	</div>
 	
+
+	{% include cta-b.html %}
 
 </main>
