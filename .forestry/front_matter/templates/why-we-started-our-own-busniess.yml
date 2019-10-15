@@ -71,6 +71,7 @@ fields:
   name: ttr
   description: About how long does it take to read this post?
 pages:
+- _posts/websites-are-not-what-they-seem.md
 - _posts/why-we-started-our-own-business.md
 - _posts/what-great-brands-do-part-1.md
 - _posts/5-things-a-new-business-needs.md
