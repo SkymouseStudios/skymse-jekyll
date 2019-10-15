@@ -2,12 +2,13 @@
 layout: post
 title: How to Strategize Your Social Media.
 subtitle: A Guide to Social Media
-author: patrick
+author: John Welch
 img: ''
 permalink: "/how-to-strategize-your-social-media"
 ttr: 7
 categories:
-- Business
+- tipsandtricks
+description: ''
 
 ---
 **The problem:**  
