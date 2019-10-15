@@ -71,6 +71,7 @@ fields:
   name: ttr
   description: About how long does it take to read this post?
 pages:
+- _posts/for-the-love-of-coca-cola.md
 - _posts/how-to-rebrand-your-business.md
 - _posts/how-to-make-project-management-work-for-you.md
 - _posts/a-walk-through-branding-skymouse.md
@@ -82,4 +83,3 @@ pages:
 - _posts/2019-04-03-keeping-your-inbox-empty.md
 - _posts/5-cheap-ideas-for-marketing-when-your-company-is-broke.md
 - _posts/how-to-sell-if-you-re-a-small-business-in-2019.md
-- _posts/for-the-love-of-coca-cola.md
