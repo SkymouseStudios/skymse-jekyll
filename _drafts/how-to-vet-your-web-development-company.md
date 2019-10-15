@@ -1,14 +1,14 @@
 ---
 layout: post
-title: How to vet your web development company.
+title: 8 Tips to vet your web development company.
 subtitle: A Guide to Websites
-author: patrick
+author: John Welch
 img: ''
 permalink: "/how-to-vet-you-web-development-company"
 ttr: 7
 categories:
-- Business
-- Web Design
+- tipsandtricks
+description: ''
 
 ---
 **The Problem**  

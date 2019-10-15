@@ -71,6 +71,7 @@ fields:
   name: ttr
   description: About how long does it take to read this post?
 pages:
+- _posts/how-to-vet-your-web-development-company.md
 - _posts/how-the-heck-to-do-social-media.md
 - _posts/for-the-love-of-coca-cola.md
 - _posts/how-to-rebrand-your-business.md
