@@ -7,7 +7,7 @@ img: "/library/images/headers/header-about.svg"
 permalink: "/stop-with-all-the-branding/"
 ttr: 8
 categories:
-- Branding
+- businessspotlight
 description: We all admire the Apples, the Amazons and other "big dogs" of branding.
   Can *your* business become a brand people love? Marketing agencies might say it
   starts with a logo or color. We think otherwise.
