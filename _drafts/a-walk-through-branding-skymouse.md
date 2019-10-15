@@ -2,13 +2,13 @@
 layout: post
 title: How to build and brand your small business.
 subtitle: A Guide to Branding
-author: patrick
+author: John Welch
 img: ''
 permalink: "/how-to-build-and-brand-your-small-business"
 ttr: 15
 categories:
-- Business
-- Branding
+- newtobranding
+description: ''
 
 ---
 **The problem**  
@@ -17,7 +17,7 @@ It's hard to build a business
 **The plan to solve the problem**  
 Here are the steps for building a brand
 
-**What the world looks like when you have solved the problem**  
+**What the world looks like hen you have solved the problem**  
 You will have a business that people know what you do, why you do it and they will give you money.
 
 ***
