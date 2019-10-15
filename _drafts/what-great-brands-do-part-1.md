@@ -2,15 +2,15 @@
 layout: post
 title: What Great Brands Do
 subtitle: Part 1 of 2 in a Book Report
-author: patrick
+author: John Welch
 img: ''
 permalink: "/what-great-brands-do-part-1"
 ttr: 7
 authorImg: "/library/images/profile/patricks-profile-s.jpg"
 authorTitle: Creative Director
 categories:
-- Branding
-- Business
+- newtobranding
+description: ''
 
 ---
 ## Great Brands Start Inside
