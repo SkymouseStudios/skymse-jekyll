@@ -6,11 +6,11 @@ img: ''
 permalink: "/why-skymouse-studios-got-started"
 ttr: 7
 categories:
-- Business
+- newtobranding
 author: John Welch
+description: ''
 
 ---
-
 ## Why did we start Skymouse?
 
 In a word (or two), Skymouse has always been about creating great things. John and I are both passionate about being creative with a purpose, which is the lifeblood for many businesses.
