@@ -525,8 +525,6 @@ TEMPLATE OBJECTS
 POSTS & CONTENT STYLES
 *********************/
 
-
-
 .hentry {
 	background-color: $white;
 	border-radius: 3px;
@@ -549,8 +547,11 @@ POSTS & CONTENT STYLES
 	img {
 		width: 100%;
 		box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
+	}
 
-
+	.inline-blog-image {
+		width: 50%;
+		margin: 20px 20%;
 	}
 }
 
@@ -562,6 +563,19 @@ POSTS & CONTENT STYLES
 }
 
 // POST: Blog Post
+
+.blog-page {
+	p, ol, ul {
+		font-family: "merriweather";
+		font-weight: 300;
+	}
+
+	strong {
+		background-color: $ygray;
+		color: $orange;
+	}
+}
+
 .blog-post {
 	border-radius: 5px;
 	background-color: $ygray;
@@ -609,7 +623,6 @@ POSTS & CONTENT STYLES
 	font-weight: 200;
 	padding: 2px;
 }
-
 
 #post .time-to-read {
 	position: relative;
