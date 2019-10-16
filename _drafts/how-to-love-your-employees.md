@@ -2,13 +2,13 @@
 layout: post
 title: A Practical Guide to Catching the Brilliant, but Illusive Millennial.
 subtitle: Branding Your Work Environment to Keep HR in the Resumes
-author: patrick (but really austin if we are being honest)
+author: John Welch
 img: ''
 permalink: "/how-to-find-and-keep-hardworking-millenial-employees"
-ttr: "7"
+ttr: 7
 categories:
-- Branding
-- Business
+- tipsandtricks
+description: ''
 
 ---
 ### **Let's Talk About Your EX...** (Employee Experience)

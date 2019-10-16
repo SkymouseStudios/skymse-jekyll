@@ -7,8 +7,7 @@ img: "/library/images/blog/scene-satellites-beach.png"
 permalink: "/6-tips-for-managing-your-email/"
 ttr: 7
 categories:
-- Productivity
-- Business
+- tipsandtricks
 description: You wouldn't believe how many people I know who spend 2 hours+ in their
   email during the work day. It's a businessman's Facebook. It's addicting. It's time
   to take control of your email.

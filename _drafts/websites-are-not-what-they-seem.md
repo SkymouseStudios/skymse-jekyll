@@ -2,13 +2,13 @@
 layout: post
 title: Why your small business's website isn't making you money.
 subtitle: A Guide to Websites
-author: john
+author: John Welch
 img: "/library/images/headers/header-about.svg"
 permalink: "/websites-are-not-products"
-ttr: 6.5
+ttr: 7
 categories:
-- Web Design
-- Business
+- newtobranding
+description: ''
 
 ---
 A small business owner, his name was Ted, decided that he needed a new website. His current site had been built in the mid 2000’s and he was pretty sure it wasn’t screaming “sophisticated” anymore. He had one problem though: he had no idea what a new website would cost him. 

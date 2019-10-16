@@ -1,15 +1,15 @@
 ---
 layout: post
 categories:
-- Branding
-author: john
+- newtobranding
+author: John Welch
 title: How to rebrand your business.
 subtitle: A Guide to Branding
 description: ''
 img: ''
 permalink: "/how-to-rebrand-your-business"
 ttr: 5
-date: 2019-01-26 17:24:54 -0600
+date: '2019-01-26T23:24:54.000+00:00'
 
 ---
 ## How to rebrand your business.

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-- profiles
+- businessspotlight
 author: Austin Graf
 title: 'Liquid Obesity: Cola is Making the World a Better Place'
 subtitle: How businesses use branding to warp reality
@@ -59,4 +59,4 @@ So in conclusion, a certain Cola company is just an insanely amazing company. Th
 
 They are a company so rooted in our culture that I never once utilized their actual brand name, yet you still know the exact company I am referring to.
 
-So, I'm not saying that I condone high-fructose corn syrup. I'm not saying that I'm a soda advocate, but I am an advocate for companies that give back to the world. Generosity and community engagement can make your brand. If you can position your business so that it contributes to world culture and gives back to the community, the community is much more likely to show continued support even in light of bad PR. So when you go to create your brand image, make sure that it is the right image. Make sure that you position yourself as a company that cares about the world, a company that loves its consumers, and everyone else too. 
+So, I'm not saying that I condone high-fructose corn syrup. I'm not saying that I'm a soda advocate, but I am an advocate for companies that give back to the world. Generosity and community engagement can make your brand. If you can position your business so that it contributes to world culture and gives back to the community, the community is much more likely to show continued support even in light of bad PR. So when you go to create your brand image, make sure that it is the right image. Make sure that you position yourself as a company that cares about the world, a company that loves its consumers, and everyone else too.

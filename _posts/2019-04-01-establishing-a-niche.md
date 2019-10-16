@@ -1,17 +1,16 @@
 ---
 layout: post
 categories:
-- Branding
-- Business
+- businessspotlight
 author: Austin Graf
 title: 'Establishing a Small Business Niche: A Look at Etsy'
 subtitle: Etsy has built a platform that they know you will love.
-description: How to establish a niche market for your small business and the benefits and limitations of securing
-  a niche. A review of Etsy, their marketing strategy, and their intended audience.
-  Embracing niche markets to secure company success.
+description: How to establish a niche market for your small business and the benefits
+  and limitations of securing a niche. A review of Etsy, their marketing strategy,
+  and their intended audience. Embracing niche markets to secure company success.
 img: "/library/images/blog/blog-etsy.png"
 ttr: 6
-date: 2019-04-01 15:50:37 +0000
+date: '2019-04-01T15:50:37.000+00:00'
 permalink: "/establishing-a-niche-a-look-at-etsy/"
 
 ---

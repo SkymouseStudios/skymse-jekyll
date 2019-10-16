@@ -1,14 +1,14 @@
 ---
 layout: post
 categories:
-- Business
-author: john
-title: How to make project management work for you.
+- tipsandtricks
+author: John Welch
+title: Getting started with project management in your small business
 subtitle: ''
 description: ''
 img: ''
-ttr: ''
-date: 2019-01-26 17:55:42 -0600
+ttr: 
+date: '2019-01-26T23:55:42.000+00:00'
 
 ---
 **# The Importance of Project Management**
