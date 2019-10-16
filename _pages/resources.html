@@ -30,7 +30,7 @@ img-back: /library/images/headers/header-blog-back.svg
 		</div>
 
 		<div class="blog-grid">
-		{% for type in site.data.menus.series %}
+		{% for type in site.data.series.series %}
 			<a class="blank" href="#">
 				<h5>{{ type.title }}</h5>
 				<p>{{ type.desc }}</p>
@@ -49,7 +49,7 @@ img-back: /library/images/headers/header-blog-back.svg
 					<img src="{{ post.img }}" alt="{{ post.title }}">
 				</div>
 				<h4>{{ post.title }}</h4>
-				<p>{{ post.description }}</p>
+				<p>{{ post.subtitle }}</p>
 			</div>
 		</a>
 	{% endfor %}

@@ -3,7 +3,7 @@ layout: post
 title: How To Create a Brand for a Small Business in 2019
 subtitle: Small Business Guide to Branding in 2019
 author: John Welch
-img: "/library/images/headers/header-about.svg"
+img: "/library/images/blog/ep003-just-brand-it.jpg"
 permalink: "/stop-with-all-the-branding/"
 ttr: 8
 categories:

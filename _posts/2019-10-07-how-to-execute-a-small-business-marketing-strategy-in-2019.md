@@ -6,13 +6,12 @@ author: John Welch
 title: How to Execute a Small Business Marketing Strategy in 2019
 subtitle: A Small Business Guide to Developing and Implementing a Winning Marketing
   Strategy in 2019
-description: 'This blog post explains how to build and execute a winning marketing
+description: "This blog post explains how to build and execute a winning marketing
   strategy in 2019. This post includes specific examples and detailed instructions
   for small businesses to win at marketing without spending tons of money or time
-  on their marketing efforts. '
-img: ''
-ttr: 
-
+  on their marketing efforts."
+img: "/library/images/blog/ep005-awesome-marketing-system.jpg"
+ttr:
 ---
 Small businesses are losing huge portions of their revenue to sales and marketing efforts that never amount to anything. These small businesses are held out the vision of more leads, more sales, and less worry. What they end up with is a $50,000 hole and no ladder to climb out.
 
