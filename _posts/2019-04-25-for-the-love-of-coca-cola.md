@@ -32,9 +32,9 @@ So, how does a drink that has been labeled as "liquid obesity" that causes "toot
 
 Simple. **They are a brand that does so much good in the world that people refuse to acknowledge the bad.** Myself included. "Sure, this cola will give me a questionably round body shape, but when I drink a cola...I am supporting a company that supports and serves the world. Getting obesity is really a statement that I too support the world."
 
-So let's start from the beginning:
+## Let's start from the beginning:
 
-## WWI
+### WWI and the war of Cola
 
 This cola really started as a medicine of sorts. While it didn't really appear to do much of anything it had a cult following? Why? It simply made people feel better (or it could've been cocaine, but a certain cola company denies this bit). 
 
@@ -44,21 +44,21 @@ Cola literally won World War I. If you want to read the actual letter, you can c
 
 ![white-nurse-dresses-on-a-clothes-line-in-a-military-camp](/uploads/white-dresses-drying-in-a-military-camp.jpg "white-nurse-dresses-on-a-clothes-line")
 
-**WWII**
+## WWII — Cola Strikes Back
 
 Cola didn't stop with World War I. They fought in WWII as well. During WWII Cola distributed over 5 billion beverages to men and women in uniform. 5 billion! This wonderful drink was so involved in the war effort that they created what is called the "jungle fountain" which was the combination of an ice machine and a dispensing machine. Over 1,100 jungle fountains brought "fountain drinks" to the South Pacific during the war. The company President Robert Woodruff simply did not care the cost. Cola products were going to win the war, and they did. Again. ([Source](https://www.coca-colacompany.com/stories/coke-and-the-us "stories-coke-and-the-us")).
 
 Prior to WWII, the company had about 44 international plants. During WWII that number grew by half again, up to 64 international plants total. Most of which were converted to standard production factories after the war ended. Permanently engraining this beverage into the world forever.
 
-**The 60s**
+### The sweet 60s 
 
 In the 1960s, **Cola made their position on health and nourishment clear by creating what they called the "Nourishment Project".** Partnering with scientists, nutritionists, and food technologists, they worked towards creating another medicine of sorts. The goal? To create a protein rich beverage for undeveloped nations suffering from impoverishment. Several of these style drinks released in poor Latin- American nations. Yet another drink to make people gain weight, only this time is was constructive weight gain, for a cause.
 
-**The 80s**
+### The totally chill 80s
 
 In the 1980s they launched something pretty amazing, a wonderful and charitable foundation. A foundation that gives back 1% of all the prior years earnings to the community. Now that may not seem like a whole lot, but that has translated to over a billion dollars invested in clean water initiatives, women empowerment, and general world well-being.
 
-**The 2000s**
+### 2000, a generosity odessy.
 
 The 2000s have been no exception to the great generosity and philanthropy demonstrated by such an amazing brand . They created yet another foundation that works towards preventing and treating HIV/AIDs in Africa.
 
