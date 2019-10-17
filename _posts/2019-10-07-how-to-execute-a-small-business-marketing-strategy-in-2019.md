@@ -3,9 +3,8 @@ layout: post
 categories:
 - newtobranding
 author: John Welch
-title: How to Execute a Small Business Marketing Strategy in 2019
-subtitle: A Small Business Guide to Developing and Implementing a Winning Marketing
-  Strategy in 2019
+title: The Best Small Business Marketing Strategy for 2019
+subtitle: Develop and Implement a Winning Marketing Strategy
 description: "This blog post explains how to build and execute a winning marketing
   strategy in 2019. This post includes specific examples and detailed instructions
   for small businesses to win at marketing without spending tons of money or time
