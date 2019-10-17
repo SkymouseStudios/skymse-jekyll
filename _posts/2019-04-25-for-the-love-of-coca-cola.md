@@ -5,10 +5,13 @@ categories:
 author: Austin Graf
 title: 'Liquid Obesity: Cola is Making the World a Better Place'
 subtitle: How businesses use branding to warp reality
-description: ''
-img: ''
+description: Pshht. Ahhhhh. What does it take to make your customer and the world
+  love you? Some of the most popular companies in the world actually cause some of
+  the biggest problems we have, yet for some reason we still love the brand!
+img: "/uploads/blog-coca-cola.png"
 ttr: 
 date: '2019-04-25T09:52:28-05:00'
+permalink: "/ahhhhhh-make-your-brand-as-good-as-a-cola-company/"
 
 ---
 People love to complain. Soda causes obesity. Soda has high fructose corn syrup. Soda is bad for our bodies. Yeah, maybe these things are all true, but nobody really cares. 
