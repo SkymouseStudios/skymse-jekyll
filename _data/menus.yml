@@ -6,7 +6,7 @@ header:
   #   url: "/what-you-can-do"
   # - title: Our Work
   #   url: "/work"
-  - title: "Resources"
+  - title: "Blog"
     url: "/resources"
 
 # Footer Navigation
@@ -33,10 +33,10 @@ footer:
   #       url: "/pricing"
   - title: Resources
     subfolderitems:
-      - title: "All Resources"
+      - title: "Blog"
         url: "/resources"
-      # - title: "Book Reports"
-      #   url: "/book-reports"
+      - title: "Marketing Lab"
+        url: "/lab"
       # - title: "Downloads"
       #   url: "/downloads"
       # - title: "Podcast"

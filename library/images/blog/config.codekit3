@@ -7,7 +7,7 @@
 		"uuidString": "67FA55A9-13E8-48F0-AAE6-5FD56989958E"
 		}
 	],
-"creatorBuild": "31491",
+"creatorBuild": "31927",
 "files": {
 	"/blog-archive-inbox-zero.gif": {
 		"ft": 4194304,
@@ -62,6 +62,61 @@
 		"oAP": "/blog-unsubscribe-from-emails.gif",
 		"oF": 0,
 		"opt": 0
+		},
+	"/ep003-just-brand-it.jpg": {
+		"ft": 16384,
+		"iS": 158055,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/ep003-just-brand-it.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/ep005-awesome-marketing-system.jpg": {
+		"ft": 16384,
+		"iS": 202975,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/ep005-awesome-marketing-system.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/ep005_ongoing-costs.png": {
+		"ft": 32768,
+		"iS": 86067,
+		"oA": 0,
+		"oAP": "/ep005_ongoing-costs.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/ep006-cheap-marketing-ideas.jpg": {
+		"ft": 16384,
+		"iS": 148950,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/ep006-cheap-marketing-ideas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/ep007-catching-millenials.jpg": {
+		"ft": 16384,
+		"iS": 132289,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/ep007-catching-millenials.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/scene-satellites-beach.png": {
 		"ft": 32768,
@@ -519,6 +574,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -620,6 +676,10 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -969,6 +1029,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -1394,6 +1458,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -2143,6 +2211,9 @@
 	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
