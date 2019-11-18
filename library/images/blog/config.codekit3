@@ -7,7 +7,7 @@
 		"uuidString": "67FA55A9-13E8-48F0-AAE6-5FD56989958E"
 		}
 	],
-"creatorBuild": "31927",
+"creatorBuild": "31934",
 "files": {
 	"/blog-archive-inbox-zero.gif": {
 		"ft": 4194304,
@@ -35,6 +35,50 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/blog-illustrations_ep008-a-cabinets.png": {
+		"ft": 32768,
+		"iS": 545511,
+		"oA": 0,
+		"oAP": "/blog-illustrations_ep008-a-cabinets.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 80
+		},
+	"/blog-illustrations_ep008-b-sales.png": {
+		"ft": 32768,
+		"iS": 467101,
+		"oA": 0,
+		"oAP": "/blog-illustrations_ep008-b-sales.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 80
+		},
+	"/blog-illustrations_ep008-c-it.png": {
+		"ft": 32768,
+		"iS": 530621,
+		"oA": 0,
+		"oAP": "/blog-illustrations_ep008-c-it.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 80
+		},
+	"/blog-illustrations_ep008-low-cost-high-value.png": {
+		"ft": 32768,
+		"iS": 839642,
+		"oA": 0,
+		"oAP": "/blog-illustrations_ep008-low-cost-high-value.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 80
 		},
 	"/blog-schedule-later.gif": {
 		"ft": 4194304,
@@ -2071,7 +2115,6 @@
 		"autoOutputPathStyle": 2,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
