@@ -5,15 +5,14 @@ categories:
 author: Patrick Hanus
 title: Create an Automated Email Campaign in MailChimp
 subtitle: Develop and Implement a Winning Marketing Strategy
-description: "Use Mailchimp to the fullest! This post covers everything you need to know to
-	start using automations to market to your customers and build a marketing system for
-	your small business."
+description: Use Mailchimp to the fullest! This post covers everything you need to
+  know to start using automations to market to your customers and build a marketing
+  system for your small business.
 permalink: "/create-automations-in-mailchimp/"
 img: "/library/images/blog/ep005-awesome-marketing-system.jpg"
-ttr: 8
+ttr: "8"
 
 ---
-
 Email campaigns are the best way to communicate with your customers. Email is widely used and as long as you have their permission you can keep you customers coming back from more of your services or product.
 
 If you have someone's email address that is WAY better than having them follow you on Instagram or Facebook. In that case, the social media network owns the relationship between you and your customer. You are at the mercy of Facebook. They decide when you customers see your content.
