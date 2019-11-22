@@ -4,7 +4,7 @@ categories:
 - newtobranding
 author: Patrick Hanus
 title: Create an Automated Email Campaign in MailChimp
-subtitle: Develop and Implement a Winning Marketing Strategy
+subtitle: Leverage the power of automations to start sending better email.
 description: Use Mailchimp to the fullest! This post covers everything you need to
   know to start using automations to market to your customers and build a marketing
   system for your small business.
