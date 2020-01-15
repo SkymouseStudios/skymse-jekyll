@@ -5,13 +5,14 @@ categories:
 author: John Welch
 title: How To Create Magnetic Blog Topics
 subtitle: 5 Questions and practical examples to help you craft a great blog post.
-description: "It's so attractive, isn't it? The idea of writing that one blog which just resonates. We all dream of getting that notification. The one that tells us we just got 30,000 hits in 24 hours."
+description: It's so attractive, isn't it? The idea of writing that one blog which
+  just resonates. We all dream of getting that notification. The one that tells us
+  we just got 30,000 hits in 24 hours.
 permalink: "/how-to-create-magnetic-blog-topics/"
 img: "/library/images/blog/blog-illustrations_ep009-magnetic-blog-posts.png"
-ttr: 8
+ttr: "8"
 
 ---
-
 ## That's What I'm Talking About
 
 Everybody wants to know how to write that perfect blog post. They want their post to "go viral."
@@ -28,7 +29,7 @@ So let's get right into it. There are 5 specific ways to generate blog topics th
 
 ### Question #1 - What Do You Wish Your Customers Stopped Asking You?
 
-<img class="inline-blog-image" src="/uploads/woman-yelling-at-cat-meme.jpg" alt="Woman yelling at cat meme">
+<img class="inline-blog-image" src="https://overtnetwork.com/uploads/woman-yelling-at-cat-meme.jpg" alt="Woman yelling at cat meme">
 
 If you've got questions that seem to be recurring, those are a great place to start for blog post ideas. Chances are really good that if you're getting a question over and over from different customers, that means it's a topic everyone is interested in. It also means that there isn't a lot of content around it yet, otherwise you probably wouldn't be getting asked about it.
 
@@ -86,7 +87,7 @@ Blog topic examples:
 
 This question feels a little weird at first, but it's a winner. Every single industry has problems. There are always shady operators who are trying to take advantage of busy and overwhelmed businesses. There are always regulation issues or security breaches or just plain old corruption.
 
-<img class="inline-blog-image" src="/uploads/tesla-truck-gif.gif" alt="Tesla truck getting hit by a rock the window cracking">
+<img class="inline-blog-image" src="https://overtnetwork.com/uploads/tesla-truck-gif.gif" alt="Tesla truck getting hit by a rock the window cracking">
 
 If you make a habit of pointing out when things are wrong in your own industry, you will gain trust and establish yourself as a business with integrity. **Admitting your own mistakes is also a great way to share knowledge while creating a bond and growing trust.**
 
