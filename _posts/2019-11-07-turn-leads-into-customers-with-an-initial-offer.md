@@ -11,7 +11,7 @@ description: "This blog post explains how to build and execute a winning marketi
   on their marketing efforts."
 permalink: "/the-skymouse-small-business-marketing-system/"
 img: "/library/images/blog/blog-illustrations_ep008-low-cost-high-value.png"
-ttr: 8
+ttr: 5
 
 ---
 
