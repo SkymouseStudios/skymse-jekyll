@@ -1,5 +1,10 @@
 # Changelog
 
+### Update v3.9.9 - 20.01.27
+ 
+- footer 2020
+- final cleanup before version change
+
 ### Update 19.01.30
  
 - new footer
