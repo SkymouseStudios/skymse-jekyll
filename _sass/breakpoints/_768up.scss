@@ -76,6 +76,42 @@ HEADER STYLES
 	}
 }
 
+.takeoff {
+	background-position: auto
+}
+
+#scene::before {
+	display: none;
+}
+
+#scene img {
+	width: 105%;
+	margin: 0;
+}
+
+.home-hero {
+	span {
+		font-size: 4em;
+	}
+
+	p {
+		font-size: 1.5em;
+	}
+}
+
+.home-thing {
+	grid-column: 2;
+}
+
+.alone {
+	grid-template-columns: 1fr 1fr;
+	height: 70vh;
+}
+
+.takeoff {
+	background-position: center;
+}
+
 /*********************
 NAVIGATION STYLES
 *********************/
