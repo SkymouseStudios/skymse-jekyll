@@ -160,6 +160,7 @@ HEADER STYLES
 	z-index: -5;
 	height: 600px;
 	text-align: center;
+	right: -5%;
 
 	li {
 		width: 100%;
@@ -169,6 +170,9 @@ HEADER STYLES
 	img {
 		width: auto;
 		height: 160%;
+	}
+
+	.scene-home {
 		margin-left: -480px;
 		margin-top: -130px;
 	}
@@ -254,7 +258,7 @@ header {
 		-webkit-text-fill-color: transparent;
 	}
 
-	p, h1 {
+	p, h1, h3 {
 		color: $white;
 	}
 
