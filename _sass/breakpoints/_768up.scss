@@ -58,7 +58,7 @@ HEADER STYLES
 }
 
 #scene {
-	height: 500px;
+	height: 600px;
 
 	#headerFront {
 		width: 105%;
@@ -76,6 +76,44 @@ HEADER STYLES
 	}
 }
 
+.takeoff {
+	background-position: auto
+}
+
+#scene::before {
+	display: none;
+}
+
+#scene .scene-home {
+	margin: 0;
+}
+
+#scene img {
+	width: 105%;
+}
+
+.home-hero {
+	span {
+		font-size: 4em;
+	}
+
+	p {
+		font-size: 1.5em;
+	}
+}
+
+.home-thing {
+	grid-column: 2;
+}
+
+.alone {
+	grid-template-columns: 1fr 1fr;
+	height: 70vh;
+}
+
+.takeoff {
+	background-position: center;
+}
 
 /*********************
 NAVIGATION STYLES
@@ -111,7 +149,7 @@ TEMPLATE OBJECTS
 
 section {
 	padding: 3em;
-	margin: 2em 0;
+	margin: 6em 0;
 }
 
 .card-center {
