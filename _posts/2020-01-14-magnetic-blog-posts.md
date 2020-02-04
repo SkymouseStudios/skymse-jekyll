@@ -29,7 +29,7 @@ So let's get right into it. There are 5 specific ways to generate blog topics th
 
 ### Question #1 - What Do You Wish Your Customers Stopped Asking You?
 
-<img class="inline-blog-image" src="https://overtnetwork.com/uploads/woman-yelling-at-cat-meme.jpg" alt="Woman yelling at cat meme">
+<img class="inline-blog-image" src="{{ site.url }}/uploads/woman-yelling-at-cat-meme.jpg" alt="Woman yelling at cat meme">
 
 If you've got questions that seem to be recurring, those are a great place to start for blog post ideas. Chances are really good that if you're getting a question over and over from different customers, that means it's a topic everyone is interested in. It also means that there isn't a lot of content around it yet, otherwise you probably wouldn't be getting asked about it.
 
@@ -45,7 +45,7 @@ Blog topic examples:
 
 ### Question #2 - What Are the Main Questions Your Prospects Are Asking You?
 
-<img class="inline-blog-image" src="/uploads/does-anyone-have-any-questions-meme.png" alt="Does anyone have any questions">
+<img class="inline-blog-image" src="{{ site.url }} /uploads/does-anyone-have-any-questions-meme.png" alt="Does anyone have any questions">
 
 When you find yourself hearing the same questions in sales meetings, use those questions to write blog posts. Prospect questions are a window in the mind of your ideal customer. 
 

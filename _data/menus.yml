@@ -6,8 +6,10 @@ header:
   #   url: "/what-you-can-do"
   # - title: Our Work
   #   url: "/work"
-  - title: "Blog"
-    url: "/resources"
+  # - title: "Blog"
+  #   url: "/resources"
+  - title: "Chat with us"
+    url: "#"
 
 # Footer Navigation
 footer:

@@ -104,6 +104,38 @@ p {
     transform: rotate(35deg);
 }
 
+.alone {
+	background-image: url("/library/images/artwork_scene-lone-storefront.png");
+	background-size: cover;
+	repeat: no-repeat;
+	height: 70vh;
+
+	h3, h4 {
+		color: white;
+	}
+
+	h4 {
+		margin: 0;
+	}
+}
+	
+.takeoff {
+	background-image: url("/library/images/artwork_scene-ready-for-takeoff.png");
+}
+
+.video-example {
+	border-radius: 10px;
+	box-shadow: 37.2px 62.5px 125px -25px rgba(50,50,93,.5),22.3px 37.5px 75px -37.5px rgba(0,0,0,.6);
+	max-width: 400px;
+	margin: 0 auto;
+	display: block;
+}
+
+.bottom-cta {
+  align-items: center;
+  height: 50vh;
+}
+
 /*********************
 HELPER CLASSES
 *********************/
@@ -124,7 +156,7 @@ HEADER STYLES
 	bottom: 0px;
 	left: -5%;
 	z-index: -5;
-	height: 400px;
+	height: 600px;
 
 	li {
 		width: 100%;
@@ -138,17 +170,17 @@ HEADER STYLES
 		right: 0px;
 	}
 
-	&::before {
-		content: " ";
-		position: absolute;
-		left: 0;
-		right: 0;
-		top: 0;
-		bottom: 0;
-		background-color: $orange;
-		opacity: 0.75;
-		z-index: 10;
-	}
+	// &::before {
+	// 	content: " ";
+	// 	position: absolute;
+	// 	left: 0;
+	// 	right: 0;
+	// 	top: 0;
+	// 	bottom: 0;
+	// 	background-color: $midnight;
+	// 	opacity: 0.75;
+	// 	z-index: 10;
+	// }
 
 	#headerFront {
 		width: 150%;
@@ -171,7 +203,7 @@ header {
 	display: block;
 	overflow: hidden;
 	width: 100%;
-	border-top: 10px solid $orange;
+	//border-top: 10px solid $orange;
 }
 
 .header-image {
@@ -197,18 +229,25 @@ header {
 }
 
 .home-hero {
-	text-align: left;
+	text-align: center;
 	margin-top: 25px;
 
-	span {
-		font-weight: 500;
-		text-shadow: -2px 1px 0px #F99C1C;
-	}
-	
 	h1 {
 		font-weight: 300;
-		text-shadow: -2px 1px 0px #989797;
+		text-shadow: -2px 1px 0px #ff60604f;
 		color: $white;
+		line-height: 2.3em;
+	}
+
+	span {
+		font-size: 4em;
+		font-weight: 500;
+		background: #12c2e9;  /* fallback for old browsers */  /* Chrome 10-25, Safari 5.1-6 */
+		background: -webkit-linear-gradient(left, #f64f59, #c471ed, #12c2e9);
+		background: -o-linear-gradient(left, #f64f59, #c471ed, #12c2e9);
+		background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
 	}
 
 	p, h1 {
@@ -219,6 +258,15 @@ header {
 		font-size: 1.5em;
 		line-height: 1.5em;
 		margin: 0px;
+	}
+
+	a {
+		
+		display: block;
+		width: 200px;
+		margin: 0 auto;
+		margin-top: 50px;
+		font-weight: 800;
 	}
 }
 
@@ -242,7 +290,7 @@ NAVIGATION STYLES
 	margin: 20px 0; 
 	font-size: 1.5em; 
 	display: inline-block;
-	color: $black;
+	color: $white;
 	float: left;
 	margin-right: 10px;
 
@@ -355,6 +403,22 @@ NAVIGATION STYLES
 /*********************
 SECTIONS
 *********************/
+
+.section-back {
+	z-index: 1;
+	&::after {
+		content: " ";
+		position: absolute;
+		left: 150px;
+		right: 150px;
+		top: 0;
+		bottom: 0;
+		background-color: $ygray;
+		opacity: 0.75;
+		z-index: -1;
+		border-radius: 20px;
+	}
+}
 
 section {
 	padding: 1em; // mobile padding?
