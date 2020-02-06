@@ -626,10 +626,14 @@ POSTS & CONTENT STYLES
 		width: 100%;
 		box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
 	}
+}
 
-	.inline-blog-image {
+section.hentry {
+	img {
 		width: 50%;
 		margin: 20px 20%;
+		box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
+		border-radius: 5px;
 	}
 }
 

@@ -13,12 +13,12 @@ categories:
 - newtobranding
 
 ---
-> "A professional writer is an amateur who didn’t quit.”
-> \~ **Richard Bach**
+`"A professional writer is an amateur who didn’t quit.”`
+\~ Richard Bach
 
 ## A Writer's Life For Me?
 
-![A typewriter with coffe and a pen by it](/uploads/010-ballpoint-pen-classic-coffee-composition.jpg)
+![A typewriter with coffee and a pen by it](/uploads/010-ballpoint-pen-classic-coffee-composition.jpg)
 
 I hated writing.
 
@@ -117,7 +117,7 @@ This is where most blog posts fall short. In an attempt to make the blog easy to
 
 ### You Need Feedback
 
-![Smiley faces on a chaulk board](010-rating-system.jpg)
+![Smiley faces on a chaulk board](/uploads/010-rating-system.jpg)
 
 Earlier in the post I mentioned that it's better to dictate to a staff member than a recorder.  The reason is because when you dictate to a staff member, you can tell them to ask you a question every time you say something they don't understand. This is also why it's more useful to use someone who doesn't have great awareness of the inner-workings of what you do. This is usually someone like your finance person or your receptionist.
 
