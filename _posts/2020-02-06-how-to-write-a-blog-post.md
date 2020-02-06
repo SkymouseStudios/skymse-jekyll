@@ -22,7 +22,7 @@ categories:
 
 I hated writing.
 
-I was homeschooled and I had a rigorous curriculum that tested the limits of my juvenile attention-span and willpower. My English classes included stories in which I was largely uninterested. I was interested in the reports and tests even less so.
+I was home-schooled and I had a rigorous curriculum that tested the limits of my juvenile attention-span and willpower. My English classes included stories in which I was largely uninterested. I was interested in the reports and tests even less so.
 
 But, in order to graduate high-school, I had to do the work. So I did, usually amid loud protestations as my mom would be glad to corroborate.
 
