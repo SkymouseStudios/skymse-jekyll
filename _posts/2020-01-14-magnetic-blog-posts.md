@@ -1,7 +1,5 @@
 ---
 layout: post
-categories:
-- newtobranding
 author: John Welch
 title: How To Create Magnetic Blog Topics
 subtitle: 5 Questions and practical examples to help you craft a great blog post.
@@ -11,6 +9,8 @@ description: It's so attractive, isn't it? The idea of writing that one blog whi
 permalink: "/how-to-create-magnetic-blog-topics/"
 img: "/library/images/blog/blog-illustrations_ep009-magnetic-blog-posts.png"
 ttr: "8"
+categories:
+- newtobranding
 
 ---
 ## That's What I'm Talking About

@@ -1,7 +1,5 @@
 ---
 layout: post
-categories:
-- newtobranding
 author: Patrick Hanus
 title: Create an Automated Email Campaign in MailChimp
 subtitle: Leverage the power of automations to start sending better email.
@@ -11,6 +9,8 @@ description: Use Mailchimp to the fullest! This post covers everything you need 
 permalink: "/create-automations-in-mailchimp/"
 img: "/library/images/blog/ep005-awesome-marketing-system.jpg"
 ttr: "8"
+categories:
+- newtobranding
 
 ---
 Email campaigns are the best way to communicate with your customers. Email is widely used and as long as you have their permission you can keep you customers coming back from more of your services or product.

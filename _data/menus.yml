@@ -19,8 +19,8 @@ footer:
         url: "/work"
       - title: "About"
         url: "/about"
-      # - title: "Careers"
-      #   url: "/careers"
+      - title: "Contact"
+        url: "/contact"
       # - title: "Brand Guide"
       #   url: "/brand-guide"
   # - title: Services
@@ -37,7 +37,7 @@ footer:
     subfolderitems:
       - title: "Blog"
         url: "/resources"
-      - title: "Marketing Lab"
+      - title: "Free Marketing Courses"
         url: "/lab"
       # - title: "Downloads"
       #   url: "/downloads"
