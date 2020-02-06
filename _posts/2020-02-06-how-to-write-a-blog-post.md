@@ -18,7 +18,7 @@ categories:
 
 ## A Writer's Life For Me?
 
-![](/uploads/010-ballpoint-pen-classic-coffee-composition.jpg)
+![A typewriter with coffe and a pen by it](/uploads/010-ballpoint-pen-classic-coffee-composition.jpg)
 
 I hated writing.
 
@@ -46,7 +46,7 @@ In most cases, business owners do not have the time and highly technical people 
 
 This means that in most businesses, there are pages upon pages of potential blog posts waiting in the heads of business owners and technical experts that will never see the light of day. Why? Because those folks are caught in the blog paradox.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d63d7226-eb83-4c93-bb89-f833b4628be1/black-and-white-stairs-vector-art-2736150.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d63d7226-eb83-4c93-bb89-f833b4628be1/black-and-white-stairs-vector-art-2736150.jpg)
+![Spiral Stair Case](/uploads/010-inception.gif)
 
 ### The Writing Process
 
@@ -58,7 +58,7 @@ Most of us have done some sort of writing in our lives. Even if it was just book
 
 What is the number one rule you learn in any literature class? **Start with an outline.**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f509663-747e-4395-a82b-43ba359734fe/art-3109788](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f509663-747e-4395-a82b-43ba359734fe/art-3109788_1280.jpg)
+![A Cat Screaming](/uploads/010-screaming-cat.jpg)
 
 ### The Non-Writer's Guide To Outlines
 
@@ -117,7 +117,7 @@ This is where most blog posts fall short. In an attempt to make the blog easy to
 
 ### You Need Feedback
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/305cee0c-9fe0-401b-948b-5f8b78323325/board-3700116](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/305cee0c-9fe0-401b-948b-5f8b78323325/board-3700116_1280.jpg)
+![Smiley faces on a chaulk board](010-rating-system.jpg)
 
 Earlier in the post I mentioned that it's better to dictate to a staff member than a recorder.  The reason is because when you dictate to a staff member, you can tell them to ask you a question every time you say something they don't understand. This is also why it's more useful to use someone who doesn't have great awareness of the inner-workings of what you do. This is usually someone like your finance person or your receptionist.
 
