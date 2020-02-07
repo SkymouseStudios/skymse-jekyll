@@ -10,7 +10,7 @@ permalink: "/how-to-create-magnetic-blog-topics/"
 img: "/library/images/blog/blog-illustrations_ep009-magnetic-blog-posts.png"
 ttr: "8"
 categories:
-- newtobranding
+- content
 
 ---
 ## That's What I'm Talking About

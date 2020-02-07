@@ -365,5 +365,3 @@ While I think apps are great for doing business in the business universe of 2019
 * The fewer apps, the better. Don't get too "App Happy" Keep things simple and effective.
 
 I also included some noteworthy alternatives to each app, because not every app is perfect. Sometimes one app works better for your personal needs.
-
-I am aware that other apps are out there, I'd be happy to hear any suggestions if you have any! Just tweet me [@thePatrickHanus](https://www.twitter.com/thepatrickhanus "Patrick's Twitter").

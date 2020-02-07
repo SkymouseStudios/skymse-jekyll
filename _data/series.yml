@@ -1,20 +1,16 @@
 ---
     # Descriptions for Blog Categories
 series:
-  newtobranding:
-    title: "New To Branding"
+  - title: "New To Branding"
     desc: "How to get started, from square one."
     url: "/new-to-branding"
-  businessspotlight:
-    title: "Business Spotlight"
+  - title: "Business Spotlight"
     desc: "A look at businesses, and how they work."
     url: "/business-spotlight"
-  tipsandtricks:
-    title: "Tips and Tricks"
+  - title: "Tips and Tricks"
     desc: "The best of the best for doing better work."
     url: "/tips-and-tricks"
-  appsintheworkplace:
-    title: "Apps in the Workplace"
+  - title: "Apps in the Workplace"
     desc: "How to make the most of apps in your business."
-    url: "/apps-in-the-workplace"    
+    url: "/apps-in-the-workplace"
 ---

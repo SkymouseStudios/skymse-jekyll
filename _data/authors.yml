@@ -4,15 +4,19 @@
 profiles:
     - name: "John Welch"
       title: "Director of Business Development"
-      twitter: "https://twitter.com/lifeofwelch"
       handle: "@LifeOfWelch"
-      desc: "Musician, Loving Husband and Father. I'm also a singing Chef."
+      desc: "Hi, I'm the fast-talking co-founder of Skymouse Studios. As an extrovert, I love helping people 
+          communicate better. I'm a Musician, Loving Husband and Father. At the moment, I'm cooking up my secret recipe for eggs benedict."
       img: "/library/images/profile/johns-profile-s.jpg"
     - name: "Patrick Hanus"
       title: "Creative Director"
-      twitter: "https://twitter.com/thePatrickHanus"
-      handle: "@thePatrickHanus"
-      desc: "Staff Writer for the Patrick Hanus Show. Follow me for a great time."
+      desc: "Hi, I'm the other co-founder of Skymouse Studios. I enjoy making people laugh. 
+          I'm a huge fan of design and illustration. If it's late at night, I'm probably sleeping or writing a TV show."
       img: "/library/images/profile/patricks-profile-s.jpg"
+    - name: "Austin Graf"
+      title: "Content Manager"
+      desc: "Hi, I'm a writer and content manager at Skymouse. I've worked a ton of different jobs.
+          I'm living out my dream of starting a local flower farm in Middle Tennessee."
+      img: "/library/images/profile/austins-profile-s.jpg"
 
 ---

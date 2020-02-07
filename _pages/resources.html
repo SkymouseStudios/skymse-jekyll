@@ -24,34 +24,71 @@ img-back: /library/images/headers/header-blog-back.svg
 
 <main id="page">
 
-	<!-- <section class="block">
-		<div class="section-heading">
-			<h4>What you can learn</h4>
+	<section class="block pad">
+		<h3>Tips to help you create better content.</h3>
+	
+		<div class="pad grid-three">
+		    {% for post in site.categories["content"] %}
+			    <div class="card">
+			      	<a href="{{ site.baseurl }}{{ post.url }}">
+						<img src="{{ post.img }}" alt="{{ post.title }}">
+			      		<h4>{{post.title}}</h4>
+			      		<p>{{ post.subtitle }}</p>
+			      	</a>
+			    </div>
+		    {% endfor %}
 		</div>
+	</section>
+	
+	<section class="pad">
+		<h3>Create a winning marketing strategy.</h3>
+	
+		<div class="pad grid-three">
+		    {% for post in site.categories["strategy"] %}
+			    <div class="card">
+			      	<a href="{{ site.baseurl }}{{ post.url }}">
+						<img src="{{ post.img }}" alt="{{ post.title }}">
+			      		<h4>{{post.title}}</h4>
+			      		<p>{{ post.subtitle }}</p>
+			      	</a>
+			    </div>
+		    {% endfor %}
+		</div>
+	</section>
 
-		<div class="blog-grid">
-		{% for type in site.data.series %}
-			<a class="blank" href="#">
-				<h5>{{ type.title }}</h5>
-				<p>{{ type.desc }}</p>
+	<section class="block pad">
+		<h3>Tricks to get your website converting.</h3>
+	
+		<div class="pad grid-three">
+		    {% for post in site.categories["convert"] %}
+			    <div class="card">
+			      	<a href="{{ site.baseurl }}{{ post.url }}">
+						<img src="{{ post.img }}" alt="{{ post.title }}">
+			      		<h4>{{post.title}}</h4>
+			      		<p>{{ post.subtitle }}</p>
+			      	</a>
+			    </div>
+		    {% endfor %}
+		</div>
+	</section>
+	
+	<div class="blog-feed pad">
+		<h2 class="section-heading">All Posts</h2>
+	
+		{% for post in site.posts %}
+			<a href="{{ post.url }}">
+				<div class="blog-thumb">
+					<div class="picture">
+						<img src="{{ post.img }}" alt="{{ post.title }}">
+					</div>
+					<div class="words">
+						<h4>{{ post.title }}</h4>
+						<p>{{ post.subtitle }}</p>
+						<div class="time-to-read"> {{ post.ttr }} Minutes of Quality Reading 👌</div>
+					</div>
+					
+				</div>
 			</a>
 		{% endfor %}
-		</div>
-	</section> -->
-	
-	<div class="blog-grid pad">
-		
-	{% for post in site.posts %}
-		<a class="blank" href="{{ post.url }}">
-			<div class="blog-post">
-				<div class="picture">
-					<div class="time-to-read"> {{ post.ttr }} Minutes of Quality Reading 👌</div>
-					<img src="{{ post.img }}" alt="{{ post.title }}">
-				</div>
-				<h4>{{ post.title }}</h4>
-				<p>{{ post.subtitle }}</p>
-			</div>
-		</a>
-	{% endfor %}
 	</div>
 </main>

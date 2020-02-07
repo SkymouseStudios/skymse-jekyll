@@ -1,7 +1,5 @@
 ---
 layout: post
-categories:
-- businessspotlight
 author: Austin Graf
 title: 'Establishing a Small Business Niche: A Look at Etsy'
 subtitle: Etsy has built a platform that they know you will love.

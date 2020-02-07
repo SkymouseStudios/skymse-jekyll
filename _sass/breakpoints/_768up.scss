@@ -115,6 +115,11 @@ HEADER STYLES
 	background-position: center;
 }
 
+.section-back::after {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
 /*********************
 NAVIGATION STYLES
 *********************/
@@ -140,6 +145,15 @@ NAVIGATION STYLES
 /*********************
 TEMPLATE OBJECTS
 *********************/
+
+.blog-thumb {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+}
+
+.blog-grid a {
+    grid-column: 2;
+  }
 
 ._big-idea-box {
 	.content {

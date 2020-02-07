@@ -57,6 +57,13 @@ img {
 	width: 100%;
 }
 
+hr {
+	background-color: $lgray;
+	border: none;
+	height: 2px;
+	border-radius: 2px;
+}
+
 .icon-size {
 	width: 150px;
 }
@@ -418,22 +425,6 @@ NAVIGATION STYLES
 SECTIONS
 *********************/
 
-.section-back {
-	z-index: 1;
-	&::after {
-		content: " ";
-		position: absolute;
-		left: 50px;
-		right: 50px;
-		top: 0;
-		bottom: 0;
-		background-color: $ygray;
-		opacity: 0.75;
-		z-index: -1;
-		border-radius: 20px;
-	}
-}
-
 section {
 	padding: 1em; // mobile padding?
 	position: relative;
@@ -454,10 +445,6 @@ section {
 		}
 	}
 
-	ul {
-		// margin: 1em; Why is this here?
-	}
-
 	// no border and stuff
 	&.blank {
 		padding: 0;
@@ -470,60 +457,6 @@ section {
 	}
 }
 
-.pricing-grid {
-	.card {
-		margin-bottom: 60px;
-
-		p {
-			margin: 2em;
-		}
-	}
-}
-
-// the process page
-.process {
-	img.bg {
-		width: 100%;
-		opacity: 0.2;
-	}
-
-	.card {
-    	max-width: 550px;
-   		margin: 0 auto;
-	}
-}
-    
-
-.super-list {
-	position: relative;
-	text-align: left;
-
-	ul {
-		text-align: left;
-		padding: 10px 0px;
-	}
-
-	li {
-
-		&:before {
-			position: absolute;
-			content: " ";
-			height: 5px;
-			width: 5px;
-			left: 0px;
-			margin-top: 12px;
-			background-color: #fff;
-			border: 2px solid $gray;
-			border-radius: 50%;
-			display: inline-block;
-		}
-	}
-
-	span {
-		color: red;
-	}	
-}
-
 .icon-center {
 	margin: 0 auto;
 	width: 70px;
@@ -534,24 +467,21 @@ section {
 	right: 0;
 }
 
-.clean-grid {
-	max-width: 400px;
-	margin: 0 auto;
-
-	.content {
-		background-color: #f9f9f9;
-		padding: 10px 15px;
-
-		h4 {
-			margin: 0;
-		}
-
-		p {
-			margin: 10px 0 0 0;
-		}
-
-		&:hover {
-		}
+// This is for sections that have a colored 
+// offset background behind it.
+.section-back {
+	z-index: 1;
+	&::after {
+		content: " ";
+		position: absolute;
+		left: 50px;
+		right: 50px;
+		top: 0;
+		bottom: 0;
+		background-color: $ygray;
+		opacity: 0.75;
+		z-index: -1;
+		border-radius: 20px;
 	}
 }
 
@@ -570,7 +500,6 @@ TEMPLATE OBJECTS
 	}
 }
 
-// Main Card
 ._big-idea-box {
 	border: none;
 	padding: 20px;
@@ -658,52 +587,64 @@ section.hentry {
 	}
 }
 
-.blog-post {
-	border-radius: 5px;
-	background-color: $ygray;
-	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
-    background-size: 300px;
-    border: 3px solid $lgray;
-    transition: 0.5s;
+.blog-feed {
+	max-width: 600px;
+	margin: 100px auto;
 
-    &:hover {
-    	box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
-    	transition: 0.5s;
-    	border: 3px solid $gray;
-    	border-radius: 5px;
-    }
+	a {
+		margin: 100px auto;
+		display: block;
+	}
+}
+
+.blog-thumb {
+	display: grid;
+	grid-template-columns: 1fr;
+    background-size: 300px;
+    background-color: white;
+    grid-gap: 10px;
+
+	.words {
+		position: relative;
+		padding: 10px 10px 3px 10px;
+		border: 3px solid $lgray;
+		border-radius: 5px;
+		transition: 0.5s;
+		
+		&:hover {
+	    	box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
+	    	transition: 0.5s;
+	    	border: 3px solid $gray;
+	    	border-radius: 5px;
+	    }
+	}
 
 	h4 {
-		padding: 10px 10px 3px 10px;
 		margin: 0px;
 	}
 
 	p {
 		margin-top: 0;
 		font-size: 0.9em;
-		padding: 0 10px;
 	}
 	
 	.picture {
 		position: relative;
-		//height: 290px;
 		overflow: hidden;
 		border-radius: 3px 3px 0px 0px;
-		//background: #30373e;	 
 	}
 }
 
 // TIME TO READ
 .time-to-read {
-	color: $black;
 	position: absolute;
-	bottom: 10px;
-	right: 10px;
+	color: $black;
 	background-color: $lgray;
 	border-radius: 5px;
 	font-size: 0.8em;
 	font-weight: 200;
 	padding: 2px;
+	bottom: -13px;
 }
 
 #post .time-to-read {
@@ -845,10 +786,36 @@ section.hentry {
 
 	img {
 		margin-right: 15px;
-		float: left;
 		background-color: $gray;
-		width: 50px;
-    	border-radius: 50px;
+		width: 75px;
+		border-radius: 50px;
+		margin-top: 10px;
+	}
+}
+
+.author-section {
+	padding: 60px 0;
+	border-top: 3px solid $ygray;
+	border-bottom: 3px solid $ygray;
+
+	img {
+		width: 20%;
+		margin-right: 15px;
+		background-color: $gray;
+		border-radius: 10px;
+		margin-top: 10px;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	p {
+		font-family: "Rubik";
+		margin: 0px;
+	}
+
+	div {
+		width: 70%;
+		display: inline-block;
 	}
 }
 
@@ -903,6 +870,8 @@ MODULES
 
 	h4 { 
 		padding: 0px 20px;
+		text-align: left;
+
 	}
 
 	h5 {
@@ -1013,57 +982,7 @@ MODULES
 	}
 }
 
-// TIMELINE
 
-.timeline {
-
-	.labels li {
-		text-align: center;
-
-		h5 {
-			text-align: center;
-		}
-	}
-
-	ul.slider {
-		height: 6px;
-		background-color: $orange;
-		margin-bottom: 20px;
-
-		li {
-			background-color: $orange;
-			position: relative;
-			border-radius: $radius;
-
-			&:after {
-				content: "";
-				position: absolute;
-				left: 100%;
-				top: 50%;
-				-webkit-transform: translate(-50%,-50%);
-				transform: translate(-50%,-50%);
-				width: 10px;
-				height: 10px;
-				border: 3px solid $gray;
-				border-radius: 50%;
-				background: #fff;
-				z-index: 10;
-				pointer-events: none;
-			}
-
-			&:last-child::after {
-				content: none;
-			}
-		}
-	}
-}
-
-.animation-hover {
-	animation: hover 2s infinite cubic-bezier;
-	-moz-animation: hover 2s infinite cubic-bezier;
-    -o-animation: hover 2s infinite cubic-bezier;
-    -webkit-animation: hover 2s infinite cubic-bezier;
-}
 
 /*********************
 ANIMATIONS
@@ -1173,31 +1092,6 @@ footer {
 		}
 	}
 }
-
-.webinar-panel {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
-
-	.content {
-		text-align: left;
-		padding-left: 20px;
-	}
-
-	.tag {
-		margin: 30px 0 0 0;
-	}
-
-	h3, h4 {
-		background: none;
-		text-align: left;
-		margin: 0px;
-	}
-
-	p {
-		margin: 0px;
-	}
-}
-
 
 .footer-links {
 	border-radius: 0px 0px 5px 5px;

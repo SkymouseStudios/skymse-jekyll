@@ -1,16 +1,16 @@
 ---
 layout: post
-title: How To Create a Brand for a Small Business
-subtitle: Small Business Guide to Branding
+title: Create a brand for a small business that doesn't suck.
+subtitle: Don't get hung up on colors or fonts. Focus on your customer's needs.
 author: John Welch
 img: "/library/images/blog/ep003-just-brand-it.jpg"
 permalink: "/stop-with-all-the-branding/"
 ttr: 8
-categories:
-- businessspotlight
 description: We all admire the Apples, the Amazons and other "big dogs" of branding.
-  Can *your* business become a brand people love? Marketing agencies might say it
+  Can YOUR business become a brand people love? Marketing agencies might say it
   starts with a logo or color. We think otherwise.
+categories:
+- strategy
 
 ---
 ### I come from a family of athletes.

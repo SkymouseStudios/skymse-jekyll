@@ -1,17 +1,16 @@
 ---
 layout: post
-categories:
-- newtobranding
 author: John Welch
-title: How To Turn a Lead Into a Customer
-subtitle: Develop and Implement a Winning Marketing Strategy
+title: The Secret to Turning Website Leads Into Happy Customers
+subtitle: Selling is hard. But luckily there's something called "the initial offer" that makes it much easier.
 description: "This blog post explains how to build and execute a winning marketing
   strategy in 2019. This post includes specific examples and detailed instructions
   for small businesses to win at marketing without spending tons of money or time
   on their marketing efforts."
-permalink: "/the-skymouse-small-business-marketing-system/"
 img: "/library/images/blog/blog-illustrations_ep008-low-cost-high-value.png"
 ttr: 5
+categories:
+- convert
 
 ---
 
@@ -31,7 +30,7 @@ All marketing should ultimately lead to one thing - sales. Most marketing fails 
 
 In order to make a sale, you have to ask for a sale. But it doesn't have to be "salesy." That's where the initial offer comes in. 
 
-## Why should I care about an initial offer?
+## If you can get them to buy once, you can do it again.
 
 The power of an initial offer comes from a very interesting piece of data. 
 
@@ -45,9 +44,11 @@ Your real goal is not to get every prospect to buy your full service offering. *
 
 The initial offer is the best way to turn a prospect into a customer. It is small thinking to grow an email list. The real goal is growing a customer list. 
 
-## How to create an initial offer
+## A guide to creating an initial offer.
 
-Creating an initial offer is simple. One of the easiest things to do is to find some sort of service that you provide to your clients for free and begin to charge for that service for anyone who ends up on your website. 
+Creating an initial offer is simple. 
+
+One of the easiest things to do is to find some sort of service that you provide to your clients for free and begin to charge for that service for anyone who ends up on your website. 
 
 When you offer this service for free as a part of your service, you’re already getting the business, so it makes sense to give it away. However, odds are that this service is valuable even detached from your normal service offerings. As such, you can sell this service in your website for a nominal fee and you’ve got your initial offer.
 
@@ -97,7 +98,7 @@ Instead of putting a proposal in front of a business for a $10,000 security anal
 
 Once you've completed your security check, your prospect is holding an entire report full of reasons to do business with you. The best part is, it barely cost them anything.
 
-### I Know What You're Thinking
+### Initial offers are worth your time.
 
 The most common reaction to this idea of the initial offer is "but how can I justify all the time I'm spending on this low-cost service?"
 
@@ -113,7 +114,7 @@ Come up with three initial offer ideas and test them. You will find something th
 
 **Remember: the point is to transform your prospects into paying customers.** 
 
-## How to Optimize My Website for My Initial Offer
+## Optimize your website for the initial offer.
 
 In everything you are doing from a marketing perspective, this is the challenge: how can you stop thinking in terms of list growth and start thinking in terms of customer growth?
 
@@ -121,7 +122,7 @@ Your website is the best place to start in implementing your initial offer. Most
 
 The best possible online conversion is a sale. When a website visitor agrees to exchange money for what you are offering, that is the best-case scenario. Your initial offer is the ideal way to accomplish this conversion. 
 
-### Creating the Initial Offer Page
+### Create the initial offer page.
 
 The initial offer page is a landing page. You need to build a page on your website dedicated entirely to selling your initial offer. Now, I use the word selling very loosely. It's more like educating your visitor on why the initial offer makes sense. Remember, everything we're doing is designed to invite the visitor deeper into the conversation, not to beat them over the head with a sales pitch. 
 
@@ -136,7 +137,7 @@ There are a few specific elements that you'll want to include on your initial of
 3. **Testimonials:** After you explain the benefits and what's included, put in some customer testimonials that you have from people working with you. Try to pick ones that are relevant to the initial offering. The more specific the better. If all you have are more general testimonials, then those will work. 
 4. **Call-To-Action:** Your call-to-action is how your visitor actually engages with your offer. This should be some sort of button that says something like "Register Now" or "Get Started" or "Take the Leap!" Try to get creative and unique, but be careful of getting too far out there. It's much more important that the visitor understands what action they're taking. 
 
-## Where To Go From Here
+## Test and measure.
 
 You now have everything you need to get started with your initial offer. Take some time and put some real thought into a couple of ideas that really resonate with you. Do some testing and measuring, get feedback from your clients and business associates. The most important thing though is to do SOMETHING. Getting started is more important than getting it perfect. 
 

@@ -1,7 +1,5 @@
 ---
 layout: post
-categories:
-- newtobranding
 author: John Welch
 title: The Best Small Business Marketing Strategy for 2019
 subtitle: Develop and Implement a Winning Marketing Strategy
@@ -12,6 +10,8 @@ description: "This blog post explains how to build and execute a winning marketi
 permalink: "/the-skymouse-small-business-marketing-system/"
 img: "/library/images/blog/ep005-awesome-marketing-system.jpg"
 ttr: 8
+categories:
+- strategy
 
 ---
 **Small businesses are losing huge portions of their revenue to sales and marketing efforts that never amount to anything.** These small businesses are held out the vision of more leads, more sales, and less worry. What they end up with is a $50,000 hole and no ladder to climb out.

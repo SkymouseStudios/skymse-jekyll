@@ -1,16 +1,15 @@
 ---
 layout: post
 author: John Welch
-title: The easy way for CEOs and Founders to write a blog post
+title: The Easy Way for CEOs and Founders to Write Blog Posts
 subtitle: Writing blogs isn't as hard as you think.
 description: Blogging is a powerful way to start driving traffic to your website.
   From the ideal blog length, to making your post beautiful, here are some practical
   tips on how to write a blog—even if you "hate writing."
-permalink: "/how-to-create-magnetic-blog-topics/"
-img: "/library/images/blog/blog-illustrations_ep009-magnetic-blog-posts.png"
+img: "/uploads/blog-illustrations_e010-how-to-write-a-blog-post.png"
 ttr: "8"
 categories:
-- newtobranding
+- content
 
 ---
 `"A professional writer is an amateur who didn’t quit.”`
