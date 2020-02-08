@@ -2,18 +2,18 @@
 layout: post
 author: John Welch
 title: The Secret to Turning Website Leads Into Happy Customers
-subtitle: Selling is hard. But luckily there's something called "the initial offer" that makes it much easier.
-description: "This blog post explains how to build and execute a winning marketing
+subtitle: Selling is hard. But luckily there's something called "the initial offer"
+  that makes it much easier.
+description: This blog post explains how to build and execute a winning marketing
   strategy in 2019. This post includes specific examples and detailed instructions
   for small businesses to win at marketing without spending tons of money or time
-  on their marketing efforts."
+  on their marketing efforts.
 img: "/library/images/blog/blog-illustrations_ep008-low-cost-high-value.png"
-ttr: 5
+ttr: "5"
 categories:
 - convert
 
 ---
-
 ## What is an Initial Offer?
 
 An initial offer is a low-cost, high-value product that you sell. 
