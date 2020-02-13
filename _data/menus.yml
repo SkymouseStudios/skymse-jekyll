@@ -1,13 +1,5 @@
 # Header Navigation
 header:
-  # - title: "Why Skymouse"
-  #   url: "/why-skymouse"
-  # - title: "What you can do"
-  #   url: "/what-you-can-do"
-  # - title: Our Work
-  #   url: "/work"
-  # - title: "Blog"
-  #   url: "/resources"
   - title: "Chat with us"
     url: "#"
 
@@ -15,12 +7,10 @@ header:
 footer:
   - title: Company
     subfolderitems:
-      - title: "Our work"
-        url: "/work"
       - title: "About"
         url: "/about"
-      - title: "Contact"
-        url: "/contact"
+      - title: "Our Work"
+        url: "/work"
       # - title: "Brand Guide"
       #   url: "/brand-guide"
   # - title: Services
@@ -31,18 +21,18 @@ footer:
   #       url: "/what-you-can-do"
   #     # - title: "Process"
   #     #   url: "/process"
-  #     - title: "Pricing"
-  #       url: "/pricing"
+      - title: "Pricing"
+        url: "/pricing"
+      - title: "Contact"
+        url: "/contact"
   - title: Resources
     subfolderitems:
       - title: "Blog"
-        url: "/resources"
+        url: "/blog"
       - title: "Free Marketing Courses"
         url: "/lab"
       # - title: "Downloads"
       #   url: "/downloads"
-      # - title: "Podcast"
-      #   url: "/podcast"
   # - title: Extras
   #   subfolderitems:
   #     - title: "Store"

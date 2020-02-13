@@ -6,11 +6,13 @@ subtitle: 5 Questions and practical examples to help you craft a great blog post
 description: It's so attractive, isn't it? The idea of writing that one blog which
   just resonates. We all dream of getting that notification. The one that tells us
   we just got 30,000 hits in 24 hours.
-permalink: "/how-to-create-magnetic-blog-topics/"
+permalink: /blog/how-to-create-magnetic-blog-topics/
 img: "/library/images/blog/blog-illustrations_ep009-magnetic-blog-posts.png"
 ttr: "8"
 categories:
 - content
+redirect_from:
+- /how-to-create-magnetic-blog-topics/
 
 ---
 ## That's What I'm Talking About

@@ -2,7 +2,6 @@
 title: Indianapolis Small Business Marketing
 layout: default
 subtitle: Effortless Small Business Marketing
-permalink: "/index.html"
 description: Skymouse is an Indianapolis-based marketing team, helping small businesses
   convert more website visitors and make more money.
 img-front: "/library/images/headers/header-home-front.svg"
@@ -26,7 +25,7 @@ categories:
 </div>
 
 <div id="scene" data-relative-input="true" data-pointer-events="true">
-	<img class="scene-home" style="z-index: 0" data-depth="0.10" src="{{ site.baseurl }}{{ page.img-back }}" alt="">
+	<img class="scene-home" style="z-index: 0" data-depth="0.10" src="{{ site.baseurl }}{{ page.img-back }}" alt="a bunch of little space ships in a circle">
 </div>
 		
 <main id="page">
@@ -57,13 +56,13 @@ categories:
 
 		<div class="grid-three">
 			<div class="card">
-				<img src="/library/images/icons/v4-0-0_icons-measure.svg" alt="">
+				<img src="/library/images/icons/v4-0-0_icons-measure.svg" alt="vile with a blue liquid">
 				<h4>Get measured.</h4></div>
 			<div class="card">
-				<img src="/library/images/icons/v4-0-0_icons-select-a-plan.svg" alt="">
+				<img src="/library/images/icons/v4-0-0_icons-select-a-plan.svg" alt="choose your plan">
 				<h4>Choose a plan.</h4></div>
 			<div class="card">
-				<img src="/library/images/icons/v4-0-0_icons-dust.svg" alt="">
+				<img src="/library/images/icons/v4-0-0_icons-dust.svg" alt="pile of dust">
 				<h4>Decimate your competition.</h4>
 				</div>
 		</div>
@@ -72,17 +71,5 @@ categories:
 		</div>
 	</section>
 
-	<div class="grid-half bottom-cta pad">
-		<div class="pad">
-			<img class="pad video-example" src="/library/images/video-example.jpg" alt="">
-		</div>
-		
-		<div class="content">
-			<div class="tag tag-red">New Videos Every Month!</div>
-			<div><h3>Feeling adventurous?<br>
-				Learn how to do it all on your own.
-			</h3></div><br>
-			<a href="https://lab.skymousestudios.com/" class="action-btn">Join the free content library</a>
-		</div>
-	</div>
+	{% include cta-marketing-lab.html %}
 </main>

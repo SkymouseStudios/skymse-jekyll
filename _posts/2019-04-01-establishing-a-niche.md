@@ -9,7 +9,9 @@ description: How to establish a niche market for your small business and the ben
 img: "/library/images/blog/blog-etsy.png"
 ttr: 6
 date: '2019-04-01T15:50:37.000+00:00'
-permalink: "/establishing-a-niche-a-look-at-etsy/"
+permalink: /blog/establishing-a-niche-a-look-at-etsy/
+redirect_from:
+- /establishing-a-niche-a-look-at-etsy/
 
 ---
 Establishing a Niche: A Look at Etsy

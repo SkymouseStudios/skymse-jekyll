@@ -7,9 +7,12 @@ description: Blogging is a powerful way to start driving traffic to your website
   From the ideal blog length, to making your post beautiful, here are some practical
   tips on how to write a blog—even if you "hate writing."
 img: "/uploads/blog-illustrations_e010-how-to-write-a-blog-post.png"
+permalink: /blog/the-easy-way-for-ceos-and-founders-to-write-blogs/
 ttr: "8"
 categories:
 - content
+redirect_from:
+- /content/2020/02/06/how-to-write-a-blog-post/
 
 ---
 `"A professional writer is an amateur who didn’t quit.”`

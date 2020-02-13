@@ -16,3 +16,4 @@ source "https://rubygems.org"
 # If you have any plugins, put them here!
 gem "jekyll", "~> 3.8.3"
 gem "jekyll-menus"
+gem 'jekyll-redirect-from'

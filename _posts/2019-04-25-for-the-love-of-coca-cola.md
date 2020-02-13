@@ -9,9 +9,11 @@ description: Pshht. Ahhhhh. What does it take to make your customer and the worl
 img: "/uploads/blog-coca-cola.png"
 ttr: 
 date: '2019-04-25T09:52:28-05:00'
-permalink: "/ahhhhhh-make-your-brand-as-good-as-a-cola-company/"
+permalink: /blog/ahhhhhh-make-your-brand-as-good-as-a-cola-company/
 categories:
 - strategy
+redirect_from:
+- ahhhhhh-make-your-brand-as-good-as-a-cola-company/
 
 ---
 People love to complain. Soda causes obesity. Soda has high fructose corn syrup. Soda is bad for our bodies. Yeah, maybe these things are all true, but nobody really cares. 

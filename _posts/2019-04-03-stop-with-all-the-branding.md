@@ -4,13 +4,15 @@ title: Create a brand for a small business that doesn't suck.
 subtitle: Don't get hung up on colors or fonts. Focus on your customer's needs.
 author: John Welch
 img: "/library/images/blog/ep003-just-brand-it.jpg"
-permalink: "/stop-with-all-the-branding/"
+permalink: /blog/stop-with-all-the-branding/
 ttr: 8
 description: We all admire the Apples, the Amazons and other "big dogs" of branding.
   Can YOUR business become a brand people love? Marketing agencies might say it
   starts with a logo or color. We think otherwise.
 categories:
 - strategy
+redirect_from:
+- /stop-with-all-the-branding/
 
 ---
 ### I come from a family of athletes.

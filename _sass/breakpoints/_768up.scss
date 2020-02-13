@@ -60,6 +60,13 @@ HEADER STYLES
 #scene {
 	height: 600px;
 
+
+	img.scene-home {
+		margin: 0px;
+		width: 105%;
+		height: auto;
+	}
+
 	#headerFront {
 		width: 105%;
 		margin: auto;
@@ -77,7 +84,8 @@ HEADER STYLES
 }
 
 .takeoff {
-	background-position: auto
+	background-position: auto;
+	background-size: cover;
 }
 
 #scene::before {

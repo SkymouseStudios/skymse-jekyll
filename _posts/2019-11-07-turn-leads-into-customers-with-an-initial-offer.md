@@ -9,9 +9,12 @@ description: This blog post explains how to build and execute a winning marketin
   for small businesses to win at marketing without spending tons of money or time
   on their marketing efforts.
 img: "/library/images/blog/blog-illustrations_ep008-low-cost-high-value.png"
+permalink: /blog/turn-website-leads-into-happy-customers/
 ttr: "5"
 categories:
 - convert
+redirect_from:
+- /convert/2019/11/07/turn-leads-into-customers-with-an-initial-offer/
 
 ---
 ## What is an Initial Offer?

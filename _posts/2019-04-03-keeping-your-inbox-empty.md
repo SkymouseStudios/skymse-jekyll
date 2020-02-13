@@ -4,11 +4,13 @@ title: 6 Tips for Managing Your Email.
 subtitle: A Productivity Tip for Small Business Owners.
 author: Patrick Hanus
 img: "/library/images/blog/scene-satellites-beach.png"
-permalink: "/6-tips-for-managing-your-email/"
+permalink: /blog/6-tips-for-managing-your-email/
 ttr: 7
 description: You wouldn't believe how many people I know who spend 2 hours+ in their
   email during the work day. It's a businessman's Facebook. It's addicting. It's time
   to take control of your email.
+redirect_from:
+- /6-tips-for-managing-your-email/
 
 ---
 Email is the worst. It's messy. It's confusing. It gets really out of hand quickly. Are you one of those people with 13,397 unread emails in your inbox? The idea of using email as a to-do list is silly. The best way to shoot your productivity in the foot is "working out of your email."

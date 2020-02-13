@@ -1,5 +1,17 @@
 # Changelog
 
+### Update v4.0.0 - 20.02.12
+
+- Overhauled the homepage
+- Deleted most of the buttons in the header and extra pages
+- added redirects
+- cleaned up
+- fixed a permissions issue that prevented some pictures from showing
+- added pricing page
+- tweaked the home page pictures
+- deleted unecessary tracking information
+- renamed resources to blog
+
 ### Update v3.9.9 - 20.01.27
  
 - footer 2020

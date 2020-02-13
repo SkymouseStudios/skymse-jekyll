@@ -8,8 +8,10 @@ description: Good free apps are hard to find. Take your productivity to the next
 keyword: 2019 Apps
 author: Patrick Hanus
 img: "/library/images/blog/blog-top-apps-for-2019.png"
-permalink: "/best-free-apps-for-business-owners-in-2019/"
+permalink: /blog/best-free-apps-for-business-owners-in-2019/
 ttr: 7
+redirect_from:
+- /best-free-apps-for-business-owners-in-2019/
 
 ---
 ## So what are the most useful apps for business owners?
