@@ -31,7 +31,7 @@
 		<meta name="twitter:site" content="{{ site.username }}" />
 		<meta name="twitter:title" content="{{ page.title }}" />
 		<meta name="twitter:description" content="{{ page.description }}" />
-		<meta name="twitter:image" content="{{ site.baseurl }}{{ page.img }}" />
+		<meta name="twitter:image" content="{{ site.url }}{{ page.img }}" />
 		<meta name="twitter:creator" content="{{ site.username }}">
 
 		<!-- Meta Information -->
@@ -41,31 +41,31 @@
 		<meta property="og:title" content="{{ page.title }}" />
 		<meta property="og:description" content="{{ page.description }}">
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
-		<meta property="og:image" content="{{ site.baseurl }}{{ page.img }}" />
+		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+		<meta property="og:image" content="{{ site.url }}{{ page.img }}" />
 		
 		<script type="application/ld+json">
 			{
 			  "@context": "http://schema.org",
 			  "@type": "Organization",
 			  "name": "{{ site.title }}",
-			  "url": "{{ site.baseurl }}",
+			  "url": "{{ site.url }}",
 			  "email": "{{ site.email }}",
 			  "founders": [ "John Welch", "Patrick Hanus" ],
 			  "foundingDate": "2016-05-20",
-			  "logo": "{{ site.baseurl }}{{ site.logo }}",
+			  "logo": "{{ site.url }}{{ site.logo }}",
 			  "sameAs": [{% for social in site.data.menus.socials %}{% if forloop.last == true %}
 			  	"{{ social.url }}"{% else %}
 			  	"{{ social.url }}",{% endif %}{% endfor %}]
 			}
 		</script>
-		
-		<!-- Site Styles -->
-		<link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 
 		<!-- Fonts -->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,500">
-		<link rel="stylesheet" href="{{ site.baseurl }}/library/fonts/font-awesome.min.css">
+		<link rel="stylesheet" href="{{ site.url }}/library/fonts/font-awesome.min.css">
+		
+		<!-- Site Styles -->
+		<link rel="stylesheet" href="{{ site.url }}/style.css">
 
 		<!-- Parallax -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
@@ -80,7 +80,7 @@
 
 	<body itemscope itemtype="http://schema.org/WebPage">
 		<!-- WhatsApp Image -->
-      	<link itemprop="image" href="{{ site.baseurl }}/apple-touch-icon.png"> 
+      	<link itemprop="image" href="{{ site.url }}/apple-touch-icon.png"> 
 
 		<!-- Google Tag Manager (noscript) -->
 			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJJ59XW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -94,7 +94,7 @@
 			<ul class="cf">
           		{% for link in site.data.menus.header %}
 		            <li>
-		              <a class="nav-btn" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+		              <a class="nav-btn" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
 		            </li>
           		{% endfor %}
         	</ul>
@@ -102,8 +102,8 @@
 
 		<div id="inner-header" class="cf">
 
-			<a id="logo" href="{{ site.baseurl }}/" rel="nofollow">
-				<img alt="Skymouse Studios Logo" src="{{ site.baseurl }}/library/images/logos/skymouse-logo.svg">
+			<a id="logo" href="{{ site.url }}/" rel="nofollow">
+				<img alt="Skymouse Studios Logo" src="{{ site.url }}/library/images/logos/skymouse-logo.svg">
 				<span class="m-hide"><strong>Skymouse</strong><span style="font-weight: 100;">Studios</span></span>
 			</a>
 
@@ -116,7 +116,7 @@
 				<ul class="cf">
 	          		{% for link in site.data.menus.header %}
 			            <li>
-			              <a class="nav-btn drift-open-chat" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+			              <a class="nav-btn drift-open-chat" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
 			            </li>
 	          		{% endfor %}
 	        	</ul>

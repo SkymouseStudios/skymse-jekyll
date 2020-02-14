@@ -173,14 +173,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/Icon\r": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Icon\r",
-		"oF": 0
-		},
 	"/scene-satellites-beach.png": {
 		"ft": 32768,
 		"iS": 167044,

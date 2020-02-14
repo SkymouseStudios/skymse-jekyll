@@ -13,7 +13,6 @@ body {
 	position: relative;
     scroll-behavior: smooth;
 	font-family: $serif;
-	//font-size: 100%;
 	font-size: 14px;
 	line-height: 1.5;
 	color: $black;
@@ -112,7 +111,7 @@ p {
 }
 
 .alone {
-	background-image: url("/library/images/artwork_scene-lone-storefront.png");
+	background-image: url("/library/images/headers/home-_scene-lone-storefront.svg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 46vh;
@@ -127,7 +126,7 @@ p {
 }
 	
 .takeoff {
-	background-image: url("/library/images/artwork_scene-ready-for-takeoff.png");
+	background-image: url("/library/images/headers/home-_scene-ready-for-takeoff.svg");
 	background-position: right bottom;
 	background-size: 160%;
 }

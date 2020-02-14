@@ -1,8 +1,7 @@
 # Site settings
 title: "Skymouse Studios"
 description: "Digital marketing that helps grow small businesses."
-baseurl: "https://skymousestudios.com"
-url: "skymousestudios.com"
+url: "https://skymousestudios.com"
 cover: "/library/cover.png"
 logo: "/library/images/logos/skymse-logo-circle.png"
 username: "@skymousestudios"
@@ -17,6 +16,7 @@ sass:
 plugins:
   - jekyll-menus
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 collections:
   services:

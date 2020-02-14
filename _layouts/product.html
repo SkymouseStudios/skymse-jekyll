@@ -2,13 +2,11 @@
 
 <main id="product">
 	<a class="nav-button" href="/pricing.html">&larr; Back to Pricing</a>
-	
-	
 		<div class="pricing-grid">
 			<section class="card m-hide" style="grid-row: 1 / 4;"></section>
 			<section class="card card--orange grid-top">
 				<div class="content">
-					<img src="{{ site.baseurl }}{{ page.img }}" alt="">
+					<img src="{{ site.url }}{{ page.img }}" alt="">
 
 					<h2>{{ page.title }}</h2>
 					
@@ -43,7 +41,7 @@
 			
 			<section class="card" style="grid-column: 2 / 4;">
 				<div class="content">
-					<img src="{{ site.baseurl }}/library/images/icons/icon-across-devices.svg" alt="">
+					<img src="{{ site.url }}/library/images/icons/icon-across-devices.svg" alt="">
 					<h2>Want to start on your own?</h2>
 					<p>Get started with our 7 Steps to boosting your brand and making more money, a free eCourse. Because we love you.</p>
 				</div>
@@ -51,11 +49,6 @@
 				<div class="pad-top"></div>
 			</section>
 		</div>
-		
-		
-		
-
-	
 </main>
 
 {% include footer.html %}
