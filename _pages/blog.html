@@ -26,6 +26,25 @@ redirect_from:
 
 <main id="page">
 
+	<section class="block pad block-linkedin">
+		<h4 class="tag">February is Linkedin Month!</h4><br>
+		<h3><i class="fa fa-linkedin"></i> Use Linkedin to start growing your business</h3>
+	
+		<div class="pad grid-three">
+		    {% for post in site.categories["linkedin"] %}
+			    <div class="card">
+			      	<a href="{{ site.url }}{{ post.url }}">
+						<img src="{{ post.img }}" alt="{{ post.title }}">
+			      		<h4>{{post.title}}</h4>
+			      		<p>{{ post.subtitle }}</p>
+			      	</a>
+			    </div>
+		    {% endfor %}
+		</div>
+	</section>
+
+	<div class="pad"></div>
+
 	<section class="block pad">
 		<h3>Tips to help you create better content.</h3>
 	

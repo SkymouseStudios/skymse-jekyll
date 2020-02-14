@@ -1,7 +1,7 @@
 ---
 layout: post
 author: John Welch
-title: The Secret to Turning Website Leads into Happy Customers
+title: "The Secret to Turning Website Leads into Happy Customers: The Initial Offer"
 subtitle: Selling is hard. But luckily there's something called "the initial offer"
   that makes it much easier.
 description: This blog post explains how to build and execute a winning marketing

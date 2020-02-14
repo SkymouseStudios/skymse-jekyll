@@ -833,6 +833,30 @@ MODULES
 	margin: 0;
 }
 
+.block-linkedin {
+	background-color: #283e4a;
+	color: white;
+
+	.card {
+		border-color: #0077b5;
+	}
+
+	.tag {
+		color: white;
+		border-color: white;
+	}
+
+	h3 { 
+		color: white; 
+	}
+	
+	i { 
+		background-color: #0077b5;
+		padding: 5px 10px;
+		border-radius: 4px;
+ 	}
+}
+
 // CARD STYLES
 .card {
 	background-color: white;

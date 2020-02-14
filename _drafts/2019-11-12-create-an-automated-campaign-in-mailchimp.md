@@ -6,7 +6,7 @@ subtitle: Leverage the power of automations to start sending better email.
 description: Use Mailchimp to the fullest! This post covers everything you need to
   know to start using automations to market to your customers and build a marketing
   system for your small business.
-permalink: "/create-automations-in-mailchimp/"
+permalink: "/blog/create-automations-in-mailchimp/"
 img: "/library/images/blog/ep005-awesome-marketing-system.jpg"
 ttr: "8"
 categories:

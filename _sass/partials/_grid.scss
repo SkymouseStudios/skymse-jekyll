@@ -53,9 +53,11 @@ Stylesheet: Grid Stylesheet
 }
 
 .grid-three {
+  // trying out auto-fill instead of auto-fit so that when the other 
+  // columns are empty, one of them doesn't get huge.
   display: grid;
   grid-gap: 50px;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   
   img {
     width: 100%;
