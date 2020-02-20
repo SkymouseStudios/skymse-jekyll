@@ -1,10 +1,10 @@
 ---
 layout: post
 author: John Welch
-title: The Best Small Business Marketing Strategy for 2019
+title: The Best Small Business Marketing Strategy for 2020
 subtitle: Develop and Implement a Winning Marketing Strategy
 description: This blog post explains how to build and execute a winning marketing
-  strategy in 2019. This post includes specific examples and detailed instructions
+  strategy in 2020. This post includes specific examples and detailed instructions
   for small businesses to win at marketing without spending tons of money or time
   on their marketing efforts.
 permalink: "/blog/the-skymouse-small-business-marketing-system/"
