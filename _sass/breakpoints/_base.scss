@@ -581,6 +581,10 @@ section.hentry {
 		background-color: $ygray;
 		color: $orange;
 	}
+
+	a {
+		border-bottom: solid orange 1px;
+	}
 }
 
 .blog-feed {
