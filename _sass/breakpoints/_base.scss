@@ -225,7 +225,6 @@ header {
 	display: block;
 	overflow: hidden;
 	width: 100%;
-	//border-top: 10px solid $orange;
 }
 
 .header-image {
@@ -501,7 +500,7 @@ TEMPLATE OBJECTS
 	border: none;
 	padding: 20px;
 	background-color: $ygray;
-	background-image: url(/library/images/icons/icon-subtle-pattern.svg);
+	background-image: url("/library/images/icons/icon-subtle-pattern.svg");
     background-size: 300px;
 }
 
@@ -1146,3 +1145,4 @@ footer {
 		display: inline-block;
 	}
 }
+
