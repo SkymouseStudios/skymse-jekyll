@@ -31,16 +31,13 @@ Here's what the company page looks like. As shown below, once you've linked your
 
 ### How To Create a LinkedIn Company Page
 
-1. Click on the "work" button in the top right hand corner of the main LinkedIn navigation bar.
-
+1. Click on the "work" button in the top right hand corner of the main LinkedIn navigation bar. 
 ![013-LinkedIn](/uploads/013-LinkedIn_Header.png)
 
-1. Click the "Create a Company Page" link in the sidebar that pops up on the right-hand side.
-
+2. Click the "Create a Company Page" link in the sidebar that pops up on the right-hand side. 
 ![013-LinkedIn](/uploads/013-LinkedIn_Company_Page_Link.png)
 
-1. Follow the prompts to setup and personalize your company page.
-
+3. Follow the prompts to setup and personalize your company page. 
 ![013-Create](/uploads/013-Create_LinkedIn_Page.png)
 
 ## #2 - Leave Outbound Links as Comments On Your LinkedIn Posts
@@ -63,12 +60,10 @@ On your main profile page, you have an "about" section where you can write your 
 
 ![013-LinkedIn](/uploads/013-LinkedIn_About_Section.png)
 
-1. Just click the "edit" button (the pencil) on the right side of the "about" section.
-
+1. Just click the "edit" button (the pencil) on the right side of the "about" section. 
 ![013-LinkedIn](/uploads/013-LinkedIn_About_Edit.png)
 
-1. The "Edit about" box will pop up which allows you to link to blog posts on your own website. This well-placed plug of _free_ content is a simple way to drive people to your website and gain credibility with that potential client.
-
+2. The "Edit about" box will pop up which allows you to link to blog posts on your own website. This well-placed plug of _free_ content is a simple way to drive people to your website and gain credibility with that potential client. 
 ![013-LinkedIn](/uploads/013-LinkedIn_About_Upload.png)
 
 ## #4 - Turn your Blogs into Articles and Have a "Read More" Link
@@ -76,19 +71,15 @@ On your main profile page, you have an "about" section where you can write your 
 Articles are a fantastic way to start generating website traffic through LinkedIn. If you've never written an article, don't panic! It's really easy. Just re-use your blog posts! Here are the steps:
 
 1. On the main LinkedIn page, you'll see a link under the box where you write posts. Click the "Write an article" link.
-
 ![013-LinkedIn](/uploads/013-LinkedIn_Write_An_Article_Button.png)
 
-1. That link will take you to a page where you can add a picture, a title, and then write some content!
-
+2. That link will take you to a page where you can add a picture, a title, and then write some content!
 ![013-LinkedIn](/uploads/013-LinkedIn_Article_Template.png)
 
-1. Here's the easy part. Simply take a blog post that you've already written on your website and use it as your LinkedIn article. Just upload the main image of your blog post and use the same title!
-
+3. Here's the easy part. Simply take a blog post that you've already written on your website and use it as your LinkedIn article. Just upload the main image of your blog post and use the same title!
 ![LinkedIn](/uploads/013-LinkedIn_Article_Example.png)
 
-1. In the body of the article, copy and paste the first 1/3 to 1/2 of your blog post exactly as it appears on your website. Then at the end of the article, add the link to your full post on your website and write something like "click the link below to read more."
-
+4. In the body of the article, copy and paste the first 1/3 to 1/2 of your blog post exactly as it appears on your website. Then at the end of the article, add the link to your full post on your website and write something like "click the link below to read more."
 ![LinkedIn](/uploads/013-LinkedIn_Article_Link_Example.png)
 
 # That's It!
