@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Practical Guide to Catching the Brilliant, but Elusive Millennial.
+title: A Practical Guide to Catching the Brilliant, yet Elusive Millennial.
 subtitle: Branding Your Work Environment to Keep HR in the Resumes
 author: John Welch
 img: ''
