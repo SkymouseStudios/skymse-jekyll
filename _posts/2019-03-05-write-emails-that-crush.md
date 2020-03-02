@@ -180,7 +180,7 @@ For this reason, every email you write needs to contain enough value on its own 
 
 Let's get practical for a second. In our email marketing efforts here at Skymouse, we employ a very simple formula. **All of our emails are designed to drive our readers back to our blog because our main goal is to educate our readers on how to solve their marketing problems without us.** The kind of blogs we write are far too long to read in an email and wouldn't make any sense in that format.
 
-![](/uploads/Blog_to_Email.jpg)
+![Blog to email drawing](/uploads/Blog_to_Email.jpg)
 
 Our email marketing workflow.
 
@@ -193,8 +193,10 @@ To make this really clear, I'm going to demonstrate using this blog post you are
 I've written up an example email based on this blog post to illustrate how we use our blogs as the basis for our email content. This is the actual email as it appears coming from our Mailchimp servers.
 
 > **Subject:** Your subject lines suck... unless you already read this email 😜
->
-> I'm Eating My Own Cooking
+
+
+
+### I'm Eating My Own Cooking
 
 As you can see, I've followed the exact formula that I've detailed in this post.
 
