@@ -28,7 +28,7 @@ I discovered that I did find genuine enjoyment in writing. I began learning more
 
 ## Writing For Marketing
 
-Most people don't consider themselves "writers." The term "writer" usually feels more applicable to someone like Agatha Christie or James Patterson. Writing isn't just for novelists or journalists, though. Even in the digital world, writing is still one of the most widespread forms of storytelling. 
+Most people don't consider themselves "writers." The term "writer" usually feels more applicable to someone like Agatha Christie or James Patterson. Writing isn't just for novelists or journalists, though. Even in the digital world, writing is still one of the most widespread forms of storytelling.
 
 > Every person is a storyteller, which means that somewhere inside of you, even if you don't believe it, is a writer.
 
@@ -42,9 +42,9 @@ Fantastic marketing emails:
 2. Offer valuable information without requiring the reader to take additional action.
 3. Invite the reader into a deeper relationship with the company.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ff9b92c-ece4-4603-b32b-8d49668e0421/marketing](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ff9b92c-ece4-4603-b32b-8d49668e0421/marketing_image_whiteboard.jpg)
+![](/uploads/marketing_image_whiteboard.jpg)
 
-   I like physically writing things down...
+I like physically writing things down...
 
 If you implement these 3 criteria when outlining your marketing emails, you will begin to see improvement! Improvement can look like a few things:
 
@@ -68,7 +68,7 @@ Subject lines can be a nightmare for folks who aren't used to writing them. I kn
 
 Ray Edwards' advice in "How to Write Copy that Sells" is very helpful when it comes to writing subject lines. I highly recommend Ray's book for anyone looking to grow their marketing and sales writing chops. You can buy it [HERE](https://www.amazon.com/Write-Copy-Sells-Step-Step/dp/161448502X/ref=sr_1_3?keywords=how+to+write+copy+that+sells&qid=1571768585&sr=8-3).
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f88da7f0-8a6e-468e-a105-da9bc1e48084/Copy](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f88da7f0-8a6e-468e-a105-da9bc1e48084/Copy_Page_Image.jpg)
+![](/uploads/Copy_Page_Image.jpg)
 
 Here's the relevant page from Ray's book. Page 53.
 
@@ -106,7 +106,7 @@ What I finally landed on was a very provocative subject line that resulted in a 
 
 The subject line I created was designed to personally challenge the reader and create an emotional reaction that would demand that they open the email in order to resolve their curiosity. The subject line was this...
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0cfe0a82-e218-4d5d-ad0b-d3bfc470f632/Jacks](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0cfe0a82-e218-4d5d-ad0b-d3bfc470f632/Jacks_Example.png)
+![](/uploads/Jacks_Example.png)
 
 This was the final subject line I came up with.
 
@@ -120,7 +120,7 @@ After the email subject line, the next portion of the email is the opening. Prov
 
 I received this email from Mike Dillard. Now, first of all, I don't agree with the fact that you have to click on a link to learn more. I think that there should be some sort of value for the reader whether they continue reading or not, but the introductory paragraph in this email is fantastic.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b39da823-13e7-4960-bcde-a00b4375685a/Mike](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b39da823-13e7-4960-bcde-a00b4375685a/Mike_Dillard_Email_Example.png)
+![](/uploads/Mike_Dillard_Email_Example.png)
 
 As you can see, the email starts with a personal story from Mike about some programs he launched. Then he transitions into a lesson that he learned and is going to share. The last sentence is the real kicker, it's such a powerful way to draw in the reader.
 
@@ -140,7 +140,7 @@ Many readers will give a new content source the benefit of the doubt. Maybe the 
 
 Poor subject lines and drab openers can easily be forgiven if the meat of your content is really killer. If your readers know that you won't disappoint, they will overlook all sorts of other failures because they like what you have to say and they get value from your content.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29047c8e-183a-4f4b-ab23-282fc8540722/Bait](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29047c8e-183a-4f4b-ab23-282fc8540722/Bait_and_Switch.jpg)
+![](/uploads/Bait_and_Switch.jpg)
 
 Deliver on your promises. Nothing else matters.
 
@@ -180,7 +180,7 @@ For this reason, every email you write needs to contain enough value on its own 
 
 Let's get practical for a second. In our email marketing efforts here at Skymouse, we employ a very simple formula. **All of our emails are designed to drive our readers back to our blog because our main goal is to educate our readers on how to solve their marketing problems without us.** The kind of blogs we write are far too long to read in an email and wouldn't make any sense in that format.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22e21bd8-ec5e-4b51-8c01-447ae0844246/Blog](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22e21bd8-ec5e-4b51-8c01-447ae0844246/Blog_to_Email.jpg)
+![](/uploads/Blog_to_Email.jpg)
 
 Our email marketing workflow.
 
@@ -193,14 +193,8 @@ To make this really clear, I'm going to demonstrate using this blog post you are
 I've written up an example email based on this blog post to illustrate how we use our blogs as the basis for our email content. This is the actual email as it appears coming from our Mailchimp servers.
 
 > **Subject:** Your subject lines suck... unless you already read this email 😜
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0bc09010-2de2-4e2c-b96c-a63bf5183b4b/Email](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0bc09010-2de2-4e2c-b96c-a63bf5183b4b/Email_Example.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e1781e7-97e1-451b-be5c-478ecc91ee39/Email](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e1781e7-97e1-451b-be5c-478ecc91ee39/Email_Example_1.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/601516a7-2e3e-4f71-bb85-9e4edb20d575/Email](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/601516a7-2e3e-4f71-bb85-9e4edb20d575/Email_Example_2.png)
-
-#### I'm Eating My Own Cooking
+>
+> I'm Eating My Own Cooking
 
 As you can see, I've followed the exact formula that I've detailed in this post.
 
