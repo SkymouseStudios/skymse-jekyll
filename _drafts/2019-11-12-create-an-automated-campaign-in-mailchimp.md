@@ -8,9 +8,9 @@ description: Use Mailchimp to its fullest potential! This post covers everything
   build a marketing system for your small business.
 permalink: "/blog/create-automations-in-mailchimp/"
 img: "/library/images/blog/ep005-awesome-marketing-system.jpg"
-ttr: "8"
+ttr: "12"
 categories:
-- newtobranding
+- content
 
 ---
 Email campaigns are the best way to communicate with your customers. Email is very widely used and simple to use for marketing. All you have to do is get your audience's permission to send them your automated emails and you can keep your customers coming back for more and more of your services or product!
@@ -172,47 +172,3 @@ Be helpful! You want to get to the point where you're helping your customers and
 * I want to keep my clock clean, but I forget how to do it right.
 
 An automation is the best way to put your emails on autopilot. If someone buys a new clock you can include emails about the 5 ways to make sure your clock keeps on ticking. This builds a relationship with the customer and helps to grow your relationship with them. You can't build too much trust with your customers.
-
-# The How
-
-## Setting up Mailchimp
-
-***
-
-### Adding your contact info
-
-Your information is needed in order for Mailchimp to know you are a legit business.
-
-### Verifying domains
-
-This allows you to send from your website domain.
-
-### Creating a List
-
-Importing Contacts - Import your existing contacts from a CRM or most likely from a .CSV file, if you only have an excel file, we can pretty easily convert it to a .CSV.
-
-## Create a new Automated Campaign
-
-Create your tags for your audience
-
-When to use tags and groups
-
-## Content
-
-Editing your email
-
-What makes a killer email subject line
-
-How often to send email
-
-Adding and resizing pictures
-
-Send test email
-
-## Forms
-
-Pop-up forms
-
-Customizing forms
-
-Adding people to groups automatically
