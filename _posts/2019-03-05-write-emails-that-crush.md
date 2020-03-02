@@ -194,7 +194,11 @@ I've written up an example email based on this blog post to illustrate how we us
 
 > **Subject:** Your subject lines suck... unless you already read this email 😜
 
+![](/uploads/Email_Example.png)
 
+![](/uploads/Email_Example_1.png)
+
+![](/uploads/Email_Example_2.png)
 
 ### I'm Eating My Own Cooking
 
