@@ -1,14 +1,14 @@
 ---
 layout: post
-title: A Practical Guide to Catching the Brilliant, yet Elusive Millennial.
-subtitle: Branding Your Work Environment to Keep HR in the Resumes
-author: John Welch
-img: ''
+title: A Practical Guide to Catching the Brilliant, Elusive Millennial.
+subtitle: Brand Your Work Environment So Your Employees Love You.
+author: Austin Graf
+img: "/uploads/015-catching-millenials.jpg"
 permalink: "/how-to-find-and-keep-hardworking-millenial-employees"
 ttr: 7
 categories:
-- tipsandtricks
-description: ''
+- strategy
+description: "How do you keep your young emplpyees from leaving after a year? You business can't afford to onboard new help every year. It's a waste of money, time and starts to instill a culture of dispair."
 
 ---
 ### **Let's Talk About Your EX...** (Employee Experience)
