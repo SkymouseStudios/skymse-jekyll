@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-- linkedin
+- strategy
 author: Austin Graf
 title: 5 Cheap Marketing Ideas for When Your Company is Broke
 subtitle: A quick guide to make the most out of what you have
