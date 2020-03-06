@@ -10,7 +10,6 @@ description: We all admire the Apples, the Amazons and other "big dogs" of brand
   Can YOUR business become a brand people love? Marketing agencies might say it
   starts with a logo or color. We think otherwise.
 categories:
-- strategy
 redirect_from:
 - /stop-with-all-the-branding/
 

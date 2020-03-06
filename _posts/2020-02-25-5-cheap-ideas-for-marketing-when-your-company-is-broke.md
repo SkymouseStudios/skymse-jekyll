@@ -9,6 +9,8 @@ description: The start-up life can be hard. Or even if you have been in business
   awhile, hard times strike. Companies having no money to spare is nothing new.
 img: "/uploads/014-header_ep006-cheap-marketing-ideas.png"
 ttr: "6"
+categories:
+- linkedin
 permalink: "/blog/cheap-ways-to-market-your-small-business/"
 
 ---

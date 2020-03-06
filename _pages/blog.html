@@ -27,7 +27,6 @@ redirect_from:
 <main id="page">
 
 	<section class="block pad block-linkedin">
-		<h4 class="tag">February is Linkedin Month!</h4><br>
 		<h3><i class="fa fa-linkedin"></i> Use Linkedin to start growing your business</h3>
 	
 		<div class="pad grid-three">
@@ -45,7 +44,7 @@ redirect_from:
 
 	<div class="pad"></div>
 
-	<section class="block pad">
+	<section class="pad">
 		<h3>Tips to help you create better content.</h3>
 	
 		<div class="pad grid-three">
@@ -61,27 +60,11 @@ redirect_from:
 		</div>
 	</section>
 	
-	<section class="pad">
+	<section class="block pad">
 		<h3>Create a winning marketing strategy.</h3>
 	
 		<div class="pad grid-three">
 		    {% for post in site.categories["strategy"] %}
-			    <div class="card">
-			      	<a href="{{ site.url }}{{ post.url }}">
-						<img src="{{ post.img }}" alt="{{ post.title }}">
-			      		<h4>{{post.title}}</h4>
-			      		<p>{{ post.subtitle }}</p>
-			      	</a>
-			    </div>
-		    {% endfor %}
-		</div>
-	</section>
-
-	<section class="block pad">
-		<h3>Tricks to get your website converting.</h3>
-	
-		<div class="pad grid-three">
-		    {% for post in site.categories["convert"] %}
 			    <div class="card">
 			      	<a href="{{ site.url }}{{ post.url }}">
 						<img src="{{ post.img }}" alt="{{ post.title }}">

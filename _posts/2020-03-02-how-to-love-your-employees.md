@@ -4,7 +4,7 @@ title: A Practical Guide to Catching the Brilliant, Elusive Millennial.
 subtitle: Brand Your Work Environment So Your Employees Love You.
 author: Austin Graf
 img: "/uploads/015-catching-millenials.jpg"
-permalink: "/how-to-find-and-keep-hardworking-millenial-employees"
+permalink: "/how-to-find-and-keep-hardworking-millenial-employees/"
 ttr: 7
 categories:
 - strategy
@@ -13,7 +13,7 @@ description: How do you keep your young emplpyees from leaving after a year? You
   to instill a culture of dispair.
 
 ---
-### **Let's Talk About Your EX...** (Employee Experience)
+### Let's Talk About Your EX... (Employee Experience)
 
 In a world where User Experience, Client Experience, and the IMAX Experience are so important, what about the way we, as business owners, treat our employees? That's right. We are talking about Employee Experience.
 
@@ -37,7 +37,7 @@ Below are a few ways to create a company worth working for and to prevent valued
 
 ![sidewalk-calendar-with-people-walking-across-the-days-of-the-week](/uploads/curtis-macnewton-317636-unsplash.jpg "calendar-sidewalk-with-days-of-the-week")
 
-### **You Never Made Time for Me**
+### You Never Made Time for Me
 
 There were a couple of cool things that I liked about working as an employee at my old company, but for every "cool" thing there were dozens of "not so cool" aspects.
 
@@ -63,7 +63,7 @@ Whatever way your company approaches the work/life balance, brand your company a
 
 ![coffee-mug-opinion-side-table-with-phone](/uploads/steve-johnson-609098-unsplash.jpg "opinion-coffee-cup-mug-my-opinion")
 
-### **Let's Talk About Our Feelings**
+### Let's Talk About Our Feelings
 
 Make sure your employees know your vision. Keep them updated, ask their opinions, and perhaps more importantly: VALUE THEM.
 
@@ -77,7 +77,7 @@ No matter how you do it, make your company's voice one that values its employees
 
 ![a-tip-jar-with-coins-and-dollars-on-a-counter-with-a-heart](/uploads/sam-truong-dan-627874-unsplash-1.jpg "tip-jar-on-a-counter")
 
-### **I'm With You For the Money**
+### I'm With You For the Money
 
 Be upfront about how much you are willing to pay.
 
@@ -87,7 +87,7 @@ Companies offering their "bottom dollar" are companies not willing to invest in 
 
 Employees will respect reasonable offers without insult. If they know they were low-balled they might take the job but start the job looking for a new one immediately. They know what they are worth, even if you think you pulled a fast one on them.
 
-### **It's Over**
+### It's Over
 
 Overall, millennials value jobs that offer some sort of flexibility, decent pay and benefits, and bosses that actually care about them. I don't think that any of those things are ridiculous, far-fetched, or outlandish.
 

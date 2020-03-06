@@ -1,14 +1,14 @@
 ---
 layout: post
 author: John Welch
-title: How To Write a Marketing Email That Crushes in 2020
+title: The Secret to Writeing Marketing Emails That Crush
 subtitle: Write better emails and engage your people.
 description: Test subject lines and see what works and what doesn't. Try to find ways
   to incorporate stories into your emails and make sure to reward your readers with
   clear, valuable, actionable content that they can use to solve their problems without
   you.
-permalink: "/blog/create-automations-in-mailchimp/"
-img: "/library/images/blog/ep005-awesome-marketing-system.jpg"
+permalink: "/blog/the-secret-to-writing-better-marketing-emails/"
+img: "/uploads/017-emails-that-crush.png"
 ttr: "12"
 categories:
 - content

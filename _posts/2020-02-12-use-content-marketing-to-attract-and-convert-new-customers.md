@@ -8,7 +8,6 @@ img: "/uploads/blog-illustrations_e011-how-to-use-content-marketing.png"
 permalink: /blog/leverage-content-marketing-to-grow-your-business/
 ttr: 8
 categories:
-- content
 - convert
 redirect_from:
 - /content/convert/2020/02/12/use-content-marketing-to-attract-and-convert-new-customers/

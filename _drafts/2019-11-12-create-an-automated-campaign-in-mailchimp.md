@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Patrick Hanus
-title: How to Create an Automated Email Campaign in MailChimp
+title: How to Create a Email Automations in MailChimp
 subtitle: Leverage the power of automations to start sending better email.
 description: Use Mailchimp to its fullest potential! This post covers everything you
   need to know to start using email automations to market to your customers and to
