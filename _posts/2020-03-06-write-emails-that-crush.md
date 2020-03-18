@@ -1,7 +1,7 @@
 ---
 layout: post
 author: John Welch
-title: The Secret to Writeing Marketing Emails That Crush
+title: The Secret to Writing Marketing Emails That Crush
 subtitle: Write better emails and engage your people.
 description: Test subject lines and see what works and what doesn't. Try to find ways
   to incorporate stories into your emails and make sure to reward your readers with
