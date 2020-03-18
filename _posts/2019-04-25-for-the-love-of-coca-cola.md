@@ -11,7 +11,7 @@ ttr:
 date: '2019-04-25T09:52:28-05:00'
 permalink: /blog/ahhhhhh-make-your-brand-as-good-as-a-cola-company/
 categories:
-- strategy
+
 redirect_from:
 - ahhhhhh-make-your-brand-as-good-as-a-cola-company/
 

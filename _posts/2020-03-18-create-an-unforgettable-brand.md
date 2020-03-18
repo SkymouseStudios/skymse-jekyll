@@ -8,7 +8,7 @@ description: Test subject lines and see what works and what doesn't. Try to find
   clear, valuable, actionable content that they can use to solve their problems without
   you.
 permalink: "/blog/create-an-unforgettable-brand/"
-img: "/uploads/017-emails-that-crush.png"
+img: "/uploads/018-viral-branding.png"
 ttr: "10"
 categories:
 - strategy
@@ -43,7 +43,7 @@ There are some very common pitfalls that businesses and marketing agencies fall 
 
 These are the main areas where we see businesses and agencies fail in their branding efforts. There _are_ other ways to mess up your branding, but most of the time it will be one of these mistakes. Compare your own branding strategy against this no-no list to see where you might be off-base in your own branding.
 
-![018-person-holding-grilled-cheese-burger](018-person-holding-grilled-cheese-burger.jpg)
+![018-person-holding-grilled-cheese-burger](/uploads/018-person-holding-grilled-cheese-burger.jpg)
 
 ## So What's the "Secret Sauce" for Creating an Unforgettable Brand?
 
@@ -164,6 +164,8 @@ Getting comfortable entails two things:
 **(1)** First, you need to find your brand voice. **Your language is a reflection of your brand.** Just like your dress illustrates your company's vibe and product, so too should the way you speak to your customers articulate what they will get from your business.
 
 Your voice is a fingerprint, so to speak. You should strive for your customers to know it's you speaking, even if there is no visual message attached at all.
+
+![Edna Mode](/uploads/018-edna-mode.gif)
 
 Think of a company like Chick-Fil-A. You've been seeing their billboards for years. Imagine you see a billboard that is completely plain with plain text on it. There's no font, no logo, no graphics of any kind. Just the words "eat more chik'n." You would immediately know that you were seeing a Chick-Fil-A ad. This is because Chick-Fil-A is really comfortable. They have a voice that are comfortable utilizing!
 
