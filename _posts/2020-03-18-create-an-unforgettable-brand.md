@@ -161,13 +161,13 @@ Don't look like you think you should look. Look like your customer EXPECTS you t
 
 Getting comfortable entails two things:
 
-**(1)** First, you need to find your voice. **Your language is a reflection of your brand.** Just like your dress illustrates your company's vibe and product, so too should the way you speak to your customers articulate what they will get from your business.
+**(1)** First, you need to find your brand voice. **Your language is a reflection of your brand.** Just like your dress illustrates your company's vibe and product, so too should the way you speak to your customers articulate what they will get from your business.
 
 Your voice is a fingerprint, so to speak. You should strive for your customers to know it's you speaking, even if there is no visual message attached at all.
 
 Think of a company like Chick-Fil-A. You've been seeing their billboards for years. Imagine you see a billboard that is completely plain with plain text on it. There's no font, no logo, no graphics of any kind. Just the words "eat more chik'n." You would immediately know that you were seeing a Chick-Fil-A ad. This is because Chick-Fil-A is really comfortable. They have a voice that are comfortable utilizing!
 
-🔑**Your goal is to become so consistent and clear with your messaging that your customers can recognize it by the voice alone.**
+🔑 **Your goal is to become so consistent and clear with your messaging that your customers can recognize it by the voice alone.**
 
 **(2)** Second, getting comfortable means that you expect to look and sound the same way for a long time. Think back to the Coca-Cola example. Coca-Cola would not have the brand that they do if they kept changing things. This is made clear by their #1 competitor, Pepsi, who is _constantly_ making adjustments to their brand. They change their can colors, they add all sorts of new flavors, their advertising is varied. Pepsi, as a consequence, does not share a fraction of the renown and recognition that Coke does. All you have to see is Coke's shade of red and you immediately know what it is at which you are looking. Coke advertising is often nothing more than a polar bear playing with its cub, but we immediately know that it's Coca-Cola!
 
