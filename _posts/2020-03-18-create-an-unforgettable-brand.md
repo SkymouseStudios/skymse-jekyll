@@ -161,7 +161,7 @@ Don't look like you think you should look. Look like your customer EXPECTS you t
 
 Getting comfortable entails two things:
 
-**(1)** First, you need to find your voice. **Your language is a reflection of your brand.** Just like your dress illustrates your company's vibe and product, so too should the way you speak to your customers articulate what they will get from your business.
+**(1)** First, you need to find your brand voice. **Your language is a reflection of your brand.** Just like your dress illustrates your company's vibe and product, so too should the way you speak to your customers articulate what they will get from your business.
 
 Your voice is a fingerprint, so to speak. You should strive for your customers to know it's you speaking, even if there is no visual message attached at all.
 
