@@ -3,7 +3,7 @@ layout: post
 categories:
 - profiles
 author: John Welch
-title: How To Sell (If You're A Small Business) in 2019
+title: 'How to sell in 2020: it doesn''t involve cold-calling'
 subtitle: A Small Business Guide to Sales in 2019
 description: This post details the way that a small business can grow through effective
   sales efforts in 2019
