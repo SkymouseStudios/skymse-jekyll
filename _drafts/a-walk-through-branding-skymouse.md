@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to build and brand your small business.
+title: The 31 Steps to building and branding your small business.
 subtitle: A Guide to Branding
 author: John Welch
 img: ''
@@ -17,7 +17,7 @@ It's hard to build a business
 **The plan to solve the problem**  
 Here are the steps for building a brand
 
-**What the world looks like hen you have solved the problem**  
+**What the world looks like when you have solved the problem**  
 You will have a business that people know what you do, why you do it and they will give you money.
 
 ***
@@ -142,7 +142,7 @@ The more I think about it the more I realize per project is better. We are selli
 
 In order to sell a product I need to know what product you need and every product is handcrafted, so I can't just say, "Here is the standard."
 
-We also wanted to grow  with our clients. For us, a website isn't just a one and done deal, it's a growing living thing th
+We also wanted to grow  with our clients. For us, a website isn't just a one and done deal, it's a growing _living_ thing.
 
 This is what I built for RESOURCE Commercial Real Estate
 
@@ -168,17 +168,17 @@ This is what I built for RESOURCE Commercial Real Estate
 * Make the web experience as easy and as friendly as possible
 * Mobile-friendly
 
-This is for midsized to large companies that are serious about their website and their brand.
+This is for mid-sized to large companies that are serious about their website and their brand.
 
 * Site is editable by admins and non-technical staff
 * New site is a platform we can continue to build upon and add new features
 * New profile pictures and descriptions for everyone
 * A cohesive brand with brand guidelines to help grow consistently into the future
-* User Experience (UX) testing and interating
+* User Experience (UX) testing and iterating
 * Advanced integrations with 3rd party apps (Salesforce)
 * Easy to use on the back end
 * Blogging platform
-* MailChimp Integrations
+* Mailchimp Integrations
 * Online store integrations
 * Advanced site search feature
 * Real Estate Listings
@@ -186,17 +186,17 @@ This is for midsized to large companies that are serious about their website and
 * Guest login and accounts
 * Easy add new post types (i.e. new employees, new case studies, new event, new research report)
 * Schema.org markup throughout
-* Raw sourcecode
+* Raw source code
 * Custom icons
-* Original Copywriting
+* Original Copy-writing
 * Illustrations or on-location pictures
-* Brandstorming to enhance your brand for the web
-* Custom backend
+* Brand-storming to enhance your brand for the web
+* Custom back-end
 * Custom website theme
 
 ## What is our Why?
 
-Me and John didn't want to be limited to websites. It was fun, but it wasn't the core of what our purpose. After listening to a podcast with Simon Senik, we realized what we were really missing was our _WHY_. What was our end goal here? Why did we even care? There are a million other things you can do besides making website? Why did we break into it? It took us a while to even figure that out. We sat down and talked about it, thought about it in the shower (not together) and kept asking ourselves WHAT IS OUR WHY? What is the end goal here? What is the dream? What difference are we trying to make in the world?
+John and I didn't want to be limited to websites. It was fun, but it wasn't the core of what our purpose. After listening to a podcast with Simon Senik, we realized what we were really missing was our _WHY_. What was our end goal here? Why did we even care? There are a million other things you can do besides making website? Why did we break into it? It took us a while to even figure that out. We sat down and talked about it, thought about it in the shower (not together) and kept asking ourselves WHAT IS OUR WHY? What is the end goal here? What is the dream? What difference are we trying to make in the world?
 
 Here's what we landed on:
 
@@ -212,19 +212,19 @@ All this talk of user experience, client experience and a buch of people with no
 
 > We partner with humans to lead others towards a delightful human experience.
 
-_Stories we love:_
-Tom's - let's shoe the world.
-Digital Telepathy - Make every experinece beautiful
-Chick-fil - great food with amazing services
+_Stories we love:_   
+Tom's - let's shoe the world.   
+Digital Telepathy - Make every experinece beautiful   
+Chick-fil-a - great food with amazing services   
 Chipotle - healthy food that is fresh and clean
 
 ## So Why do you make television?
 
-Our love for telling great stories can't be stopped. We wish we could, but we can't. It's our why. When you've found your Why it's like a desease. And we want everyone else to catch it.
+Our love for telling great stories can't be stopped. We wish we could, but we can't. It's our why. When you've found your Why it's like a disease. And we want everyone else to catch it.
 
 ### Why did you make a streaming service?
 
-What better way to reach a bunch of people? We said to ourselves, what if we had a Netflix that only had awesome stories? No reason to sort around in the $5 bin at walmart. We've done the sorting for you already.
+What better way to reach a bunch of people? We said to ourselves, what if we had a Netflix that only had awesome stories? No reason to sort around in the $5 bin at Walmart. We've done the sorting for you already.
 
 This focus on the truth has kept us accountable too. That's why we are completely transparent with our rates, our products, what goes on in the company. We make mistkaes, we've made a bunch and we'll keep making them. But with each mistake we just hope that we can step a little bit closer to truth.
 
