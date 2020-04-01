@@ -3,7 +3,7 @@ layout: post
 categories:
 - newtobranding
 author: John Welch
-title: How to rebrand your business.
+title: Rebrand Your Small Business in 5 Steps
 subtitle: A Guide to Branding
 description: ''
 img: ''
