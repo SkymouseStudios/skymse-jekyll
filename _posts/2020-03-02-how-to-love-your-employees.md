@@ -7,7 +7,6 @@ img: "/uploads/015-catching-millenials.jpg"
 permalink: "/how-to-find-and-keep-hardworking-millenial-employees/"
 ttr: 7
 categories:
-- strategy
 description: How do you keep your young emplpyees from leaving after a year? You business
   can't afford to onboard new help every year. It's a waste of money, time and starts
   to instill a culture of dispair.

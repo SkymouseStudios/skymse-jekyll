@@ -1,7 +1,7 @@
 ---
 layout: post
 author: John Welch
-title: How To Create An Contagious, Viral and Unforgettable Brand
+title: How To Create a Contagious, Viral and Unforgettable Brand
 subtitle: Create raving fans who can't help but spread the word.
 description: Test subject lines and see what works and what doesn't. Try to find ways
   to incorporate stories into your emails and make sure to reward your readers with
