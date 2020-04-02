@@ -1,0 +1,48 @@
+{% include header.html %}
+
+<main id="post" class="blog-page">
+  
+  <section class="blank">
+    <div class="tag">{{ page.subtitle }}</div>
+    <h1>{{ page.title }}</h1>
+    
+    <div class="post-info-wrapper cf">
+
+      {% if page.ttr %}
+        <div class="time-to-read">{{ page.ttr }} Minute Interview 👌</div>
+      {% endif %}
+    
+    </div>
+  </section>
+
+  <section class="hentry blank">
+
+    <iframe id="ytplayer" type="text/html" width="100%" height="380"
+  src="https://www.youtube.com/embed/{{ page.youtube_id }}?autoplay=1&origin={{ site.url }}"
+  frameborder="0"></iframe>
+
+    {{ content }}
+  </section>
+
+  <section class="blank grid-four">
+
+      <div class="author-section">
+         <img src="{{ page.img }}" alt="Photo of {{ page.guest }}">
+        <div>
+          <h3>{{ page.guest }}</h3>
+          <p>{{ page.guest_title }} @ <a href="{{ page.guest_website }}">{{ page.guest_company }}</a></p>
+          <a href="{{ page.guest_linkedin }}">Follow on Linkedin</a>
+        </div>
+      </div>
+
+    </section>
+
+ <section class="block">
+    <h3>Free marketing tips, just like this.</h3>
+    <p>Members get new posts sent exclusively to their email before anyone else.</p>
+    {% include mailchimp-blog.html %}
+  </section>
+  
+</div>
+
+{% include footer.html %}

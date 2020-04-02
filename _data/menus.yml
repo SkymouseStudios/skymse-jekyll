@@ -29,10 +29,10 @@ footer:
     subfolderitems:
       - title: "Blog"
         url: "/blog"
-      - title: "Free Marketing Courses"
+      - title: "Marketing Courses"
         url: "/lab"
-      # - title: "Downloads"
-      #   url: "/downloads"
+      - title: "Humans of Linkedin"
+        url: "/Humans-of-Linkedin"
   # - title: Extras
   #   subfolderitems:
   #     - title: "Store"

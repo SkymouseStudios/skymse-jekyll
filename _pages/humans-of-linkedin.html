@@ -1,0 +1,72 @@
+---
+
+title: Humans of Linkedin
+layout: default
+subtitle: Learn something new.
+description: Take control of your digital marketing with these resources and guides created specially for small businesses.
+permalink: /humans-of-linkedin/
+img-front: /uploads/humans-of-linkedin_icon.png
+img-back: /uploads/humans-of-linkedin_bg.png
+img-mid: /uploads/humans-of-linkedin.png
+
+---
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none">
+  <defs>
+    <filter id="squiggly-0">
+      <feTurbulence id="turbulence" baseFrequency="0.02" numOctaves="3" result="noise" seed="0"/>
+      <feDisplacementMap id="displacement" in="SourceGraphic" in2="noise" scale="2" />
+    </filter>
+    <filter id="squiggly-1">
+      <feTurbulence id="turbulence" baseFrequency="0.02" numOctaves="3" result="noise" seed="1"/>
+<feDisplacementMap in="SourceGraphic" in2="noise" scale="3" />
+    </filter>
+    
+    <filter id="squiggly-2">
+      <feTurbulence id="turbulence" baseFrequency="0.02" numOctaves="3" result="noise" seed="2"/>
+<feDisplacementMap in="SourceGraphic" in2="noise" scale="2" />
+    </filter>
+    <filter id="squiggly-3">
+      <feTurbulence id="turbulence" baseFrequency="0.02" numOctaves="3" result="noise" seed="3"/>
+<feDisplacementMap in="SourceGraphic" in2="noise" scale="3" />
+    </filter>
+    
+    <filter id="squiggly-4">
+      <feTurbulence id="turbulence" baseFrequency="0.02" numOctaves="3" result="noise" seed="4"/>
+<feDisplacementMap in="SourceGraphic" in2="noise" scale="1" />
+    </filter>
+  </defs> 
+</svg>
+
+
+<div id="scene" data-relative-input="true" data-pointer-events="true" style="width: 400px; margin: 0 auto">
+	<img style="z-index: 2;" data-depth="0.50" src="{{ site.url }}{{ page.img-front }}" alt="">
+	<img class="squiggle" style="z-index: 1;" data-depth="0.30" src="{{ site.url }}{{ page.img-mid }}" alt="">
+	<img style="z-index: 0" data-depth="0.10" src="{{ site.url }}{{ page.img-back }}" alt="">
+</div>
+
+
+<main id="page" style="margin-top: 300px">
+
+	<div class="pad"></div>
+	
+	<div class="blog-feed pad">
+		<h2 class="section-heading">All Episodes</h2>
+	
+		{% for post in site.episodes %}
+			<a href="{{ post.url }}">
+				<div class="blog-thumb">
+					<div class="picture">
+						<img src="{{ post.img }}" alt="{{ post.title }}">
+					</div>
+					<div class="words">
+						<h4>{{ post.title }}</h4>
+						<p>{{ post.subtitle }}</p>
+						<div class="time-to-read"> {{ post.ttr }} Minute Interview 👌</div>
+					</div>
+					
+				</div>
+			</a>
+		{% endfor %}
+	</div>
+</main>

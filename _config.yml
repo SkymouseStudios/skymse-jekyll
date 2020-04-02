@@ -28,3 +28,6 @@ collections:
   pages:
     output: true
     permalink: /:name
+  episodes:
+    output: true
+    permalink: /humans-of-linkedin/:name
