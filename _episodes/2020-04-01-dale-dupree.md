@@ -4,7 +4,7 @@ layout: episode
 title: Rebelling Against Sales is All That's Left with Dale Dupree
 subtitle: 
 description: 
-permalink: "/Humans-of-Linkedin/rebelling-against-sales-is-all-that-is-left-with-dale-dupree/"
+permalink: "/humans-of-linkedin/rebelling-against-sales-is-all-that-is-left-with-dale-dupree/"
 img: "/uploads/holi-dale.jpg"
 ttr: "00:18:38"
 guest: Dale Dupree
@@ -16,7 +16,7 @@ youtube_id: LUwJJ4_xvPA
 
 ---
 
-Spent 13 years in the B2B space, grew up learning how to work hard and learn how to do everything and wear every hat. He likes looking at how to align everyone in order to get the job done. Marketing and sales doesn't have to be pitted against eachother.
+In this episode of Humans of LinkedIn, Dale Dupree joins us to discuss uniting sales and marketing, how people want experiences, and how to be intentional with your marketing. 
 
 - Sales tends to be disconnected from what it should be
 - Learn to convey the person

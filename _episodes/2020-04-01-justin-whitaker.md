@@ -4,7 +4,7 @@ layout: episode
 title: "What's New in Digital Advertising for 2020 with Justin Whitaker"
 subtitle: 
 description: 
-permalink: "/Humans-of-Linkedin/whats-new-in-digital-advertising-for-2020-with-justin-whitaker/"
+permalink: "/humans-of-linkedin/whats-new-in-digital-advertising-for-2020-with-justin-whitaker/"
 img: "/uploads/holi-justin.jpg"
 ttr: "00:16:39"
 guest: Justin Whitaker
@@ -16,7 +16,7 @@ youtube_id: D7XgRR2aRlw
 
 ---
 
-Justin works at Trellis, he oversees all marketing opportunities. Trellis is a full service marketing and development agency based out of Boston, Massachusetts.
+In this episode of Humans of LinkedIn, Justin Whitaker joins us to discuss how brick and mortar stores can make the move to online commerce, how to include Google maps in your marketing, and how Pinterest ads are a great place to spend your digital ad budget. 
 
 Here are some things we cover:
 
