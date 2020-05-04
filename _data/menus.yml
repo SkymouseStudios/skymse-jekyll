@@ -33,6 +33,8 @@ footer:
         url: "/lab"
       - title: "Humans of Linkedin"
         url: "/humans-of-linkedin"
+      - title: "Downloads"
+        url: "/downloads"
   # - title: Extras
   #   subfolderitems:
   #     - title: "Store"

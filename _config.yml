@@ -31,3 +31,6 @@ collections:
   episodes:
     output: true
     permalink: /humans-of-linkedin/:name
+  downloads:
+    output: true
+    permalink: /downloads/:name

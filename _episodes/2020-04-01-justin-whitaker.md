@@ -20,8 +20,8 @@ In this episode of Humans of LinkedIn, Justin Whitaker joins us to discuss how b
 
 Here are some things we cover:
 
-- How to take advatage of online commerce
-- Options for brick-and-mortar stores making the shift to ecommerce
+- How to take advantage of online commerce
+- Options for brick-and-mortar stores making the shift to e-commerce
 - The benefits of using Pinterest ads
 - Facebook is giving businesses more organic visibility
 - Facebook is offering a grant for small businesses to run ads.

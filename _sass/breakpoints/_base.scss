@@ -27,6 +27,13 @@ body {
 	background-repeat: repeat;
 }
 
+.contact .logo-words,
+.about .logo-words,
+.work .logo-words,
+.humans-of-linkedin .logo-words{
+	color: $midnight;
+}
+
 main {
 	margin: 0 20px; // center content in page
 	overflow: hidden; // hide anything that wants to overflow
@@ -261,7 +268,8 @@ header {
 		font-weight: 300;
 		text-shadow: -2px 1px 0px #ff60604f;
 		color: $white;
-		line-height: 2.3em;
+		line-height: 1.5em;
+		font-size: 3.5em;
 	}
 
 	span {
@@ -635,6 +643,18 @@ section.hentry {
 	}
 }
 
+.download-thumb {
+	align-items: center;
+
+	.picture {
+		text-align: center;
+	}
+
+	img {
+		width: 30px;
+	}
+}
+
 // TIME TO READ
 .time-to-read {
 	position: absolute;
@@ -893,7 +913,6 @@ MODULES
 
 	h4 { 
 		padding: 0px 20px;
-		text-align: left;
 
 	}
 

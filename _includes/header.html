@@ -78,7 +78,7 @@
 		{% include analyticstracking.html %}
 	</head>
 
-	<body itemscope itemtype="http://schema.org/WebPage">
+	<body itemscope itemtype="http://schema.org/WebPage" class="{{ page.url | remove: "/" }}">
 		<!-- WhatsApp Image -->
       	<link itemprop="image" href="{{ site.url }}/apple-touch-icon.png"> 
 
@@ -104,7 +104,7 @@
 
 			<a id="logo" href="{{ site.url }}/" rel="nofollow">
 				<img alt="Skymouse Studios Logo" src="{{ site.url }}/library/images/logos/skymouse-logo.svg">
-				<span class="m-hide"><strong>Skymouse</strong><span style="font-weight: 100;">Studios</span></span>
+				<span class="logo-words m-hide"><strong>Skymouse</strong><span style="font-weight: 100;">Studios</span></span>
 			</a>
 
 			<div id="menu-burger">

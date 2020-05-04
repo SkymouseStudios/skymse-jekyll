@@ -30,7 +30,7 @@ redirect_from:
 		<h3><i class="fa fa-linkedin"></i> Use Linkedin to start growing your business</h3>
 	
 		<div class="pad grid-three">
-		    {% for post in site.categories["linkedin"] %}
+		    {% for post in site.categories["linkedin"] limit:3 %}
 			    <div class="card">
 			      	<a href="{{ site.url }}{{ post.url }}">
 						<img src="{{ post.img }}" alt="{{ post.title }}">
@@ -48,7 +48,7 @@ redirect_from:
 		<h3>Tips to help you create better content.</h3>
 	
 		<div class="pad grid-three">
-		    {% for post in site.categories["content"] %}
+		    {% for post in site.categories["content"] limit:3 %}
 			    <div class="card">
 			      	<a href="{{ site.url }}{{ post.url }}">
 						<img src="{{ post.img }}" alt="{{ post.title }}">
@@ -64,7 +64,7 @@ redirect_from:
 		<h3>Create a winning marketing strategy.</h3>
 	
 		<div class="pad grid-three">
-		    {% for post in site.categories["strategy"] %}
+		    {% for post in site.categories["strategy"] limit:3 %}
 			    <div class="card">
 			      	<a href="{{ site.url }}{{ post.url }}">
 						<img src="{{ post.img }}" alt="{{ post.title }}">

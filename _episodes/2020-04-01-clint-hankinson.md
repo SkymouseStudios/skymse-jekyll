@@ -18,12 +18,12 @@ youtube_id: Je_NVXpWMts
 
 Today we talk with Clint Hankinson, the Director of Marketing over at iToLogy, a non-profit helping and encouraging more people get into the IT field. From summer camps to field trips they helping people of all ages learn more about careers in technology.
 
-We talk about what it means to be transparent with your marketing team and how new technoglogy helps us track data and be better job when it comes to measuring success.
+We talk about what it means to be transparent with your marketing team and how new technology helps us track data and be better job when it comes to measuring success.
 
 - Patience in Marketing
 - Goals and Accountability
 - Transparency in Marketing
 
-Smoke and mirrors to make it look like you're doing more than you are or you're blaming others for your own falts.
+Smoke and mirrors to make it look like you're doing more than you are or you're blaming others for your own faults. 
 
 > "To be transparent means you care."

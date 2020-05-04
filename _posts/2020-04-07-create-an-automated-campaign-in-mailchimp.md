@@ -1,21 +1,22 @@
 ---
 layout: post
 author: Patrick Hanus
-title: How to Create a Email Automations in MailChimp
+title: Save time and impress your customers with Email Automations in MailChimp
 subtitle: Leverage the power of automations to start sending better email.
 description: Use Mailchimp to its fullest potential! This post covers everything you
   need to know to start using email automations to market to your customers and to
   build a marketing system for your small business.
-permalink: "/blog/create-automations-in-mailchimp/"
-img: "/library/images/blog/ep005-awesome-marketing-system.jpg"
-ttr: "12"
+permalink: "/blog/save-time-with-automations-in-mailchimp/"
+img: "/uploads/020-find-time-with-mailchimp.png"
+ttr: "10"
 categories:
 - content
 
 ---
+
 Email campaigns are the best way to communicate with your customers. Email is very widely used and simple to use for marketing. All you have to do is get your audience's permission to send them your automated emails and you can keep your customers coming back for more and more of your services or product!
 
-If you have someone's email address that is WAY better than having them follow you on Instagram or Facebook. In the former case, the social media network owns the relationship between you and your customer. You are at the mercy of Facebook. They decide when your customers see your content--sometimes in an unethical way.
+If you have someone's email address that is WAY better than having them follow you on Instagram or Facebook. In the former case, **the social media network owns the relationship between you and your customer.** You are at the mercy of Facebook. They decide when your customers see your content--sometimes in an unethical way.
 
 The great thing is, when using email, YOU own the relationship. YOU control when people see the content and how it's presented. If you control the audience, you can **intentionally build a relationship with those people**. THAT is how you create raving fans 🤘 (or just longlasting business relationships).
 
@@ -29,13 +30,13 @@ We're going to break up this process into three different stages. Each stage bui
 2. Content
 3. Schedule
 
-## Let's take a look at how a Clock Shop Would Use Email Campaigns.
+### Let's take a look at how a Clock Shop Would Use Email Campaigns
 
 Got a Clock in the 'Rari? When it comes to email marketing, the industry your small business is in shouldn't matter, especially if it's B2C. The same core principals apply no matter what you do.
 
 We're going to use an odd example, because chances are you might be a part of an industry that is difficult to market.
 
-### 1. Audience
+## **Audience** building keeps your revenue growing
 
 TimeLord Clock Co LLC has a clock repair shop and a sales floor where they sell Grandfather clocks upwards of $15,000 dollars or small kitchen wall clocks that are $30. Immediately we can tell there are at least 3 very different customers in this audience: people needing clocks fixed, people in the market for big 'ole clocks, and people looking for a modest kitchen timepiece.
 
@@ -67,9 +68,9 @@ While you are building your audience, you should organize it in MailChimp by usi
 
 Especially if you're uploading contacts for the first time, now is the time to make sure you have properly categorized your contacts so that you don't lose track of what they are interested in or where they came from.
 
-### When to use Mailchimp Automations to Build an Audience Relationship.
+### When to use Mailchimp Automations to Build an Audience Relationship
 
-What's awesome about automations is that you can set them up to go out _automatically_ when they need to (as the name states😁). So, if you have a segment of your audience called "Owns Antique Clock" you can set up an automation to begin as soon as someone is added to that segment.
+What's awesome about automations is that you can set them up to go out _automatically_ when they need to (as the name states 😁). So, if you have a segment of your audience called "Owns Antique Clock" you can set up an automation to begin as soon as someone is added to that segment.
 
 That means from the moment they are added to that segment they might be sent the first email that gives them a tip about not using Windex on their clock because it ruins the wood. Here you're establishing a relationship as an expert in the clock industry.
 
@@ -89,7 +90,7 @@ Automation allows you to add new tags to your subscribers once they've received 
 
 Later on, you can also send new campaigns based on who is in a campaign. So if you wanted to send out an email on Black Friday, you could target a segment based on what stage they are in your automation.
 
-## 2. Content
+## **Content** keeps your audience happy
 
 Your _audience_ informs your _content_. Your content educates your audience. It also opens the door for them to talk to you or stop by your store. **You want to give your customers and future customers any possible excuse to talk to you and start buying from you.**
 
@@ -108,13 +109,15 @@ For example, I might be using the general email from Skymouse, but I can add a c
 * Patrick at Skymouse "TheTeam@SkymouseStudios.com"
 * Dave The Clockmaster "News@ClockInTheRari.com"
 
-### Write a Killer Subject Line.
+### Write a Killer Subject Line
 
 Your email's subject line can make or break that email's open rate. The best way to measure the quality of a subject line is by analyzing open rates. You want to shoot for somewhere around 30% open rate for most industries--especially if the list of emails is reliable.
 
 A good subject line should be enticing and mildly provocative. One of our big secrets is being specific in your subject line. People hate vagueness. They want the nitty-gritty.
 
-> Warning: The right content matters. Don't send emails about expensive grandfather clocks to a college student who just bought a $30 kitchen clock for his mother. Know your audience. Keep them organized using tags and groups.
+> Warning: The right content matters. 
+
+Don't send emails about expensive grandfather clocks to a college student who just bought a $30 kitchen clock for his mother. Know your audience. Keep them organized using tags and groups.
 
 This should be common sense, but it's worth saying: don't mislead your customers. **Your subject line should be an accurate explanation of the content of your email.** If you break the trust of your subscriber, they might unsubscribe or never open your emails again.
 
@@ -153,7 +156,7 @@ Which automatically converts to something like:
 
 **Using video is very effective (but keep it short).** This requires more time to record and edit, but it can be worth it. Video is one of the best ways to advance your relationship with your subscribers. Keep it short! We recommend not going over 1 minute.
 
-## 3. Schedule
+## **Schedule** your automated emails for the perfect times
 
 Scheduling ensures you're being consistent with your emails. Luckily, Mailchimp has great scheduling capabilities so you can set up automations then forget about them (figuratively of course...you want to see what is converting).
 
@@ -171,4 +174,8 @@ Be helpful! You want to get to the point where you're helping your customers and
 * I'm moving and I want to get a new clock that matches my new kitchen, but I didn't realize that until I saw your email.
 * I want to keep my clock clean, but I forget how to do it right.
 
-An automation is the best way to put your emails on autopilot. If someone buys a new clock you can include emails about the 5 ways to make sure your clock keeps on ticking. This builds a relationship with the customer and helps to grow your relationship with them. You can't build too much trust with your customers.
+An automation is the best way to put your emails on autopilot. If someone buys a new clock you can include emails about the 5 ways to make sure your clock keeps on ticking. This builds a relationship with the customer and helps to grow your relationship with them. You can't build too much trust with your customer.
+
+So now you've got the basics down of how to plan, create and launch an automated Mailchimp campaign. This is only the beginning, there's so much you can do with Mailchimp and they're adding features all the time.
+
+For more tips and tricks to marketing your business, check out the rest of our blog!
