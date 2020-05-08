@@ -1,7 +1,11 @@
 {% include header.html %}
 
 <main id="post" class="blog-page">
-  
+
+  <p>
+    <a href="/blog/">Back to the blog</a>
+  </p>
+    
   <section class="blank">
     <div class="tag">{{ page.subtitle }}</div>
     <h1>{{ page.title }}</h1>
@@ -27,6 +31,8 @@
 
   <section class="hentry blank">
     {{ content }}
+
+    <a href="/blog/">Back to the blog</a>
   </section>
 
 {% for profile in site.data.authors.profiles %}

@@ -226,6 +226,19 @@ section {
 POSTS & CONTENT STYLES
 *********************/
 
+.blog-page {
+
+	.blog-image-full {
+		box-shadow: none;
+		width: 100%;
+	}
+
+	.blog-image-mid{
+		box-shadow: none;
+		width: 80%;
+	}
+}
+
 /*********************
 FOOTER STYLES
 *********************/

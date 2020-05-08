@@ -557,16 +557,6 @@ POSTS & CONTENT STYLES
 
 	img {
 		width: 100%;
-		box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
-	}
-}
-
-section.hentry {
-	img {
-		width: 50%;
-		margin: 20px 20%;
-		box-shadow: 1px 1px 15px -5px rgba(0,0,0,0.3);
-		border-radius: 5px;
 	}
 }
 
@@ -580,6 +570,13 @@ section.hentry {
 // POST: Blog Post
 
 .blog-page {
+	img {
+		display: block;
+		width: 100%;
+		margin: 20px auto;
+		border-radius: 5px;
+	}
+
 	p, ol, ul {
 		font-family: "merriweather";
 		font-weight: 300;
@@ -598,18 +595,15 @@ section.hentry {
 .blog-feed {
 	max-width: 600px;
 	margin: 100px auto;
-
-	a {
-		margin: 100px auto;
-		display: block;
-	}
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-gap: 60px;
 }
 
 .blog-thumb {
 	display: grid;
 	grid-template-columns: 1fr;
     background-size: 300px;
-    background-color: white;
     grid-gap: 10px;
 
 	.words {
@@ -648,10 +642,6 @@ section.hentry {
 
 	.picture {
 		text-align: center;
-	}
-
-	img {
-		width: 30px;
 	}
 }
 

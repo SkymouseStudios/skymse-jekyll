@@ -20,6 +20,10 @@ Stylesheet: Grid Stylesheet
   margin-top: 5%;
 }
 
+.pad-top {
+  margin-top: 5%;
+}
+
 .d-1of3-pad {
   @include grid-col;
   width: 30%;
