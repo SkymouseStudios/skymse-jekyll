@@ -1,7 +1,7 @@
 ---
 layout: post
 author: John Welch
-title: "SEO Strategy: Why Your Website Isn't Ranking (And how to fix it)""
+title: "SEO Strategy — Why Your Website Isn't Ranking (And how to fix it)"
 subtitle: A complete guide to SEO in 2020
 description: 
 permalink: "/blog/11-website-statistics-that-actually-matter/"
