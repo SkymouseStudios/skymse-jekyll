@@ -10,31 +10,26 @@ p {
 /* LAYOUT Styles */
 /******************/
 
-.wrap {
-}
-
-#page, #inner-header, #product, #Checkout, .home-hero {
+.section-default {
+	// Standard padding for things
 	width: 1000px;
-}
-
-#page {
-	margin-top: 150px;
 }
 
 /*****************/
 /* HEADER */
 /******************/
 
+#scene {
+	top: -100px;
+	width: 140%;
+	left:calc(50% - 75%);
+}
+
 
 /*********************
 TEMPLATE OBJECTS
 *********************/
 
-.arrow {
-	z-index: 55;
-	top: 30%;
-	transform: rotate(0deg);
-}
 
 #menu-burger, {
 	display: none;
@@ -81,8 +76,8 @@ img.client-site {
 	position: relative;
 	background-color: white;
 	box-shadow: 37.2px 62.5px 125px -25px rgba(50,50,93,.5),22.3px 37.5px 75px -37.5px rgba(0,0,0,.6);
-	transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
-	-webkit-transform: translate(50%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
+	transform: translate(-10%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
+	-webkit-transform: translate(10%, -30%) rotate3d(0.32, -0.94, 0, 2deg) rotate(2.2deg);
 	
 	&:nth-child(odd) {
 		transform: translate(60%, -35%) rotate3d(0.32, -0.94, 0, 2deg) rotate(-2.2deg);

@@ -166,6 +166,11 @@ blockquote p {
   color: $midnight;
 }
 
+.light {
+  color: white;
+}
+
+
 .text-center {
   text-align: center;
 }
@@ -219,6 +224,11 @@ ul.list {
 }
 
 .tag-red {
-  border-color: red;
-  color: red;
+  border-color: $red;
+  color: $red;
+}
+
+.tag-white {
+  border-color: white;
+  color: white;
 }

@@ -51,11 +51,20 @@
   {% endif %}
 {% endfor %}
 
- <section class="block">
-    <h3>Free marketing tips, just like this.</h3>
-    <p>Members get new posts sent exclusively to their email before anyone else.</p>
-    {% include mailchimp-blog.html %}
+<div class="pad"></div>
+
+  <section class="block card">
+    <div class="pad-content">
+      <h3>Free marketing tips, just like this.</h3>
+      <p>Members get new posts sent exclusively to their email before anyone else.</p>
+      
+      <div style="max-width: 400px; margin: 0 auto;">
+        {% include mailchimp-blog.html %}
+      </div>
+      
+    </div>
   </section>
+
   
 </div>
 

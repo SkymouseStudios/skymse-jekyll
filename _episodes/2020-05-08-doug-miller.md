@@ -4,7 +4,7 @@ layout: episode
 title: "Humans are Resilient with Doug Miller"
 subtitle: "Where there's a will there's a way"
 description: 
-permalink: "/humans-of-linkedin/humans-are-resilient-with-doug-miller"
+permalink: "/humans-of-linkedin/humans-are-resilient-with-doug-miller/"
 img: "/uploads/holi-doug-miller.jpg"
 ttr: "00:50:16"
 guest: Doug Miller

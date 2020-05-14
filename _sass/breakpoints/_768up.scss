@@ -10,16 +10,6 @@ body {
 	font-size: 16px;
 }
 
-#page, #inner-header, #product, #Checkout {
-	width: 800px; // set content width
-	margin: 0 auto; // center content in page
-}
-
-#post {
-	width: 700px;
-	margin: 0 auto;
-}
-
 .top-logo {
 	margin: 0 auto;
 	text-align: center;
@@ -42,29 +32,27 @@ p {
 HEADER STYLES
 *********************/
 
-.header-image {
-	top: 0px;
-	left: 0px;
-
-	img {
-		width: 100%;
-	}
+.hero {
+	padding-top: 280px;
 }
 
 .home-hero {
-	//max-width: 650px;
-	margin: 0 auto;
-	margin-top: 80px;
+	span {
+		font-size: 4em;
+	}
+
+	p {
+		font-size: 1.5em;
+	}
 }
 
 #scene {
-	height: 600px;
+	top: -100px;
+	width: 1800px;
+	left: calc(50% - 950px);
 
-
-	img.scene-home {
-		margin: -223px 10px 0px -230px;
-		width: 125%;
-		height: auto;
+	img {
+		width: 105%;
 	}
 
 	#headerFront {
@@ -81,46 +69,18 @@ HEADER STYLES
  		width: 105%;
  		margin: auto;
 	}
-}
 
-.takeoff {
-	background-position: auto;
-	background-size: cover;
-}
-
-#scene::before {
-	display: none;
+	&::before {
+		display: none;
+	}
 }
 
 #scene .scene-home {
 	margin: 0;
 }
 
-#scene img {
-	width: 105%;
-}
-
-.home-hero {
-	span {
-		font-size: 4em;
-	}
-
-	p {
-		font-size: 1.5em;
-	}
-}
-
-.home-thing {
+.panel-content {
 	grid-column: 2;
-}
-
-.alone {
-	grid-template-columns: 1fr 1fr;
-	height: 70vh;
-}
-
-.takeoff {
-	background-position: center;
 }
 
 .section-back::after {
@@ -139,13 +99,7 @@ NAVIGATION STYLES
 		
 		li {
 			display: inline-block;
-		} /* end ul li */
-
-		li.current-menu-item,
-		li.current_page_item,
-		li.current_page_ancestor {
-			a {}
-		}  
+		} /* end ul li */ 
 	} 
 	
 } /* end .nav */
@@ -169,9 +123,16 @@ TEMPLATE OBJECTS
 	}
 }
 
-section {
+.section-default {
+	// Standard padding for things
+	width: 800px;
 	padding: 3em;
-	margin: 6em 0;
+	margin: 50px auto;
+}
+
+.section-full-width {
+	// Spans the whole screen
+	margin: 0px;
 }
 
 .card-center {
@@ -227,6 +188,13 @@ POSTS & CONTENT STYLES
 *********************/
 
 .blog-page {
+	width: 700px;
+	margin: 0px auto;
+
+	.blog-screenshot {
+		width: 120%;
+		margin-left: -10%;
+	}
 
 	.blog-image-full {
 		box-shadow: none;
@@ -234,8 +202,7 @@ POSTS & CONTENT STYLES
 	}
 
 	.blog-image-mid{
-		box-shadow: none;
-		width: 80%;
+		
 	}
 }
 

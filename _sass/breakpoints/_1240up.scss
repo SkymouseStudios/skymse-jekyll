@@ -6,16 +6,13 @@ p {
 	font-size: 1em;
 }
 
-#page, #inner-header, #product, .home-hero {
+.section-default {
+	// Standard padding for things
 	width: 1240px;
 }
 
-.header-image {
-	top: 0px;
-
-	img {
-		width: 100%;
-	}
+#scene {
+	top: -200px;
 }
 
 footer {

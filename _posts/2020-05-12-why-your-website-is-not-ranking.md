@@ -3,10 +3,10 @@ layout: post
 author: John Welch
 title: "SEO Strategy — Why Your Website Isn't Ranking (And how to fix it)"
 subtitle: A complete guide to SEO in 2020
-description: 
-permalink: "/blog/11-website-statistics-that-actually-matter/"
-img: "/uploads/022-stats-for-web-25.png"
-ttr: "5"
+description: Because SEO is rapidly evolving we've compiled some of the latest tricks, tips and strategies to optimize your website and start generating more organic traffic.
+permalink: "/blog/seo-strategy-why-your-website-isnt-ranking/"
+img: "/uploads/023-2020-seo-guide.png"
+ttr: "18"
 categories:
 - strategy
 
@@ -36,7 +36,10 @@ The next question then becomes a lot more important, "what do I do about it?"
 
 **We suggest starting with these 4 steps.** 
 
-## Step 1 - Create Backlinks
+- TOC
+{:toc}
+
+## Step 1: Create Backlinks
 
 There is a lot of discussion about how Google ranks search results. 
 
@@ -62,7 +65,7 @@ A backlink from a random blog with one view per month will basically mean nothin
 
 When people learn about backlinking for the first time, a lightbulb pops up over their head.
 
-"Wait, you mean that there are factors outside of my own website that affect my rankings?"
+> "Wait, you mean that there are factors outside of my own website that affect my rankings?"
 
 Yes, there most definitely are. 
 
@@ -70,37 +73,37 @@ Yes, there most definitely are.
 
 [According to Neil Patel](https://neilpatel.com/blog/everything-you-need-to-know-about-off-page-seo/), there are several off-page SEO strategies that you should be using. The two most important involved building links and establishing trust for your domain. 
 
-### [**Building Links**](https://www.entrepreneur.com/article/247984)
+### Building Links
 
-There are several different ways to build links, some easier than others. The harder the link is to build, the more value it's going to have for your SEO.
+[There are several different ways to build links](https://www.entrepreneur.com/article/247984), some easier than others. The harder the link is to build, the more value it's going to have for your SEO.
 
-### **Broken-Link Building**
+**Broken-Link Building**
 
 There is a Chrome plugin you can download called [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=es-419Borrar). Use this plugin to check links on webpages with content for which you would like to rank. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1b617006-e2f4-4bb7-a53b-cca1c708e341/Chrome_Links_Capture_1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1b617006-e2f4-4bb7-a53b-cca1c708e341/Chrome_Links_Capture_1.png)
+<img class="blog-screenshot" src="/uploads/023-Chrome_Links_Capture_1.png" alt="Screenshot: Chrome Links Capture">
 
 For example, let's say you're in the nutrition space. Search on Google for "nutrition + links."
 
 Then, click on those webpages that show up for the search and run the Check My Links Plugin. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fb8b809-1602-482b-963f-cad6a02c6008/Chrome_Links_Capture_2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1fb8b809-1602-482b-963f-cad6a02c6008/Chrome_Links_Capture_2.png)
+<img class="blog-screenshot" src="/uploads/023-Chrome_Links_Capture_2.png" alt="Screenshot: Chrome Links Capture">
 
 As you can see, this website has one link that is broken. Once you find a link that is broken relating to your keywords, contact the webmaster of the site. 
 
 The webmaster is the person who owns the site. There are a couple of ways to contact the webmaster. [Google recommends the following options](https://support.google.com/websearch/answer/9109?hl=en).
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8020b678-9a35-454e-9bc7-5a9f15fa767a/Webmaster_ContaCT.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8020b678-9a35-454e-9bc7-5a9f15fa767a/Webmaster_ContaCT.png)
+<img class="blog-screenshot" src="/uploads/023-Webmaster_ContaCT.png" alt="Contact Webmaster example">
 
-**Contact Us Page**
+#### Contact Us Page
 
 Find the "contact us" page on the website and send them an email or submit a message if it's a contact form. 
 
-**Using WHOIS**
+#### Using WHOIS
 
 Type "whois www.website.com" into Google. You can find the email address you need under "registrant email" or "administrative contact."
 
-**Contact The Host**
+#### Contact The Host
 
 If you can't reach the webmaster directly, the [Whois](https://www.whois.net/) information should include the website's hosting company. You can contact the host to get the contact info for the specific domain. 
 
@@ -110,13 +113,11 @@ Most people think of infographics as ways to share information or ways to create
 
 While infographics can be useful for those applications, [there is a much more powerful way that you can use infographics for SEO](https://visme.co/blog/how-to-build-links-with-infographics/). 
 
-Infographics tend to garner high levels of engagement, when they are high-quality and informative. 
+> Infographics tend to garner high levels of engagement, when they are high-quality and informative. 
 
 This [engagement](https://piktochart.com/blog/infographics-drive-traffic-inspire-change/) signals to Google that you are delivering valuable content. Here is an example:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/190a875f-c52e-4ef3-a5a7-97096aa353c6/Red_Gray_Steps_to_Bicycle_Safety_Infographic.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/190a875f-c52e-4ef3-a5a7-97096aa353c6/Red_Gray_Steps_to_Bicycle_Safety_Infographic.png)
-
-**Infographics Garner Backlinks**
+<a href="/uploads/023-Red_Gray_Steps_to_Bicycle_Safety_Infographic.png" download>Download Infographic</a>
 
 If you create a really [useful and well-researched infographic](https://visme.co/blog/how-to-make-an-infographic/), it's likely that other websites will use it. This creates backlinks to your site from other domains that are trying to deliver high-quality content.
 
@@ -142,7 +143,7 @@ The engagement on your social media content also plays a role. If you are develo
 
 There is also benefit to being diverse in how you build social media backlinks. For example, there are [numerous ways to use LinkedIn to drive traffic to your site](https://skymousestudios.com/blog/use-linkedin-to-drive-traffic-to-your-website/). 
 
-### **Use Google Search Operators**
+### Use Google Search Operators
 
 [Google Search Operators](https://www.searchenginejournal.com/google-search-operators-commands/215331/) help you clean up your SEO, protect your content, and find opportunities you may not be taking advantage of. 
 
@@ -150,9 +151,11 @@ There are several ways that Google Search Operators can be useful.
 
 This video from Ahrefs is a great way to understand how Google Search Operators work and how you can use them to improve your SEO. 
 
-[https://youtu.be/yWLD9139Ipc](https://youtu.be/yWLD9139Ipc)
+<iframe id="ytplayer" type="text/html" width="100%" height="380"
+  src="https://www.youtube.com/embed/yWLD9139Ipc?autoplay=1&origin={{ site.url }}"
+  frameborder="0"></iframe>
 
-## Step 2 - Establish Domain Trust
+## Step 2: Establish Domain Trust
 
 [Establishing trust](https://searchengineland.com/guide/seo/trust-authority-search-rankings) is important when it comes to SEO. Trust is what allows Google to choose your site over someone else's site. 
 
@@ -180,7 +183,7 @@ Authority is one of the major ranking factors that Google considers when indexin
 
 As you can see in this [graphic from SEO Siren](https://www.seosiren.com/5-best-techniques-to-increase-domain-authority/), domain authority is influenced by multiple factors. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a98c9178-4d3d-4f33-8731-3af708a065c6/Domain_Authority_Graph.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a98c9178-4d3d-4f33-8731-3af708a065c6/Domain_Authority_Graph.jpg)
+<img class="blog-image-mid" src="/uploads/023-Domain_Authority_Graph.jpg" alt="Screenshot: Chrome Links Capture">
 
 Increasing authority takes time and effort. It won't happen overnight. It's helpful to think of domain authority as a result of performing SEO strategies well. 
 
@@ -198,7 +201,7 @@ Google's [Search Quality Evaluator Guidelines](https://static.googleusercontent.
 
 As you can see in the tweets below, Google cares about great content. Using the search quality guidelines will help you create content that Google wants to see.  
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8c9fe60-c84a-4868-afce-cf9dddc6b4f7/Annotation_2020-05-06_145459.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8c9fe60-c84a-4868-afce-cf9dddc6b4f7/Annotation_2020-05-06_145459.png)
+<img class="blog-screenshot" src="/uploads/023-google-search-Annotation_2020-05-06_145459.png" alt="Screenshot: Chrome Links Capture">
 
 Reputation is not just high-quality content. It also includes things like engagement, shares, and backlinks. 
 
@@ -230,7 +233,7 @@ Now that you're firmly convinced you need to deliver an amazing experience, let'
 
 Google measures relevance [a couple of different ways](https://www.google.com/search/howsearchworks/algorithms/). Keywords are the foundation of relevance scores. As you can see in the screenshot below, keywords in your headings or body that match search terms will signal relevance.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4eec715-527f-4b43-972c-ae069252c92b/Annotation_2020-05-07_150227.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4eec715-527f-4b43-972c-ae069252c92b/Annotation_2020-05-07_150227.png)
+<img class="blog-screenshot" src="/uploads/023-relavance-of-web-pages.png" alt="Relavance of web pages">
 
 There are other factors as well, "beyond simple keyword matching, we use aggregated and anonymized interaction data to assess whether search results are relevant to queries."
 
@@ -238,7 +241,7 @@ What does that mean? It means Google looks at things like how long users stay on
 
 All of this information works together to tell Google how relevant your content is. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/723fefce-bc55-44a2-a26b-5165d7777acb/google-mobile-ranking-factors.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/723fefce-bc55-44a2-a26b-5165d7777acb/google-mobile-ranking-factors.jpg)
+<img class="blog-screenshot" src="/uploads/023-google-mobile-ranking-factors.jpg" alt="Google Mobile Ranking Factors">
 
 [This infographic from Blue Corona](https://www.bluecorona.com/blog/google-ranking-factors-2018/) helps explain the paradigm that Google is following when it thinks about relevance as it relates to user experience. 
 
@@ -287,7 +290,7 @@ The best way to decrease bounce rate and pogo-sticking is to start increasing us
 
 This [infographic from Singlegrain](https://www.singlegrain.com/seo/seo-ranking-factors-2019/) explain dwell time well. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7711cf4-a3b2-492e-8a2c-03f583ddf1bc/image7-4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7711cf4-a3b2-492e-8a2c-03f583ddf1bc/image7-4.png)
+<img class="blog-image-mid" src="/uploads/023-singlegrain-explain-dwell-time-well.png" alt="What is dwell time">
 
 # Step 4 - Use Google Search Console
 
@@ -295,7 +298,9 @@ Most people know that Google “indexes” their site; it’s why they focus on 
 
 What many websites fail to do is utilize Google Search Console. 
 
-[https://youtu.be/ONr5Z7VhNFI](https://youtu.be/ONr5Z7VhNFI)
+<iframe id="ytplayer" type="text/html" width="100%" height="380"
+  src="https://www.youtube.com/embed/ONr5Z7VhNFI?autoplay=1&origin={{ site.url }}"
+  frameborder="0"></iframe>
 
 In order to get the most out of your SEO, it’s essential that you’re using [Google Search Console](https://www.google.com/search/howsearchworks/crawling-indexing/). 
 
@@ -327,7 +332,7 @@ If you have pages that aren't indexed, [you can submit your pages to Google](htt
 
 [Google's mobile-first indexing](https://www.searchenginejournal.com/google-mobile-first-indexing/346170/) has been on the scene for a little while. Most people have a difficult time understanding this. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76b4b104-0021-40d7-a137-8037df839f24/Annotation_2020-05-07_121949.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76b4b104-0021-40d7-a137-8037df839f24/Annotation_2020-05-07_121949.png)
+<img class="blog-screenshot" src="/uploads/023-mobile-first-indexing.png" alt="Mobile First Indexing">
 
 There are not two different indexes for desktop and mobile. Rather, [Google primarily focuses on the mobile version of your website](https://developers.google.com/search/mobile-sites/mobile-first-indexing) for indexing and ranking purposes. 
 
@@ -355,7 +360,7 @@ Just in case you're wondering, it's not. [77% of internet users read blogs regul
 
 Not only that, but [blogging is one of the most effective ways to increase search traffic](https://www.articulatemarketing.com/blog/increase-organic-site-traffic). 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3205c62-8c75-4577-87b6-97e960bcfcb7/16bc036540fcaa596097b5658124768b.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3205c62-8c75-4577-87b6-97e960bcfcb7/16bc036540fcaa596097b5658124768b.jpeg)
+<img class="" src="/uploads/023-blogging-meme.jpeg" alt="Blog Meme">
 
 **How To Create Blogs**
 
@@ -377,17 +382,17 @@ Next, take the ideas that you have come up with and organize them into an outlin
 
 Fill in the blog post with details, supporting articles, images, videos, infographics, and anything else that takes the blog to professional standards. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e575981a-5774-4a9f-aa18-008d2c4c43e6/3_Steps.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e575981a-5774-4a9f-aa18-008d2c4c43e6/3_Steps.png)
-
 **How To Distribute Your Blog**
 
 Distributing your blog content is essential. Most websites simply post their blogs and never think about it again. 
 
 This is like spending months training for a marathon and then bailing when the race starts. Writing the blog is just your first step. Distributing it is vital. 
 
-[https://www.youtube.com/watch?v=q3DEnXHvvbA&feature=youtu.be](https://www.youtube.com/watch?v=q3DEnXHvvbA&feature=youtu.be)
+<iframe id="ytplayer" type="text/html" width="100%" height="380"
+  src="https://www.youtube.com/embed/q3DEnXHvvbA?autoplay=1&origin={{ site.url }}"
+  frameborder="0"></iframe>
 
-[This article from Neil Patel does an amazing job of explaining your distribution options](https://neilpatel.com/blog/16-proven-content-promotion-strategies-to-make-every-blog-post-successful/). Here are just a few of the highlights. 
+This article from Neil Patel does an amazing job of [explaining your distribution options](https://neilpatel.com/blog/16-proven-content-promotion-strategies-to-make-every-blog-post-successful/). Here are just a few of the highlights. 
 
 - Turn your blog into an infographic and distribute it on your social media channels and any niche forums that relate to your audience.
 - Create videos from your blogs and publish those on YouTube and social media.
@@ -400,7 +405,7 @@ Creating a video show or podcast for your brand is one of the best things you ca
 
 Video shows are more difficult, but also more useful. It's really simple to do and doesn't require a ton of time. 
 
-When you create a video show, you're creating a piece of pillar content that will provide multiple avenues for backlinks. [Here is a great guide to getting started with your video show](https://skymousestudios.com/downloads/) and finding guests. 
+When you create a video show, you're creating a piece of pillar content that will provide multiple avenues inline-imageHere is a great [guide to getting started with your video show](https://skymousestudios.com/downloads/) and finding guests. 
 
 Let's go over a couple of the best ways to turn your video show or podcast into high-quality backlinks.
 
@@ -410,11 +415,11 @@ Once you've done the hard work of bringing a guest on the show and recording you
 
 Cut out 3 or 4 meaty clips from the episode that are really relevant for your audience and post those across your social media channels. Include links back to the main episode hosted on your site. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66311ed0-d722-470b-88d3-f4f147af5285/Morgan_Post_1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66311ed0-d722-470b-88d3-f4f147af5285/Morgan_Post_1.png)
+<img class="blog-image-mid" src="/uploads/023-Morgan_Post_1.png" alt="Linkedin example post text only">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61be1005-27d9-414d-9cc4-165566480ae7/Morgan_Post_2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61be1005-27d9-414d-9cc4-165566480ae7/Morgan_Post_2.png)
+<img class="blog-image-mid" src="/uploads/023-Morgan_Post_2.png" alt="Linkedin example video post">
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87b83756-9d88-4b8c-aa3d-34cb0f8a8da7/Morgan_Post_3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87b83756-9d88-4b8c-aa3d-34cb0f8a8da7/Morgan_Post_3.png)
+<img class="blog-image-mid" src="/uploads/023-Morgan_Post_3.png" alt="Linkedin example comment">
 
 **2) Create Blog Posts For Your Guests**
 
@@ -424,7 +429,7 @@ They will be glad for the free content, and you will now have some backlinks on 
 
 Find people in your network that you can message and exchange a guest blog. It's good for both of you, so it's a win-win. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e926d82-9fce-466c-b656-182c9c66685f/Annotation_2020-05-07_115337.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e926d82-9fce-466c-b656-182c9c66685f/Annotation_2020-05-07_115337.png)
+<img class="blog-image-mid" src="/uploads/023-linkedin-message.png" alt="Linkedin direct message exampmle">
 
 **3) Use YouTube To Host Your Videos**
 
@@ -446,9 +451,9 @@ Here are some ideas for cheat sheets:
 - "Jargon translators" that make it easy for people to understand industry terms or commonly used acronyms
 - Lists of common mistakes people make or issues they run into in your industry
 
-Here's a cheat sheet example from Flowtown. 
+Here's a cheat sheet example from Flowtown.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ca7a407-c284-4be2-859b-6c01d3d630f7/Social-Media-Cheat-Sheet.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ca7a407-c284-4be2-859b-6c01d3d630f7/Social-Media-Cheat-Sheet.png)
+<img src="/uploads/023-Social-Media-Cheat-Sheet.png" alt="Social media cheat sheet example">
 
 **Tutorials**
 
@@ -458,9 +463,9 @@ In addition, tutorials are highly shareable and generate a lot of questions and 
 
 Here's an example of a tutorial video from our content library. 
 
- 
-
-[https://www.youtube.com/watch?v=RVZuMUGJzEQ&feature=youtu.be](https://www.youtube.com/watch?v=RVZuMUGJzEQ&feature=youtu.be)
+ <iframe id="ytplayer" type="text/html" width="100%" height="380"
+  src="https://www.youtube.com/embed/RVZuMUGJzEQ?autoplay=1&origin={{ site.url }}"
+  frameborder="0"></iframe>
 
 **White Papers**
 
@@ -474,11 +479,9 @@ If your audience is more creative and artsy, stick to graphic-heavy and story-re
 
 If your product or service is something that can be trialed for free, this is one of the best forms of content you have. What better content could you possible share than to give your audience the real experience for a short period of time. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5617206c-b30b-4f0b-9458-c6a761bf447b/pngkit_free-trial-png_3550442.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5617206c-b30b-4f0b-9458-c6a761bf447b/pngkit_free-trial-png_3550442.png)
-
 If you have the ability to do free trials, you should be offering them. 
 
-# Cracking the SEO Code
+## Cracking the SEO Code
 
 When it's all said and done, most people just want more website traffic. There's always this idea that if we can just "crack the code" on SEO, we'll be flooded with a million visitors a month, and our phones will be ringing off the hook.
 

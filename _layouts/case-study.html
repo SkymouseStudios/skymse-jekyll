@@ -2,7 +2,7 @@
 
 <div id="page">
 
-<section>
+<section class="section-default">
 	
 	<h1>{{ page.title }}</h1>
 
@@ -15,13 +15,15 @@
 	</div>
 
 	<p class="pad card-center">{{ page.description }}</p>
+
+	<img class="blog-header" src="{{ page.img }}" alt="">
 </section>
    
 <!-- Header Image  -->
-<img class="blog-header" src="{{ page.img }}" alt="">
+
 
 <!-- # Introduction -->
-	<section class="grid-half">
+	<section class="section-default grid-half">
 		<div>
 			<h2>{{page.elevator-pitch-title}}</h2>
 			<p class="quote">
@@ -35,10 +37,10 @@
 	</section>
 
 <!-- # Highlight 1 -->
-	<section class="grid-three">
+	<section class="section-default grid-three-fit">
 		
 		<!-- 1/3 Space -->
-		<aside>
+		<aside style="padding: 20px">
 			<h2>{{ page.A-title }}</h2>
 			<h3>{{ page.A-subtitle }}</h3>
 			<p>{{ page.A-p }}</p>
@@ -53,7 +55,7 @@
 	</section>
 
 <!-- # Highlight 2 -->
-	<section class="grid-three">
+	<section class="section-default grid-three-fit">
 		<!-- 2/3 Space -->
 		<div>
 			<img class="border" src="{{ page.B-image-desktop }}" alt="">
@@ -80,12 +82,12 @@
 	</section> -->
 
 <!-- # Highlight 2 -->
-	<section>
+	<section class="section-default">
 		<img class="border full-width" src="{{ page.sales-image }}" alt="">
 	</section>
 
 <!-- # Audience -->
-	<section class="grid-three">
+	<section class="section-default grid-three-fit">
 		
 		<!-- 1/3 Space -->
 		<aside>
@@ -102,7 +104,7 @@
 	</section>
 
 <!-- # Header Artwork -->
-	<section class="grid-three">
+	<section class="section-default grid-three-fit">
 		<!-- 1/3 Space -->
 		<aside>
 			<h2>{{ page.artwork-title }}</h2>
@@ -123,7 +125,7 @@
 	</section>
 
 <!-- # Misc Design Icons -->
-	<section class="block">
+	<section class="section-default block">
 		<h3>Misc</h3>
 		<p><strong>Spot Illustrations</strong></p>
 		<div class="grid-four">
@@ -135,7 +137,7 @@
 	</section>
 
 <!-- # Final Look -->
-	<section class="grid-three">
+	<section class="section-default grid-three-fit">
 		<!-- 1/2 Space -->
 		<aside>
 			<h2>{{ page.C-title }}</h2>

@@ -69,7 +69,7 @@ In pursuing these marketing strategies, small businesses will hire social media 
 
 Businesses may also hire a marketing consultant. This usually fails because the consultant usually costs around $5,000.00 per month themselves, _and_ they require that the business spend more money on top of their cost in order to implement all the marketing strategies the consultant recommends. 
 
-Small businesses simply cannot bleed the kind of money that most marketing and sales consultants demand in the hopes of seeing some return.
+> Small businesses simply cannot bleed the kind of money that most marketing and sales consultants demand in the hopes of seeing some return.
 
 This is why every marketing effort that a small business is going to use needs to have two elements.
 

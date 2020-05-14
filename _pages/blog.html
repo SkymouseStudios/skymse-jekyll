@@ -13,20 +13,24 @@ redirect_from:
 
 ---
 
-<div class="hero home-hero m-pad" style="text-align: left;">
-	<h1>Blog</h1>
-	<h3>Learn something new. Become a better you.</h3>
-</div>
+<div class="hero" style="text-align: left;">
+	
+	<div class="section-default content">
+		<h1 class="light">Learn something new.</h1>
+	</div>
+	
 
-<div id="scene" data-relative-input="true" data-pointer-events="true">
-	<img style="z-index: 2; width: 50%; margin-top: 300px" data-depth="0.50" src="{{ site.url }}{{ page.img-front }}" alt="">
-	<img style="z-index: 1;" data-depth="0.30" src="{{ site.url }}{{ page.img-mid }}" alt="">
-	<img style="z-index: 0" data-depth="0.10" src="{{ site.url }}{{ page.img-back }}" alt="">
+	<div id="scene" data-relative-input="true" data-pointer-events="true">
+		<!-- <img style="z-index: 2; width: 50%; margin-top: 300px" data-depth="0.50" src="{{ site.url }}{{ page.img-front }}" alt="">
+		<img style="z-index: 1;" data-depth="0.30" src="{{ site.url }}{{ page.img-mid }}" alt=""> -->
+		<img style="z-index: 0" data-depth="0.10" src="{{ site.url }}{{ page.img-back }}" alt="">
+	</div>
+
 </div>
 
 <main id="page">
 
-	<section class="block pad block-linkedin">
+	<section class="section-default block block-linkedin">
 		<h3><i class="fa fa-linkedin"></i> Use Linkedin to start growing your business</h3>
 	
 		<div class="pad-top grid-three">
@@ -42,9 +46,7 @@ redirect_from:
 		</div>
 	</section>
 
-	<div class="pad"></div>
-
-	<section class="pad">
+	<section class="section-default">
 		<h3>Tips to help you create better content.</h3>
 	
 		<div class="pad-top grid-three">
@@ -60,7 +62,7 @@ redirect_from:
 		</div>
 	</section>
 	
-	<section class="block pad">
+	<section class="section-default block">
 		<h3>Create a winning marketing strategy.</h3>
 	
 		<div class="pad-top grid-three">
@@ -76,7 +78,7 @@ redirect_from:
 		</div>
 	</section>
 	
-	<div class="blog-feed pad">
+	<section class="section-default blog-feed">
 		<h2 class="section-heading">All Posts</h2>
 	
 		{% for post in site.posts %}

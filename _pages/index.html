@@ -6,48 +6,86 @@ description: Skymouse is an Indianapolis-based marketing team, helping small bus
   convert more website visitors and make more money.
 img-back: "/library/images/headers/home-_scene-talk-the-galaxy.svg"
 img: "/library/images/social/social-home.jpg"
-author: John Welch
-categories:
-- Business
 
 ---
 
-<div class="hero home-hero m-pad">
+<div class="hero home-hero">
 	
 	<div class="content">
-		<h1>Create an audience that <br>begs for your help.</h1>
+		<h1>Build an audience that begs you for help.</h1>
 		<p>Content creates value. Value creates Customers.</p>
 		<a href="#" class="drift-open-chat action-btn">Chat with Us</a>
 	</div>
-	
+
+	<div id="scene" data-relative-input="true" data-pointer-events="true">
+		<img class="scene-home" style="z-index: 0" data-depth="0.10" src="{{ site.url }}{{ page.img-back }}" alt="a bunch of little space ships in a circle">
+	</div>
+
 </div>
 
-<div id="scene" data-relative-input="true" data-pointer-events="true">
-	<img class="scene-home" style="z-index: 0" data-depth="0.10" src="{{ site.url }}{{ page.img-back }}" alt="a bunch of little space ships in a circle">
-</div>
+<div class="hero-features grid-three">
+		<p><img src="/library/images/icons/home-1-content-that-kills.svg" alt="">Create magnetic PDFs, blogs and videos </p>
+		<p><img src="/library/images/icons/home-2-a-handcrafted-you.svg" alt="">Rank #1 on Google</p>
+		<p><img src="/library/images/icons/home-3-sites-users-love.svg" alt="">Help more humans</p>
+	</div>
 		
 <main id="page">
-	<div class="pad-top"></div>
 
-	<section class="block grid-half alone">
-		<div class="home-thing">
-			<h3>It’s hard to sell when customers can't find you.</h3>
+	<section class="section-default grid-half panel">
+		<div class="panel-image">
+			<img src="/library/images/headers/home-_scene-lone-storefront.svg" alt="">
+		</div>
+		
+		
+		<div class="panel-content">
+			<h3>It’s hard to sell when <br>customers can't find you.</h3>
 			<h4>Show your customers how you solve their problems.</h4>
 			<p></p>
 			<a href="#" class="drift-open-chat action-btn">Chat with Us</a>
 		</div>
+
 	</section>
 
-	<section class="grid-half alone takeoff">
-		<div class="">
-			<h4>You don’t need a marketing “consultant.”</h4>
-			<h3>We tell you the plan up front. No gimmicks.</h3>
+	<section class="section-full-width funky-bg">
+		<div class="section-default grid-half panel">
+
+			<div class="panel-content">
+				<h4>You don’t need a marketing “consultant.”</h4>
+				<h3>We tell you the plan up front. <br>No gimmicks.</h3>
+				<p></p>
+				<a href="#" class="drift-open-chat action-btn">Chat with Us</a>
+			</div>
+			
+			<div class="panel-image">
+				<div class="rect"></div>
+				<div class="rect"></div>
+				<div class="rect"></div>
+				<img src="/library/images/headers/home-_scene-ready-for-takeoff.svg" alt="">
+				
+				<img class="panel-image-bg" src="/library/images/fun-blob-1.svg" alt="">
+			</div>
+			
+		</div>
+
+	</section>
+
+	<section class="section-default grid-half panel">
+		
+		<div class="panel-image">
+			<img src="/library/images/headers/home-_scene-lone-storefront.svg" alt="">
+		</div>
+		
+		
+		<div class="panel-content">
+			<h3>It’s hard to sell when <br>customers can't find you.</h3>
+			<h4>Show your customers how you solve their problems.</h4>
 			<p></p>
 			<a href="#" class="drift-open-chat action-btn">Chat with Us</a>
 		</div>
+
 	</section>
 	
-	<section class="section-back">
+	<section class="section-default section-back">
 		<div class="section-heading">
 			<h3>How it works</h3>
 			<h4>We create websites, blogs, graphics and content <br>that helps you <strong>communicate</strong> better and sell more stuff.</h4>
@@ -55,16 +93,28 @@ categories:
 
 		<div class="grid-three">
 			<div class="card center-content">
-				<img src="/library/images/icons/v4-0-0_icons-measure.svg" alt="vile with a blue liquid">
-				<h4>Get measured.</h4>
+				<h4>1. Choose your content.</h4>
+				<ul>
+					<li>Great Blogs</li>
+					<li>Landing Pages</li>
+					<li>Audio/video Shows</li>
+				</ul>
 			</div>
 			<div class="card center-content">
-				<img src="/library/images/icons/v4-0-0_icons-select-a-plan.svg" alt="choose your plan">
-				<h4>Choose a plan.</h4>
+				<h4>2. Climb the ranks.</h4>
+				<ul>
+					<li>Optimize your site.</li>
+					<li>Build email lists.</li>
+					<li>Choose your content.</li>
+				</ul>
 			</div>
 			<div class="card center-content">
-				<img src="/library/images/icons/v4-0-0_icons-dust.svg" alt="pile of dust">
-				<h4>Decimate your competition.</h4>
+				<h4>3. Help more humans.</h4>
+				<ul>
+					<li>Help your customers.</li>
+					<li>Sell more stuff.</li>
+					<li>Live a better life.</li>
+				</ul>
 			</div>
 		</div>
 		<div class="pad section-heading">
@@ -72,7 +122,27 @@ categories:
 		</div>
 	</section>
 
-	{% include tiers.html %}
+	<section class="section-full-width section-dark pad">
+		<div class="section-heading">
+			<h3>Services</h3>
+			<h4>Get things done.</h4>
+		</div>
+
+		<div class="grid-service section-default">
+			
+			{% assign servicess = site.services | sort: 'id' | reverse %}
+			{% for service in servicess %}
+
+			<div class="grid-item-service">
+				<span><img src="/library/images/icons/icon-service-{{ service.icon }}" alt=""></span>
+				<h4>{{ service.name }}</h4>
+				<p>{{ service.description }}</p>
+			</div>
+
+			{% endfor %}
+		</div>
+		
+	</section>
 
 	{% include cta-marketing-lab.html %}
 </main>
