@@ -80,7 +80,8 @@ HEADER STYLES
 }
 
 .panel-content {
-	grid-column: 2;
+	max-width: 400px;
+	//grid-column: 2;
 }
 
 .section-back::after {
