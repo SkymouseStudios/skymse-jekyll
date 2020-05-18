@@ -5,9 +5,10 @@ title: Rebelling Against Sales is All That's Left with Dale Dupree
 subtitle: 
 description: 
 permalink: "/humans-of-linkedin/rebelling-against-sales-is-all-that-is-left-with-dale-dupree/"
-img: "/uploads/holi-dale.jpg"
+img: "/uploads/holi-banner-003-dale.png"
 ttr: "00:18:38"
 guest: Dale Dupree
+guest_image: /uploads/holi-dale.jpg
 guest_company: The Sales Rebellion
 guest_title: Leader of The Sales Rebellion
 guest_website: https://www.thesalesrebellion.com/

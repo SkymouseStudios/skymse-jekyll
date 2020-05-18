@@ -5,9 +5,10 @@ title: "What's New in Digital Advertising for 2020 with Justin Whitaker"
 subtitle: 
 description: 
 permalink: "/humans-of-linkedin/whats-new-in-digital-advertising-for-2020-with-justin-whitaker/"
-img: "/uploads/holi-justin.jpg"
+img: "/uploads/holi-banner-002-justin.png"
 ttr: "00:16:39"
 guest: Justin Whitaker
+guest_image: /uploads/holi-justin.jpg
 guest_company: Trellis
 guest_title: Director of Marketing
 guest_website: https://trellis.co/

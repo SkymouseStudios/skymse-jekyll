@@ -5,9 +5,10 @@ title: "A.I. is a good thing with  Morgan Llewellyn"
 subtitle: "How machine learning make us more human"
 description: 
 permalink: "/humans-of-linkedin/ai-is-a-good-thing-with-morgan-llewellyn/"
-img: "/uploads/holi-morgan-llewellyn.jpg"
+img: "/uploads/holi-banner-005-morgan-llewellyn.png"
 ttr: "00:15:31"
 guest: Morgan Llewellyn
+guest_image: /uploads/holi-morgan.jpg
 guest_company: Predictive Partner
 guest_title: CEO
 guest_website: https://predictivepartner.com/

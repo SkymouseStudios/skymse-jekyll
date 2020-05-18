@@ -5,9 +5,10 @@ title: Marketing Should Be Transparent with Clint Hankinson
 subtitle: "If you're not transparent, you're not being human"
 description: 
 permalink: "/humans-of-linkedin/marketing-can-be-transparent-and-good-with-clint-hankinson/"
-img: "/uploads/holi-clint.jpg"
+img: "/uploads/holi-banner-001-clint.png"
 ttr: "00:14:53"
 guest: Clint Hankinson
+guest_image: /uploads/holi-clint.jpg
 guest_title: Director of Marketing
 guest_company: iT-oLogy
 guest_website: https://www.it-ology.org/
