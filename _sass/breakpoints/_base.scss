@@ -591,15 +591,15 @@ section {
 
 	position: absolute;
 
-	bottom: -45px;
-	right: -20%;
-	left: 20%;
-	z-index: 3;
+	bottom: 45px;
+	right: 10%;
+	left: 0%;
+	z-index: -1;
 
 	&:first-child {
-		top: -20px;
-		left: -20%;
-		z-index: 0;
+		top: 130px;
+		left: 0%;
+		z-index: -1;
 	}
 
 	&:nth-child(2) {
@@ -746,30 +746,6 @@ POSTS & CONTENT STYLES
 	border-radius: 2px;
 
 	box-shadow: 37.2px 62.5px 125px -25px rgba(50,50,93,.5),22.3px 37.5px 75px -37.5px rgba(0,0,0,.6);
-
-	&::before {
-		z-index: 10;
-		content: "";
-		background-color: red;
-		border-radius: 10px;
-		width: 5px;
-		height: 5px;
-
-		position: absolute;
-		left: 10px;
-	}
-
-	&::after {
-		z-index: 10;
-		content: "";
-		background-color: red;
-		border-radius: 10px;
-		width: 5px;
-		height: 5px;
-
-		position: absolute;
-		left: 20px;
-	}
 }
 
 // Table of contents
