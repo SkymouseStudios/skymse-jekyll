@@ -5,6 +5,7 @@ title: "A.I. is a good thing with  Morgan Llewellyn"
 subtitle: "How machine learning make us more human"
 description: 
 permalink: "/humans-of-linkedin/ai-is-a-good-thing-with-morgan-llewellyn/"
+date: "2020-05-01"
 img: "/uploads/holi-banner-005-morgan-llewellyn.png"
 ttr: "00:15:31"
 guest: Morgan Llewellyn

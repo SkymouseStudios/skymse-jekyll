@@ -3,7 +3,8 @@
 layout: episode
 title: "What's New in Digital Advertising for 2020 with Justin Whitaker"
 subtitle: 
-description: 
+description: Justin Whitaker joins us to discuss how brick and mortar stores can make the move to online commerce, how to include Google maps in your marketing, and how Pinterest ads are a great place to spend your digital ad budget.
+date: "2020-04-16"
 permalink: "/humans-of-linkedin/whats-new-in-digital-advertising-for-2020-with-justin-whitaker/"
 img: "/uploads/holi-banner-002-justin.png"
 ttr: "00:16:39"

@@ -3,7 +3,8 @@
 layout: episode
 title: Rebelling Against Sales is All That's Left with Dale Dupree
 subtitle: 
-description: 
+description: In this episode of Humans of LinkedIn, Dale Dupree joins us to discuss uniting sales and marketing, how people want experiences, and how to be intentional with your marketing. 
+date: "2020-04-08"
 permalink: "/humans-of-linkedin/rebelling-against-sales-is-all-that-is-left-with-dale-dupree/"
 img: "/uploads/holi-banner-003-dale.png"
 ttr: "00:18:38"

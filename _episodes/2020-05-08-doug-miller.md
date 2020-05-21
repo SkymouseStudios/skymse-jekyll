@@ -6,9 +6,10 @@ subtitle: "Where there's a will there's a way"
 description: 
 permalink: "/humans-of-linkedin/humans-are-resilient-with-doug-miller/"
 img: "/uploads/holi-banner-006-doug-miller.png"
+date: "2020-05-08"
 ttr: "00:50:16"
 guest: Doug Miller
-guest_image: /uploads/holi-doug.jpg
+guest_image: /uploads/holi-doug-miller.jpg
 guest_company: Brightworks Group LLC
 guest_title: CEO/CTO
 guest_website: https://www.brightworksgroup.net/

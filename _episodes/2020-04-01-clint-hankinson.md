@@ -5,6 +5,7 @@ title: Marketing Should Be Transparent with Clint Hankinson
 subtitle: "If you're not transparent, you're not being human"
 description: 
 permalink: "/humans-of-linkedin/marketing-can-be-transparent-and-good-with-clint-hankinson/"
+date: "2020-04-01"
 img: "/uploads/holi-banner-001-clint.png"
 ttr: "00:14:53"
 guest: Clint Hankinson

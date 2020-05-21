@@ -5,6 +5,7 @@ subtitle: Where there's a will there's a way
 description: 
 permalink: "/humans-of-linkedin/humans-are-resilient-with-cher-jones/"
 img: "/uploads/holi-banner-006-doug-miller.png"
+date: "2020-05-22"
 ttr: '00:50:16'
 guest: Cher Jones
 guest_image: "/uploads/holi-cher.jpg"

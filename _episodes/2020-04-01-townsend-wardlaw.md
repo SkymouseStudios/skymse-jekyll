@@ -5,6 +5,7 @@ title: Learn to Serve Before You Sell with Townsend Wardlaw
 subtitle: Serving is part of being human
 description: 
 permalink: "/humans-of-linkedin/learn-to-serve-before-you-sell-with-townsend-wardlaw/"
+date: "2020-04-21"
 img: "/uploads/holi-banner-004-townsend.png"
 ttr: "00:40:46"
 guest: Townsend Wardlaw
