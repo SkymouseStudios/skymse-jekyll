@@ -9,7 +9,7 @@ date: "2020-05-01"
 img: "/uploads/holi-banner-005-morgan-llewellyn.png"
 ttr: "00:15:31"
 guest: Morgan Llewellyn
-guest_image: /uploads/holi-morgan.jpg
+guest_image: /uploads/holi-morgan-llewellyn.jpg
 guest_company: Predictive Partner
 guest_title: CEO
 guest_website: https://predictivepartner.com/
