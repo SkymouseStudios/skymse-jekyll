@@ -1,7 +1,11 @@
 {% include header.html %}
 
 <main id="post" class="blog-page">
-  
+
+  <p>
+    <a href="/humans-of-linkedin/">Back to the all Episodes</a>
+  </p>
+
   <section class="blank">
     <div class="tag">{{ page.subtitle }}</div>
     <h1>{{ page.title }}</h1>
@@ -15,7 +19,7 @@
     </div>
   </section>
 
-  <section class="hentry blank">
+  <section class="hentry blank pad">
 
     <iframe id="ytplayer" type="text/html" width="100%" height="380"
   src="https://www.youtube.com/embed/{{ page.youtube_id }}?autoplay=1&origin={{ site.url }}"

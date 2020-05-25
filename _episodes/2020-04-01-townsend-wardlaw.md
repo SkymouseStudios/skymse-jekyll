@@ -24,3 +24,14 @@ In this episode of Humans of LinkedIn, Townsend Wardlaw joins us to discuss how 
 - You're not going back to work as soon as you think
 - What is the future of white collar business
 - WHAT should people be doing with their time right now if they have nothing to do
+
+### Serve you customers first (you won't regret it)
+Spend time finding out what you can do to help your customers RIGHT NOW. Give it away for free. Help them solve their problems! When you help people you build credibility and relationships.
+https://youtu.be/8MF7KjQTPos
+
+### Selling is easy
+Why do people struggle with sales? The problem with sales is what is on the *inside.* The real challenge is not what sales people are doing but how they see themselves.
+https://youtu.be/X2jL4lQ-Iec
+
+### Don't be afraid to show off your kids
+https://youtu.be/xfLmlhaOMQw

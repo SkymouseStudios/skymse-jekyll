@@ -7,7 +7,7 @@
 		"uuidString": "7D430BE4-F5DB-4D1C-B878-5D30D08F8684"
 		}
 	],
-"creatorBuild": "31934",
+"creatorBuild": "32147",
 "files": {
 	"/010-ballpoint-pen-classic-coffee-composition.jpg": {
 		"ft": 16384,
@@ -313,6 +313,608 @@
 		"oT": 1,
 		"q": 85
 		},
+	"/014-header_ep006-cheap-marketing-ideas.png": {
+		"ft": 32768,
+		"iS": 196490,
+		"oA": 0,
+		"oAP": "/014-header_ep006-cheap-marketing-ideas.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/015-catching-millenials.jpg": {
+		"ft": 16384,
+		"iS": 132289,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/015-catching-millenials.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/017-emails-that-crush.png": {
+		"ft": 32768,
+		"iS": 442764,
+		"oA": 0,
+		"oAP": "/017-emails-that-crush.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/018-edna-mode.gif": {
+		"ft": 4194304,
+		"iS": 786042,
+		"oA": 0,
+		"oAP": "/018-edna-mode.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/018-person-holding-grilled-cheese-burger.jpg": {
+		"ft": 16384,
+		"iS": 70130,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/018-person-holding-grilled-cheese-burger.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/018-viral-branding.png": {
+		"ft": 32768,
+		"iS": 245879,
+		"oA": 0,
+		"oAP": "/018-viral-branding.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/019-action-animal-bronco-bucking.jpg": {
+		"ft": 16384,
+		"iS": 81544,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/019-action-animal-bronco-bucking.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/019-air-force-army-cadets.jpg": {
+		"ft": 16384,
+		"iS": 82957,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/019-air-force-army-cadets.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/019-analytics-text.jpg": {
+		"ft": 16384,
+		"iS": 47917,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/019-analytics-text.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/019-gray-double-bell-clock.jpg": {
+		"ft": 16384,
+		"iS": 12374,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/019-gray-double-bell-clock.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/019-inbound-future.png": {
+		"ft": 32768,
+		"iS": 495501,
+		"oA": 0,
+		"oAP": "/019-inbound-future.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/019-people-shaking-hands.jpg": {
+		"ft": 16384,
+		"iS": 48141,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/019-people-shaking-hands.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/019-street-lights.jpg": {
+		"ft": 16384,
+		"iS": 121418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/019-street-lights.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/020-find-time-with-mailchimp.png": {
+		"ft": 32768,
+		"iS": 225325,
+		"oA": 0,
+		"oAP": "/020-find-time-with-mailchimp.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/021-action-adult-aperture-blur-320617.jpg": {
+		"ft": 16384,
+		"iS": 51746,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/021-action-adult-aperture-blur-320617.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/021-brown-paper-envelope-on-table-211290.jpg": {
+		"ft": 16384,
+		"iS": 34764,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/021-brown-paper-envelope-on-table-211290.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/021-food-photography-of-sliced-bacon-on-top-of-brown-chopping-1927377.jpg": {
+		"ft": 16384,
+		"iS": 52992,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/021-food-photography-of-sliced-bacon-on-top-of-brown-chopping-1927377.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/021-icon-bacon.png": {
+		"ft": 32768,
+		"iS": 63893,
+		"oA": 0,
+		"oAP": "/021-icon-bacon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/021-low-angle-view-of-lighting-equipment-on-shelf-257904.jpg": {
+		"ft": 16384,
+		"iS": 44614,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/021-low-angle-view-of-lighting-equipment-on-shelf-257904.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/021-selective-focus-photography-of-gray-stainless-steel-1054713.jpg": {
+		"ft": 16384,
+		"iS": 37540,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/021-selective-focus-photography-of-gray-stainless-steel-1054713.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/021-skype.png": {
+		"ft": 32768,
+		"iS": 468602,
+		"oA": 0,
+		"oAP": "/021-skype.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/021-street-lights-802024.jpg": {
+		"ft": 16384,
+		"iS": 121610,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/021-street-lights-802024.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/021-videocast-19.png": {
+		"ft": 32768,
+		"iS": 211731,
+		"oA": 0,
+		"oAP": "/021-videocast-19.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/021-vintage-technology-calling-numbers-105003.jpg": {
+		"ft": 16384,
+		"iS": 45408,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/021-vintage-technology-calling-numbers-105003.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/021-webcam.png": {
+		"ft": 32768,
+		"iS": 289595,
+		"oA": 0,
+		"oAP": "/021-webcam.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/021-yeti.png": {
+		"ft": 32768,
+		"iS": 479217,
+		"oA": 0,
+		"oAP": "/021-yeti.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/022-a-75-percent-credibility.png": {
+		"ft": 32768,
+		"iS": 183932,
+		"oA": 0,
+		"oAP": "/022-a-75-percent-credibility.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/022-c-50-percent-clicks.png": {
+		"ft": 32768,
+		"iS": 182214,
+		"oA": 0,
+		"oAP": "/022-c-50-percent-clicks.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/022-c-three-seconds-or-less.png": {
+		"ft": 32768,
+		"iS": 163079,
+		"oA": 0,
+		"oAP": "/022-c-three-seconds-or-less.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/022-stats-for-web-25.png": {
+		"ft": 32768,
+		"iS": 183151,
+		"oA": 0,
+		"oAP": "/022-stats-for-web-25.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-2020-seo-guide.png": {
+		"ft": 32768,
+		"iS": 289408,
+		"oA": 0,
+		"oAP": "/023-2020-seo-guide.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-blogging-meme.jpeg": {
+		"ft": 16384,
+		"iS": 61626,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/023-blogging-meme.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/023-Chrome_Links_Capture_1.png": {
+		"ft": 32768,
+		"iS": 159595,
+		"oA": 0,
+		"oAP": "/023-Chrome_Links_Capture_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-Chrome_Links_Capture_2.png": {
+		"ft": 32768,
+		"iS": 110851,
+		"oA": 0,
+		"oAP": "/023-Chrome_Links_Capture_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-Domain_Authority_Graph.jpg": {
+		"ft": 16384,
+		"iS": 23417,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/023-Domain_Authority_Graph.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/023-google-mobile-ranking-factors.jpg": {
+		"ft": 16384,
+		"iS": 62606,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/023-google-mobile-ranking-factors.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/023-google-search-Annotation_2020-05-06_145459.png": {
+		"ft": 32768,
+		"iS": 52038,
+		"oA": 0,
+		"oAP": "/023-google-search-Annotation_2020-05-06_145459.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-linkedin-message.png": {
+		"ft": 32768,
+		"iS": 11184,
+		"oA": 0,
+		"oAP": "/023-linkedin-message.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-mobile-first-indexing.png": {
+		"ft": 32768,
+		"iS": 155480,
+		"oA": 0,
+		"oAP": "/023-mobile-first-indexing.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-Morgan_Post_1.png": {
+		"ft": 32768,
+		"iS": 40264,
+		"oA": 0,
+		"oAP": "/023-Morgan_Post_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-Morgan_Post_2.png": {
+		"ft": 32768,
+		"iS": 360158,
+		"oA": 0,
+		"oAP": "/023-Morgan_Post_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-Morgan_Post_3.png": {
+		"ft": 32768,
+		"iS": 30392,
+		"oA": 0,
+		"oAP": "/023-Morgan_Post_3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-Red_Gray_Steps_to_Bicycle_Safety_Infographic.png": {
+		"ft": 32768,
+		"iS": 296746,
+		"oA": 0,
+		"oAP": "/023-Red_Gray_Steps_to_Bicycle_Safety_Infographic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-relavance-of-web-pages.png": {
+		"ft": 32768,
+		"iS": 44590,
+		"oA": 0,
+		"oAP": "/023-relavance-of-web-pages.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-singlegrain-explain-dwell-time-well.png": {
+		"ft": 32768,
+		"iS": 52885,
+		"oA": 0,
+		"oAP": "/023-singlegrain-explain-dwell-time-well.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-Social-Media-Cheat-Sheet.png": {
+		"ft": 32768,
+		"iS": 515814,
+		"oA": 0,
+		"oAP": "/023-Social-Media-Cheat-Sheet.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/023-Webmaster_ContaCT.png": {
+		"ft": 32768,
+		"iS": 63589,
+		"oA": 0,
+		"oAP": "/023-Webmaster_ContaCT.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/024-cloudflare-dns-example.jpeg": {
+		"ft": 16384,
+		"iS": 54083,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/024-cloudflare-dns-example.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/024-developer-money.png": {
+		"ft": 32768,
+		"iS": 76169,
+		"oA": 0,
+		"oAP": "/024-developer-money.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/024-google-analytics.png": {
+		"ft": 32768,
+		"iS": 93419,
+		"oA": 0,
+		"oAP": "/024-google-analytics.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/024-hotjar-tour-heatmap.png": {
+		"ft": 32768,
+		"iS": 179033,
+		"oA": 0,
+		"oAP": "/024-hotjar-tour-heatmap.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/024-how-ssl-works.png": {
+		"ft": 32768,
+		"iS": 156431,
+		"oA": 0,
+		"oAP": "/024-how-ssl-works.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/024-people-pretending-to-work.jpg": {
+		"ft": 16384,
+		"iS": 71692,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/024-people-pretending-to-work.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/024-web-cost-chart.png": {
+		"ft": 32768,
+		"iS": 115602,
+		"oA": 0,
+		"oAP": "/024-web-cost-chart.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/024-website-roadmap.png": {
+		"ft": 32768,
+		"iS": 181206,
+		"oA": 0,
+		"oAP": "/024-website-roadmap.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
 	"/airtable-logo.jpg": {
 		"ft": 16384,
 		"iS": 23740,
@@ -366,6 +968,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"q": 85
+		},
+	"/Bait_and_Switch.jpg": {
+		"ft": 16384,
+		"iS": 32276,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Bait_and_Switch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 85
 		},
 	"/bathroom-scale-for-weightloss.jpg": {
@@ -423,6 +1036,17 @@
 		"oT": 1,
 		"q": 85
 		},
+	"/Blog_to_Email.jpg": {
+		"ft": 16384,
+		"iS": 33079,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Blog_to_Email.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
 	"/brian-mcmahon-1460292-unsplash.jpg": {
 		"ft": 16384,
 		"iS": 40224,
@@ -465,6 +1089,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"q": 85
+		},
+	"/Copy_Page_Image.jpg": {
+		"ft": 16384,
+		"iS": 168680,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Copy_Page_Image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 85
 		},
 	"/curtis-macnewton-317636-unsplash.jpg": {
@@ -511,6 +1146,39 @@
 		"oT": 1,
 		"q": 85
 		},
+	"/Email_Example.png": {
+		"ft": 32768,
+		"iS": 277750,
+		"oA": 0,
+		"oAP": "/Email_Example.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/Email_Example_1.png": {
+		"ft": 32768,
+		"iS": 61280,
+		"oA": 0,
+		"oAP": "/Email_Example_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/Email_Example_2.png": {
+		"ft": 32768,
+		"iS": 71052,
+		"oA": 0,
+		"oAP": "/Email_Example_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
 	"/Etsy-homepage-view-.jpg": {
 		"ft": 16384,
 		"iS": 90652,
@@ -554,6 +1222,22 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/handout-video-show-v2 (1).pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/handout-video-show-v2 (1).pdf",
+		"oF": 0
+		},
+	"/handout-video-show-v2.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/handout-video-show-v2.pdf",
+		"oF": 0
+		},
 	"/harvest_timesheet_app_example.jpg": {
 		"ft": 16384,
 		"iS": 71558,
@@ -587,6 +1271,160 @@
 		"opt": 1,
 		"q": 85
 		},
+	"/holi-banner-001-clint.png": {
+		"ft": 32768,
+		"iS": 263739,
+		"oA": 0,
+		"oAP": "/holi-banner-001-clint.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/holi-banner-002-justin.png": {
+		"ft": 32768,
+		"iS": 305270,
+		"oA": 0,
+		"oAP": "/holi-banner-002-justin.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/holi-banner-003-dale.png": {
+		"ft": 32768,
+		"iS": 323432,
+		"oA": 0,
+		"oAP": "/holi-banner-003-dale.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/holi-banner-004-townsend.png": {
+		"ft": 32768,
+		"iS": 264584,
+		"oA": 0,
+		"oAP": "/holi-banner-004-townsend.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/holi-banner-005-morgan-llewellyn.png": {
+		"ft": 32768,
+		"iS": 245453,
+		"oA": 0,
+		"oAP": "/holi-banner-005-morgan-llewellyn.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/holi-banner-006-doug-miller.png": {
+		"ft": 32768,
+		"iS": 153517,
+		"oA": 0,
+		"oAP": "/holi-banner-006-doug-miller.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/holi-cher.jpg": {
+		"ft": 16384,
+		"iS": 123579,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/holi-cher.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/holi-clint.jpg": {
+		"ft": 16384,
+		"iS": 30983,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/holi-clint.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/holi-dale.jpg": {
+		"ft": 16384,
+		"iS": 206580,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/holi-dale.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/holi-doug-miller.jpg": {
+		"ft": 16384,
+		"iS": 33012,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/holi-doug-miller.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/holi-header.jpg": {
+		"ft": 16384,
+		"iS": 243857,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/holi-header.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/holi-justin.jpg": {
+		"ft": 16384,
+		"iS": 14950,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/holi-justin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/holi-morgan-llewellyn.jpg": {
+		"ft": 16384,
+		"iS": 11828,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/holi-morgan-llewellyn.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
+	"/holi-townsend.jpg": {
+		"ft": 16384,
+		"iS": 12111,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/holi-townsend.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
 	"/homepage-hero.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -608,6 +1446,39 @@
 		"opt": 1,
 		"q": 85
 		},
+	"/humans-of-linkedin.png": {
+		"ft": 32768,
+		"iS": 16720,
+		"oA": 0,
+		"oAP": "/humans-of-linkedin.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/humans-of-linkedin_bg.png": {
+		"ft": 32768,
+		"iS": 1554,
+		"oA": 0,
+		"oAP": "/humans-of-linkedin_bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
+	"/humans-of-linkedin_icon.png": {
+		"ft": 32768,
+		"iS": 11164,
+		"oA": 0,
+		"oAP": "/humans-of-linkedin_icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 85
+		},
 	"/il_fullxfull.1804303293_njbg.jpg": {
 		"ft": 16384,
 		"iS": 381671,
@@ -617,6 +1488,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"q": 85
+		},
+	"/Jacks_Example.png": {
+		"ft": 32768,
+		"iS": 5681,
+		"oA": 0,
+		"oAP": "/Jacks_Example.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 85
 		},
 	"/laptops-headphones-group-work-on-desk.jpg": {
@@ -652,6 +1534,17 @@
 		"opt": 1,
 		"q": 85
 		},
+	"/marketing_image_whiteboard.jpg": {
+		"ft": 16384,
+		"iS": 50037,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/marketing_image_whiteboard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 85
+		},
 	"/marvin-meyer-571072-unsplash.jpg": {
 		"ft": 16384,
 		"iS": 127673,
@@ -683,6 +1576,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"q": 85
+		},
+	"/Mike_Dillard_Email_Example.png": {
+		"ft": 32768,
+		"iS": 79630,
+		"oA": 0,
+		"oAP": "/Mike_Dillard_Email_Example.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 85
 		},
 	"/mitchell-gaiser-1143507-unsplash.jpg": {
@@ -1525,6 +2429,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
+			},
 		"guard-for-in": {
 			"active": 0,
 			"optionString": ""
@@ -1701,6 +2609,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -1726,6 +2638,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -2029,6 +2945,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-setter-return": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-shadow": {
 			"active": 0,
 			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
@@ -2232,6 +3152,10 @@
 		"prefer-destructuring": {
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-named-capture-group": {
 			"active": 0,
@@ -2929,13 +3853,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
+		"compilerType": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,
