@@ -77,7 +77,8 @@ Stylesheet: Button Styles
 }
 
 .action-btn {
-  padding: 5px 10px;
+  position: relative;
+  padding: 13px;
   color: darken(white, 5%);
   background-color: $orange;
   box-shadow: 1px 5px 10px rgba(5,5,5,.2);
@@ -89,6 +90,7 @@ Stylesheet: Button Styles
   border: none;
   text-transform: capitalize;
   font-weight: 800;
+  z-index: 999;
 
   &:hover {
     box-shadow: 1px 10px 10px rgba(5,5,5,.2);

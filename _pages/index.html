@@ -291,9 +291,14 @@ img: "/library/images/social/social-home.jpg"
 			{% for service in servicess %}
 
 			<div class="grid-item-service">
-				<span><img src="/library/images/icons/icon-service-{{ service.icon }}" alt=""></span>
-				<h4>{{ service.name }}</h4>
-				<p>{{ service.description }}</p>
+				<span>
+					<img src="/library/images/icons/icon-service-{{ service.icon }}" alt="{{ service.name }}-icon">
+				</span>
+
+				<div>
+					<h4>{{ service.name }}</h4>
+					<p>{{ service.description }}</p>
+				</div>
 			</div>
 
 			{% endfor %}
