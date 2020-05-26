@@ -1,8 +1,10 @@
 ---
 layout: episode
-title: "What it means to give value — Joshua Desha"
-subtitle: "Sales and Relationships"
-description: "With so many sales gurus trying to tell you how to sell (hint: they're usually super wrong) it's nice to hear a refreshing take on the REAL way to bring value as a salesperson and build relationships."
+title: What it means to give value — Joshua Desha
+subtitle: Sales and Relationships
+description: 'With so many sales gurus trying to tell you how to sell (hint: they''re
+  usually super wrong) it''s nice to hear a refreshing take on the REAL way to bring
+  value as a salesperson and build relationships.'
 permalink: "/humans-of-linkedin/What-it-means-to-give-value-joshua-desha/"
 img: "/uploads/holi-banner-007-joshua-desha.png"
 date: 2020-05-08
@@ -14,10 +16,8 @@ guest_title: Director of Channel Partnership
 guest_website: http://www.firststarhr.com/
 guest_linkedin: https://www.linkedin.com/in/joshuawdesha/
 youtube_id: K3gUvtnyUro
-published: false
 
 ---
-
 Josh Desha has been selling in some capacity for most of his career. Whether he was running his own company or selling for someone else, Josh has been obsessed with doing the right thing and giving value. 
 
 With so many "sales gurus" trying to tell you how to sell (hint: they're usually super wrong) it's nice to hear a refreshing take on the REAL way to bring value as a salesperson and build relationships. 
