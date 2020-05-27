@@ -40,6 +40,12 @@ TEMPLATE OBJECTS
 	&#desktop-menu {
 		display: block;
 
+		ul {
+			display: flex;
+			align-items: center;
+			justify-content: flex-end;
+		}
+
 		ul li:last-child {
 			float: right;
 			

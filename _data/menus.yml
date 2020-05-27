@@ -1,9 +1,7 @@
 # Header Navigation
 header:
   - title: "Blog"
-    url: "/blog"
-  - title: "Chat With Us"
-    url: "#"
+    url: "/blog/"
 
 # Footer Navigation
 footer:

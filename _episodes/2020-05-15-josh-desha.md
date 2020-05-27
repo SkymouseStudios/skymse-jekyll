@@ -6,11 +6,11 @@ description: 'With so many sales gurus trying to tell you how to sell (hint: the
   usually super wrong) it''s nice to hear a refreshing take on the REAL way to bring
   value as a salesperson and build relationships.'
 permalink: "/humans-of-linkedin/What-it-means-to-give-value-joshua-desha/"
-img: "/uploads/holi-banner-007-joshua-desha.png"
+img: "/uploads/holi-banner-007-joshua.png"
 date: 2020-05-08
 ttr: '00:50:16'
 guest: Joshua Desha
-guest_image: "/uploads/holi-joshus-desha.jpg"
+guest_image: "/uploads/holi-joshua-desha.png"
 guest_company: FirstStarHR
 guest_title: Director of Channel Partnership
 guest_website: http://www.firststarhr.com/
