@@ -14,7 +14,6 @@ guest_title: Corporate Social Media Trainer
 guest_website: https://www.sociallyactivetraining.com/social-media-training/
 guest_linkedin: https://www.linkedin.com/in/itscherjones/
 youtube_id: WIG5P1CHEhU 
-published: false
 
 ---
 
