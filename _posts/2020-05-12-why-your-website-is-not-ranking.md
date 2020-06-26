@@ -364,9 +364,11 @@ Not only that, but [blogging is one of the most effective ways to increase searc
 
 **How To Create Blogs**
 
-The [key to writing high-quality blogs](https://skymousestudios.com/blog/the-easy-way-for-ceos-and-founders-to-write-blogs/) is your mindset. Most blogs are not high-quality. Why? Because the business is afraid of giving away information. 
+The [key to writing high-quality blogs](https://skymousestudios.com/blog/the-easy-way-for-ceos-and-founders-to-write-blogs/) is your mindset. Most blogs are not high-quality. Why? Because the business is afraid of giving away information.
 
-If you want to win in the blogosphere, you have to be willing to teach your audience how to solve their problems without you. This means [you need to be writing long-form blog posts](https://skymousestudios.com/blog/business-blogging-2020-why-you-arent-ranking/). 
+> **Related:** [5 Reasons Your Blogs Aren't Ranking ](https://skymousestudios.com/blog/business-blogging-2020-why-you-arent-ranking/)
+
+If you want to win in the blogosphere, you have to be willing to teach your audience how to solve their problems without you. 
 
 There is a simple 3-step process that we use to write our blogs, and we teach this method to our clients.
 
