@@ -2,7 +2,7 @@
 layout: post
 author: John Welch
 title: "Writing longer blogs will transform your website"
-subtitle: "Stop cutting corners and make your blogs great"
+subtitle: "Stop cutting corners, add more details and make your readers happier."
 description: "Blogs are crushing it right now. Writing high-quality blog posts is the best way for your business to increase organic search traffic and win the content war."
 permalink: "/blog/write-longer-blogs/"
 img: "/uploads/026-write-longer-blogs.png"
