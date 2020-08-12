@@ -547,15 +547,16 @@ section {
 // offset background behind it.
 .section-back {
 	z-index: 1;
+	padding-top: 20px;
+
 	&::after {
 		content: " ";
 		position: absolute;
-		left: 50px;
-		right: 50px;
+		left: -20px;
+		right: -20px;
 		top: 0;
 		bottom: 0;
 		background-color: $ygray;
-		opacity: 0.75;
 		z-index: -1;
 		border-radius: 20px;
 	}
@@ -586,19 +587,24 @@ section {
 
 	.panel-image-bg {
 		position: absolute;
-		top: -100px;
+		top: 50px;
 		bottom: 0px;
 		right: -250px;
-		left: 150px;
+		left: 200px;
 		z-index: -2;
 		transform: rotate(30deg);
 	}
 }
 
 .panel-content {
+	h3 {
+		margin-bottom: 10px;
+	}
+
 	h4 { 
 		margin: 0px;
-		opacity: 0.5;
+		padding-bottom: 20px;
+		opacity: 0.75;
 	}
 }
 
@@ -607,17 +613,18 @@ section {
 	height: 40px;
 	width: 400px;
 	border-radius: 5px;
-
 	position: absolute;
 
 	bottom: 45px;
-	right: 10%;
-	left: 0%;
+	right: -30%;
+	// left: 0%;
 	z-index: -1;
 
 	&:first-child {
 		top: 130px;
 		left: 0%;
+		right: auto;
+		bottom: auto;
 		z-index: -1;
 	}
 
@@ -636,6 +643,7 @@ TEMPLATE OBJECTS
 .section-heading {
 	text-align: center;
 	margin: 0 auto;
+	max-width: 500px; // so we don't have a huge string
 	margin-bottom: 35px;
 
 	h3 {
@@ -646,7 +654,7 @@ TEMPLATE OBJECTS
 	h4 {
 		padding: 0px;
 		margin: 0px;
-		opacity: 0.5;
+		opacity: 0.75;
 	}
 }
 
@@ -718,7 +726,8 @@ POSTS & CONTENT STYLES
 .blog-page {
 	overflow: visible;
 	position: relative;
-	margin-top: 300px;
+	padding-left: 20px;
+	padding-right: 20px;
 
 	img {
 		display: block;
@@ -792,6 +801,7 @@ POSTS & CONTENT STYLES
 	grid-template-columns: 1fr;
     background-size: 300px;
     grid-gap: 10px;
+    margin: 10px 0px; // leaves space for the time-to-read
 
 	.words {
 		position: relative;
@@ -1033,6 +1043,7 @@ MODULES
 	background-color: $ygray;
 	border-radius: $radius;
 	margin: 0;
+	padding: 40px 20px;
 }
 
 .block-linkedin {
@@ -1093,7 +1104,6 @@ MODULES
 
 	h4 { 
 		padding: 0px 20px;
-
 	}
 
 	h5 {
@@ -1322,9 +1332,14 @@ footer {
 		padding-left: 0px;
 	}
 
+	li {
+		margin-top: 5px;
+	}
+
 	li a {
 		color: $gray;
 		border-bottom: 3px solid #f6f6f6;
+		padding: 5px;
 
 		&:hover {
 			border-bottom: 3px solid $gray;
