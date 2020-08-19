@@ -27,6 +27,10 @@ What virality all comes down to is the _topic_.
 
 **Headlines will get you clicks, TOPICS will get you shares.**
 
+* TOC
+{:toc}
+
+
 ## 5 Ways To Generate Magnetic Blog Topics
 
 So let's get right into it. There are 5 specific ways to generate blog topics that are relevant, useful, and traffic-generating. You are five simple questions away from generating some magnetic, going-viral-worthy blog topics!

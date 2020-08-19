@@ -16,10 +16,8 @@ redirect_from:
 ---
 As established in my earlier post, [LinkedIn is a great way to drive traffic]({% post_url 2020-02-14-increase-engagment-on-linkedin %}) to your business's website. Here are four methods on how to use LinkedIn to increase traffic to your website:
 
-1. Create a Company Page on LinkedIn
-2. Leave Outbound Links as Comments On Your LinkedIn Posts
-3. Add Blog Posts To Your LinkedIn "About" Section
-4. Turn your Blogs into Articles and Have a "Read More" Link
+* TOC
+{:toc}
 
 ## #1 - Create a Company Page on LinkedIn
 

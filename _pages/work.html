@@ -12,10 +12,13 @@ img-back: "/library/images/headers/header-work-back.svg"
 img: "/library/images/social/social-work.jpg"
 
 ---
-<div class="hero m-pad">
-	<h1>The work we've done</h1>
-	<h3>Purpose drives passion.</h3>
 
+<div class="hero bg-darken">
+	<div class="content">
+		<h1>The work we've done</h1>
+		<h3>Purpose drives passion.</h3>
+	</div>
+	
 	<div id="scene" data-relative-input="true" data-pointer-events="true">
 		<img style="z-index: 2; margin-top: 500px;" data-depth="0.50" src="{{ site.url }}{{ page.img-front }}" alt="">
 		<img style="z-index: 1; margin-top: 250px;" data-depth="0.30" src="{{ site.url }}{{ page.img-mid }}" alt="">
@@ -45,14 +48,14 @@ img: "/library/images/social/social-work.jpg"
 		<div class="content">
 			<h3>{{ casestudy.title }}</h3>
 			<div> {% for service in casestudy.services %}
-			    <div class="tag">{{service}}</div>
+			    <div class="tag-bright">{{service}}</div>
 			  {% endfor %}
 			 </div>
 			
 			<p>{{ casestudy.description }}</p>
 
 			{% if casestudy.elevator-pitch-title %}
-				<a class="action-btn action-btn-gray" href="{{ casestudy.url }}">{{ casestudy.elevator-pitch-title }}</a>
+				<a class="action-btn" href="{{ casestudy.url }}">Read the Case Study</a>
 			{% endif %}
 			
 		</div>

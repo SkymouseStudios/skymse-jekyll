@@ -24,30 +24,16 @@ body {
 	}
 }
 
-p {
-	font-size: 1em;
-}
-
-.blog-page {
-	margin-top: 300px;
-}
-
 /*********************
 HEADER STYLES
 *********************/
 
 .hero {
-	padding-top: 280px;
+	padding-top: 220px;
 }
 
-.home-hero {
-	span {
-		font-size: 4em;
-	}
-
-	p {
-		font-size: 1.5em;
-	}
+.hero-features {
+	grid-gap: 20px;
 }
 
 #scene {
@@ -84,8 +70,7 @@ HEADER STYLES
 }
 
 .panel-content {
-	max-width: 400px;
-	//grid-column: 2;
+	max-width: 420px;
 }
 
 .section-back::after {
@@ -197,9 +182,13 @@ POSTS & CONTENT STYLES
 	margin: 0px auto;
 }
 
+.blog-header {
+	margin: 30px -10%;
+    width: 120%;
+}
+
 .blog-page {
 	width: 700px;
-	margin: 0px auto;
 
 	.blog-screenshot {
 		width: 120%;

@@ -17,6 +17,10 @@ redirect_from:
 - "/convert/2019/11/07/turn-leads-into-customers-with-an-initial-offer/"
 
 ---
+
+* TOC
+{:toc}
+
 ## What is an Initial Offer?
 
 An initial offer is a low-cost, high-value product that you sell.

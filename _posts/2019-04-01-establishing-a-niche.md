@@ -22,6 +22,9 @@ We know you have heard of it. We know you love it. Don’t pretend that you have
 
 [![hemingway etsy candle with pipe tobacco and bourbon scent](/uploads/hemingway-candle-pipe-tobacco-bourbon-scent.jpg "hemingway-candle-pipe-tobacco-burbon-scented-from-etsy")](https://www.etsy.com/listing/663718798/hemingway-soy-candle-writer-gift-writer?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=hemingway+candle&ref=sr_gallery-1-1)
 
+* TOC
+{:toc}
+
 ### WHAT is Etsy?
 
 Esty is an E-Commerce marketplace that functions similarly to Amazon. Etsy produces income on a commission structure. It provides the platform for artisans to set up a virtual shop to sell their handmade products. Etsy collects a fee for every item sold and listed. Artisans make their products, craft their listing, produce their product image. Etsy drives traffic to sellers without the difficultly of building a website or intense marketing strategies.

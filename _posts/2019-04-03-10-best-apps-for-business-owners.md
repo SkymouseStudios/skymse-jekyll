@@ -22,6 +22,9 @@ That being said, the landscape of apps is changing quickly. Here are the tried a
 
 [![gif of notion application database](/uploads/notion-screenshot-database.gif)](https://www.notion.so "gif-notion-application-database")
 
+* TOC
+{:toc}
+
 ## 1. Use Notion for keeping all of your information accessible.
 
 `Free, Limited to 1000 Blocks,`

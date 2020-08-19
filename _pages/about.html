@@ -13,13 +13,14 @@ author: John Welch
 ---
 
 
-<div class="hero m-pad">
+<div class="hero bg-darken">
 	
-	<h1 class="dark">About Skymouse</h1>
-	<h3 class="dark">Purpose drives passion.</h3>
+	<div class="content">
+		<h1>About Skymouse</h1>
+		<h3>Purpose drives passion.</h3>
+	</div>
 
-
-	<div id="scene" data-relative-input="true" data-pointer-events="true" style="background-size: cover; background-image: url('/library/images/headers/header-about.svg'); ba">
+	<div id="scene" data-relative-input="true" data-pointer-events="true" style="background-size: cover; background-image: url('/library/images/headers/header-about.svg');">
 		<img id="headerFront" style="z-index: 2; margin-top: 350px" data-depth="0.50" src="{{ site.url }}{{ page.img-front }}" alt="">
 		<img id="headerMid" style="z-index: 1; margin-top: -160px;" data-depth="0.30" src="{{ site.url }}{{ page.img-mid }}" alt="">
 		<img id="headerBack" style="z-index: 0;" data-depth="0.10" src="{{ site.url }}{{ page.img-back }}" alt="">
@@ -45,11 +46,9 @@ author: John Welch
 		</div>
 
 		<div class="content m-margin">
-			<h3>Why we do.</h3>
-			<h5>Marketing should be straight-forward.</h5>
+			<h3>Marketing should be straight-forward.</h3>
 			<p>You know that feeling you get when you see a pickup artist hitting on a girl from out of town? That's how we feel watching other marketing companies. We exist because we're tired of marketing agencies taking advantage of unsuspecting businesses.</p>
 
-			<h5>We have a vision.</h5>
 			<p>We'd love to see a world where every business can effectively communicate their unique talents and offerings to the marketplace.</p>
 		</div>
 			
@@ -62,9 +61,7 @@ author: John Welch
 		</div>
 
 		<div class="content m-margin">
-			<h3>What we do.</h3>
-		
-			<h5>Focus on the ONE thing.</h5>
+			<h3>Focus on the ONE thing.</h3>
 			<p>You know what’s hard? Admitting who isn’t your customer. Dropping your highest revenue customer because they don't align with the vision of your brand. Teaching your company why you exist and why the marketplace should care.</p>
 
 			<p>We partner with companies who are ready to make the tough choices to see their business flourish like never before.</p>
@@ -81,12 +78,9 @@ author: John Welch
 		</div>
 
 		<div class="content m-margin">
-			<h3>How we do.</h3>
-
-			<h5>Getting things done.</h5>
+			<h3>Getting things done.</h3>
 			<p>While Sleazy Marketing LLC is explaining the psychological impact of Helvetica Light Augmented Arial Bold Universal Typeface, we’re busy getting the job done.</p>
 
-			<h5>Principles exist for one reason: to drive actions.</h5>
 			<p>We take you through specific exercises designed to teach you and your customers who you are and why you matter. You focus on your business, we focus on executing.</p>
 		</div>
 
@@ -100,8 +94,7 @@ author: John Welch
 		</div>
 		<div class="content m-margin">
 			<h3>Where we work.</h3>
-			<h5>From the flatlands of Indiana and the rolling hills of Tennessee.</h5>
-			<p>Where the people are great, the food is delicious and there is always something to do. We're a remote team working with clients all over the United States.</p>
+			<p>From the flatlands of Indiana and the rolling hills of Tennessee. Where the people are great, the food is delicious and there is always something to do. We're a remote team working with clients all over the United States.</p>
 
 			<p>Passing through Indianapolis or Nashville? let us know! We'd love to buy you a coffee and chat.</p>
 		</div>
@@ -121,13 +114,12 @@ author: John Welch
 		{% for profile in site.data.authors.profiles limit:2 %}
 				<div class="twitter-box pad">
 					<p class="twitter-name">{{ profile.name }}</p>
-					<a class="twitter-handle" href="#">{{ profile.handle }}</a>
+					<a class="twitter-handle" href="#">{{profile.title }}</a>
 					<img class="twitter-profile" src="{{ site.url }}{{ profile.img }}" alt="{{profile.name}}">
 					<div class="twitter-content">
 						<img src="{{ site.url }}{{ profile.img }}" alt="{{profile.name}}">
 					</div>
 					
-					<h5>{{profile.title }}</h5>
 					<p>{{profile.desc }}</p>
 					<a href="{{ profile.twitter }}" class="social-btn"> <i class="twitter-icon fa fa-twitter"></i> </a>
 					

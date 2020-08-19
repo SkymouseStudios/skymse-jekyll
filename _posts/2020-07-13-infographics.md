@@ -2,7 +2,7 @@
 layout: post
 author: John Welch
 title: "8 Links To Take Your Blogs To The Next Level"
-subtitle: "Infographics make your posts more engaging, more sharable and rank higher."
+subtitle: "Infographics make your posts more engaging, more sharable and rank higher on Google."
 description: "If you start incorporating infographics into your blogs posts, your blogs will become more engaging, they will garner more organic search traffic, and they will generate backlinks for your domain."
 permalink: "/blog/8-infographics-to-take-your-blogs-to-the-next-level/"
 img: "/uploads/027-blogging-infographics.png"
@@ -21,6 +21,9 @@ Articles featuring infographics received [over 170% more links](https://venngage
 Since links are arguably the best way to increase your search rankings, infographics need to be at the top of your content priority list. 
 
 If you start incorporating infographics into your blogs posts, your blogs will become more engaging, they will garner more organic search traffic, and they will generate backlinks for your domain. 
+
+* TOC
+{:toc}
 
 ## How To Use Infographics
 

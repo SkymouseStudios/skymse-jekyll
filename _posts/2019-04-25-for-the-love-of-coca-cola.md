@@ -16,7 +16,11 @@ redirect_from:
 - ahhhhhh-make-your-brand-as-good-as-a-cola-company/
 
 ---
+
 People love to complain. Soda causes obesity. Soda has high fructose corn syrup. Soda is bad for our bodies. Yeah, maybe these things are all true, but nobody really cares. 
+
+* TOC
+{:toc}
 
 Alright, some people care, but the majority of the world shrugs it off and either continues to drink soda regularly or at least on indulgent occasions. But why? How does the industry get past that wall of negative PR?
 

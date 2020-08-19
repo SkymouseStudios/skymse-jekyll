@@ -16,7 +16,7 @@ redirect_from:
 - "/the-skymouse-small-business-marketing-system/"
 
 ---
-**Small businesses are losing huge portions of their revenue to sales and marketing efforts that never amount to anything.** These small businesses hold out in their vision of more leads, more sales, and less worry. What they end up with is a $50,000 hole and no ladder to climb out.
+Small businesses are losing huge portions of their revenue to sales and marketing efforts that never amount to anything. These small businesses hold out in their vision of more leads, more sales, and less worry. What they end up with is a $50,000 hole and no ladder to climb out.
 
 There are a couple of specific reasons for this:
 
@@ -24,6 +24,9 @@ There are a couple of specific reasons for this:
 2. Those strategies are not providing many-- if any-- results for the business.
 3. The cost of the consultants is too high for the business to carry on long enough to realistically see any results.
 4. Because of the general distrust of sales and marketing consultants, these same consultants are spending most of their time trying to concoct ideas that will sound good to their prospects. This means their time is _not_ spent on implementing strategies that will amount to a measurable increase in sales conversations and, consequently, an increase in revenue.
+
+* TOC
+{:toc}
 
 ## The Reality of Marketing for Small Businesses is Simple.
 

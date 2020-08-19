@@ -40,6 +40,9 @@ If you're reading this post, it's likely that you've realized how important blog
 
 If you're reading this post and you haven't made that realization yet, read our post on **why blogging is the one marketing activity you can't ignore**, then return here for my tips! 
 
+* TOC
+{:toc}
+
 ## The Blog Paradox
 
 The blog paradox is the idea that those who are the most qualified to write blogs for a company are also the least likely to have the ability or the time to do so. Usually, a business owner or technical expert would be the best possible person to write a high-quality blog post.

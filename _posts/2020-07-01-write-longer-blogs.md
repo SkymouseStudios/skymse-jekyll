@@ -28,6 +28,9 @@ For many businesses that are trying to write blogs, 1,500 to 2,000 words seems l
 
 Here are 5 tips to writing longer blog posts. 
 
+* TOC
+{:toc}
+
 ---
 
 `Watch the recap`

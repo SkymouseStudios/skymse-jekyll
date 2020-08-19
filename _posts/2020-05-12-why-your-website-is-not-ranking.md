@@ -37,7 +37,7 @@ The next question then becomes a lot more important, "what do I do about it?"
 **We suggest starting with these 4 steps.**
 
 * TOC
-  {:toc}
+{:toc}
 
 ## Step 1: Create Backlinks
 

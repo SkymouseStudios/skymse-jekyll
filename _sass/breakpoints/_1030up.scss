@@ -2,10 +2,6 @@
 1030px and up - Desktop Stylsheet
 ******************************************************************/
  
-p {
-	font-size: 1em;
-}
-
 /*****************/
 /* LAYOUT Styles */
 /******************/
@@ -25,6 +21,9 @@ p {
 	left:calc(50% - 75%);
 }
 
+.hero {
+	padding-top: 280px;
+}
 
 /*********************
 TEMPLATE OBJECTS
@@ -48,11 +47,6 @@ TEMPLATE OBJECTS
 
 		ul li:last-child {
 			float: right;
-			
-			a {
-				background-color: $orange;
-			}
-			
 		}
 	}
 

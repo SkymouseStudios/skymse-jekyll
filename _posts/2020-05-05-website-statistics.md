@@ -14,6 +14,13 @@ categories:
 
 ## Rank #1 on Google! (or close to it)
 
+Ranking well on Google, or other search engines is one of the best ways to drive traffic to your site. I've picked out a couple website stats to help you better understand what matters about your site content, design and optimization. If you want more tips about making your website content better, we share some [great posts on Instagram](https://www.instagram.com/skymousestudios/).
+
+If you have any questions about how these numbers affect your website, let us know! We'd love to help you out if we can.
+
+* TOC
+{:toc}
+
 ### 95% of people only look at the first page of search results
 
 <img class="blog-image-mid" src="/uploads/022-c-50-percent-clicks.png" alt="Top 3 image of google search">

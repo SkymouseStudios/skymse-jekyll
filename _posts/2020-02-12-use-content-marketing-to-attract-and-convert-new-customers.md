@@ -40,6 +40,9 @@ At it's best, content marketing pulls back the curtain on what many consider to 
 
 This is how you create content that attracts. Find the problems that your customers are tying to solve, then *prove to them that you know how to solve them.*
 
+* TOC
+{:toc}
+
 ## Create content that solves a problem. Without you.
 
 Okay, so we've found problems that our prospects and customers are trying to solve. We know how to attract them to our blog. Next, we need to understand how to convert them once they get there. 

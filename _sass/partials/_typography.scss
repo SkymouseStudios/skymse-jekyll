@@ -72,15 +72,15 @@ Stylesheet: Typography
 
 /* --- FONT STACK ---  */
 
-$sans-serif:        "Rubik", Helvetica, Arial, sans-serif;
-$serif:             "Rubik", Cambria, Times New Roman, Times, serif;
+$sans-serif:        "Titillium Web", Helvetica, Arial, sans-serif;
+$serif:             "Titillium Web", Cambria, Times New Roman, Times, serif;
 
 /* some nice typographical defaults */
 
 p, ul, li {
   font-size: 1em;
   line-height: 2em;
-  font-weight: 300;
+  font-weight: 400;
   -ms-word-wrap: break-word;
   word-break: break-word; //non-standard css for webkit
   word-wrap: break-word;
@@ -98,70 +98,72 @@ p, ul, li {
       -ms-font-feature-settings: "liga", "dlig";
        -o-font-feature-settings: "liga", "dlig";
           font-feature-settings: "liga", "dlig";
-  color: $black;
+  color: var(--main-text-color);
 }
 
 /* --- HEADER STYLING --- */
 
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
+  text-rendering: optimizelegibility;
+  color: var(--main-text-color);
+  font-family: $sans-serif;
+}
+
 h1, .h1 {
   font-size: 2.5em;
-  color: $black;
-  font-family: $sans-serif;
-  font-weight: 500;
+  font-weight: 700;
   margin: 0;
 }
 
 h2, .h2 {
+  font-size: 2.1em;
   font-weight: 500;
-  font-size: 2.2em;
   margin: 0;
-  color: $black;
 }
 
 h3, .h3 {
   font-size: 1.8em;
-  font-family: $sans-serif;
-  color: $black;
-  font-weight: 200;
-  display: inline-block;
+  font-weight: 300;
   margin: 0;
+
+  display: inline-block;
 }
 
 h4, .h4 {
-  color: $black;
-  font-family: $sans-serif;
-  font-weight: 200;
-  font-size: 20px;
-  // background-color: white; What do I need this for?
-  z-index: 2;
+  font-weight: 600;
+  font-size: 1.5em;
   margin: 0; // This seems like it needs to be done 5/26/20
-
 }
 
 h5 {
   font-size: 1em;
+  font-weight: 600;
+  margin: 0;
+  text-transform: uppercase;
+
   line-height: 2em;
-  font-weight: 400;
-  text-align: left;
-  margin-bottom: -20px;
 }
 
 code {
-  background-color: $ygray;
+  background-color: var(--main-highground-color);
   border-radius: 5px;
-  color: $dblue;
+  color: var(--main-highlight-color);
   padding: 0px 6px;
+}
+
+pre {
+  background-color: var(--main-highground-color);
+  padding: 20px;
 }
 
 blockquote p {
   font-size: 2.3em;
-  color: $orange;
-  font-family: "Rubik";
+  color: var(--main-highlight-color);
 }
 
 .subtitle {
   font-size: 1.5em;
-  color: $black;
+  color: var(--main-text-color);
   margin: 0;
 }
 
@@ -170,7 +172,7 @@ blockquote p {
 }
 
 .light {
-  color: white;
+  color: $white;
 }
 
 .text-center {
@@ -214,23 +216,11 @@ ul.list {
   border-radius: 3px;
   display: inline-block;
   padding: 0.2em 0.5em;
-  font-size: 0.8em;
-  color: $gray;
-  font-weight: 300;
-  border: 1px solid $lgray;
+  color: var(--main-text-light-color);
+  border: 1px solid var(--main-text-light-color);
 }
 
-.tag-orange {
-  border-color: $orange;
-  color: $orange;
-}
-
-.tag-red {
-  border-color: $red;
-  color: $red;
-}
-
-.tag-white {
-  border-color: white;
-  color: white;
+.tag-bright {
+  border-color: var(--main-highlight-color);
+  color: var(--main-highlight-color);
 }

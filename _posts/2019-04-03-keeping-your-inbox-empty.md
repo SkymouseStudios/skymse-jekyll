@@ -17,6 +17,9 @@ Email is the worst. It's messy. It's confusing. It gets really out of hand quick
 
 You wouldn't believe how many people I know that spend 2+ hours in their email throughout the work day. It's a businessman's Facebook. It's addicting. It's time to take control of your email.
 
+* TOC
+{:toc}
+
 I do my best to limit distractions in my workday. There is plenty to accomplish. Why should I waste time mucking around in my inbox? Here's what I do:
 
 ### 1. Create tasks and prioritize.

@@ -14,11 +14,13 @@ categories:
 permalink: "/blog/cheap-ways-to-market-your-small-business/"
 
 ---
-## Broke. Broke. Broke.
 
 The start-up life can be hard. Even if you have been in business for a while, hard times strike. Companies that need to keep tight purse strings are not a new phenomenon.
 
 Massive companies go broke with one downturn in the economy. Just look at companies like GM and Chrysler. The government bailed them out for billions during the 2008 economic crisis. Billions. Sometimes cash flow is an issue. Don't be ashamed. As a small business ourselves, we understand that sometimes stretching a dollar can be just as important as earning the next.
+
+* TOC
+{:toc}
 
 Now, full disclaimer: typically we do NOT suggest skimping on marketing. We just don't. That's not because we want your business (we do, but that is NOT why we usually say this). We don't advise skimping on your marketing budget because we want your business to be successful. 
 
@@ -28,7 +30,7 @@ Marketing is an investment in your product or service that should be translating
 
 BUT in the case that you just really cannot spare much else, below you will find 5 marketing ideas that if executed well will gain you traction in a saturated marketplace with very little financial overhead.
 
-### 1. Blogs Help Future Customers Find the Answers For Which They've Been Looking
+## 1. Blogs Help Future Customers Find the Answers For Which They've Been Looking
 
 I honestly cannot say enough about the marketing benefits of blogging. Want to make a solid impression on the world? Hunker down and start a blog. Blogs are fairly simple to incorporate into any website. Don't have a website? No advice out of this one...get a website. People need to find you. Even if you are using a template service and dragging and dropping your own, most templates come readily equipped with a blog.
 
@@ -44,7 +46,7 @@ Finally, comment on blog posts. Comment on yours and others to generate interest
 
 ![social-calendar-with-sticky-notes](/uploads/calendar-social-planning-idea-board.jpg "social-calendar-grid")
 
-### 2. Network With People in Your Community
+## 2. Network With People in Your Community
 
 This one is so easy, and no offense to blog posts, but sooooo much more fun. If you are truly shoe-string budgeting, go out into the world and network. The only thing required for this idea is a few elbow rubs and a healthy dose of talking about yourself (or your company rather). 
 
@@ -58,7 +60,7 @@ Sidebar, have you ever heard of [MeetUp](https://www.meetup.com/) by chance? The
 
 ![social-media-spelled-with-scrabble-pieces-and-the-facebook-app](/uploads/social-media-scrabble-pieces-iphone-facebook.jpg "facebook-app-social-media")
 
-### 3. Social Media Engages With Your Customers
+## 3. Social Media Engages With Your Customers
 
 This is the one with which most of you guys are familiar. Social media is an incredibly strong and cheap form of driving engagement. Social media can be as easy or difficult as you would like. According to Facebook Blueprint, **one out of every five minutes spent on the internet is spent on Facebook or Instagram.** So, obviously you might start with those two networks. 
 
@@ -68,7 +70,7 @@ You can even create exclusive Facebook groups for your most "exclusive" patrons.
 
 Not all social networks are equal. Linkedin is ideal for B2B marketing, while Facebook is more of a B2C option. Learn how to increase engagement and start marketing your business on Linkedin in [this post.]({% post_url 2020-02-14-increase-engagment-on-linkedin %})
 
-### 4. Email Marketing Helps You Reach New Customers and Retain Current Customers
+## 4. Email Marketing Helps You Reach New Customers and Retain Current Customers
 
 If you are a small business, you may not take email marketing seriously yet. That's okay. I forgive you, but I encourage you to reconsider.
 
@@ -82,7 +84,7 @@ Even if they are just going to delete most of your emails, odds are if you send 
 
 Sending marketing emails does not have to be complicated. Companies like [MailChimp](https://mailchimp.com) offer free email campaign management software up to 2000 email addresses. If you spend a bit of time carefully crafting and curating your emails, you can set up and automate the rest of the process. Easy. Cheap. Wonderful.
 
-### 5. Develop Partnerships with Other Small Businesses
+## 5. Develop Partnerships with Other Small Businesses
 
 This may be a bit far-fetched. This always seems so difficult to do, but it's not _and_ it has tons of benefits. This falls somewhat in the realm of networking in that it is people coming together in an effort to build each other (and their companies) up.
 

@@ -21,6 +21,9 @@ Sometimes you just want to get some marketing done without spending (that much) 
 
 We're just as tired of the "helpful" guys as you are, so this is the first part in a series of posts we're sharing about how you can use LinkedIn to route traffic to your website in order to generate new business.
 
+* TOC
+{:toc}
+
 ![icons8-linkedin-512.png](/uploads/012-icons8-linkedin-512.png)
 
 ## How to Use LinkedIn like a Marketing Platform
