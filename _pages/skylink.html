@@ -1,0 +1,24 @@
+---
+
+title: Skymouse Studios
+layout: landing
+subtitle: Put your content on Auto-pilot
+description: Skymouse Studios is a media company based out of Indianapolis, Indiana. We help people use media to transform their businesses.
+permalink: /links/
+img: /library/images/social/social-about.jpg
+
+---
+
+<div class="pad m-pad">
+	<section class="card card--orange">
+		<div class="content pad">
+			<img class="icon-size" src="{{ site.url }}{{ site.logo }}" alt="">
+			<a href="{{ site.url }}"><h2>{{page.title}}</h2></a>
+			<h4>{{page.subtitle}}</h4>
+
+			{% for social in site.data.menus.socials %}
+				<a class="action-btn skylink-btn" href="{{ social.url }}">{{ social.icon }} {{ social.name }} </a>
+			{% endfor %}
+		</div>
+	</section>
+</div>

@@ -1,4 +1,5 @@
 ---
+episode: 028
 layout: post
 author: John Welch
 title: 3 Free Ways to Start Marketing Right Now

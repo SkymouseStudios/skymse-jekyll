@@ -42,11 +42,18 @@ footer:
 
 # Links to Social Media
 socials:
-  - name: "instagram"
+  - name: "Visit Our Website"
+    url: "https://skymousestudios.com"
+    icon: ⛰
+  - name: "Free Marketing Guides"
+    url: "https://skymousestudios.com/blog"
+    icon: <i class="twitter-icon fa fa-book"></i>
+  - name: "Instagram"
     url: "https://www.instagram.com/SkymouseStudios/"
-  - name: "linkedin"
-    url: "https://www.linkedin.com/company/skymouse-studios-and-entertainment"
-  - name: "twitter"
-    url: "https://twitter.com/SkymouseStudios"
-  - name: "facebook"
+    icon: <i class="twitter-icon fa fa-instagram"></i>
+  - name: "Linkedin"
+    url: "https://www.linkedin.com/company/skymouse-studios"
+    icon: <i class="twitter-icon fa fa-linkedin"></i>
+  - name: "Facebook"
     url: "https://www.facebook.com/Skymouse-Studios-1667422846889253"
+    icon: <i class="twitter-icon fa fa-facebook"></i>

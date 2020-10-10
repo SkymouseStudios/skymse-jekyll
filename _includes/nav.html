@@ -1,0 +1,44 @@
+<a href="/humans-of-linkedin/" class="top-banner">
+			🎉&nbsp;&nbsp;<div class="tag tag-white"> New!</div> Check out our latest episode of Humans of Linkedin!&nbsp;&nbsp;🎉
+		</a>
+	
+<header role="banner" class="{% if page.layout != 'default'%} header-orange {% endif %} " itemscope itemtype="http://schema.org/WPHeader">
+
+	<nav id="mobile-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<ul class="cf">
+	  		{% for link in site.data.menus.header %}
+	            <li>
+	              <a class="nav-btn" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+	            </li>
+	  		{% endfor %}
+		</ul>
+	</nav>
+
+	<div id="inner-header" class="cf">
+
+		<a id="logo" href="{{ site.url }}/" rel="nofollow">
+			<img alt="Skymouse Studios Logo" src="{{ site.url }}/library/images/logos/skymouse-logo.svg">
+			<span class="logo-words m-hide"><strong>Skymouse</strong><span style="font-weight: 100;">Studios</span></span>
+		</a>
+
+		<div id="menu-burger">
+			<div id="line"></div>
+		</div>
+
+
+		<nav id="desktop-menu" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+			<ul class="cf">
+	      		{% for link in site.data.menus.header %}
+		            <li>
+		              <a class="nav-btn" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+		            </li>
+	      		{% endfor %}
+
+	      		<li>
+	              <a class="action-btn drift-open-chat" href="#">Chat With Us</a>
+	            </li>
+	    	</ul>
+		</nav>
+	</div> 
+	
+</header>
