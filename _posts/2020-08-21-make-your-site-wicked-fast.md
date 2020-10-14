@@ -2,7 +2,7 @@
 episode: 029
 layout: post
 author: Patrick Hanus
-title: "Make Your Website Wicked Fast"
+title: "How to make your website wicked fast"
 subtitle: "Understand a speed test, fix your website, and rank higher on Google."
 description: "In this article, I'm going to show you why your site is slow, how to understand a speed test report, and what to do in order to speed up your site."
 permalink: "/blog/how-to-make-your-website-faster/"

@@ -1,4 +1,5 @@
 ---
+episode: ""
 layout: post
 author: John Welch
 title: ""
@@ -9,6 +10,8 @@ img: "/uploads/023-2020-seo-guide.png"
 ttr: "10"
 categories:
 - strategy
+
+---
 
 <!--
 
@@ -32,5 +35,3 @@ frameborder="0"></iframe>
 ---
 
 -->
----
-
