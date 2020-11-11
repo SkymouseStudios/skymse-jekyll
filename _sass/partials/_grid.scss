@@ -1,19 +1,8 @@
 /******************************************************************
 Stylesheet: Grid Stylesheet
 ******************************************************************/
- 
-// using a mixin since we can't use placeholder selectors
-@mixin grid-col {
-  float: left;
-  padding-right: 0.75em;
-}
 
-// the last column
-.last-col { 
-  float: right;
-  padding-right: 0 !important;
-  margin-right: 0 !important;
-}
+// Helper Classes
 
 .pad {
   margin-bottom: 5%;
@@ -24,11 +13,15 @@ Stylesheet: Grid Stylesheet
   margin-top: 5%;
 }
 
-.d-1of3-pad {
-  @include grid-col;
-  width: 30%;
-  margin-right: 5%;
+.m-hide {
+  display: none;
 }
+
+.m-pad {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 // Used on the case studies page
 .grid-masonry {
   display: grid;
@@ -45,26 +38,15 @@ Stylesheet: Grid Stylesheet
   }
 }
 
-.grid-four {
+.grid-half {
   display: grid;
-  grid-gap: 20px;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  
-  img {
-    width: 100%;
-  }
+  grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
 }
 
 .grid-three {
-  // trying out auto-fill instead of auto-fit so that when the other 
-  // columns are empty, one of them doesn't get huge.
   display: grid;
   grid-gap: 50px;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  
-  img {
-    width: 100%;
-  }
 }
 
 .grid-three-fit {
@@ -77,24 +59,27 @@ Stylesheet: Grid Stylesheet
     grid-row: 2;
     grid-column: span 2;
   }
-
 }
 
-.grid-half {
+.grid-four {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  
+  img {
+    width: 100%;
+  }
 }
 
 .feature-grid {
-  padding: 40px 20px;
   display: grid;
   grid-gap: 40px;
   grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
 }
 
 .clean-grid {
-  grid-template-columns: 1;
   display: grid;
+  grid-template-columns: 1;
   grid-gap: 40px;
 }
 
@@ -162,11 +147,6 @@ Stylesheet: Grid Stylesheet
 
 @media (max-width: 767px) {
 
-  .m-margin {
-    margin-left: 1em;
-    margin-right: 1em;
-  }
-
   .one {
     grid-column: 1;
     grid-row: auto;
@@ -185,7 +165,6 @@ Stylesheet: Grid Stylesheet
     display: grid;
     grid-template-columns: auto;
     grid-gap: 10px;
-    margin-top: 45px;
   }
 
   .feature-grid { 
@@ -194,15 +173,6 @@ Stylesheet: Grid Stylesheet
     .content {
       text-align: center;
     }
-  }
-
-  .m-hide {
-    display: none;
-  }
-
-  .m-pad {
-    margin-left: 20px;
-    margin-right: 20px;
   }
 } // end mobile styles
 
@@ -234,17 +204,3 @@ Stylesheet: Grid Stylesheet
   }
 
 } // end desktop styles
-
-.center-margin {
-  margin: 0 auto;
-  clear: both;
-  float: none;
-}
-
-.right {
-  float: right;
-}
-
-.left {
-  float: left;
-}

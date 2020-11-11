@@ -8,6 +8,8 @@ Light and Dark Modes
 
 :root {
     color-scheme: light dark;
+     --site-width: auto;
+     --columnCountMax: 2;
 }
 
 @media (prefers-color-scheme: light) {
@@ -43,8 +45,8 @@ body {
 	position: relative;
     scroll-behavior: smooth;
 	font-family: $serif;
-	font-size: 14px;
-	line-height: 1.5;
+	font-size: 16px;
+	line-height: 1.3;
 	background-color: var(--main-bg-color);
 	color: var(--main-text-color);
 
@@ -97,6 +99,10 @@ a {
 
 img {
 	width: 100%;
+}
+
+.img-default {
+	border-radius: $radius;
 }
 
 video {
@@ -192,11 +198,10 @@ header {
 }
 
 .hero {
-	padding-top: 200px;
-	padding-bottom: 100px;
+	padding-top: 150px;
+	padding-bottom: 200px;
 	position: relative;
 	text-align: center;
-	//height: 80vh;
 	overflow: hidden;
 
 	.content {
@@ -206,14 +211,33 @@ header {
 	}
 
 	h1 {
-		text-shadow: -2px 1px 0px #ff60604f;
-		line-height: 1.5em;
-		font-size: 3.1em;
+		line-height: 1.2em;
+		font-size: 5em;
 		margin: 0 auto;
 	}
 
-	p, h1, h3 {
-		color: $white;
+	p {
+		margin: 0px auto;
+	}
+}
+
+.hero-features {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	text-align: center;
+	padding: 10px;
+	margin-top: -50px;
+
+	p {
+		border-radius: $radius-sm;
+		padding: 20px 0px;
+		background-color: var(--main-highground-color);
+		box-shadow: 1px 1px 40px #00000033;
+	}
+
+	img {
+		width: 70px;
+		vertical-align: middle;
 	}
 }
 
@@ -297,25 +321,7 @@ header {
 	}
 }
 
-.hero-features {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-	text-align: center;
-	padding: 10px;
-	margin-top: -50px;
 
-	p {
-		border-radius: $radius-sm;
-		padding: 20px 0px;
-		background-color: var(--main-highground-color);
-		box-shadow: 1px 1px 40px #00000033;
-	}
-
-	img {
-		width: 70px;
-		vertical-align: middle;
-	}
-}
 
 /*********************
 NAVIGATION STYLES
@@ -338,7 +344,7 @@ NAVIGATION STYLES
 	margin: 20px 0; 
 	font-size: 1.5em; 
 	display: inline-block;
-	color: $white;
+	color: $midnight;
 	float: left;
 	margin-right: 10px;
 
@@ -457,7 +463,7 @@ SECTIONS
 }
 
 .section-full-width {
-	padding: 30px 0;
+	padding: 0px;
 }
 
 section {
@@ -477,83 +483,17 @@ section {
 	}
 }
 
-.grid-service {
-	padding: 50px 0;
- 	display: grid;
- 	grid-template-columns: repeat( auto-fit, minmax(265px, 400px) ) ;
- 	grid-gap: 50px;
-
- 	justify-content: center;
-}
-
-.grid-item-service {
-	display: grid;
-	grid-gap: 20px;
-	grid-template-columns: 70px 1fr;
-	background-color: var(--main-midground-color);
-	border-radius: $radius-sm;
-	transition: 0.7s;
-	padding-right: 50px;
-	border-bottom: 3px solid transparent;
-
-	h4 {
-		margin-bottom: 0px;
-	}
-
-	div {
-		padding: 13px 0px;
-	}
-
-	p {
-		margin: 0px;
-		line-height: 1.7em;
-	}
-
-	span {
-		border-radius: 5px 0px 0px 5px;
-		background-color: var(--main-highground-color);
-		width: 70px;
-		text-align: center;
-		display: flex;
-	}
-
-	img {
-		width: 35px;
-		margin: 0 auto;
-	}
-
-	&:hover {
-		transform: translatey(-20px);
-		transition: 0.5s;
-		border-bottom-color: var(--main-highlight-color);
-	}
-}
-
-// This is for sections that have a colored 
-// offset background behind it.
-.section-back {
-	z-index: 1;
-	padding-top: 20px;
-
-	&::after {
-		content: " ";
-		position: absolute;
-		left: -20px;
-		right: -20px;
-		top: 0;
-		bottom: 0;
-		background-color: var(--main-highground-color);
-		z-index: -1;
-		border-radius: 20px;
-	}
-}
 
 // Sections that have two sides
+.homepage-profile {
+	text-align: center;
+}
 
-.funky-bg {
-	background-image: url("library/images/bg-section.svg");
-	background-size: contain;
-	padding: 100px 0;
+.homepage-profile img{
+	display: inline-block;
+	width: 200px;
+	border-radius: 10px;
+
 }
 
 .panel {
@@ -594,33 +534,11 @@ section {
 	}
 }
 
-.rect {
-	background-color: var(--main-highlight-color);
-	height: 40px;
-	width: 400px;
-	border-radius: 5px;
-	position: absolute;
-
-	bottom: 45px;
-	right: -30%;
-	z-index: -1;
-
-	&:first-child {
-		top: 130px;
-		left: 0%;
-		right: auto;
-		bottom: auto;
-		z-index: -1;
-	}
-
-	&:nth-child(2) {
-		top: 50%;
-		bottom: 50%;
-		left: 80%;
-		right: -80%;
-		z-index: 3;
-	}
+.panel-testimonial {
+	border-left: 2px dashed var(--main-highlight-color);
+	padding-left: 20px;
 }
+
 /*********************
 TEMPLATE OBJECTS
 *********************/
@@ -628,13 +546,17 @@ TEMPLATE OBJECTS
 .section-heading {
 	text-align: center;
 	margin: 0 auto;
-	max-width: 500px; // so we don't have a huge string
 	margin-bottom: 35px;
-
-	h4 {
-		opacity: 0.75;
-	}
 }
+
+	.heading-narrow {
+		max-width: 450px;
+		margin: 0 auto;
+	}
+
+	.heading-wide {
+		max-width: 700px;
+	}
 
 ._big-idea-box {
 	border: none;
@@ -801,6 +723,7 @@ POSTS & CONTENT STYLES
 // download page cards
 .download-thumb {
 	align-items: center;
+	max-width: 500px;
 
 	.picture {
 		text-align: center;
@@ -992,7 +915,8 @@ POSTS & CONTENT STYLES
 // Adds a border to an object
 .border {
 	border: 3px solid $lgray;
-	box-shadow: -25.1px 32.5px 75px -25px rgba(30, 30, 63, 0.31), -16.2px 37.5px 35px -27.5px rgba(0, 0, 0, 0.21);
+	box-shadow: $shadow;
+	border-radius: $radius;
 }
 
 /*********************
@@ -1051,17 +975,6 @@ MODULES
 		background-image: linear-gradient(var(--main-bg-color), var(--main-bg-color)), radial-gradient(circle at top left, #ef6500,#feb13e);
 		background-origin: border-box;
 		background-clip: content-box, border-box;
-	}
-
-	h3 {
-		width: 100%;
-		text-align: center;
-		padding: 20px 0;
-		background-color: var(--main-midground-color);
-		background-image: url(/library/images/icons/icon-subtle-pattern.svg);
-		background-size: 300px;
-		border-top-left-radius: $radius;
-		border-top-right-radius: $radius;
 	}
 
 	h4 { 
@@ -1346,3 +1259,239 @@ footer {
 	}
 }
 
+
+/// Hot spot code
+
+.hotspot-area {
+	position: relative;
+}
+
+.hotspot-area img {
+	position: relative;
+	z-index: 1;
+}
+
+.spot-group {
+	display: inline-block;
+	min-width: 250px;
+	position: absolute;
+}
+
+.spot-content {
+	position: relative;
+	display: none;
+	border-radius: 8px;
+	padding: 8px;
+	text-align: center;
+	line-height: 1.5em;
+	color: var(--main-text-color);
+	background-color: var(--main-highground-color);
+	box-shadow: 0px 0px 14px -4px #0000005e;
+	z-index: 4;
+}
+
+.spot-content .notch {
+    position: absolute;
+    padding: 0;
+    width: 0;
+    height: 0;
+}
+.spot-content .notch-top {
+    top: -10px;
+    left: 50%;
+    margin-left: -10px;
+    border-top: 0;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid var(--main-highground-color);
+    border-left: 10px solid transparent;
+}
+.spot-content .notch-right {
+	top: 50%;
+	right: -10px;
+	margin-top: -10px;
+    border-top: 10px solid transparent;
+    border-right: 0;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid var(--main-highground-color);
+}
+.spot-content .notch-bottom {
+	bottom: -10px;
+	left: 50%;
+	margin-left: -10px;
+    border-top: 10px solid var(--main-highground-color);
+    border-right: 10px solid transparent;
+    border-bottom: 0;
+    border-left: 10px solid transparent;
+}
+.spot-content .notch-left {
+	top: 50%;
+	left: -10px;
+    margin-top: -10px;
+    border-top: 10px solid transparent;
+    border-right: 10px solid var(--main-highground-color);
+    border-bottom: 10px solid transparent;
+    border-left: 0;
+}
+
+.spots {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 2;
+}
+
+.spot {
+    position: absolute;
+  	text-align: center;
+  	line-height: 23px;
+    font-size: 22px;
+  	font-weight: bold;
+  	color: #fff;
+    width: 32px;
+    height: 32px;
+	border: 4px solid var(--main-highlight-color);
+	border-radius: 16px;
+	background-color: var(--main-highlight-color);
+
+	box-shadow: 0px 0px 0px 2px white, 0px 0px 0px 5px var(--main-highlight-color);
+}
+
+.spot:hover {
+    box-shadow: 0px 0px 0px 4px white, 0px 0px 0px 6px var(--main-highlight-color);
+}	
+
+// Section 1 Spots
+
+#spot-01 {
+    top: 65%;
+    left: 78%;
+}
+#spot-01:hover > .spot-content {
+	display: block;
+	top: -16px;
+	left: -104%
+}
+#spot-02 {
+    top: 28%;
+    left: 57%;
+}
+#spot-02:hover > .spot-content {
+	display: block;
+	top: -74px;
+	left: -44%;
+}
+#spot-03 {
+    top: 45%;
+    left: 35%;
+}
+#spot-03:hover > .spot-content {
+	display: block;
+    top: -16px;
+    left: 42px;
+}
+
+// Section 2 Spots
+
+#spot-04 {
+    top: 6%;
+    left: 33%;
+}
+#spot-04:hover > .spot-content {
+	display: block;
+	top: -4px;
+	left: -104%
+}
+#spot-05 {
+    top: 28%;
+    left: 57%;
+}
+#spot-05:hover > .spot-content {
+	display: block;
+	top: -57px;
+	left: -43%;
+}
+#spot-06 {
+    top: 45%;
+    left: 35%;
+}
+#spot-06:hover > .spot-content {
+	display: block;
+    top: -5px;
+    left: 40px;
+}
+
+// Section 3 Spots
+
+#spot-07 {
+    top: 65%;
+    left: 78%;
+}
+#spot-07:hover > .spot-content {
+	display: block;
+	top: -4px;
+	left: -104%
+}
+#spot-08 {
+    top: 28%;
+    left: 57%;
+}
+#spot-08:hover > .spot-content {
+	display: block;
+	top: -57px;
+	left: -43%;
+}
+#spot-09 {
+    top: 75%;
+    left: 45%;
+}
+#spot-09:hover > .spot-content {
+	display: block;
+    top: -5px;
+    left: 40px;
+}
+
+////// GUIDES
+
+.site-background-mask {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.site-background {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.guide-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 0 16px;
+  pointer-events: none;
+}
+
+.guide-grid {
+  display: grid;
+  grid: 1fr/repeat(var(--columnCountMax),1fr);
+  position: relative;
+  max-width: var(--site-width);
+  height: 100%;
+  margin: 0 auto;
+}
+
+.guide {
+  width: 1px;
+  background: -webkit-gradient(linear,left top,left bottom,from(var(--main-highground-color) ),color-stop(50%, var(--main-highground-color)),color-stop(50%,transparent),to(transparent));
+  background: linear-gradient(180deg, var(--main-highground-color), var(--main-highground-color) 50%,transparent 0,transparent);
+  background-size: 1px 8px;
+}

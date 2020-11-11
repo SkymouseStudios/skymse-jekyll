@@ -110,23 +110,21 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 }
 
 h1, .h1 {
-  font-size: 2.5em;
+  font-size: 2.6em;
   font-weight: 700;
   margin: 0;
 }
 
 h2, .h2 {
-  font-size: 2.1em;
+  font-size: 2.2em;
   font-weight: 500;
   margin: 0;
 }
 
 h3, .h3 {
-  font-size: 1.8em;
+  font-size: 1.6em;
   font-weight: 300;
   margin: 0;
-
-  display: inline-block;
 }
 
 h4, .h4 {
@@ -223,4 +221,12 @@ ul.list {
 .tag-bright {
   border-color: var(--main-highlight-color);
   color: var(--main-highlight-color);
+}
+
+.big-number {
+  font-size: 5em;
+}
+
+.big-text {
+  font-size: 1.2em;
 }

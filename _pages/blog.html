@@ -33,7 +33,7 @@ redirect_from:
 	<section class="section-default block block-linkedin">
 		<h3><i class="fa fa-linkedin"></i> Use Linkedin to start growing your business</h3>
 	
-		<div class="pad-top grid-three">
+		<div class="pad-top grid-three-fit">
 		    {% for post in site.categories["linkedin"] limit:3 %}
 			    <div class="card">
 			      	<a href="{{ site.url }}{{ post.url }}">
@@ -49,7 +49,7 @@ redirect_from:
 	<section class="section-default">
 		<h3>Tips to help you create better content.</h3>
 	
-		<div class="pad-top grid-three">
+		<div class="pad-top grid-three-fit">
 		    {% for post in site.categories["content"] limit:3 %}
 			    <div class="card">
 			      	<a href="{{ site.url }}{{ post.url }}">
@@ -65,7 +65,7 @@ redirect_from:
 	<section class="section-default block">
 		<h3>Create a winning marketing strategy.</h3>
 	
-		<div class="pad-top grid-three">
+		<div class="pad-top grid-three-fit">
 		    {% for post in site.categories["strategy"] limit:3 %}
 			    <div class="card">
 			      	<a href="{{ site.url }}{{ post.url }}">

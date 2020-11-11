@@ -2,13 +2,17 @@
 1030px and up - Desktop Stylsheet
 ******************************************************************/
  
+:root {
+     --site-width: 1000px;
+}
+
 /*****************/
 /* LAYOUT Styles */
 /******************/
 
 .section-default {
 	// Standard padding for things
-	width: 1000px;
+	width: var(--site-width);
 }
 
 /*****************/
@@ -22,7 +26,7 @@
 }
 
 .hero {
-	padding-top: 280px;
+	padding-top: 200px;
 }
 
 /*********************

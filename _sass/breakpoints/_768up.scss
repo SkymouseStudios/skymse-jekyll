@@ -2,12 +2,17 @@
 768px and up
 ******************************************************************/
  
+:root {
+     --site-width: 700px;
+     --columnCountMax: 4;
+}
+
 /*********************
 LAYOUT & GRID STYLES
 *********************/
 
 body {
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .top-logo {
@@ -29,7 +34,7 @@ HEADER STYLES
 *********************/
 
 .hero {
-	padding-top: 220px;
+	padding-top: 150px;
 }
 
 .hero-features {
@@ -116,13 +121,12 @@ TEMPLATE OBJECTS
 
 .section-default {
 	// Standard padding for things
-	width: 800px;
-	padding: 3em;
+	width: var(--site-width);
+	padding: 2em;
 	margin: 50px auto;
 }
 
 .section-full-width {
-	// Spans the whole screen
 	margin: 0px;
 }
 
