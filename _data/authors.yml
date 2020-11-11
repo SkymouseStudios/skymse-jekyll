@@ -1,6 +1,4 @@
 ---
-
-
 profiles:
     - name: "John Welch"
       title: "Director of Business Development"
@@ -18,5 +16,8 @@ profiles:
       desc: "Hi, I'm a writer and content manager at Skymouse. I've worked a ton of different jobs.
           I'm living out my dream of starting a local flower farm in Middle Tennessee."
       img: "/library/images/profile/austins-profile-s.jpg"
-
+    - name: "Rochelle Alves"
+      title: "Copywriter"
+      desc: "Shopping mall Easter Bunny...to college then corporate...to storyteller and copywriter (team Oxford comma). Someday I'll write about the Easter Bunny gig."
+      img: "/library/images/profile/Rochelle_photo.png"
 ---
