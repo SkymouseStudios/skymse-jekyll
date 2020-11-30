@@ -70,16 +70,11 @@ Stylesheet: Typography
   content: "\ead0";
 }
 
-/* --- FONT STACK ---  */
-
-$sans-serif:        "Titillium Web", Helvetica, Arial, sans-serif;
-$serif:             "Titillium Web", Cambria, Times New Roman, Times, serif;
-
 /* some nice typographical defaults */
 
 p, ul, li {
   font-size: 1em;
-  line-height: 2em;
+  line-height: 1.8em;
   font-weight: 400;
   -ms-word-wrap: break-word;
   word-break: break-word; //non-standard css for webkit
@@ -110,29 +105,27 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 }
 
 h1, .h1 {
-  font-size: 2.5em;
+  font-size: 2.6em;
   font-weight: 700;
   margin: 0;
 }
 
 h2, .h2 {
-  font-size: 2.1em;
+  font-size: 2.2em;
   font-weight: 500;
   margin: 0;
 }
 
 h3, .h3 {
-  font-size: 1.8em;
+  font-size: 1.6em;
   font-weight: 300;
   margin: 0;
-
-  display: inline-block;
 }
 
 h4, .h4 {
   font-weight: 600;
   font-size: 1.5em;
-  margin: 0; // This seems like it needs to be done 5/26/20
+  margin: 0;
 }
 
 h5 {
@@ -167,30 +160,9 @@ blockquote p {
   margin: 0;
 }
 
-.dark {
-  color: $midnight;
-}
-
-.light {
-  color: $white;
-}
-
-.text-center {
-  text-align: center;
-}
-
-.text-big {
-  font-size: 2em;
-  margin: 0;
-}
-
 ul.list {
   text-align: left;
   list-style: disc;
-}
-
-.text-gray {
-  color: #dcdcdc;
 }
 
 .text-divider {
@@ -206,12 +178,6 @@ ul.list {
   }
 }
 
-.big-quote {
-  font-size: 1.5em;
-  font-style: italic;
-  line-height: 1.3em;
-}
-
 .tag {
   border-radius: 3px;
   display: inline-block;
@@ -223,4 +189,34 @@ ul.list {
 .tag-bright {
   border-color: var(--main-highlight-color);
   color: var(--main-highlight-color);
+}
+
+.big-quote {
+  font-size: 1.5em;
+  font-style: italic;
+  line-height: 1.3em;
+}
+
+.big-number {
+  font-size: 5em;
+}
+
+.big-text {
+  font-size: 1.2em;
+}
+
+.text-dark {
+  color: var(--main-text-light-color);
+}
+
+.text-light {
+  color: var(--main-text-color);
+}
+
+.text-gray {
+  color: #dcdcdc;
+}
+
+.text-center {
+  text-align: center;
 }

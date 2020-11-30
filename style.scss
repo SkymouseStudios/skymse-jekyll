@@ -7,6 +7,7 @@
 @import "partials/typography";
 @import "partials/functions";
 @import "partials/grid";
+@import "partials/nav";
 
 /*********************
 IMPORTING MODULES
@@ -14,6 +15,9 @@ IMPORTING MODULES
 
 @import "modules/buttons";
 @import "modules/forms";
+@import "modules/animations";
+@import "modules/hotspots";
+@import "modules/page-guides";
 
 /*********************
 BASE (MOBILE) SIZE

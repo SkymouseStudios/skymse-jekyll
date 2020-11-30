@@ -18,12 +18,6 @@ img: "/library/images/social/social-work.jpg"
 		<h1>The work we've done</h1>
 		<h3>Purpose drives passion.</h3>
 	</div>
-	
-	<div id="scene" data-relative-input="true" data-pointer-events="true">
-		<img style="z-index: 2; margin-top: 500px;" data-depth="0.50" src="{{ site.url }}{{ page.img-front }}" alt="">
-		<img style="z-index: 1; margin-top: 250px;" data-depth="0.30" src="{{ site.url }}{{ page.img-mid }}" alt="">
-		<img style="z-index: 0" data-depth="0.10" src="{{ site.url }}{{ page.img-back }}" alt="">
-	</div>
 </div>
 
 <main id="page" class="work">
@@ -38,9 +32,9 @@ img: "/library/images/social/social-work.jpg"
 	{% for casestudy in site.casestudies %}
 		
 	<section class="section-default grid-half block panel">
-		<div class="client-site">
+		<div class="browser-frame browser-hover-effect">
 			<div class="dot"></div>
-			<div class="frame">
+			<div class="frame frame-big">
 				<img src="{{ site.url }}{{ casestudy.website-img }}" alt="website screenshot for {{ casestudy.subtitle }}">
 			</div>
 		</div>
@@ -48,7 +42,7 @@ img: "/library/images/social/social-work.jpg"
 		<div class="content">
 			<h3>{{ casestudy.title }}</h3>
 			<div> {% for service in casestudy.services %}
-			    <div class="tag-bright">{{service}}</div>
+			    <div class="tag">{{service}}</div>
 			  {% endfor %}
 			 </div>
 			
@@ -63,5 +57,5 @@ img: "/library/images/social/social-work.jpg"
 		
 	{% endfor %}
 
-	{% include cta-b.html %}
+	{% include section-cta-b.html %}
 </main>

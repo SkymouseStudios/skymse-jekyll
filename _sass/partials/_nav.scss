@@ -1,0 +1,106 @@
+/******************************************************************
+Stylesheet: Navigation
+
+Here is where we declare all our variables like colors, fonts,
+base values, and defaults. We want to make sure this file ONLY
+contains variables that way our files don't get all messy.
+No one likes a mess.
+
+******************************************************************/
+
+
+#desktop-menu {
+	display: none;
+}
+
+#mobile-menu {
+    position: fixed;
+    width: 250px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: $space;
+    border-left: 5px solid $orange;
+    padding: 5% 1em;
+    z-index: 999;
+    -webkit-transform: translate3d(-320px, 0, 0);
+    transform: translate3d(-320px, 0, 0);
+    -webkit-transition: -webkit-transform 0.4s;
+    transition: transform 0.4s;
+    -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+    transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+
+    a {
+    	font-size: 1.4em;
+    	padding: 0.8em;
+    }
+} 
+
+#mobile-menu.menu-shown {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-transition: -webkit-transform 0.8s;
+    transition: transform 0.8s;
+    -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+    transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+}
+
+#menu-burger {
+	float: right;
+	margin-top: 20px;
+	cursor: pointer;
+	height: 32px;
+}
+
+#line {
+	height: 2px;
+	width: 40px;
+	display: block;
+    position: relative;
+    z-index: 999;
+    vertical-align: middle;
+    background-color: $white;
+    border-radius: 2px;
+    transition: 0.2s;
+
+    &:before {
+    	position: absolute;
+    	top: 12.4px;
+    	display: block;
+    	content: " ";
+		height: 2px;
+		width: 40px;
+		background-color: $white;
+		border-radius: 2px;
+		transition: 0.2s;
+	}
+
+	&:after {
+		position: absolute;
+		bottom: -25px;
+		display: block;
+		content: " ";
+		height: 2px;
+		width: 40px;
+		background-color: $white;
+		border-radius: 2px;
+		transition: 0.2s;
+	}
+
+	&.exit {
+		height: 0px;
+		transition: 0.2s;
+
+		&:before {
+	    	top: 16px;
+			transform: rotate(45deg);
+			transition: 0.2s;
+		}
+
+		&:after {
+			bottom: -18px;
+			transform: rotate(-45deg);
+			transition: 0.2s;
+		}
+	}
+}

@@ -101,35 +101,6 @@ author: John Welch
 
 		
 	</section>
-
-	
-	
-	<section class="section-default blank">
-		<div class="section-heading twitter-heading">
-			<h4>Who we are</h4>
-			<h3>Meet the Founders</h3>
-		</div>
-
-		<div class="grid-half">
-		{% for profile in site.data.authors.profiles limit:2 %}
-				<div class="twitter-box pad">
-					<p class="twitter-name">{{ profile.name }}</p>
-					<a class="twitter-handle" href="#">{{profile.title }}</a>
-					<img class="twitter-profile" src="{{ site.url }}{{ profile.img }}" alt="{{profile.name}}">
-					<div class="twitter-content">
-						<img src="{{ site.url }}{{ profile.img }}" alt="{{profile.name}}">
-					</div>
-					
-					<p>{{profile.desc }}</p>
-					<a href="{{ profile.twitter }}" class="social-btn"> <i class="twitter-icon fa fa-twitter"></i> </a>
-					
-					<i class="fa fa-retweet"></i>
-					<i class="fa fa-heart"></i>
-					<i class="fa fa-reply"></i>
-				</div>
-		{% endfor %}
-		</div>
-	</section>
 	
 	<section class="section-default">
 		<div class="card card--orange">

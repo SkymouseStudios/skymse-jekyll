@@ -2,13 +2,18 @@
 768px and up
 ******************************************************************/
  
+:root {
+     --site-width: 700px;
+     --columnCountMax: 4;
+}
+
+.m-hide {
+	display: inline-block;
+}
+
 /*********************
 LAYOUT & GRID STYLES
 *********************/
-
-body {
-	font-size: 16px;
-}
 
 .top-logo {
 	margin: 0 auto;
@@ -16,20 +21,12 @@ body {
 	width: 100px;
 }
 
-// Landing page
-#blankLanding {
-	section {
-		width: 800px; // set content width
-		margin: 0 auto; // center content in page
-	}
-}
-
 /*********************
 HEADER STYLES
 *********************/
 
 .hero {
-	padding-top: 220px;
+	padding-top: 150px;
 }
 
 .hero-features {
@@ -108,21 +105,11 @@ TEMPLATE OBJECTS
     grid-column: 2;
   }
 
-._big-idea-box {
-	.content {
-		margin: 0 15%;
-	}
-}
-
 .section-default {
-	// Standard padding for things
-	width: 800px;
-	padding: 3em;
 	margin: 50px auto;
 }
 
 .section-full-width {
-	// Spans the whole screen
 	margin: 0px;
 }
 
@@ -130,18 +117,6 @@ TEMPLATE OBJECTS
 	width: 50%;
 	margin-right: auto;
 	margin-left: auto;
-}
-
-.client-site {
-	.dot {
-		left: 5px;
-    	top: -67px;	
-	}
-}
-
-.frame {
-	top: 80px;
-	right: -230px;
 }
 
 .grid-half:nth-child(odd) {
