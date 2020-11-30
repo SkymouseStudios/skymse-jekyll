@@ -6,15 +6,14 @@ Stylesheet: Button Styles
   display: inline-block;
   position: relative;
   font-family: $sans-serif;
-  color: $white;
+  color: var(--main-text-light-color);
   font-weight: 600;
   text-decoration: none;
-  padding: 0 0.5em;
+  padding: 0.5em;
   margin: 0.5em;
   border-radius: $radius-sm;
   cursor: pointer;
   transition: .5s;
-  padding-top: 3px;
 
   // hovering on the btn
   &:hover, &:focus {
@@ -89,21 +88,11 @@ Stylesheet: Button Styles
 
 .nav-btn {
   @extend %btn;
-  border-bottom: 3px solid var(--main-highlight-color);
-
-  &:active {
-    border: 1px solid var(--main-highlight-color);
-  }
+  margin: 0px;
 }
 
-.orange {
-  background-color: $orange;
-}
-
-
-.ygray {
-  background-color: $ygray;
-  color: $gray;
+.nav-btn-dark {
+  color: var(--main-text-color);
 }
 
 .orange-btn {

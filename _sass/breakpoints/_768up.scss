@@ -7,26 +7,18 @@
      --columnCountMax: 4;
 }
 
+.m-hide {
+	display: inline-block;
+}
+
 /*********************
 LAYOUT & GRID STYLES
 *********************/
-
-body {
-	font-size: 18px;
-}
 
 .top-logo {
 	margin: 0 auto;
 	text-align: center;
 	width: 100px;
-}
-
-// Landing page
-#blankLanding {
-	section {
-		width: 800px; // set content width
-		margin: 0 auto; // center content in page
-	}
 }
 
 /*********************
@@ -113,16 +105,7 @@ TEMPLATE OBJECTS
     grid-column: 2;
   }
 
-._big-idea-box {
-	.content {
-		margin: 0 15%;
-	}
-}
-
 .section-default {
-	// Standard padding for things
-	width: var(--site-width);
-	padding: 2em;
 	margin: 50px auto;
 }
 
@@ -134,18 +117,6 @@ TEMPLATE OBJECTS
 	width: 50%;
 	margin-right: auto;
 	margin-left: auto;
-}
-
-.client-site {
-	.dot {
-		left: 5px;
-    	top: -67px;	
-	}
-}
-
-.frame {
-	top: 80px;
-	right: -230px;
 }
 
 .grid-half:nth-child(odd) {

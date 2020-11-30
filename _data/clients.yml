@@ -1,0 +1,20 @@
+---
+    # Clients
+clients:
+  - title: "Francisan University"
+    website-img: "/library/images/our-work/franciscan/franciscan-baron-day_small.jpg"
+  - title: "Paperboy"
+    website-img: "/library/images/our-work/paperboy/paperboy-home-small.jpg"
+  - title: "Pledge to Fitness"
+    website-img: "/library/images/our-work/pledge-to-fitness/pledge-to-fitness-Home_small.jpg"
+  - title: "Galvin Technologies"
+    website-img: "/library/images/our-work/galvin/sales-cloud-screenshot_small.jpg"
+  - title: "Exodus 90"
+    website-img: "/library/images/our-work/exodus90/exodus90-parishes.jpg"
+  - title: "RESOURCE"
+    website-img: "/library/images/our-work/resource/resource.jpg"
+  - title: "The Sheen Center 1"
+    website-img: "/library/images/our-work/sheen-center/sheen-center-version-2_small.jpg"
+  - title: "The Sheen Center 2"
+    website-img: "/library/images/our-work/sheen-center/sheen-center-version-5_small.jpg"
+---

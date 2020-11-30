@@ -1,0 +1,85 @@
+/*********************
+ANIMATIONS
+*********************/
+
+@keyframes hover {
+	0% {
+		-moz-transform: translateY(0px);
+		-o-transform: translateY(0px);
+		-webkit-transform: translateY(0px);
+		transform: translateY(0px);
+	}
+
+	50% {
+		-moz-transform: translateY(10px);
+		-o-transform: translateY(10px);
+		-webkit-transform: translateY(10px);
+		transform: translateY(10px);
+	}
+
+	100% {
+		-moz-transform: translateY(0px);
+		-o-transform: translateY(0px);
+		-webkit-transform: translateY(0px);
+		transform: translateY(0px);
+	}
+}
+
+.animation-hover {
+	animation: hover 2s infinite cubic-bezier;
+	-moz-animation: hover 2s infinite cubic-bezier;
+    -o-animation: hover 2s infinite cubic-bezier;
+    -webkit-animation: hover 2s infinite cubic-bezier;
+}
+
+.ani-shake {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 7s cubic-bezier(.36,.07,.19,.97) both;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+.ani-shake:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, 1px) rotate(0deg); }
+}
+
+.squiggle {
+  animation: squigglevision 0.3s infinite;
+}
+
+@keyframes squigglevision {
+  0% {
+    filter: url("#squiggly-0");
+  }
+  25% {
+    filter: url("#squiggly-1");
+  }
+  50% {
+    filter: url("#squiggly-2");
+  }
+  75% {
+    filter: url("#squiggly-3");
+  }
+  100% {
+    filter: url("#squiggly-4");
+  }
+}

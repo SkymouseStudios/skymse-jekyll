@@ -3,7 +3,7 @@ episode: "037"
 layout: post
 author: Rochelle Alves
 title: "8 Quick Tips to Instantly Improve Your Web Copy"
-subtitle: ""
+subtitle: "Start writing better in 12 minutes"
 description: "Web copy is not as hard as you think. Rochelle shares the best ways to talk to your audience, choose clarity over cleverness and make your website stand out above the pack."
 permalink: "/blog/8-quick-ways-to-instantly-improve-your-web-copy/"
 img: "/uploads/037-improve-your-web-copy.jpg"
@@ -413,6 +413,3 @@ Use your judgement on breaking the rules. (You may have noticed a few other viol
 But for cryin out love-of-the-English-language loud, never ev-aaaaah say *irregardless*. Regardless is a word. Irrespective is a word. Irregardless: Not. A. Word. (There should be t-shirts, I tell you. T-shirts.)
 
 Now, go stalk your copy like a hound dog and retrieve and replace its offenders.
-
-by Rochelle Alves
-Shopping mall Easter Bunny... to college then corporate... to storyteller and copywriter (team Oxford comma). Someday I'll write about the Easter Bunny gig.

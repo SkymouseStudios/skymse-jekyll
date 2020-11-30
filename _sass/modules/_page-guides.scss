@@ -1,0 +1,41 @@
+.site-background-mask {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.site-background {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.guide-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 0 16px;
+  pointer-events: none;
+}
+
+.guide-grid {
+  display: grid;
+  grid: 1fr/repeat(var(--columnCountMax),1fr);
+  position: relative;
+  max-width: var(--site-width);
+  height: 100%;
+  margin: 0 auto;
+}
+
+.guide {
+  width: 1px;
+  background: -webkit-gradient(linear,left top,left bottom,from(var(--main-highground-color) ),color-stop(50%, var(--main-highground-color)),color-stop(50%,transparent),to(transparent));
+  background: linear-gradient(180deg, var(--main-highground-color), var(--main-highground-color) 50%,transparent 0,transparent);
+  background-size: 1px 8px;
+}
