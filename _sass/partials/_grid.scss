@@ -61,6 +61,16 @@ Stylesheet: Grid Stylesheet
   grid-column: span 2;
 }
 
+.fill-two-cols {
+  grid-column: span 2;
+  font-size: 1.2em;
+}
+
+.fill-two-rows {
+  grid-row: span 2;
+  font-size: 1.2em;
+}
+
 .grid-four {
   display: grid;
   grid-gap: 20px;
@@ -174,6 +184,22 @@ Stylesheet: Grid Stylesheet
       text-align: center;
     }
   }
+
+   .fill-both {
+    grid-row: 1;
+    grid-column: span 1;
+  }
+
+  .fill-two-cols {
+    grid-column: span 1;
+    font-size: 1.2em;
+  }
+
+  .fill-two-rows {
+    grid-row: span 1;
+    font-size: 1.2em;
+  }
+
 } // end mobile styles
 
 

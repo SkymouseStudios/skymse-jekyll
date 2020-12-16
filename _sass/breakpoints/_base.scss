@@ -829,6 +829,7 @@ MODULES
  	}
 }
 
+
 //////////////// CARD STYLES
 .card {
 	background-color: var(--main-bg-color);
@@ -848,6 +849,14 @@ MODULES
 		background-origin: border-box;
 		background-clip: content-box, border-box;
 	}
+
+	&--review {
+		padding: 20px;
+		align-content: middle;
+		border: 1px solid var(--main-text-color);
+		box-shadow: none;
+	}
+
 
 	h4 { 
 		padding: 0px 20px;

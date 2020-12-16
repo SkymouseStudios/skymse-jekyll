@@ -26,7 +26,7 @@
 
 .guide-grid {
   display: grid;
-  grid: 1fr/repeat(var(--columnCountMax),1fr);
+  grid: 1fr / repeat(var(--columnCountMax),1fr);
   position: relative;
   max-width: var(--site-width);
   height: 100%;
