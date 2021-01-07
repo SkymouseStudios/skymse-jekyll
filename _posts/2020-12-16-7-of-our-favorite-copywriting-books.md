@@ -5,7 +5,7 @@ author: John Welch
 title: "7 Top of our favorite copywriting books"
 subtitle: "Learn From The Best So You Can Influence The Rest"
 description: "The best way to learn copywriting is reading, so buckle up and put on your reading gloves, let's take a look at 7 of the best books you can read to become a copywriting genius."
-permalink: "/blog/7-of-our-favorite-copywriting-books"
+permalink: "/blog/7-of-our-favorite-copywriting-books/"
 img: "/uploads/038-favorite-copywriting-books.jpg"
 ttr: "6"
 categories:
