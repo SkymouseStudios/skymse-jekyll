@@ -1,11 +1,17 @@
 ---
 layout: case-study
 title: Transforming from order-taker to quota breaker
-img: ''
-subtitle: ''
-description: ''
-services: []
-website-img: ''
+img: "/uploads/ccg-header.png"
+subtitle: Cutter Consulting Group
+description: 'Jason Cutter, owner of Cutter Consulting Group, had a website, but he
+  wasn''t happy with it. It was big, bloated and starting to look pretty dated. Skymouse
+  Studios helped Jason condense his website to one homepage. Jason''s new website
+  tells a powerful, compelling story of transformation for sales teams and sales leaders. '
+services:
+- Web Design
+- Copywriting
+- Web Development
+website-img: "/uploads/ccg-header.png"
 elevator-pitch: ''
 A-title: ''
 A-subtitle: ''
