@@ -232,5 +232,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- _casestudies/transforming-from-order-taker-to-quota-breaker.md
