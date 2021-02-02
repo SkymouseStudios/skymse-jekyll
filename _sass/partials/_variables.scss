@@ -18,27 +18,23 @@ Light and Dark Modes
      --columnCountMax: 2;
 }
 
-@media (prefers-color-scheme: light) {
-	:root {
-	    --main-text-color: #2A3035;       // Space
-	    --main-bg-color: #ffffff; 		  // White
-	    --main-midground-color: #EEEEEE;  // Light Gray
-	    --main-highground-color: #F7F7F1; // Yellow Gray
-	    --main-highlight-color: #5c9ead;  // Orange
-	    --alt-highlight-color: #70C1DB;
-	    --main-text-light-color: #ffffff; // Text color for dark backgrounds
-	}
+.light-mode {
+    --main-text-color: #2A3035;       // Space
+    --main-bg-color: #ffffff; 		  // White
+    --main-midground-color: #EEEEEE;  // Light Gray
+    --main-highground-color: #F7F7F1; // Yellow Gray
+    --main-highlight-color: #5c9ead;  // Orange
+    --alt-highlight-color: #70C1DB;
+    --main-text-light-color: #ffffff; // Text color for dark backgrounds
 }
 
-@media (prefers-color-scheme: dark) {
-	:root {
-	    --main-text-color: #ffffff; 	   // White
-	    --main-bg-color: #2A3035;          // Space
-	    --main-midground-color: #434d5a;   // Midnight
-	    --main-highlight-color: #5c9ead;   // DBlue
-	    --main-text-light-color: #5C6C80;  // NEW! Blue Gray
-	    --main-highground-color: #525F70;
-	}
+.dark-mode {
+    --main-text-color: #ffffff; 	   // White
+    --main-bg-color: #2A3035;          // Space
+    --main-midground-color: #434d5a;   // Midnight
+    --main-highlight-color: #5c9ead;   // DBlue
+    --main-text-light-color: #5C6C80;  // NEW! Blue Gray
+    --main-highground-color: #525F70;
 }
 
 /* --- FONT STACK ---  */
