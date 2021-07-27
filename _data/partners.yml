@@ -1,0 +1,17 @@
+---
+
+- name: sensibleHR
+  category: HR and Recruiting
+  website: https://sensiblehr.com
+  logo: sensiblehr.png
+  owner: Brian Vogel and Kay Stroman
+  color: "#F5A045"
+- name: Cutter Consulting Group
+  category: Call-Center Sales Training
+  website: https://sensiblehr.com
+  logo: Cutter-Consulting-Group.png
+  owner: Jason Cutter
+  color: "#0581D6"
+
+
+---

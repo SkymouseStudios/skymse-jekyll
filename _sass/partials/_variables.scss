@@ -12,43 +12,50 @@ No one likes a mess.
 Light and Dark Modes
 ******************************************************************/
 
+$lemon:             #FEF7BE;
+$raspberry:         #EB5967;
+$blackberry:        #22205F;
+$blackberry-high:   lighten( $blackberry, 10% );
+$blackberry-low:    darken( $blackberry, 10% );
+
 :root {
     color-scheme: light dark;
      --site-width: auto;
      --columnCountMax: 2;
 }
 
-@media (prefers-color-scheme: light) {
-	:root {
-	    --main-text-color: #2A3035;       // Space
-	    --main-bg-color: #ffffff; 		  // White
-	    --main-midground-color: #EEEEEE;  // Light Gray
-	    --main-highground-color: #F7F7F1; // Yellow Gray
-	    --main-highlight-color: #5c9ead;  // Orange
-	    --alt-highlight-color: #70C1DB;
-	    --main-text-light-color: #ffffff; // Text color for dark backgrounds
-	}
+.light-mode {
+    --main-text-color:        #2A3035;
+    --main-bg-color:          #fff;
+    --main-midground-color:   #{$blackberry-low};
+    --main-highground-color:  #{$lemon};
+    --main-highlight-color:   #{$raspberry};
+    --alt-highlight-color:    #{$blackberry}; 
+    --main-text-light-color:  #{$lemon};
 }
 
-@media (prefers-color-scheme: dark) {
-	:root {
-	    --main-text-color: #ffffff; 	   // White
-	    --main-bg-color: #2A3035;          // Space
-	    --main-midground-color: #434d5a;   // Midnight
-	    --main-highlight-color: #5c9ead;   // DBlue
-	    --main-text-light-color: #5C6C80;  // NEW! Blue Gray
-	    --main-highground-color: #525F70;
-	}
+.dark-mode {
+    --main-text-color:        #f3f3f3; 
+    --main-bg-color:          #{$blackberry-low};
+    --main-midground-color:   #{$blackberry};
+    --main-highlight-color:   #{$raspberry};
+    --main-text-light-color:  #{$lemon};
+    --main-highground-color:  #{$blackberry-high};
+    --alt-highlight-color:    #{$blackberry};
 }
+
 
 /* --- FONT STACK ---  */
 
 $sans-serif:        "Titillium Web", Helvetica, Arial, sans-serif;
-$serif:             "Titillium Web", Cambria, Times New Roman, Times, serif;
+$extra-bold:        900;
+$bold:              700;
+$regular:           400;
+$light:             300;
 
 
 $tan:               #eceee5;
-$red:				#EB5867;
+$red:               #EB5867;
 $green:             #7dd667;
 
 $link-hover:        #fff;
@@ -64,20 +71,19 @@ SKYMSE Colors
 $black:             #4A4A4A;
 $white:             #fff;
 
-$gray: 			    #817F82;
-$orange:			#F99C1C;
-$lblue: 			#70C1DB;
-$dblue: 			#5c9ead;
-$cheese: 			#FCD0A1;
-$midnight:			#434d5a;
-$space:				#2A3035;
+$gray:              #817F82;
+$orange:            #F99C1C;
+$lblue:             #70C1DB;
+$dblue:             #5c9ead;
+$cheese:            #FCD0A1;
+$midnight:          #434d5a;
+$space:             #2A3035;
 
-$lgray:				#EEEEEE;
-$ygray: 			#F7F7F1;
+$lgray:             #EEEEEE;
+$ygray:             #F7F7F1;
 
 $light-gray:        #f8f9fa;
 
-$radius:			10px;
-$radius-sm:			5px;
-$shadow: 			-25.1px 32.5px 75px -25px rgba(30, 30, 63, 0.31), -16.2px 37.5px 35px -27.5px rgba(0, 0, 0, 0.21);
-
+$radius:            15px;
+$radius-sm:         5px;
+$shadow:            -25.1px 32.5px 75px -25px rgba(30, 30, 63, 0.31), -16.2px 37.5px 35px -27.5px rgba(0, 0, 0, 0.21);

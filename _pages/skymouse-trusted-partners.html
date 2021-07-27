@@ -1,0 +1,35 @@
+---
+
+title: Skymouse Studioes Trusted Partner
+layout: default
+subtitle: ""
+description: ""
+img: "/library/images/operation-homepage/operation-homepage-get-noticed.png"
+keyword: "one-page website"
+
+---
+
+<section class="section-focused text-center">
+	<h1>Looking for help with your small business?</h1>
+	<p>We love working with these people. Chances are good you’ll find an answer to your problems. </p>
+</section>
+
+<section class="section-default">
+	<div class="pad-top grid-three-fit">
+		{% for partner in site.data.partners %} 
+			<div class="pad-top grid-three-fit">
+			    <div class="card" style="border-color: {{ partner.color }}; text-align: center; padding: 20px 0px">
+			      	<a href="{{ partner.website }}?utm_source=Skymouse%20Studios&utm_medium=banner&utm_campaign=trusted_parter_page">
+						<img style="max-width: 300px; margin: 0 auto;" src="/library/images/partner-logos/{{ partner.logo }}" alt="{{ partner.title }}">
+			      		
+			      		<div class="text-center">
+			      			<h5>{{ partner.name }}</h5>
+			      			<h3>{{ partner.category }}</h3>
+			      			<h4>{{ partner.owner }}</h4>
+			      		</div>
+			      	</a>
+			    </div>
+			</div>
+		{% endfor %}
+	</div>
+</section>

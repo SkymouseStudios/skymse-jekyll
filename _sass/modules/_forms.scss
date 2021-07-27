@@ -28,9 +28,9 @@ textarea,
   border-radius: 5px;
   vertical-align: middle;
   box-shadow: none;
-  border: 2px solid var(--main-text-light-color);
-  font-family: $serif;
-  background-color: var(--main-midground-color);
+  border: 2px solid var(--main-midground-color);
+  font-family: $sans-serif;
+  background-color: var(--main-highground-color);
   
   // a focused input (or hovered on)
   &:focus,
@@ -152,7 +152,7 @@ form#searchbar #searchbar-submit {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
-    color: #343434;
+    color: var(--main-text-color);
     background-color: var(--main-midground-color);
     box-sizing: border-box;
     height: 32px;
@@ -276,7 +276,7 @@ form {
     margin-top: 20px;
     font-family: $sans-serif;
     font-size: 0.8em;
-    color: var(--main-text-color);
+    color: var(--main-text-light-color);
 
     span {
       color: $orange;

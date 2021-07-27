@@ -29,6 +29,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
+    jekyll-feed (0.15.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-menus (0.6.1)
       jekyll (>= 3.6, < 5.0)
     jekyll-redirect-from (0.16.0)
@@ -68,6 +70,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.1.1)
+  jekyll-feed
   jekyll-menus
   jekyll-redirect-from
   jekyll-sitemap

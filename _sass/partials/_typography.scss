@@ -105,25 +105,27 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
 }
 
 h1, .h1 {
-  font-size: 2.6em;
+  color: var(--alt-highlight-color);
+  font-size: 3em;
   font-weight: 700;
   margin: 0;
 }
 
 h2, .h2 {
-  font-size: 2.2em;
-  font-weight: 500;
+  color: var(--alt-highlight-color);
+  font-size: 2.8em;
+  font-weight: 700;
   margin: 0;
 }
 
 h3, .h3 {
-  font-size: 1.6em;
-  font-weight: 300;
+  font-size: 1.8em;
+  font-weight: 400;
   margin: 0;
 }
 
 h4, .h4 {
-  font-weight: 600;
+  font-weight: 700;
   font-size: 1.5em;
   margin: 0;
 }
@@ -179,14 +181,18 @@ ul.list {
 }
 
 .tag {
+  text-transform: uppercase;
+  font-weight: 700;
   border-radius: 3px;
   display: inline-block;
   padding: 0.2em 0.5em;
-  color: var(--main-text-light-color);
-  border: 1px solid var(--main-text-light-color);
+  color: var(--main-text-color);
+  border: 1px solid var(--main-text-color);
 }
 
 .tag-bright {
+  text-transform: uppercase;
+  font-weight: 700;
   border-color: var(--main-highlight-color);
   color: var(--main-highlight-color);
 }
@@ -213,10 +219,14 @@ ul.list {
   color: var(--main-text-color);
 }
 
+.text-highlight {
+  color: var(--main-highlight-color);
+}
+
 .text-gray {
   color: #dcdcdc;
 }
 
 .text-center {
-  text-align: center;
+  text-align: center !important
 }

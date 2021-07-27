@@ -1,6 +1,5 @@
 ---
 
-layout: post
 title:  3 Reasons You're Scared to Market
 subtitle: "If you're not transparent, you're not being human"
 description: 

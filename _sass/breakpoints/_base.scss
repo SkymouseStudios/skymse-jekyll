@@ -13,11 +13,11 @@ html {
 body {
 	position: relative;
     scroll-behavior: smooth;
-	font-family: $serif;
+	font-family: $sans-serif;
 	font-size: 16px;
 	line-height: 1.3;
-	background-color: var(--main-bg-color);
-	color: var(--main-text-color);
+	background-color: 	var(--main-bg-color);
+	color: 				var(--main-text-color);
 
   	-webkit-font-smoothing: antialiased;
   	-moz-osx-font-smoothing: grayscale;
@@ -25,12 +25,6 @@ body {
 
 #page {
 	overflow: hidden;
-}
-
-#Landing {
-	background-image: url('library/images/icons/icon-subtle-pattern.svg');
-	background-size: 300px;
-	background-repeat: repeat;
 }
 
 /******************************************************************
@@ -42,16 +36,24 @@ a {
 	color: var(--main-highlight-color);
 	border-bottom: 0px solid var(--main-highlight-color);
 	transition: 0.5s;
+
 }
 
 .default-link {
-	color: var(--main-text-color);
-	border-bottom: 3px solid var(--main-midground-color);
-	padding: 5px;
+	color: var(--main-highlight-color);
+	border-bottom: 1px solid var(--main-highlight-color);
+	padding: 3px;
+	cursor: pointer;
 
 	&:hover {
-		border-bottom: 3px solid  var(--main-text-light-color);
+		color: var(--main-highlight-color);
+		border-bottom: 1px solid  var(--main-midground-color);
 	}
+}
+
+.blank-link {
+	text-decoration: none;
+	color: var(--main-text-light-color);
 }
 
 img {
@@ -87,18 +89,19 @@ hr {
 
 .bottom-cta {
   align-items: center;
+  padding-bottom: 70px;
 }
 
 /*********************
 HELPER CLASSES
 *********************/
 
-.pad-content {
-	padding: 20px;
+.m-hide {
+  display: none;
 }
 
-.bg-yellow {
-	background-color: #f9f9f9;
+.pad-content {
+	padding: 20px;
 }
 
 .center-content {
@@ -121,20 +124,24 @@ HELPER CLASSES
 	width: 150px;
 }
 
+.icon {
+	width: 50px;
+}
+
 /*********************
 HEADER STYLES
 *********************/
 
 .nav-dark {
-	background-color: var(--main-text-color);
-	color: var(--main-bg-color);
+	background-color: 	var(--main-text-color);
+	color: 				var(--main-bg-color);
 	position: relative;
 }
 
 .top-banner {
 	display: block;
-	background-color: var(--main-highlight-color);
-	color: white !important;
+	background-color: 	var(--main-highlight-color);
+	color: 				var(--main-highground-color);
 	text-align: center;
 	padding: 10px 0;
 }
@@ -168,29 +175,20 @@ header {
 	}
 }
 
+#HeaderVideo {
+	width: 190%;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 5;
+}
+
 .hero {
-	padding-top: 150px;
-	padding-bottom: 200px;
-	position: relative;
-	text-align: center;
-	overflow: hidden;
-	background-color: $lblue;
+	padding-top: 20px;
+}
 
-	.content {
-		max-width: 585px;
-		margin: 0 auto;
-		padding: 0 20px;
-	}
-
-	h1 {
-		line-height: 1.2em;
-		font-size: 5em;
-		margin: 0 auto;
-	}
-
-	p {
-		margin: 0px auto;
-	}
+.hero-content {
+	align-items: middle;
 }
 
 .hero-features {
@@ -199,8 +197,11 @@ header {
 	text-align: center;
 	padding: 10px;
 	margin-top: -50px;
+	z-index: 10;
+	position: relative;
 
 	p {
+		font-weight: bold;
 		border-radius: $radius-sm;
 		padding: 20px 0px;
 		background-color: var(--main-highground-color);
@@ -304,10 +305,20 @@ NAVIGATION STYLES
 *********************/
 
 #inner-header {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	background-color: white;
+	box-shadow: 0px 0px 20px #00000050;
 	z-index: 999;
-	margin: 0 20px;
+	padding: 0 20px;
+
+	display: grid;
+	grid-template-columns: 230px 2fr 50px;
 	
  	ul {
+ 		padding-top: 8px;
 		padding-left: 0px;
 		list-style-type: none;
 		display: block;
@@ -316,15 +327,17 @@ NAVIGATION STYLES
 
 	li {
 		line-height: 1em;
+		display: none;
+	}
+
+	li:last-child {
+		display: inline-block;
 	}
 }
 
 #logo {
-	clear: both; 
 	margin: 25px 0; 
-	font-size: 1.5em; 
-	display: inline-block;
-	float: left;
+	font-size: 1.5em;
 
 	img {
 		margin-right: 2px;
@@ -336,7 +349,7 @@ NAVIGATION STYLES
 }
 
 .logo-words {
-	color: var(--main-bg-color);
+	color: var(--main-midground-color);
 }
 
 /*********************
@@ -350,6 +363,40 @@ SECTIONS
 
 .section-full-width {
 	padding: 0px;
+}
+
+.section-inner {
+	margin: 50px 20px;
+	max-width: 900px;
+}
+
+.section-focused {
+	margin: 100px auto;
+	max-width: 500px;
+}
+
+.section-extra-padding {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.section-dark {
+	background-color: var(--main-midground-color);
+	
+	h2 {
+		color: var(--main-highground-color);
+	}
+
+	p {
+		color: var(--main-bg-color);
+	}
+}
+
+#SellingPointThree {
+	display: grid;
+	max-width: 625px;
+	text-align: center;
+	justify-items: center;
 }
 
 section {
@@ -382,7 +429,7 @@ section {
 
 .panel-image {
 	position: relative;
-	
+	grid-row: 1;
 
 	img {
 		position: relative;
@@ -466,12 +513,16 @@ TEMPLATE OBJECTS
 	max-width: 700px;
 }
 
-._big-idea-box {
-	border: none;
-	padding: 20px;
-	background-color: var(--main-highground-color);
-	background-image: url("/library/images/icons/icon-subtle-pattern.svg");
-    background-size: 300px;
+.quote-box {
+	display: inline-block;
+	position: absolute;
+	top: -17px;
+	background-color: white;
+	padding: 5px;
+	left: 0px;
+	right: 0px;
+	width: 100px;
+	margin: 0 auto;
 }
 
 /*********************
@@ -498,7 +549,7 @@ POSTS & CONTENT STYLES
 
 .blog-page {
 	overflow: visible;
-	margin: 40px auto;
+	margin: 120px auto 20px;
 	position: relative;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -651,8 +702,8 @@ POSTS & CONTENT STYLES
 		display: block;
 		overflow: scroll;
 
-		border: 3px solid var(--main-midground-color);
-		border-top: 13px solid var(--main-midground-color);
+		border: 3px solid var(--main-highground-color);
+		border-top: 13px solid var(--main-highground-color);
 		border-radius: 2px;
 
 		box-shadow: $shadow;
@@ -793,6 +844,38 @@ POSTS & CONTENT STYLES
 	border-radius: $radius;
 }
 
+.process-steps {
+	max-width: 500px;
+	margin: 50px auto;
+
+	.card {
+		display: grid;
+		grid-gap: 10px;
+		grid-template-columns: 100px 1fr;
+		margin-bottom: 50px;
+		background-color: var(--main-highground-color);
+		align-items: center;
+		align-content: center;
+		border-top-left-radius: $radius;
+		border-bottom-left-radius: $radius;
+
+	}
+
+	.big-number {
+		background-color: var(--alt-highlight-color);
+		height: 100%;
+	}
+
+	.big-number p {
+		color: var(--main-highground-color);
+		text-align: center;
+		line-height: 32px;
+		font-weight: 700;
+		height: 100%; 
+		padding: 20px 0px;
+	}
+}
+
 /*********************
 MODULES
 *********************/
@@ -829,7 +912,6 @@ MODULES
  	}
 }
 
-
 //////////////// CARD STYLES
 .card {
 	background-color: var(--main-bg-color);
@@ -837,7 +919,6 @@ MODULES
 	border-radius: $radius;
 	padding: 0;
 	transition: 0.2s;
-	text-align: center;
 	position: relative;
 	box-shadow: 2px 2px 20px -10px #a2a2a2;
 
@@ -851,12 +932,19 @@ MODULES
 	}
 
 	&--review {
-		padding: 20px;
-		align-content: middle;
-		border: 1px solid var(--main-text-color);
+		position: relative;
+		padding: 5px 15px;
+		border: 3px solid var(--main-midground-color);
 		box-shadow: none;
-	}
 
+		p {
+			font-size: 12px;
+		}
+
+		i {
+			color: var(--main-highlight-color);
+		}
+	}
 
 	h4 { 
 		padding: 0px 20px;
@@ -867,7 +955,7 @@ MODULES
 	}
 
 	p {
-		margin: 1em;
+		//margin: 1em;
 		text-align: left;
 	} 
 
@@ -896,13 +984,23 @@ MODULES
 	}
 }
 
+.feature-list {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	max-width: 200px;
+
+	p {
+		margin-top: 0px;
+	}
+}
 /*********************
 FOOTER STYLES
 *********************/
 
 footer {
 	margin: 20px;
-	z-index: 999;
+	z-index: 100;
 	position: relative;
 	display: block;	
 }
@@ -926,10 +1024,6 @@ footer {
 		padding-left: 0px;
 	}
 
-	// li {
-	// 	margin-top: 5px;
-	// }
-
 	#logo {
 		grid-column: auto;
 		margin: 0px;
@@ -944,10 +1038,11 @@ footer {
 	border-radius: 0px 0px 5px 5px;
 	padding: 20px 40px;
 	width: 100%;
-	background-color: var(--main-midground-color);
+	background-color: var(--alt-highlight-color);
 
 	p {
 		margin: 0px;
+		color: var(--main-text-light-color);
 	}
 	
 	ul, li {
@@ -956,4 +1051,48 @@ footer {
     	list-style-type: none;
 		display: inline-block;
 	}
+}
+
+// Example popup
+.modal {
+	position: fixed;
+	padding: 100px 20px;
+	background-color: var(--alt-highlight-color);
+	z-index: 999;
+	left: 0px;
+	right: 0px;
+	text-align: center;
+
+	transition: 1s;
+	opacity: 0;
+
+	height: 100vh;
+	overflow: scroll;
+
+	display: none;
+}
+
+.popup-header {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 100px;
+	background-color: var(--main-highground-color);
+}
+
+.popup-show {
+	display: block;
+	transition: 1s;
+	opacity: 100;
+}
+
+.popup-image {
+	max-width: 1200px;
+	margin: 0px auto;
+}
+
+.close {
+	cursor: pointer;
+	padding: 20px;
 }

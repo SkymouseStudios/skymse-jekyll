@@ -8,7 +8,7 @@
 }
 
 .m-hide {
-	display: inline-block;
+	display: block;
 }
 
 /*********************
@@ -25,12 +25,18 @@ LAYOUT & GRID STYLES
 HEADER STYLES
 *********************/
 
-.hero {
-	padding-top: 150px;
-}
-
 .hero-features {
 	grid-gap: 20px;
+}
+
+.hero-content {
+	top: 300px;
+}
+
+#HeaderVideo {
+	width: 120%;
+	left: -100px;
+	right: auto;
 }
 
 #scene {
@@ -66,31 +72,24 @@ HEADER STYLES
 	margin: 0;
 }
 
+#inner-header {
+	li {
+		display: inline-block;
+	}
+}
+
 .panel-content {
 	max-width: 420px;
+}
+
+.panel-image {
+	grid-row: auto;
 }
 
 .section-back::after {
 	margin-left: 100px;
 	margin-right: 100px;
 }
-
-/*********************
-NAVIGATION STYLES
-*********************/
-
-#inner-header nav {
-	border: 0;
-
-	ul {
-		
-		li {
-			display: inline-block;
-			margin: 0px 15px;
-		} /* end ul li */ 
-	} 
-	
-} /* end .nav */
 
 /*********************
 TEMPLATE OBJECTS
@@ -111,6 +110,11 @@ TEMPLATE OBJECTS
 
 .section-full-width {
 	margin: 0px;
+}
+
+.section-inner {
+	margin: 50px auto;
+	max-width: 900px;
 }
 
 .card-center {
