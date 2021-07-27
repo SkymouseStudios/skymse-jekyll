@@ -41,6 +41,22 @@
 })();
 
 /************************************************************
+ * Website EXAMPLE POPUP
+ ************************************************************/
+
+$(".button").on("click", function() {
+  var modal = $(this).data("modal");
+  $(modal).addClass( "popup-show" );
+});
+
+$(".modal").on("click", function(e) {
+  var className = e.target.className;
+  if(className === "modal" || className === "close"){
+    $(this).closest(".modal").removeClass( "popup-show" );
+  }
+});
+
+/************************************************************
  * Mobile Menu Function
  ************************************************************/
 
@@ -116,20 +132,4 @@ btn.addEventListener("click", function() {
     }
 
   localStorage.setItem("theme", theme);
-});
-
-/************************************************************
- * Website EXAMPLE POPUP
- ************************************************************/
-
-$(".button").on("click", function() {
-  var modal = $(this).data("modal");
-  $(modal).addClass( "popup-show" );
-});
-
-$(".modal").on("click", function(e) {
-  var className = e.target.className;
-  if(className === "modal" || className === "close"){
-    $(this).closest(".modal").removeClass( "popup-show" );
-  }
 });

@@ -1,50 +1,28 @@
 # Header Navigation
 header:
+  - title: "Intro"
+    url: "#Intro"
+  - title: "Services"
+    url: "#Services"
   - title: "Pricing"
-    url: "/pricing"
-  - title: "Podcast"
-    url: "/humans-of-linkedin"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Contact"
-    url: "/contact"
+    url: "#Pricing"
+  - title: "How it Works"
+    url: "#Process"
+  - title: "Free Download"
+    url: "#FreeDownload"
 
 # Footer Navigation
 footer:
-  - title: Company
-    subfolderitems:
-      - title: "About"
-        url: "/about"
-      - title: "Our Work"
-        url: "/work"
-      # - title: "Brand Guide"
-      #   url: "/brand-guide"
-  # - title: Services
-  #   subfolderitems:
-  #     - title: "Why Skymouse"
-  #       url: "/why-skymouse"
-  #     - title: "What you can do"
-  #       url: "/what-you-can-do"
-  #     # - title: "Process"
-  #     #   url: "/process"
-      - title: "Pricing"
-        url: "/pricing"
-      - title: "Contact"
-        url: "/contact"
   - title: Resources
     subfolderitems:
       - title: "Blog"
         url: "/blog"
-      - title: "Marketing Courses"
-        url: "/lab"
-      - title: "VidCast"
-        url: "/humans-of-linkedin"
-      - title: "Downloads"
-        url: "/downloads"
-  # - title: Extras
-  #   subfolderitems:
-  #     - title: "Store"
-  #       url: "/#"
+      # - title: "Trusted Partners"
+      #   url: "/skymouse-trusted-partners"
+      # - title: "VidCast"
+      #   url: "/humans-of-linkedin"
+      # - title: "Downloads"
+      #   url: "/downloads"
 
 # Links to Social Media
 socials:

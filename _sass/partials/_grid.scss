@@ -13,10 +13,6 @@ Stylesheet: Grid Stylesheet
   margin-top: 5%;
 }
 
-.m-hide {
-  display: none;
-}
-
 .m-pad {
   margin-left: 20px;
   margin-right: 20px;
@@ -43,10 +39,29 @@ Stylesheet: Grid Stylesheet
   grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
 }
 
+.grid-half-sm {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
+}
+
+
+.grid-gap-default {
+  grid-gap: 20px;
+}
+
 .grid-three {
   display: grid;
   grid-gap: 50px;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+.grid-testimonial {
+  display: grid;
+  grid-gap: 50px;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  grid-template-columns: repeat(auto-fit, minmax(200px,250px));
 }
 
 .grid-three-fit {

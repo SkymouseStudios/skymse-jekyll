@@ -10,7 +10,6 @@ No one likes a mess.
 
 
 #desktop-menu {
-	display: none;
 }
 
 #mobile-menu {
@@ -19,8 +18,8 @@ No one likes a mess.
     height: 100%;
     top: 0;
     left: 0;
-    background: $space;
-    border-left: 5px solid $orange;
+    background: $blackberry;
+    border-left: 5px solid $lemon;
     padding: 5% 1em;
     z-index: 999;
     -webkit-transform: translate3d(-320px, 0, 0);
@@ -33,6 +32,7 @@ No one likes a mess.
     a {
     	font-size: 1.4em;
     	padding: 0.8em;
+    	color: $lemon;
     }
 } 
 
@@ -46,8 +46,8 @@ No one likes a mess.
 }
 
 #menu-burger {
-	float: right;
-	margin-top: 20px;
+	margin-top: 30px;
+	margin-left: 20px;
 	cursor: pointer;
 	height: 32px;
 }
@@ -59,7 +59,7 @@ No one likes a mess.
     position: relative;
     z-index: 999;
     vertical-align: middle;
-    background-color: $white;
+    background-color: var(--main-text-color);
     border-radius: 2px;
     transition: 0.2s;
 
@@ -70,7 +70,7 @@ No one likes a mess.
     	content: " ";
 		height: 2px;
 		width: 40px;
-		background-color: $white;
+		background-color: var(--main-text-color);
 		border-radius: 2px;
 		transition: 0.2s;
 	}
@@ -82,7 +82,7 @@ No one likes a mess.
 		content: " ";
 		height: 2px;
 		width: 40px;
-		background-color: $white;
+		background-color: var(--main-text-color);
 		border-radius: 2px;
 		transition: 0.2s;
 	}

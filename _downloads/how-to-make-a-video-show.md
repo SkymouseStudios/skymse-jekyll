@@ -1,6 +1,5 @@
 ---
 
-layout: episode
 title: The Guide To Creating A Video Show
 subtitle: "Marketing in a Whole New Light"
 description: 

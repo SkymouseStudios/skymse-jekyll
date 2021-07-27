@@ -6,7 +6,7 @@ cover: "/library/cover.png"
 logo: "/library/images/logos/skymse-logo-circle.png"
 username: "@skymousestudios"
 email: "sos@skymousestudios.com"
-location: "Indianapolis, IN • Chattanooga, TN"
+location: "Chattanooga, TN"
 color: "#F99C1C"
 
 # sass/css minify
@@ -17,6 +17,7 @@ plugins:
   - jekyll-menus
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-feed
 
 collections:
   services:
