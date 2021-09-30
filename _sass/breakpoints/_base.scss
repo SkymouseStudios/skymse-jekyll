@@ -92,6 +92,14 @@ hr {
   padding-bottom: 70px;
 }
 
+.drop-shadow {
+	box-shadow: 1px 22px 44px 0 #00000030;
+}
+
+.soft-edge {
+	border-radius: 15px;
+}
+
 /*********************
 HELPER CLASSES
 *********************/
@@ -380,6 +388,14 @@ SECTIONS
 	padding-bottom: 100px;
 }
 
+.section-standard-bg {
+	background-color: var(--main-bg-color);
+}
+
+.section-light {
+	background-color: var(--main-highground-color);
+}
+
 .section-dark {
 	background-color: var(--main-midground-color);
 	
@@ -469,29 +485,6 @@ section {
 	align-items: top;
 	grid-gap: 40px;
 	text-align: left;
-}
-
-.homepage-profile {
-	text-align: center;
-	position: relative;
-	border-bottom: 3px dashed var(--main-highlight-color);
-}
-
-.homepage-profile {
-	height: 300px;
-
-	img {
-		display: inline-block;
-		width: 350px;
-		position: absolute;
-		bottom: 0;
-		left: 200px;
-	}
-
-	.home-profile-john {
-		left: 0;
-		bottom: -7px;
-	}
 }
 
 /*********************
@@ -700,18 +693,18 @@ POSTS & CONTENT STYLES
 		right: 0;
 		
 		display: block;
-		overflow: scroll;
+		overflow: hidden;
 
-		border: 3px solid var(--main-highground-color);
-		border-top: 13px solid var(--main-highground-color);
-		border-radius: 2px;
+		border: 6px solid var(--main-midground-color);
+		border-top: 20px solid var(--main-midground-color);
+		border-radius: 5px;
 
 		box-shadow: $shadow;
 	}
 
 	.frame-big {
 		width: auto;
-		height: 350px;
+		height: 550px;
 	}
 
 	.frame-small {
@@ -722,34 +715,34 @@ POSTS & CONTENT STYLES
 	.dot {
 		background-color: var(--main-highlight-color);
 		border-radius: 10px;
-		width: 5px;
-		height: 5px;
+		width: 12px;
+		height: 12px;
 
 		position: absolute;
 		left: 4px;
-    	top: 3px;
-		z-index: 10;
+    top: 3px;
+		z-index: 15;
 
 		&:before {
 			content: "";
-			background-color: var(--main-highlight-color);
+			background-color: var(--main-highground-color);
 			border-radius: 10px;
-			width: 5px;
-			height: 5px;
+			width: 12px;
+			height: 12px;
 
 			position: absolute;
-			left: 10px;
+			left: 25px;
 		}
 
 		&:after {
 			content: "";
-			background-color: var(--main-highlight-color);
+			background-color: var(--alt-highlight-color);
 			border-radius: 10px;
-			width: 5px;
-			height: 5px;
+			width: 12px;
+			height: 12px;
 
 			position: absolute;
-			left: 20px;
+			left: 55px;
 		}
 	}
 
@@ -933,17 +926,31 @@ MODULES
 
 	&--review {
 		position: relative;
-		padding: 5px 15px;
+		padding: 5px;
 		border: 3px solid var(--main-midground-color);
 		box-shadow: none;
+		display: grid;
+		grid-template-columns: 55px auto;
+
+		img {
+			width: 80px;
+			margin-left: -35px;
+			align-self: center;
+		}
 
 		p {
-			font-size: 12px;
+			font-size: 14px;
+			padding: 0px;
+			margin:0px;
 		}
 
 		i {
 			color: var(--main-highlight-color);
 		}
+	}
+
+	&--padded {
+		padding: 20px 40px;
 	}
 
 	h4 { 
@@ -1095,4 +1102,27 @@ footer {
 .close {
 	cursor: pointer;
 	padding: 20px;
+}
+
+.section-full-screen {
+	position: relative;
+	height: 100%;
+	padding: 200px 0;
+}
+
+.sm-package-right {
+	z-index: 10;
+	position: absolute;
+	top: -50px;
+	right: -150px;
+	width: 170px;
+}
+
+#sm-helicopter {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 100vw;
+  max-height: 100vh;
 }

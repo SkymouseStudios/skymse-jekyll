@@ -3,10 +3,15 @@
 				<div id="inner-footer" class="cf">
 
 					<nav class="grid-four">
-						<a id="logo" href="{{ site.url }}/" rel="nofollow">
-							<img alt="Skymouse Studios Logo" src="{{ site.url }}/library/images/logos/skymouse-logo.svg">
-						</a>
 
+						<div>
+							<a id="logo" href="{{ site.url }}/" rel="nofollow">
+								<img alt="Skymouse Studios Logo" src="{{ site.url }}/library/images/logos/skymouse-logo.svg">
+							</a>
+
+							<a id="footerPhone" href="tel:-317-643-1795">(317) 643-1795</a>
+						</div>
+						
 						{% for item in site.data.menus.footer %}
 							<div>
 								<h4>{{ item.title }}</h4>
@@ -34,5 +39,7 @@
 		
 		<!-- Custom Scripts -->
 		<script src="{{ site.url }}/library/js/scripts.js"></script>
+
+		<script src="{{ site.url }}/library/js/animations.js"></script>
 	</body>
 </html> <!-- end of site. -->
